@@ -297,3 +297,7 @@ Bir proje üzerinde uzun süre çalışılıp çok fazla değişiklik commit edi
 - https://bookdown.org/yihui/rmarkdown/markdown-syntax.html
 - https://learnxinyminutes.com/docs/markdown/
 - https://www.ibm.com/docs/en/SSYKAV?topic=train-how-do-use-markdown
+
+### Contributors
+- Özgür Tıpırdamaz
+- Ufuk Yetişkin
