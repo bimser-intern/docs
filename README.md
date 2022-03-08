@@ -79,10 +79,12 @@ Paragraflar, bir veya daha fazla boş satırla ayrılmış bir veya daha fazla b
 #### Lists
 
 Yıldız işaretleri, artılar veya kısa çizgiler kullanılarak sırasız listeler oluşturulabilir. Sırasız liste öğeleri , veya ile başlar * ve - alt + listeyi girintileyerek bir listeyi başka bir listenin içine yerleştirebilirsiniz, örn.
-
-`- List 1`<br>	
-`- List 2`<br>		
-`- List 3`<br>	
+```
+- List 1
+- List 2
+	- List 2.1
+- List 3
+```
 - List 1 	
 - List 2 
 	- List 2.1 
@@ -91,10 +93,11 @@ Yıldız işaretleri, artılar veya kısa çizgiler kullanılarak sırasız list
 
 
 Sıralı listeler bir sayı ve ardından bir nokta ile yapılır.
-
-`1. List 1` <br>	
-`2. List 2` <br>	
-`3. List 3` <br>	
+```
+1. List 1
+2. List 2	
+3. List 3
+```
 1. List 1
 2. List 2
 3. List 3
@@ -114,10 +117,11 @@ Resimler, bağlantılarla aynı şekilde yapılır, ancak önünde bir ünlem i�
 #### Quotation
 
 Blok alıntılar aşağıdakilerden sonra yazılır >, örn.
-
-`> Quote here.` <br>	
-`>` <br>	
-`> -- <cite>Benjamin Franklin</cite>` <br>	
+```
+> Quote here. 	
+>
+> -- <cite>Benjamin Franklin</cite>
+```	
 
 > Quote here.
 >
@@ -126,13 +130,13 @@ Blok alıntılar aşağıdakilerden sonra yazılır >, örn.
 
 
 #### Tables
-
-`|   | Fiyat   | Adet  |` <br>	
-`| --|:-------:| -----:|` <br>	
-`| A | 1000TL  | 1     |` <br>	
-`| B | 100TL   | 10    |` <br>	
-`| C | 1TL     | 1000  |` <br>	
-
+```
+|   | Fiyat   | Adet  |	
+| --|:-------:| -----:|
+| A | 1000TL  | 1     |	
+| B | 100TL   | 10    |	
+| C | 1TL     | 1000  |	
+```
 
 |   | Fiyat   | Adet  |
 | --|:-------:| -----:|
