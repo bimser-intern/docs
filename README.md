@@ -108,8 +108,11 @@ Sıralı listeler bir sayı ve ardından bir nokta ile yapılır.
 #### Images
 
 Resimler, bağlantılarla aynı şekilde yapılır, ancak önünde bir ünlem işareti bulunur!
+```
+![images](https://user-images.githubusercontent.com/73849259/156150747-ab8cccfd-c209-4773-b143-b1c6fd4536d7.png)`
+```
 
-`![images](https://user-images.githubusercontent.com/73849259/156150747-ab8cccfd-c209-4773-b143-b1c6fd4536d7.png)`
+![images](https://www.lordiz.com/resimler/lordiz/webp-image_zpsakyq03sw.png)
 
 
 
@@ -177,123 +180,219 @@ Grup çalışmasına olanak sağlaması ise diğer bir kullanılma sebebidir. Bi
 
 ## Temel Git Komutları
 
-1. **git config** 
+#### git config
 Bu komut ile kullanıcı adı ve e-posta adresi yapılandırılır ve sonraki tüm projelerde bu kullanıcı adı ve e-posta adresi kullanılır. 
-`git config --global user.name kullanici_adi`
-`git config --global user.email email@itu.edu.tr`
+> `git config --global user.name kullanici_adi`
+> `git config --global user.email email@itu.edu.tr`
 
 
 
 <br>
 
-2. **git init** 
+#### git init
 Bu komut kullanılarak bulunulan dizin boş bir git repository’si haline getirilir ve .git isimli bir dizin oluşturulur.
-`git init`
+> `git init`
+
 
 <br>
 
-3. **git clone**
+#### git clone
 Bu komut var olan bir Git repository’sinin kopyalanması için kullanılır. Git clone komutu ile öncelikle yerel bir repository işaret edilerek bu repository’nin bir kopyası, yeni bir dizine kopyalanır. Orijinal repository lokalde olabileceği gibi uzak bir cihazda yer alıyor da olabilir.
-`git clone URL`
+> `git clone URL`
 
 
 <br>
 
-4. **git add**
+#### git add 
 Bu komut kullanılarak işaret edilen dosya veya tüm proje, çalışılan dizine eklenir. 
-`git idd`
+> `git add`
 
 <br>
 
-5. **git commit**
+#### git commit 
 Bu komut kullanılarak çalışılan dizinde bulunan dosyalar paketlenerek .git klasörü içindeki head isimli kısıma eklenir. Daha sonra gelen pencerede bir commit mesajı girilir.
-`git commit` 
+git commit 
+
+>`git commit`
 
 <br>
 
 
-6. **git status**
+#### git status 
 Bu komut kullanılarak üzerinde çalışılan Repository’nin o anki durumu görüntülenir. Üzerinde değişiklik yapılan dosyalar, yeni eklenmiş dosyalar ve commit komutu uygulanmamış dosyalar konsol üzerinde listelenir.
-`git status`
+>`git status`
 
 <br>
 
 
-7. **git checkout –b**
+#### git checkout –b
 Bu komut kullanılarak yeni bir branch oluşturulur ve o branch üzerine geçilir.
-`git checkout -b yeni_branch`
+>`git checkout -b yeni_branch`
 
 <br>
 
 
-8. **git checkout**
+#### git checkout
 Bu komut kullanılarak üzerinde çalışılan branch’dan bir başka branch’a geçilir.
-`git checkout`
+>`git checkout`
 
 <br>
 
 
-9. **git branch**
+#### git branch
 Bu komut kullanılarak repository’deki tüm branch’lar listelenir ve üzerinde olunan branch görüntülenir.
-`git branch`
+>`git branch`
 
 <br>
 
 
-10.  **git branch –d**
+#### git branch –d
 Bu komut kullanılarak işaret edilen branch silinir.
+
 `git branch -d diger_branch`
 
 <br>
 
 
-11.  **git pull**
+#### git pull
 Bu komut kullanılarak uzak bir repository’deki değişiklikler üzerinde çalışılan dizine getirilir ve bu dizin ile birleştirilir.
-`git pull` 
+
+>`git pull` 
 
 <br>
 
 
-12. **git merge**
+#### git merge
 Bu komut kullanılarak farklı bir branch, üzerinde çalışılan branch ile birleştirilir.
-`git merge diger_branch`
+
+>`git merge diger_branch`
 
 <br>
 
 
-13.  **git diff**
+#### git diff
 Bu komut temel dosya ile olan farklılıkları gösterir.Bu komut, git diff **<"kaynak branch">** **<"hedef branch">** şeklinde kulanıldığında işaret edilen iki branch arasındaki farklar görüntülenir.
-`git diff` 
+
+>`git diff` 
 
 <br>
 
 
 
-14. **git log**
+#### git log
 Bu komut kullanılarak proje üzerindeki kayıt geçmişi en son kayıt en üstte olacak şekilde ters kronolojik sıra ile görüntülenir. Her kayıt, o kaydı alan kişinin adı, adresi, kayıt tarihi ve kayıt mesajı ile birlikte görüntülenir.
-`git log` 
+
+> `git log` 
 
 <br>
 
-15. **git log --oneline**
+#### git log --oneline
 Bu komut kullanılarak sadece commit ID’lerinin ilk 7 karakteri ve hemen yanında commit mesajı olacak şekilde kayıt geçmişi daha temiz bir şekilde görüntülenir ve proje üzerinde yapılmış değişiklikler hakkında daha kolay bilgi edinilir.
-`git log --oneline`
+
+> `git log --oneline`
 
 <br>
 
 
-16. **git rebase -i**
+#### git rebase -i
 Bir proje üzerinde uzun süre çalışılıp çok fazla değişiklik commit edildiğinde commit tarihçesi çok uzun ve karmaşık görünür. Oysa ki yapılan değişiklikler tek commit mesajı ile de açıklanabilir ve böylece projeyi inceleyen kişiler proje üzerinde yapılan değişiklikleri kısa ve öz biçimde görebilirler. Bir proje üzerinde alınan birden fazla commit, git log komutu ile görüntülenmek istendiğinde kayıt alan kişilerin ismi, adresi, kayıt tarihi ve commit mesajı ile birlikte aşağıdaki gibi görünecektir.  Tüm bu değişiklikleri tek bir commit mesajı ile belirtmek ve kayıt tarihçesini daha anlaşılır kılmak için git rebase -i HEAD komutu ile işleme başlanır. Bu komutta HEAD kelimesi branch’in en uç noktasını temsil eder ve onun yanına eklenecek sayı ile kaç commit kadar geriye gidileceği belirtilir.
-`git rebase -i` 
+
+> `git rebase -i` 
 
 <br>
 <br>
 
+### Branch ve Commit Mesaj Formatı
+<br>
 
-#### References
+#### Commit Mesajı
+
+Pull request yapmak istediğimiz projenin dosyasında oluşturduğumuz commit mesajı ekip için çok önem arzeder. Commit mesajına bakarak yapılmış değişikliğin büyüklüğü ve ne tarz bir değişiklik olduğunu anlarız.
+
+
+>`[feature/bugfix/hotfix] - [Work Item No] - [semver:major/minor/patch] - commit mesajı`
+
+
+Bu format bizim commit mesajlarımız için örnek alabileceğimiz bir prototip olarak görebiliriz. 
+
+
+**semver:major** 
+Yapılan değişiklik bağımlılıklardan birisiyle çalışmayı etkiliyorsa majör versiyon artırılmalıdır. 
+Örneğin; endpoint lere gönderilen parametrelerin değiştirilmesi veya clientdan save methodunda textbox ın değeri önceden “value” propertysinde gönderiliyorken artık “text” propertysinde gönderilmeye başlandıysa majör versiyon artırılmalıdır.
+>`1.2.3 -> 2.0.0 `
+
+**semver:minor**
+Yeni eklenen özellikler minör versiyon artırılmasını gerektirir.
+Örneğin; dashboarda eklenen dijital saat widgetı veya serverdaki yeni endpointden çekilen hava durumu widgetı minör versiyon artırmalıdır.
+>`1.2.3 -> 1.3.0`
+
+**semver:patch** 
+Yapılan hata düzeltmeleri patch versiyon artırılmasını gerektirir.
+Örneğin; dashboarddaki dijital saat 1dk geriden gelme sorunu düzeltildiyse patch versiyon artırılmalıdır.
+>`1.2.3 -> 1.2.4`
+
+**Örnek Commit Mesajı Oluşturma**
+
+>`[feature] - [6] - [semver:minor] - Doküman içeriğinde düzenlemeler yapıldı.`
+
+
+
+#### Branch Mesajı Oluşturma
+
+Oluşturulmuş branchin ismi yapılan güncellemeye göre verilir. Örneğin yukarıda örnek bir commit mesajı paylaşıldı. Bu örnek commit mesajı baz alarak bu şekilde branch oluşturulabilir.
+
+> `feature/6`
+
+
+<br>
+<br>
+<br>
+
+
+### Uzaktaki Repositoreis'e Pull Request Yapmak
+
+Github hesabınız yoksa [Buraya](https://github.com/signup) tıklayarak kendi Github hesabınızı oluşturun.
+
+Öncelikle katkıda bulunacağımız repositoriesin bulunduğu kaynağa gidiyoruz. Sağ üst tarafta bulunan Fork butonuna tıklayarak repositoreisin bizim kendi hesabımımızda da gözükmesini sağlıyoruz.  
+
+![fork](https://r.resimlink.com/JhUE2BNt4TlF.png)
+
+Kendi sayfamızda resimde görüldüğü gibi görülecektir. Eğer bu şekilde gözükmüyorsa eksik giden bir şey vardır ve bunu araştırarak hem kendiniz öğrenebilir hem de dokümana ekleyip katkıda bulunabilirsiniz.
+
+![repo](https://r.resimlink.com/m9SxjQNhlO.png)
+
+Kendi sayfamızda oluşmuş olan repositoriesin içine girip repositoriesi clone'larız. Bu şekilde bilgisayarımıza indirdiğimiz doküman üzerinde rahatça değişiklikler yapabiliriz. Clonelamak için HTTPS üzerinden bizimle paylaşılan URL'yi kopyalıyoruz.
+
+![clone](https://r.resimlink.com/oNIGZ3SOj.png)
+
+
+Bilgisayarımızda boş bir klasir oluşturuyoruz. Daha sonra **Windows Terminalini** açıyoruz. Oluşturduğumuz boş klasörün içerisine **cd klasor.adi** ile giriyoruz. Girdiğimiz boş dosyanın içerisine **git clone URL** komutlarını yazıyoruz. URL kısmına github repositoriesimizden aldığımız clone linkini yapıştırıyoruz. Oluşturduğumuz klasöre projemizi indiriyoruz. Daha sonra **cd .** ile projemizi test editörümüzde açıyoruz. Proje üstünd istediğimiz şekilde oynama yapabiliriz.
+
+İstediğimiz değişiklikleri ya da eklemeleri yaptıktan sonra **pull request** yapmak için tekrardan projemizi indirdiğimiz klasör üzerinden Windows Terminalini açıyoruz. Projemizdeki değişiklikleri kaydetmek ve daha sonra bir hata olduğunda tekrar geriye dönebilmek açısından **git checkout -b branch_ismi** komutu ile ufuk-yetiskin adında bir branch oluştururuz. Eğer ekranınızda *Switched to a new branc 'branch_ismi'* görüyorsanız doğru yoldasınız demektir. Aksi takdirde yeni bir araştırma için kolları sıvamanız gerekecektir. Branchleri listelemek için **git branch** komutunu kullabilirsiniz. Projemizde değişiklik yaptığımız dosyayı kaydetmek için **git add dosyaadı** (örneğin Readme.md) komutunu kullanırız. **git commit -m "Projeye Fonksiyon Eklendi"** komutu ile commit ekleriz. ** git status ** ile projemizde değişmiş ve kaydedilmemiş dosyaları ve kaydedilmiş dosya sayısını görebiliriz. Yaptığımız değişiklikleri kendi repositoriesimize göndermek için **git push origin branc_ismi** komutunu kullanırız. 
+
+Gönderdiğimiz dosyanının güncel halini repomuzda görmek için kendi repositoriesimize giriyoruz ve sol tarafta master olarak seçilmiş olan branch yerine  oluşturmuş olduğumuz branchi seçtiğimizde proje üstünde yaptığımız değişikliklerin kaydolduğunu görmüş oluruz. 
+
+![repo](https://r.resimlink.com/UZRO9.png)
+
+Daha sonraki adımda *pull request* yapmak için üst taraftaki metin çuğunda bulunan *Pull Request* başlığına tıklıyoruz ve hemen açılan sayfada *New Pull Request* butonuna tıklıyoruz.
+
+![newrepo](https://r.resimlink.com/rT2Yv64HgIAf.png)
+
+Açılan sayfada öncelikle pull request yapmak istediğimiz branchi seçeriz ve ardından *creat pull request* butonuna tıklarız. Ardından açılacak sayfada istediğimiz şekilde değişiklikleri yaparak gönderebiliriz.
+
+![pull](https://r.resimlink.com/C4gqv9t.png)
+
+
+
+### References
 - https://bidb.itu.edu.tr/seyir-defteri/blog/2019/02/13/git
 - https://git-scm.com/book/tr/v2/Ba%C5%9Flang%C4%B1%C3%A7-Versiyon-Kontrol
 - https://www.hasantezcan.dev/blog/versiyon-kontrol-sistemi-git.html
 - https://bookdown.org/yihui/rmarkdown/markdown-syntax.html
 - https://learnxinyminutes.com/docs/markdown/
 - https://www.ibm.com/docs/en/SSYKAV?topic=train-how-do-use-markdown
+
+### Contributors
+
+- Ufuk Yetişkin
+
