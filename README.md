@@ -376,11 +376,13 @@ Gönderdiğimiz dosyanının güncel halini repomuzda görmek için kendi reposi
 
 Daha sonraki adımda *pull request* yapmak için üst taraftaki metin çuğunda bulunan *Pull Request* başlığına tıklıyoruz ve hemen açılan sayfada *New Pull Request* butonuna tıklıyoruz.
 
-![newrepo](https://r.resimlink.com/rT2Yv64HgIAf.png)
+
+![pic5](https://user-images.githubusercontent.com/73849259/157394663-ac170104-b9b3-4e31-87d0-675d7e4e9483.png)
 
 Açılan sayfada öncelikle pull request yapmak istediğimiz branchi seçeriz ve ardından *creat pull request* butonuna tıklarız. Ardından açılacak sayfada istediğimiz şekilde değişiklikleri yaparak gönderebiliriz.
 
-![pull](https://r.resimlink.com/C4gqv9t.png)
+![pic6](https://user-images.githubusercontent.com/73849259/157394608-cc35ea73-070f-4439-abde-fc23ee987875.png)
+
 
 
 
