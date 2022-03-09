@@ -349,42 +349,29 @@ Oluşturulmuş branchin ismi yapılan güncellemeye göre verilir. Örneğin yuk
 <br>
 
 
-### Uzaktaki Repositoreis'e Pull Request Yapmak
+### Uzaktaki Repositoreis'e Pull Requests Yapmak
 
 Github hesabınız yoksa [Buraya](https://github.com/signup) tıklayarak kendi Github hesabınızı oluşturun.
 
-Öncelikle katkıda bulunacağımız repositoriesin bulunduğu kaynağa gidiyoruz. Sağ üst tarafta bulunan Fork butonuna tıklayarak repositoreisin bizim kendi hesabımımızda da gözükmesini sağlıyoruz.  
-
-![pic1](https://user-images.githubusercontent.com/73849259/157395579-4bc21ae2-2831-42c3-87cb-6cfcc1a86ebb.png)
+Öncelikle katkıda bulunacağımız repositoriesin bulunduğu kaynağa gidiyoruz. Hangi branch üstünde çalışmak istiyorsak o branchi seçip daha sonra code butonuna basıyoruz ve orada bulunan URL'yi kopyalıyoruz.   
 
 
-Kendi sayfamızda resimde görüldüğü gibi görülecektir. Eğer bu şekilde gözükmüyorsa eksik giden bir şey vardır ve bunu araştırarak hem kendiniz öğrenebilir hem de dokümana ekleyip katkıda bulunabilirsiniz.
+Bilgisayarımızda boş bir klasör oluşturuyoruz. Daha sonra **Windows Terminalini** açıyoruz. Oluşturduğumuz boş klasörün içerisine **cd klasor.adi** ile giriyoruz. Girdiğimiz boş dosyanın içerisine **git clone URL** komutlarını yazıyoruz. URL kısmına github repositoriesimizden aldığımız clone linkini yapıştırıyoruz. Oluşturduğumuz klasöre projemizi indiriyoruz. Daha sonra **cd .** ile projemizi test editörümüzde açıyoruz. Proje üstünd istediğimiz şekilde oynama yapabiliriz.
 
-![pic2](https://user-images.githubusercontent.com/73849259/157395348-69584640-4208-44b4-9511-62500021aef3.png)
+Kod editörü üzerinde sol alt tarafta gördüğümüz gibi branch ismi yazmaktadır. Bu branch ismine tıklıyoruz ve yeni açılan pencerede **Create new branch** yazısını seçerek kendi branchimizi oluştururuz. Branch ismi nasıl verileceği hakkındaki yazımız yukarıda bulunmaktadır. 
 
+Yapmış olduğumuz değişikliklerden sonra  aşağıdaki adımları izleyerek yapılan değişiklikleri push ile göndeririz.
 
-Kendi sayfamızda oluşmuş olan repositoriesin içine girip repositoriesi clone'larız. Bu şekilde bilgisayarımıza indirdiğimiz doküman üzerinde rahatça değişiklikler yapabiliriz. Clonelamak için HTTPS üzerinden bizimle paylaşılan URL'yi kopyalıyoruz.
+1. Source Control'e tıklayarak üstünde değişiklik yaptığımız dosyaları görürüz.
 
-![pic3](https://user-images.githubusercontent.com/73849259/157395305-97028934-11a5-4c50-8de3-8a96ec5c940e.png)
+2. Yukarıda belirttiğimiz formata uygun commit mesajı oluştururuz ve *Enter* tuşu ile göndeririz.
+3. **tik** işareti ile değişmiş olan dosyaları kaydeder ve commit ederiz.
+4. **push** ile yapılan değişiklikleri göndeririz.  
 
-
-
-Bilgisayarımızda boş bir klasir oluşturuyoruz. Daha sonra **Windows Terminalini** açıyoruz. Oluşturduğumuz boş klasörün içerisine **cd klasor.adi** ile giriyoruz. Girdiğimiz boş dosyanın içerisine **git clone URL** komutlarını yazıyoruz. URL kısmına github repositoriesimizden aldığımız clone linkini yapıştırıyoruz. Oluşturduğumuz klasöre projemizi indiriyoruz. Daha sonra **cd .** ile projemizi test editörümüzde açıyoruz. Proje üstünd istediğimiz şekilde oynama yapabiliriz.
-
-İstediğimiz değişiklikleri ya da eklemeleri yaptıktan sonra **pull request** yapmak için tekrardan projemizi indirdiğimiz klasör üzerinden Windows Terminalini açıyoruz. Projemizdeki değişiklikleri kaydetmek ve daha sonra bir hata olduğunda tekrar geriye dönebilmek açısından **git checkout -b branch_ismi** komutu ile ufuk-yetiskin adında bir branch oluştururuz. Eğer ekranınızda *Switched to a new branc 'branch_ismi'* görüyorsanız doğru yoldasınız demektir. Aksi takdirde yeni bir araştırma için kolları sıvamanız gerekecektir. Branchleri listelemek için **git branch** komutunu kullabilirsiniz. Projemizde değişiklik yaptığımız dosyayı kaydetmek için **git add dosyaadı** (örneğin Readme.md) komutunu kullanırız. **git commit -m "Projeye Fonksiyon Eklendi"** komutu ile commit ekleriz. ** git status ** ile projemizde değişmiş ve kaydedilmemiş dosyaları ve kaydedilmiş dosya sayısını görebiliriz. Yaptığımız değişiklikleri kendi repositoriesimize göndermek için **git push origin branc_ismi** komutunu kullanırız. 
-
-Gönderdiğimiz dosyanının güncel halini repomuzda görmek için kendi repositoriesimize giriyoruz ve sol tarafta master olarak seçilmiş olan branch yerine  oluşturmuş olduğumuz branchi seçtiğimizde proje üstünde yaptığımız değişikliklerin kaydolduğunu görmüş oluruz. 
+ 
 
 
-![pic4](https://user-images.githubusercontent.com/73849259/157395053-59f5ff2a-c038-4085-a5d5-caa4fe9e57aa.png)
 
-Daha sonraki adımda *pull request* yapmak için üst taraftaki metin çuğunda bulunan *Pull Request* başlığına tıklıyoruz ve hemen açılan sayfada *New Pull Request* butonuna tıklıyoruz.
-
-![pic5](https://user-images.githubusercontent.com/73849259/157394663-ac170104-b9b3-4e31-87d0-675d7e4e9483.png)
-
-Açılan sayfada öncelikle pull request yapmak istediğimiz branchi seçeriz ve ardından *creat pull request* butonuna tıklarız. Ardından açılacak sayfada istediğimiz şekilde değişiklikleri yaparak gönderebiliriz.
-
-![pic6](https://user-images.githubusercontent.com/73849259/157394608-cc35ea73-070f-4439-abde-fc23ee987875.png)
 
 
 
