@@ -355,15 +355,18 @@ Github hesabınız yoksa [Buraya](https://github.com/signup) tıklayarak kendi G
 
 Öncelikle katkıda bulunacağımız repositoriesin bulunduğu kaynağa gidiyoruz. Sağ üst tarafta bulunan Fork butonuna tıklayarak repositoreisin bizim kendi hesabımımızda da gözükmesini sağlıyoruz.  
 
-![fork](https://r.resimlink.com/JhUE2BNt4TlF.png)
+![pic1](https://user-images.githubusercontent.com/73849259/157395579-4bc21ae2-2831-42c3-87cb-6cfcc1a86ebb.png)
+
 
 Kendi sayfamızda resimde görüldüğü gibi görülecektir. Eğer bu şekilde gözükmüyorsa eksik giden bir şey vardır ve bunu araştırarak hem kendiniz öğrenebilir hem de dokümana ekleyip katkıda bulunabilirsiniz.
 
-![repo](https://r.resimlink.com/m9SxjQNhlO.png)
+![pic2](https://user-images.githubusercontent.com/73849259/157395348-69584640-4208-44b4-9511-62500021aef3.png)
+
 
 Kendi sayfamızda oluşmuş olan repositoriesin içine girip repositoriesi clone'larız. Bu şekilde bilgisayarımıza indirdiğimiz doküman üzerinde rahatça değişiklikler yapabiliriz. Clonelamak için HTTPS üzerinden bizimle paylaşılan URL'yi kopyalıyoruz.
 
-![clone](https://r.resimlink.com/oNIGZ3SOj.png)
+![pic3](https://user-images.githubusercontent.com/73849259/157395305-97028934-11a5-4c50-8de3-8a96ec5c940e.png)
+
 
 
 Bilgisayarımızda boş bir klasir oluşturuyoruz. Daha sonra **Windows Terminalini** açıyoruz. Oluşturduğumuz boş klasörün içerisine **cd klasor.adi** ile giriyoruz. Girdiğimiz boş dosyanın içerisine **git clone URL** komutlarını yazıyoruz. URL kısmına github repositoriesimizden aldığımız clone linkini yapıştırıyoruz. Oluşturduğumuz klasöre projemizi indiriyoruz. Daha sonra **cd .** ile projemizi test editörümüzde açıyoruz. Proje üstünd istediğimiz şekilde oynama yapabiliriz.
@@ -372,10 +375,10 @@ Bilgisayarımızda boş bir klasir oluşturuyoruz. Daha sonra **Windows Terminal
 
 Gönderdiğimiz dosyanının güncel halini repomuzda görmek için kendi repositoriesimize giriyoruz ve sol tarafta master olarak seçilmiş olan branch yerine  oluşturmuş olduğumuz branchi seçtiğimizde proje üstünde yaptığımız değişikliklerin kaydolduğunu görmüş oluruz. 
 
-![repo](https://r.resimlink.com/UZRO9.png)
+
+![pic4](https://user-images.githubusercontent.com/73849259/157395053-59f5ff2a-c038-4085-a5d5-caa4fe9e57aa.png)
 
 Daha sonraki adımda *pull request* yapmak için üst taraftaki metin çuğunda bulunan *Pull Request* başlığına tıklıyoruz ve hemen açılan sayfada *New Pull Request* butonuna tıklıyoruz.
-
 
 ![pic5](https://user-images.githubusercontent.com/73849259/157394663-ac170104-b9b3-4e31-87d0-675d7e4e9483.png)
 
