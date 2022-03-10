@@ -353,23 +353,27 @@ Oluşturulmuş branchin ismi yapılan güncellemeye göre verilir. Örneğin yuk
 
 Github hesabınız yoksa [Buraya](https://github.com/signup) tıklayarak kendi Github hesabınızı oluşturun.
 
-Öncelikle katkıda bulunacağımız repositoriesin bulunduğu kaynağa gidiyoruz. Hangi branch üstünde çalışmak istiyorsak o branchi seçip daha sonra code butonuna basıyoruz ve orada bulunan URL'yi kopyalıyoruz.   
+Öncelikle katkıda bulunacağımız repositoriesin bulunduğu kaynağa gidiyoruz. Hangi branch üstünde çalışmak istiyorsak o branchi seçip daha sonra code butonuna basıyoruz ve orada bulunan URL'yi kopyalıyoruz. 
+
+![Adsız1](https://user-images.githubusercontent.com/73849259/157441787-f1923ecd-11f9-4ec6-b918-8e8ee4e8ef45.png)
 
 
 Bilgisayarımızda boş bir klasör oluşturuyoruz. Daha sonra **Windows Terminalini** açıyoruz. Oluşturduğumuz boş klasörün içerisine **cd klasor.adi** ile giriyoruz. Girdiğimiz boş dosyanın içerisine **git clone URL** komutlarını yazıyoruz. URL kısmına github repositoriesimizden aldığımız clone linkini yapıştırıyoruz. Oluşturduğumuz klasöre projemizi indiriyoruz. Daha sonra **cd .** ile projemizi test editörümüzde açıyoruz. Proje üstünde istediğimiz şekilde oynama yapabiliriz.
 
+![Adsız2](https://user-images.githubusercontent.com/73849259/157441852-0c505b0c-6d9c-4216-8443-ccdf6f2f3e9b.png)
+
 Kod editörü üzerinde sol alt tarafta gördüğümüz gibi branch ismi yazmaktadır. Bu branch ismine tıklıyoruz ve yeni açılan pencerede **Create new branch** yazısını seçerek kendi branchimizi oluştururuz. Branch ismi nasıl verileceği hakkındaki yazımız yukarıda bulunmaktadır. 
+
+![Adsız3](https://user-images.githubusercontent.com/73849259/157441898-3e3afd29-4850-4dcc-b78b-6df6a4fa8436.png)
 
 Yapmış olduğumuz değişikliklerden sonra  aşağıdaki adımları izleyerek yapılan değişiklikleri push ile göndeririz.
 
 1. Source Control'e tıklayarak üstünde değişiklik yaptığımız dosyaları görürüz.
-
 2. Yukarıda belirttiğimiz formata uygun commit mesajı oluştururuz ve *Enter* tuşu ile göndeririz.
 3. **tik** işareti ile değişmiş olan dosyaları kaydeder ve commit ederiz.
 4. **push** ile yapılan değişiklikleri göndeririz.  
 
- 
-
+![push](https://user-images.githubusercontent.com/73849259/157441957-1ad14355-415a-4d05-aad8-1874ee47b997.png)
 
 
 
