@@ -3,6 +3,10 @@
 ```
 <img src="otomobiller/bmw.jpg"/>
 <img src="../../otomobiller/bmw.jpg"/>
+
+Örneğin, 1.jpg dosyamız img isimli klasör içinde olsun. img resim klasörümüzle html dosyamız aynı dizin içindeyse ;
+
+<img src="img/1.jpg" alt="resme alternatif yazı">
 ```
 
 ###### 08.03.2022 Ufuk Yetişkin

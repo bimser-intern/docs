@@ -1,3 +1,4 @@
+
 # Markdown Nedir?
 
 Günümüzde dijital ortamlarda makale, blog yazısı gibi metin diagramları oluştururken, metnin akışına uygun olarak başlık, liste ve tablo gibi görsel biçimler kullanırız. Günümüzde bu tarz içerikleri üretirken *HTML(Hyper Text Markup Language)* işaretleme dilini kullanırız. Fakat bir yazı için hem uğraştıcı olup hem de hataların oluşmasına neden olabilir. İşte bu zamanlarda işimizi kolaylaştıracak bir text to *HTML* yapısı ile dönüştürme aracı olan **Markdown** karşımıza çıkıyor.
@@ -7,9 +8,14 @@ John Gruber, Markdown dilini 2004 yılında Aaron Swartz ile sözdiziminde işbi
 	
 Markdown, düz-metin-biçimlendirme sözdizimine sahip hafif bir işaretleme dili. Tasarımı, birçok çıktı biçimine dönüştürülmesine izin verir, ancak aynı ada sahip orijinal araç yalnızca HTML'yi destekler. Markdown genellikle BENİOKU (README) dosyalarını biçimlendirmek, çevrimiçi tartışma forumlarına mesaj yazmak ve düz metin düzenleyicisi kullanarak zengin metin oluşturmak için kullanılır. Markdown’un ilk tanımı belirsizlikler ve cevaplanmamış sorular içerdiğinden, yıllar boyunca ortaya çıkan uygulamaların ince farklılıkları vardır ve çoğu sözdizimi, dosya uzantılarıyla birlikte gelir.
 
+
+
 ## Markdown Elements
 
-### Inline Examples 
+
+
+
+### Inline Elements 
 
 
 #### Italic Text
@@ -44,7 +50,7 @@ Autolinks <https://www.gooogle.com>
 
 
 
-### Block Elements
+###  Block Elements
 
 #### Headings
 (#) Bölüm başlarını (Heading; h1, h2, h3...h6) ifade eder ve adedi kadar heading'i tanımlar. 
@@ -146,6 +152,9 @@ Blok alıntılar aşağıdakilerden sonra yazılır >, örn.
 | A | 1000TL  | 1     |
 | B | 100TL   | 10    |
 | C | 1TL     | 1000  |
+<br>
+
+
 
 # Git Versiyon Kontrol Sistemi
 
@@ -177,6 +186,8 @@ Grup çalışmasına olanak sağlaması ise diğer bir kullanılma sebebidir. Bi
 İşte tam da burada devreye Dağıtık Versiyon Kontrol Sistemleri (DVKS) giriyor. Bir DVKS’de (Git, Mercurial, Bazaar ya da Darcs gibi) istemciler sadece dosyaların son anlık görünümünü denetlemezler, daha çok depoyu deponun tam tarihiyle birlikte yansıtırlar. Dolayısıyla eğer herhangi bir sunucu devre dışı kalırsa, birbiriyle o sunucu aracılığıyla iş birliği yapan sistemlerdeki herhangi bir istemci deposu sunucuyu yenilemek için geri yüklenebilir. Her klon, en nihayetinde tüm verilerin tam bir yedeğidir aslında.
 
 ![gitdagitik](https://user-images.githubusercontent.com/73849259/156150958-a2fd591b-b28b-4471-8203-256b9dff7f2e.png)
+
+
 
 ## Temel Git Komutları
 
@@ -302,6 +313,8 @@ Bir proje üzerinde uzun süre çalışılıp çok fazla değişiklik commit edi
 <br>
 <br>
 
+
+
 ### Branch ve Commit Mesaj Formatı
 <br>
 
@@ -349,6 +362,7 @@ Oluşturulmuş branchin ismi yapılan güncellemeye göre verilir. Örneğin yuk
 <br>
 
 
+
 ### Uzaktaki Repositories'e Pull Request Yapmak
 
 Github hesabınız yoksa [Buraya](https://github.com/signup) tıklayarak kendi Github hesabınızı oluşturun.
@@ -387,6 +401,8 @@ Yapmış olduğumuz değişikliklerden sonra  aşağıdaki adımları izleyerek 
 - https://bookdown.org/yihui/rmarkdown/markdown-syntax.html
 - https://learnxinyminutes.com/docs/markdown/
 - https://www.ibm.com/docs/en/SSYKAV?topic=train-how-do-use-markdown
+
+
 
 ### Contributors
 
