@@ -349,14 +349,14 @@ Oluşturulmuş branchin ismi yapılan güncellemeye göre verilir. Örneğin yuk
 <br>
 
 
-### Uzaktaki Repositoreis'e Pull Requests Yapmak
+### Uzaktaki Repositories'e Pull Request Yapmak
 
 Github hesabınız yoksa [Buraya](https://github.com/signup) tıklayarak kendi Github hesabınızı oluşturun.
 
 Öncelikle katkıda bulunacağımız repositoriesin bulunduğu kaynağa gidiyoruz. Hangi branch üstünde çalışmak istiyorsak o branchi seçip daha sonra code butonuna basıyoruz ve orada bulunan URL'yi kopyalıyoruz.   
 
 
-Bilgisayarımızda boş bir klasör oluşturuyoruz. Daha sonra **Windows Terminalini** açıyoruz. Oluşturduğumuz boş klasörün içerisine **cd klasor.adi** ile giriyoruz. Girdiğimiz boş dosyanın içerisine **git clone URL** komutlarını yazıyoruz. URL kısmına github repositoriesimizden aldığımız clone linkini yapıştırıyoruz. Oluşturduğumuz klasöre projemizi indiriyoruz. Daha sonra **cd .** ile projemizi test editörümüzde açıyoruz. Proje üstünd istediğimiz şekilde oynama yapabiliriz.
+Bilgisayarımızda boş bir klasör oluşturuyoruz. Daha sonra **Windows Terminalini** açıyoruz. Oluşturduğumuz boş klasörün içerisine **cd klasor.adi** ile giriyoruz. Girdiğimiz boş dosyanın içerisine **git clone URL** komutlarını yazıyoruz. URL kısmına github repositoriesimizden aldığımız clone linkini yapıştırıyoruz. Oluşturduğumuz klasöre projemizi indiriyoruz. Daha sonra **cd .** ile projemizi test editörümüzde açıyoruz. Proje üstünde istediğimiz şekilde oynama yapabiliriz.
 
 Kod editörü üzerinde sol alt tarafta gördüğümüz gibi branch ismi yazmaktadır. Bu branch ismine tıklıyoruz ve yeni açılan pencerede **Create new branch** yazısını seçerek kendi branchimizi oluştururuz. Branch ismi nasıl verileceği hakkındaki yazımız yukarıda bulunmaktadır. 
 
