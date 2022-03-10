@@ -1,3 +1,31 @@
+<h3 id="Giris"></h3>
+	
+### Giriş
+
+Bu proje stajyer arkadaşların kariyerlerinde uzun bir adım atmaları için oluşturulmuştur.
+
+
+
+
+
+[Giriş](Giris)
+1. [Markdown](#markdown-head)
+2. [Markdowns Elements](#markdown-elements)
+3. [Markdown Inline Elements](#markdown-inline-elements)
+4. [Markdown Block Elements](#markdown-block-elements)
+5. [Markdown Versiyon Kontrol Sistemi](#git-versiyon-kontrol)
+6. [Temel Git Komutları](#git-komutlari)
+7. [Branch ve Commit Mesaj Formatı](#branch-commit-format)
+8. [Uzaktaki Repositories'e Pull Request Yapmak](#pull-request)
+[Contributors](#contributors)
+
+
+
+
+
+
+
+<h3 id="markdown-head"></h3>
 
 # Markdown Nedir?
 
@@ -9,12 +37,12 @@ John Gruber, Markdown dilini 2004 yılında Aaron Swartz ile sözdiziminde işbi
 Markdown, düz-metin-biçimlendirme sözdizimine sahip hafif bir işaretleme dili. Tasarımı, birçok çıktı biçimine dönüştürülmesine izin verir, ancak aynı ada sahip orijinal araç yalnızca HTML'yi destekler. Markdown genellikle BENİOKU (README) dosyalarını biçimlendirmek, çevrimiçi tartışma forumlarına mesaj yazmak ve düz metin düzenleyicisi kullanarak zengin metin oluşturmak için kullanılır. Markdown’un ilk tanımı belirsizlikler ve cevaplanmamış sorular içerdiğinden, yıllar boyunca ortaya çıkan uygulamaların ince farklılıkları vardır ve çoğu sözdizimi, dosya uzantılarıyla birlikte gelir.
 
 
-
+<h3 id="markdown-elements"></h3>
 ## Markdown Elements
 
 
 
-
+<h3 id="markdown-inline-elements"></h3>
 ### Inline Elements 
 
 
@@ -49,6 +77,7 @@ Autolinks <https://www.gooogle.com>
 
 
 
+<h3 id="markdown-block-elements"></h3>
 
 ###  Block Elements
 
@@ -154,7 +183,7 @@ Blok alıntılar aşağıdakilerden sonra yazılır >, örn.
 | C | 1TL     | 1000  |
 <br>
 
-
+<h3 id="git-versiyon-kontrol"></h3>
 
 # Git Versiyon Kontrol Sistemi
 
@@ -188,6 +217,7 @@ Grup çalışmasına olanak sağlaması ise diğer bir kullanılma sebebidir. Bi
 ![gitdagitik](https://user-images.githubusercontent.com/73849259/156150958-a2fd591b-b28b-4471-8203-256b9dff7f2e.png)
 
 
+<h3 id="git-komutlari"></h3>
 
 ## Temel Git Komutları
 
@@ -313,7 +343,7 @@ Bir proje üzerinde uzun süre çalışılıp çok fazla değişiklik commit edi
 <br>
 <br>
 
-
+<h3 id="branch-commit-format"></h3>
 
 ### Branch ve Commit Mesaj Formatı
 <br>
@@ -361,7 +391,7 @@ Oluşturulmuş branchin ismi yapılan güncellemeye göre verilir. Örneğin yuk
 <br>
 <br>
 
-
+<h3 id="pull-request"></h3>
 
 ### Uzaktaki Repositories'e Pull Request Yapmak
 
@@ -403,6 +433,7 @@ Yapmış olduğumuz değişikliklerden sonra  aşağıdaki adımları izleyerek 
 - https://www.ibm.com/docs/en/SSYKAV?topic=train-how-do-use-markdown
 
 
+<h3 id="contributors"></h3>
 
 ### Contributors
 
