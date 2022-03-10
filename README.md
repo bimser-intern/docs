@@ -8,7 +8,7 @@ Bu proje stajyer arkadaşların kariyerlerinde uzun bir adım atmaları için ol
 
 
 
-[Giriş](Giris)
+-	[Giriş](Giris)
 1. [Markdown](#markdown-head)
 2. [Markdowns Elements](#markdown-elements)
 3. [Markdown Inline Elements](#markdown-inline-elements)
@@ -17,7 +17,8 @@ Bu proje stajyer arkadaşların kariyerlerinde uzun bir adım atmaları için ol
 6. [Temel Git Komutları](#git-komutlari)
 7. [Branch ve Commit Mesaj Formatı](#branch-commit-format)
 8. [Uzaktaki Repositories'e Pull Request Yapmak](#pull-request)
-[Contributors](#contributors)
+
+-	[Contributors](#contributors)
 
 
 
