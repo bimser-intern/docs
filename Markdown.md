@@ -158,18 +158,5 @@ Blok alıntılar aşağıdakilerden sonra yazılır >, örn.
 
 
 
-### References
-- https://bidb.itu.edu.tr/seyir-defteri/blog/2019/02/13/git
-- https://git-scm.com/book/tr/v2/Ba%C5%9Flang%C4%B1%C3%A7-Versiyon-Kontrol
-- https://www.hasantezcan.dev/blog/versiyon-kontrol-sistemi-git.html
-- https://bookdown.org/yihui/rmarkdown/markdown-syntax.html
-- https://learnxinyminutes.com/docs/markdown/
-- https://www.ibm.com/docs/en/SSYKAV?topic=train-how-do-use-markdown
 
-
-<h3 id="contributors"></h3>
-
-### Contributors
-
-- Ufuk Yetişkin
 
