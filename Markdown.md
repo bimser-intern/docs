@@ -1,11 +1,10 @@
 
----
-##İçindekiler
+## İçindekiler
 
 1. [Markdown Nedir?](#markdown-head)
 2. [Markdown Elements](#markdown-elements)
-2.1.[Inline Elements](#markdown-inline-elements)
-2.2.[Block Elements](#markdown-block-elements) 
+   - [Inline Elements](#markdown-inline-elements)
+   - [Block Elements](#markdown-block-elements) 
 
 ---
 <br>
@@ -28,11 +27,12 @@ Markdown, düz-metin-biçimlendirme sözdizimine sahip hafif bir işaretleme dil
 
 
 <h3 id="markdown-elements"></h3>
+
 ## Markdown Elements
----
 
 
 <h3 id="markdown-inline-elements"></h3>
+
 ### Inline Elements 
 
 
