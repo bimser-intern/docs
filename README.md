@@ -8,25 +8,27 @@ Bu proje stajyer arkadaşların kariyerlerinde uzun bir adım atmaları için ol
 ---
 
 
-
 1. [Markdown](/Markdown.md#markdown-head)
-2. [Markdowns Elements](/Markdown.md#markdown-elements)
-3. [Markdown Inline Elements](/Markdown.md#markdown-inline-elements)
-4. [Markdown Block Elements](/Markdown.md#markdown-block-elements)
-5. [Git Versiyon Kontrol Sistemi](/Git-Versiyon-Kontrol.md#git-versiyon-kontrol)
-6. [Temel Git Komutları](/Git-Versiyon-Kontrol.md#git-komutlari)
-7. [Branch ve Commit Mesaj Formatı](/Git-Versiyon-Kontrol.md#branch-commit-format)
-8. [Uzaktaki Repositories'e Pull Request Yapmak](/Git-Versiyon-Kontrol.md#pull-request)
+
+2. [Git Versiyon Kontrol Sistemi](/Git-Versiyon-Kontrol.md#git-versiyon-kontrol)
+
 
 ## Projeye Katkıda Bulunmak
 ---
 
-Katkıda bulunma kuralları ve izlenmesi gereken adımlar
+Bu proje Bimser ekibi tarafından gelecekte bünyesine katılacak genç yeteneklerin yazılım alanına nasıl başlayacaklarına dair bir fikir oluşması için oluşturulmuştur. Projeye katkıda bulunmak istiyorsanız öncelikle projenin daha önce yazılım alanında deneyim sahibi olmamış bireylere yönelik olduğunu unutmamak ve buna yönelik içerikler üretilmelidir. 
+
+Ekleyeceğiniz içerik, projeden yararlanan kişi veya kişilerin konu hakkındaki deneyimlerinin sıfır olduğunu varsayarak oluşuturulmalıdır. Okuyucunun projeyi okuduktan sonra belirli bir düzeyde fikir sahibi olması beklenmektedir. 
+
+Projenin başarılı ve güzel bir şekilde ilerlemesi için oluşturulmuş dokümanın önceden incelenmesi ve dokümanın yapısını bozmadan eklemeler yapılması beklenmektedir.
+
+
 
 ## İletişim
 ---
 
-İletişim araçlarımız
+**Discord Kanalımız**
+https://discord.gg/jrqxfDG8
 
 ## Katkıda Bulunanlar
 ---

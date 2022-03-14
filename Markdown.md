@@ -1,6 +1,23 @@
+
+---
+##İçindekiler
+
+1. [Markdown Nedir?](#markdown-head)
+2. [Markdown Elements](#markdown-elements)
+2.1.[Inline Elements](#markdown-inline-elements)
+2.2.[Block Elements](#markdown-block-elements) 
+
+---
+<br>
+<br>
+<br>
+
+
 <h3 id="markdown-head"></h3>
 
 # Markdown Nedir?
+
+----
 
 Günümüzde dijital ortamlarda makale, blog yazısı gibi metin diagramları oluştururken, metnin akışına uygun olarak başlık, liste ve tablo gibi görsel biçimler kullanırız. Günümüzde bu tarz içerikleri üretirken *HTML(Hyper Text Markup Language)* işaretleme dilini kullanırız. Fakat bir yazı için hem uğraştıcı olup hem de hataların oluşmasına neden olabilir. İşte bu zamanlarda işimizi kolaylaştıracak bir text to *HTML* yapısı ile dönüştürme aracı olan **Markdown** karşımıza çıkıyor.
 
@@ -12,7 +29,7 @@ Markdown, düz-metin-biçimlendirme sözdizimine sahip hafif bir işaretleme dil
 
 <h3 id="markdown-elements"></h3>
 ## Markdown Elements
-
+---
 
 
 <h3 id="markdown-inline-elements"></h3>
