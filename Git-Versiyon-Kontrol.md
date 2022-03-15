@@ -45,7 +45,7 @@ Grup çalışmasına olanak sağlaması ise diğer bir kullanılma sebebidir. Bi
 
 ![gitdagitik](https://user-images.githubusercontent.com/73849259/156150958-a2fd591b-b28b-4471-8203-256b9dff7f2e.png)
 
-
+ 
 <h3 id="git-komutlari"></h3>
 
 ## Temel Git Komutları
