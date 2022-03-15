@@ -15,17 +15,21 @@ Eğitimim süresince çeşitli stajlar yapma fırsatı buldum. **Brisa**'da insa
 
 **08.03.2022**
 
-- Markdown hakkında başlangıç seviyesinde Türkçe doküman oluşturuldu.[Dokümana buradan ulaşabilirsiniz.](https://github.com/bimser-intern/docs/blob/master/Markdown.md)
-- Git Versiyon Kontrol Sistemi hakkında doküman oluşturuldu.[Dokümana buradan ulaşabilirsiniz.](https://github.com/bimser-intern/docs/blob/master/Git-Versiyon-Kontrol.md)
+- Markdown hakkında başlangıç seviyesinde Türkçe doküman oluşturuldu.[Dokümana buradan ulaşabilirsiniz.](https://bidb.itu.edu.tr/seyir-defteri/blog/2019/02/13/git)
+- Git Versiyon Kontrol Sistemi hakkında doküman oluşturuldu.[Dokümana buradan ulaşabilirsiniz.](https://bidb.itu.edu.tr/seyir-defteri/blog/2019/02/13/git)
 
 **09.03.2022**
-- Github hakkında bilgilendirici bir yazı yazıldı.[Yazıya buradan ulaşabilirsiniz.](https://github.com/bimser-intern/docs/blob/master/Markdown.md)
+- Github hakkında bilgilendirici bir yazı yazıldı.[Yazıya buradan ulaşabilirsiniz.](https://bidb.itu.edu.tr/seyir-defteri/blog/2019/02/13/git)
 
 
 **10.03.2022**
 
-- Pull Requests nasıl yapılır ve yapılmalı hakkında yazı yazıldı. [Yazıya buradan ulaşabilirsiniz.](https://github.com/bimser-intern/docs/blob/master/Markdown.md)
+- Pull Requests nasıl yapılır ve yapılmalı hakkında yazı yazıldı. [Yazıya buradan ulaşabilirsiniz.](https://bidb.itu.edu.tr/seyir-defteri/blog/2019/02/13/git)
 
 **11.03.2022**
 
-- Branch ve Commit mesaj formatı hakkında bilgi verildi. [Yazıya buradan ulaşabilirsiniz.](https://github.com/bimser-intern/docs/blob/master/Markdown.md)
+- Branch ve Commit mesaj formatı hakkında bilgi verildi. [Yazıya buradan ulaşabilirsiniz.](https://bidb.itu.edu.tr/seyir-defteri/blog/2019/02/13/git)
+
+**14.03.2022**
+
+- Günlük görevlendirmelerde düzeltilmesi gereken [bug](https://github.com/bimser-intern/docs/issues/19) düzeltildi. Çözümlenmiş PR'a [buradan](https://github.com/bimser-intern/docs/pull/17) ulaşabilirsiniz.
