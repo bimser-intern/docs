@@ -2,6 +2,8 @@
 
 
 
+
+
 Bu proje Bimser ekibi tarafından gelecekte bünyesine katılacak genç yeteneklerin yazılım alanına nasıl başlayacaklarına dair bir fikir oluşması için oluşturulmuştur. Projeye katkıda bulunmak istiyorsanız öncelikle projenin daha önce yazılım alanında deneyim sahibi olmamış bireylere yönelik olduğunu unutmamak ve buna yönelik içerikler üretilmelidir. 
 
 Ekleyeceğiniz içerik, projeden yararlanan kişi veya kişilerin konu hakkındaki deneyimlerinin sıfır olduğunu varsayarak oluşturulmalıdır. Okuyucunun projeyi okuduktan sonra belirli bir düzeyde fikir sahibi olması beklenmektedir. 
