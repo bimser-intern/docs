@@ -395,13 +395,18 @@ Yapmış olduğumuz değişikliklerden sonra  aşağıdaki adımları izleyerek 
 
 
 ### References
-- https://bidb.itu.edu.tr/seyir-defteri/blog/2019/02/13/git
-- https://git-scm.com/book/tr/v2/Ba%C5%9Flang%C4%B1%C3%A7-Versiyon-Kontrol
-- https://www.hasantezcan.dev/blog/versiyon-kontrol-sistemi-git.html
-- https://bookdown.org/yihui/rmarkdown/markdown-syntax.html
-- https://learnxinyminutes.com/docs/markdown/
-- https://www.ibm.com/docs/en/SSYKAV?topic=train-how-do-use-markdown
+- [Git Kontrol Versiyonu komutları için kaynak](https://bidb.itu.edu.tr/seyir-defteri/blog/2019/02/13/git)
+- [Merkezi, Yerel ve Dağıtık Sistemler](https://git-scm.com/book/tr/v2/Ba%C5%9Flang%C4%B1%C3%A7-Versiyon-Kontrol)
+- [Git Nedir?](https://www.hasantezcan.dev/blog/versiyon-kontrol-sistemi-git.html)
+- [Markdown Syntax](https://bookdown.org/yihui/rmarkdown/markdown-syntax.html)
+- [Markdown Nedir?](https://learnxinyminutes.com/docs/markdown/)
+- [How do I use Markdown?](https://www.ibm.com/docs/en/SSYKAV?topic=train-how-do-use-markdown)
 
+
+### oluşuturulmuş Dokümanlar
+
+- [Markdown](https://github.com/bimser-intern/docs/blob/master/Markdown.md)
+- [Git Versiyon Kontrol Sistemi](https://github.com/bimser-intern/docs/blob/master/Git-Versiyon-Kontrol.md)
 
 
 ### Contributors
