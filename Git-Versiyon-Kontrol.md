@@ -245,6 +245,58 @@ Yapmış olduğumuz değişikliklerden sonra  aşağıdaki adımları izleyerek 
 ![push](https://user-images.githubusercontent.com/73849259/157441957-1ad14355-415a-4d05-aad8-1874ee47b997.png)
 
 
+<h3 id="rebase-conflict"></h3>
+
+### Rebase ve Conflict Nedir?
+
+#### Rebase 
+
+Git’de merge ve rebase komutları benzer işlevleri yerine getirmek için kullanılıyor. Her iki komut da bir daldaki değişiklikleri başka bir dala birleştirmek için kullanılır. Ancak bu iki komut arasında proje tarihçesinin oluşturulması ile ilgili ciddi bir farklılık vardır.
+
+Merge komutu ile A dalındaki değişiklikler B dalı ile birleştirildiğinde B dalının commit tarihçesinde merge işleminden kaynaklanan ve merge commit adı verilen otomatik oluşturulmuş bir commit yer alır. Bu commit A ve B dallarının tarihçelerini birbiri ile ilişkilendirir.
+
+**rebase** komutu kullandığımızda ise ile A dalındaki her bir commit B dalına sanki commit işlemi B dalında yapılmış gibi yeniden yazılır. Bu sayede B dalının commit tarihçesi sanki tüm değişiklikler bu dalda olmuş gibi düz ve kesintisiz görünür.
+
+##### Rebase'i ne zaman kullanmalıyız?
+
+Rebase komutu yerel ve kısa süreliğine (örneğin bir hata giderme veya deneysel bir çalışma için oluşturulan) geçerli dallar için kullanılmalı. Paylaşılan depolarda rebase komutunu kullanmamanızı tavsiye ediyorum, çünkü rebase sonrasında projenizin ana dallarında değişikliklerin nereden kaynaklandığına dair bir bilgi veya ipucu göremezsiniz. Bu durum takım çalışmasını olumsuz yönde etkiler.
+
+#### Conflict
+
+Merhabalar, geçenki dersimizde git ile iki dalı birleştirmeyi, git merge komutunu görmüştük. Bu dersimizde ise merge işleminden kaynaklanan conflict yani çakışmaları görüp bu çakışmanın nasıl çözüleceğini göreceğiz.
+
+Bir versiyon kontrol sistemi kullandığınızda yaşayacağınız en büyük problem çakışmalardır. Bu çakışmalar yaptığınız geliştirmeye bağlı olarak bazen basitçe çözebilir bazen de saatlerce zamanınızı alabilir. Hatta ekip içinde tatsızlıklara bile sebep olabilir.
+
+### Rebase Nasıl Yapılır ?
+
+
+1. Master branch üzerinden pull yapılır.
+2. Master branch üzerinden **git checkout -b branch_ismi** komutu ile yeni bir branch oluşturulur.
+3. Oluşturulan branch üzerinde geliştirmeler ya da iyileştirmeler yapılır. 
+4. Yapılan değişiklerin ardından **git add .** komutu ile Repositories'e dosyaları ekleriz.
+5. Yapılan değişiklikleri **git commit -m "Yapılan değişiklikler** komutu ile veri tabanına işlenir.
+6. **git push origin branch_ismi** komutu ile pull request için yollanır.
+7. **Github** üzerinden pull request açmadan önce, açılan branch üzerinden **git rebase master** komutu yapılır. Bu sayede **merge** komutunu kullanmadan ve commit işlemlerinin sırası bozulmadan birleştirme yapılır. 
+8. Eğer **rebase** komutundan sonra hata almadıysanız, **Github** üzerinden PR açabilirsiniz.
+
+#### Rebase Yaparken Conflict Hatası Alırsanız Ne Yapmalısınız?
+
+Ekran çıktımızda bu hatayı aldıysak,
+
+```
+Auto-merging story.txt
+CONFLICT (content): Merge conflict in story.txt
+Automatic merge failed; fix conflicts and then commit the result.
+```
+Değişiklik yaptığımız dosyaya baktığımızda **<<<<<<< HEAD** yazan bir satır görürüz. Yine aynı şekilde paragrafın sonunda **=======** bir satır daha var. **HEAD** burada bulunduğumuz branch'in yani masterın son commitini ifade eder. Çakışmayı (Conflict)düzeltelim,
+
+1. Hatanın ardadından yapılmış değişikliklerden hangilerinin doğru olduğunu siz belirleyeceksiniz. Yanlış olduğunu düşündüğünüz satırları sileceksiniz. 
+2. **git add .** komutu ile  Repo'ya ekleriz.
+3. **git commit -m "Conflict Giderildi"** komutunu kullnarak istenilen veriye işleme işlemi gerçekleştirilir.
+4. **git push origin branch_ismi** komutu ile tekrardan yollanır.
+5. PR açılabilirsiniz.
+
+
 
 
 
