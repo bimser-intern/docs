@@ -1,7 +1,5 @@
 ## Giriş
 
----
-
 Bu proje Bimser ekibi tarafından gelecekte bünyesine katılacak genç yeteneklerin yazılım alanına nasıl başlayacaklarına dair bir fikir oluşması için oluşturulmuştur. Projeye katkıda bulunmak istiyorsanız öncelikle projenin daha önce yazılım alanında deneyim sahibi olmamış bireylere yönelik olduğunu unutmamak ve buna yönelik içerikler üretilmelidir. 
 
 Ekleyeceğiniz içerik, projeden yararlanan kişi veya kişilerin konu hakkındaki deneyimlerinin sıfır olduğunu varsayarak oluşuturulmalıdır. Okuyucunun projeyi okuduktan sonra belirli bir düzeyde fikir sahibi olması beklenmektedir. 
@@ -11,8 +9,6 @@ Projenin başarılı ve güzel bir şekilde ilerlemesi için oluşturulmuş dok�
 
 ## İçerikler
 
----
-
 
 1. [Markdown](/Markdown.md#markdown-head)
 
@@ -20,8 +16,6 @@ Projenin başarılı ve güzel bir şekilde ilerlemesi için oluşturulmuş dok�
 
 
 ## Projeye Katkıda Bulunmak
----
-
 
  
  Projeye katkıda bulunmak için gerekli kurallara uyulmalıdır. Kurallar;
@@ -31,13 +25,13 @@ Projenin başarılı ve güzel bir şekilde ilerlemesi için oluşturulmuş dok�
 
 
 ## İletişim
----
+
 
 **Discord Kanalımız** <br>
+
 https://discord.gg/jrqxfDG8
 
 ## Katkıda Bulunanlar
----
 
 - Ufuk Yetişkin
 

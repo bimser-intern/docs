@@ -6,18 +6,11 @@
 3. [Branch ve Commit Mesaj Formatı](#branch-commit-format)
 4. [Uzaktaki Reporisitories'e Pull Request Yapmak](#pull-request)
 
----
 <br>
-<br>
-<br>
-
-
-
 <h3 id="git-versiyon-kontrol"></h3>
 
 # Git Versiyon Kontrol Sistemi
 
----
 
 Git Versiyon Kontrol Sistemi, bir proje üzerinde birden çok kişinin çalışmasına ve her birinin kendi versiyonunu oluşturmasına, daha sonra değişiklik yapılmak istendiğinde istenilen versiyona dönülüp oradan değişiklik yapılmasına olanak veren bir kontrol sistemidir. Proje üzerinde yapılan bir değişikliğin sadece ilgili kısmını değil, projenin tamamını bir bütün halinde saklar, böylelikle projenin son halinin her geliştirici tarafından bir bütün halinde görülmesine olanak sağlar. Yerel ve uzak bilgisayarlar olmak üzere 2 ortam söz konusudur. 
 

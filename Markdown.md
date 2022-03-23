@@ -6,9 +6,7 @@
    - [Inline Elements](#markdown-inline-elements)
    - [Block Elements](#markdown-block-elements) 
 
----
-<br>
-<br>
+
 <br>
 
 
@@ -16,7 +14,6 @@
 
 # Markdown Nedir?
 
-----
 
 Günümüzde dijital ortamlarda makale, blog yazısı gibi metin diagramları oluştururken, metnin akışına uygun olarak başlık, liste ve tablo gibi görsel biçimler kullanırız. Günümüzde bu tarz içerikleri üretirken *HTML(Hyper Text Markup Language)* işaretleme dilini kullanırız. Fakat bir yazı için hem uğraştıcı olup hem de hataların oluşmasına neden olabilir. İşte bu zamanlarda işimizi kolaylaştıracak bir text to *HTML* yapısı ile dönüştürme aracı olan **Markdown** karşımıza çıkıyor.
 
