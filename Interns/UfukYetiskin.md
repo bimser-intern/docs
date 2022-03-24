@@ -61,3 +61,7 @@ Eğitimim süresince çeşitli stajlar yapma fırsatı buldum. **Brisa**'da insa
 [**23.03.2022**](https://github.com/bimser-intern/docs/issues/36)
 
 - React kütühanesinde components konusu incelendi. [Araştırmaya buradan ulaşabilirsiniz.](https://app.patika.dev/courses/react)
+
+[**24.03.2022**](https://github.com/bimser-intern/docs/issues/36)
+
+- React kütühanesinde props konusu incelendi. [Araştırmaya buradan ulaşabilirsiniz.](https://app.patika.dev/courses/react)
