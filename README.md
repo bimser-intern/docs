@@ -33,6 +33,6 @@ https://discord.gg/jrqxfDG8
 
 ## Katkıda Bulunanlar
 
-- Ufuk Yetişkin
+- [Ufuk Yetişkin](Interns/UfukYetiskin.md)
 
 
