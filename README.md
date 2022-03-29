@@ -10,9 +10,9 @@ Projenin başarılı ve güzel bir şekilde ilerlemesi için oluşturulmuş dok�
 ## İçerikler
 
 
-1. [Markdown](/Markdown.md#markdown-head)
+1. [Markdown](./docs/Markdown.md)
 
-2. [Git Versiyon Kontrol Sistemi](/Git-Versiyon-Kontrol.md#git-versiyon-kontrol)
+2. [Git Versiyon Kontrol Sistemi](./docs/Git-Versiyon-Kontrol.md)
 
 
 ## Projeye Katkıda Bulunmak
