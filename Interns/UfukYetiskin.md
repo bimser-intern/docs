@@ -70,3 +70,4 @@ Eğitimim süresince çeşitli stajlar yapma fırsatı buldum. **Brisa**'da insa
 
 - React kütühanesinde states konusu incelendi. [Araştırmaya buradan ulaşabilirsiniz.](https://app.patika.dev/courses/react)
 
+
