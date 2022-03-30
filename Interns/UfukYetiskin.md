@@ -6,14 +6,6 @@ Yazılım ile üniversitede tanıştım. İlk olarak C++ dili ile çalışma fı
 
 Eğitimim süresince çeşitli stajlar yapma fırsatı buldum. **Brisa**'da insan kaynakları departmanında staj yapma fırsatı yakaladım. Daha sonra Erasmus+ Staj Programı ile Varşova'da **Fabryka Emocji** bünyesinde grafik tasarım üzerine staj yaptım. Bu stajlar bende oldum hissi yaratmadığı için yazılım alanında staj yapmak için firmalar araştırdım ve en sonunda **Bimser**'de staj yapma fırsatı yakaladım. Şu an Sayın Özgür Tıpırdamaz Bey'in mentörlüğü ile çeşitli projeler ortaya çıkarmaktayız.
 
-## Hakkında
-
-Ben Ufuk Yetişkin, Pamukkale Üniversitesi , Yönetim Bilişim Sistemleri Bölümü öğrencisiyim. Kariyerimi yazılım alanında devam ettirmek istiyorum.
-
-Yazılım ile üniversitede tanıştım. İlk olarak C++ dili ile çalışma fırsatı buldum. Daha sonrasında müfredatta bulunan C# ile devam ettim. Bir süre sonra mobil uygulama geliştirme düşüncesi ile Android kurslarına ve derslerine başladım fakat hayal ettiğim gibi eğlenceli gelmedi. Eğitimim sırasında da Front-End alanında dersler gördüğüm için bu alana kaymayı düşündüm ve bu alana yönelik gelişmeye çalışmaktayım.
-
-Eğitimim süresince çeşitli stajlar yapma fırsatı buldum. **Brisa**'da insan kaynakları departmanında staj yapma fırsatı yakaladım. Daha sonra Erasmus+ Staj Programı ile Varşova'da **Fabryka Emocji** bünyesinde grafik tasarım üzerine staj yaptım. Bu stajlar bende oldum hissi yaratmadığı için yazılım alanında staj yapmak için firmalar araştırdım ve en sonunda **Bimser**'de staj yapma fırsatı yakaladım. Şu an Sayın Özgür Tıpırdamaz Bey'in mentörlüğü ile çeşitli projeler ortaya çıkarmaktayız.
-
 ## Tarihçe
 
 [**07.03.2022**](https://github.com/bimser-intern/docs/issues/9)
