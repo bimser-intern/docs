@@ -69,4 +69,5 @@ Eğitimim süresince çeşitli stajlar yapma fırsatı buldum. **Brisa**'da insa
 [**25.03.2022**](https://github.com/bimser-intern/docs/issues/36)
 
 - React kütühanesinde states konusu incelendi. [Araştırmaya buradan ulaşabilirsiniz.](https://app.patika.dev/courses/react)
- 
+
+
