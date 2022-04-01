@@ -70,3 +70,22 @@ Eğitimim süresince çeşitli stajlar yapma fırsatı buldum. **Brisa**'da insa
 
 - React kütühanesinde states konusu incelendi. [Araştırmaya buradan ulaşabilirsiniz.](https://app.patika.dev/courses/react)
  
+ [**28.03.2022**](https://github.com/bimser-intern/docs/issues/43)
+
+- React kütühanesinde effects konusu incelendi. [Araştırmaya buradan ulaşabilirsiniz.](https://app.patika.dev/courses/react)
+
+[**29.03.2022**](https://github.com/bimser-intern/docs/issues/44)
+
+- Git komutlarından **git rebase** komutu proje birleştirmek için kullanıldı. [Araştırmaya buradan ulaşabilirsiniz.](../Git-Versiyon-Kontrol.md)
+
+[**30.03.2022**](https://github.com/bimser-intern/docs/issues/45)
+
+- React kütüphanesi kullanılarak to do projesi oluşturmaya başlandı. [Projeye buradan ulaşabilirsiniz.](https://github.com/bimser-intern/todosaurus)
+
+[**31.03.2022**](https://github.com/bimser-intern/docs/issues/46)
+
+- To-do projesine devam edildi. [Projeye buradan ulaşabilirsiniz.](https://github.com/bimser-intern/todosaurus)
+
+[**01.04.2022**](https://github.com/bimser-intern/docs/issues/47)
+
+- Projenin tasarımı yapıldı. [Projeye buradan ulaşabilirsiniz.](https://github.com/bimser-intern/todosaurus)
