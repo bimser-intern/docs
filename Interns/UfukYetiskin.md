@@ -19,8 +19,8 @@ Eğitimim süresince çeşitli stajlar yapma fırsatı buldum. **Brisa**'da insa
 - Git Versiyon Kontrol Sistemi hakkında doküman oluşturuldu.[Dokümana buradan ulaşabilirsiniz.](../Git-Versiyon-Kontrol.md)
 
 [**09.03.2022**](https://github.com/bimser-intern/docs/issues/11)
-- Github hakkında bilgilendirici bir yazı yazıldı.[Yazıya buradan ulaşabilirsiniz.](../Git-Versiyon-Kontrol.md)
 
+- Github hakkında bilgilendirici bir yazı yazıldı.[Yazıya buradan ulaşabilirsiniz.](../Git-Versiyon-Kontrol.md)
 
 [**10.03.2022**](https://github.com/bimser-intern/docs/issues/14)
 
@@ -65,3 +65,8 @@ Eğitimim süresince çeşitli stajlar yapma fırsatı buldum. **Brisa**'da insa
 [**24.03.2022**](https://github.com/bimser-intern/docs/issues/36)
 
 - React kütühanesinde props konusu incelendi. [Araştırmaya buradan ulaşabilirsiniz.](https://app.patika.dev/courses/react)
+
+[**25.03.2022**](https://github.com/bimser-intern/docs/issues/36)
+
+- React kütühanesinde states konusu incelendi. [Araştırmaya buradan ulaşabilirsiniz.](https://app.patika.dev/courses/react)
+ 
