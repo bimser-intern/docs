@@ -94,3 +94,6 @@ Eğitimim süresince çeşitli stajlar yapma fırsatı buldum. **Brisa**'da insa
 
 - Todosaurus projesi tasarımı yapıldı. [Projeye buradan ulaşabilirsiniz.](https://github.com/bimser-intern/todosaurus)
 
+[**05.04.2022**](https://github.com/bimser-intern/docs/issues/51)
+
+- Todosaurus projesinde kullanılan Css biçimlendirmesi, Tailwind kütüphanesi kullanarak güncel hale getirildi. [Projeye buradan ulaşabilirsiniz.](https://github.com/bimser-intern/todosaurus)
