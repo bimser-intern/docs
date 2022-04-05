@@ -89,3 +89,8 @@ Eğitimim süresince çeşitli stajlar yapma fırsatı buldum. **Brisa**'da insa
 [**01.04.2022**](https://github.com/bimser-intern/docs/issues/47)
 
 - Projenin tasarımı yapıldı. [Projeye buradan ulaşabilirsiniz.](https://github.com/bimser-intern/todosaurus)
+
+[**04.04.2022**](https://github.com/bimser-intern/docs/issues/47)
+
+- Todosaurus projesi tasarımı yapıldı. [Projeye buradan ulaşabilirsiniz.](https://github.com/bimser-intern/todosaurus)
+
