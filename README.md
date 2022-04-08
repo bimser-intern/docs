@@ -13,6 +13,8 @@ Projenin başarılı ve güzel bir şekilde ilerlemesi için oluşturulmuş dok�
 1. [Markdown](./docs/Markdown.md)
 
 2. [Git Versiyon Kontrol Sistemi](./docs/Git-Versiyon-Kontrol.md)
+3. [React](docs/React.md)
+4. [Tailwind](docs/Tailwind.md)
 
 
 ## Projeye Katkıda Bulunmak
