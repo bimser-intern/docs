@@ -97,3 +97,15 @@ Eğitimim süresince çeşitli stajlar yapma fırsatı buldum. **Brisa**'da insa
 [**05.04.2022**](https://github.com/bimser-intern/docs/issues/51)
 
 - Todosaurus projesinde kullanılan Css biçimlendirmesi, Tailwind kütüphanesi kullanarak güncel hale getirildi. [Projeye buradan ulaşabilirsiniz.](https://github.com/bimser-intern/todosaurus)
+
+[**06.04.2022**](https://github.com/bimser-intern/docs/issues/47)
+
+- Todosaurus projesinde headbar oluşturuldu. [Projeye buradan ulaşabilirsiniz.](https://github.com/bimser-intern/todosaurus)
+
+[**07.04.2022**](https://github.com/bimser-intern/docs/issues/47)
+
+- React ve Tailwind kütühaneleri hakkında bilgi verildi. [Projeye buradan ulaşabilirsiniz.](../docs/React.md)
+
+[**08.04.2022**](https://github.com/bimser-intern/docs/issues/51)
+
+- Todosaurus projesinde headbar tasarımı yapıldı. [Projeye buradan ulaşabilirsiniz.](https://github.com/bimser-intern/todosaurus)
