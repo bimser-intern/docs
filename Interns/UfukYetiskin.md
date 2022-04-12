@@ -112,4 +112,4 @@ Eğitimim süresince çeşitli stajlar yapma fırsatı buldum. **Brisa**'da insa
 
 [**11.04.2022**](https://github.com/bimser-intern/docs/issues/59)
 
-- Todosaurus projesinde Ccategories componenti oluşturuldu. [Projeye buradan ulaşabilirsiniz.](https://github.com/bimser-intern/todosaurus)
+- Todosaurus projesinde Categories componenti oluşturuldu. [Projeye buradan ulaşabilirsiniz.](https://github.com/bimser-intern/todosaurus)
