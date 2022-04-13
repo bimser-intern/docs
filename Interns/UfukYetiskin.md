@@ -109,3 +109,7 @@ Eğitimim süresince çeşitli stajlar yapma fırsatı buldum. **Brisa**'da insa
 [**08.04.2022**](https://github.com/bimser-intern/docs/issues/51)
 
 - Todosaurus projesinde headbar tasarımı yapıldı. [Projeye buradan ulaşabilirsiniz.](https://github.com/bimser-intern/todosaurus)
+
+[**11.04.2022**](https://github.com/bimser-intern/docs/issues/59)
+
+- Todosaurus projesinde Categories componenti oluşturuldu. [Projeye buradan ulaşabilirsiniz.](https://github.com/bimser-intern/todosaurus)
