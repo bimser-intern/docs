@@ -117,3 +117,7 @@ Eğitimim süresince çeşitli stajlar yapma fırsatı buldum. **Brisa**'da insa
 [**12.04.2022**](https://github.com/bimser-intern/docs/issues/60)
 
 - Todosaurus projesinde Categories componenti biçimlendirildi. [Projeye buradan ulaşabilirsiniz.](https://github.com/bimser-intern/todosaurus)
+
+[**13.04.2022**](https://github.com/bimser-intern/docs/issues/60)
+
+- React dokümanı incelendi. [Dokümana buradan ulaşabilirsiniz.](../docs/React.md)
