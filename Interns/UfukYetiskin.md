@@ -121,3 +121,7 @@ Eğitimim süresince çeşitli stajlar yapma fırsatı buldum. **Brisa**'da insa
 [**13.04.2022**](https://github.com/bimser-intern/docs/issues/60)
 
 - React dokümanı incelendi. [Dokümana buradan ulaşabilirsiniz.](../docs/React.md)
+
+[**14.04.2022**](https://github.com/bimser-intern/docs/issues/63)
+
+- CSS preprocessor konusu araştırıldı. [Dokümana buradan ulaşabilirsiniz.](https://github.com/bimser-intern/docs/issues/64)
