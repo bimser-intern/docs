@@ -125,3 +125,7 @@ Eğitimim süresince çeşitli stajlar yapma fırsatı buldum. **Brisa**'da insa
 [**14.04.2022**](https://github.com/bimser-intern/docs/issues/63)
 
 - CSS preprocessor konusu araştırıldı. [Dokümana buradan ulaşabilirsiniz.](https://github.com/bimser-intern/docs/issues/64)
+
+[**15.04.2022**](https://github.com/bimser-intern/docs/issues/63)
+
+- CSS Flex ve Grid araştırıldı ve aralarındaki fark öğrenildi. [Dokümana buradan ulaşabilirsiniz.](https://github.com/bimser-intern/docs/issues/66)
