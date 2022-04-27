@@ -166,6 +166,14 @@ Bir proje üzerinde uzun süre çalışılıp çok fazla değişiklik commit edi
 > `git rebase -i` 
 
 <br>
+
+### git cherry-pick
+Bir branch de oluşturduğunuz sürümü (commit) başka bir branch’e çekmek/dahil etmek için kullanılır. Örneğin master branch üzerinde karşılaşılan hatayı düzeltmek isteyen developer, master branch üzerinden düzeltme yapacak iken kendi çalıştığı branch üzerinde düzeltme yapıp ve bunu commitlediyse ilgili commiti master branche `cherry-pick` komutu ile master branche dahil edilebilir.
+
+> `git cherry-pick <commit-id>`
+
+
+<br>
 <br>
 
 <h3 id="branch-commit-format"></h3>
