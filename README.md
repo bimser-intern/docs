@@ -31,7 +31,7 @@ Projenin başarılı ve güzel bir şekilde ilerlemesi için oluşturulmuş dok�
 
 **Discord Kanalımız** <br>
 
-https://discord.gg/jrqxfDG8
+https://discord.gg/TgdnJWfPJ8
 
 ## Katkıda Bulunanlar
 
