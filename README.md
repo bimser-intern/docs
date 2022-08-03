@@ -36,5 +36,5 @@ https://discord.gg/TgdnJWfPJ8
 ## Katkıda Bulunanlar
 
 - [Ufuk Yetişkin](Interns/UfukYetiskin.md)
-
+- [Selin Ayten Cengiz](Interns/SelinAytenCengiz.md)
 
