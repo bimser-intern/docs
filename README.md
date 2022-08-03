@@ -37,4 +37,6 @@ https://discord.gg/TgdnJWfPJ8
 
 - [Ufuk Yetişkin](Interns/UfukYetiskin.md)
 
+- [Muhammet Düzenli](Interns/MuhammetDuzenli.md)
+
 
