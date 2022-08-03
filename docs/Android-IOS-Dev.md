@@ -9,7 +9,8 @@
 6. [Mobil uygulama geliştirme için kullanılan diğer diller ve frameworkler](#mobil-uygulama-geliştirme-için-kullanılan-diğer-diller-ve-frameworkler)
 7. [Roadmap](#roadmap) 
 8. [Video Anlatım](#video-anlatım) 
-8. [Kaynakça](#kaynakça)
+9. [Sunum Dosyası](#sunum-dosyası)
+10. [Kaynakça](#kaynakça)
 
 <br>
 
@@ -106,7 +107,9 @@ Eğer Native iOS developer iseniz Apple’ın bize verdiği dil olan Swift 
 
 
 
+# Sunum Dosyası
 
+[Android ve IOS Dev Sunumu](https://smallpdf.com/tr/file#s=63a07052-1ee5-4ed3-b1c1-7c1d30126b18)
 # Kaynakça
 
 * [Hibrit ve Native Mobil Uygulama Geliştirme](https://bilginc.com/tr/blog/hibrit-karma-vs-native-yerli-mobil-uygulama-gelistirme-257/#:~:text=Tahmin%20edebileceğiniz%20gibi%20en%20çok,ın%20en%20çok%20desteklediği%20dildir)
