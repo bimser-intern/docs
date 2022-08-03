@@ -50,3 +50,4 @@ https://discord.gg/TgdnJWfPJ8
 - [Felat Aslan](Interns/FelatAslan.md)
 
 - [Safa Can Pehlivan](Interns/SafaCanPehlivan.md)
+
