@@ -39,4 +39,6 @@ https://discord.gg/TgdnJWfPJ8
 
 - [Ömer Hamsi](Interns/ÖmerHamsi.md)
 
+- [Safa Can Pehlivan](Interns/SafaCanPehlivan.md)
+
 
