@@ -48,3 +48,5 @@ https://discord.gg/TgdnJWfPJ8
 - [Muhammed Yurga](Interns/MuhammedYurga.md)
 
 - [Felat Aslan](Interns/FelatAslan.md)
+
+- [Safa Can Pehlivan](Interns/SafaCanPehlivan.md)
