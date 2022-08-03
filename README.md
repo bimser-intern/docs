@@ -66,3 +66,4 @@ https://discord.gg/TgdnJWfPJ8
 - [Ümmügülsüm Erol](Interns/UmmugulsumErol.md)
 
 - [Burak Küçük](Interns/BurakKucuk.md)
+
