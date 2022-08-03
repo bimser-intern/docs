@@ -102,7 +102,7 @@ Eğer Native iOS developer iseniz Apple’ın bize verdiği dil olan Swift 
 
 # Video Anlatım
 
-<iframe  src="https://www.veed.io/embed/4220f45b-855a-40bf-874b-c907acf0ac7f"  width="744"  height="504"  frameborder="0"  title="Android-IOS.mp4"  webkitallowfullscreen  mozallowfullscreen  allowfullscreen></iframe>
+[Android ve IOS Dev Anlatımı](https://www.veed.io/embed/4220f45b-855a-40bf-874b-c907acf0ac7f)
 
 
 
