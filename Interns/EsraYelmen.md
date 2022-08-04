@@ -7,17 +7,17 @@ Ben Esra Yelmen. Bolu Abant İzzet Baysal Üniversitesi Bilgisayar Mühendisliğ
 
 ## Tarihçe
 
-[**01.08.2022**]()
+[**01.08.2022**](https://github.com/bimser-intern/docs/issues/103)
 
 - Git ve GitHub kullanımı araştırıldı.
 
-[**02.08.2022**]()
+[**02.08.2022**](https://github.com/bimser-intern/docs/issues/103)
 
 - Git kullanımı hakkında araştırma yapıldı.
 - Git komutları ile ilgili sunum hazırlandı.
 - Tester pozisyonu hakkında araştırma yapıldı.
 
-[**03.08.2022**]()
+[**03.08.2022**](https://github.com/bimser-intern/docs/issues/103)
 
 - Git sunumu yapıldı.
 - GitHub kullanımı daha detaylı araştırıldı.
