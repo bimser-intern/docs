@@ -29,8 +29,11 @@ Yazılım ile üniversitede tanıştım. Başta Algoritma Temelleri olmakla bera
 [detaylara-buradan-ulaşabilirsiniz.](https://drupart.com.tr/blog/sass-nedir-nasil-kullanilir)
 
 [**03.08.2022**]()
-- Sabah Daily toplantısı Yapıldı.
+- Sabah daily toplantısı Yapıldı.
 - Git version System Sunumu izlendi.
 - Redis ve SASS hakkında araştırma yapıldı. [detaylara-buradan-ulaşabilirsiniz]()
 
-
+[**04.08.2022**]()
+- Sabah daily toplantısı yapıldı.
+- Öğleden sonra staj bilgilendirme toplantısına katıldım.
+- Redis ve SASS hakkında yapılan araştırma ile ilgili sunum hazırlandı.
