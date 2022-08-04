@@ -24,3 +24,9 @@ Yazılım ile üniversitede tanıştım. Üniversite eğitimimde C, C#, C++, Pyt
 
 - Github Görev Yönetimi (Issues) ve Organizasyonu araştırıldı. [Makaleye buradan erişebilirsiniz.](https://medium.com/@noteCe/5-github-görev-yönetimi-i̇ssues-ve-organizasyon-1277ef74b409)
 - Analiz hakkında sunum hazırlandı.
+
+[**04.08.2022**](https://github.com/bimser-intern/docs/issues/126)
+
+- Software QA Team Lead Buluşması etkinliğine katılım sağlandı.
+- Figma konusu araştırıldı. [Burada erişebilirsiniz.](https://www.youtube.com/watch?v=Mw0hEbjFL78)
+- Business Analyst için nasıl analiz yapılır hakkında video izlenildi. [Buradan erişebilirsiniz.](https://www.youtube.com/watch?v=ji1sEscrqZs)
