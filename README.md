@@ -44,4 +44,3 @@ https://discord.gg/TgdnJWfPJ8
 - [Muhammet Düzenli](Interns/MuhammetDuzenli.md)
 
 - [Kerem Erkubilay](Interns/KeremErkubilay.md)
-
