@@ -45,4 +45,6 @@ https://discord.gg/TgdnJWfPJ8
 
 - [Kerem Erkubilay](Interns/KeremErkubilay.md)
 
+- [Muhammed Yurga](Interns/MuhammedYurga.md)
+
 - [Felat Aslan](Interns/FelatAslan.md)
