@@ -43,6 +43,8 @@ https://discord.gg/TgdnJWfPJ8
 
 - [Muhammet Düzenli](Interns/MuhammetDuzenli.md)
 
+- [Enise Arslan](Interns/EniseArslan.md)
+
 - [Kerem Erkubilay](Interns/KeremErkubilay.md)
 
 - [Muhammed Yurga](Interns/MuhammedYurga.md)
