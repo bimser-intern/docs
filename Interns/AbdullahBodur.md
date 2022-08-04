@@ -18,7 +18,7 @@ Ben Abdullah Bodur, Hacettepe Üniversitesi Bilgisayar Mühendisliği öğrencis
 - Git & Github sunumu yapıldı
 - AuraDB Kütüphanesini araştırdım [detaylara buradan ulaşabilirsiniz](https://neo4j.com/docs/aura/auradb/)
 
-[**03.08.2022**](https://github.com/bimser-intern/docs/issues/130)
+[**04.08.2022**](https://github.com/bimser-intern/docs/issues/130)
 - Sabah Daily toplantısı yapıldı
-- Backend Teknolojileri hakkında sunum hazırlandı
+- Backend teknolojileri hakkında sunum hazırlandı
 - Software QA Team Lead Buluşması etkinliğine katılım sağlandı.
