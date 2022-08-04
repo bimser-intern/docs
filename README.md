@@ -36,6 +36,9 @@ https://discord.gg/TgdnJWfPJ8
 ## Katkıda Bulunanlar
 
 - [Ufuk Yetişkin](Interns/UfukYetiskin.md)
+
+
+
 - [Enise Arslan](Interns/EniseArslan.md)
 
 
