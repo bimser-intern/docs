@@ -41,9 +41,23 @@ Ben Selin Ayten Cengiz, Kocaeli Üniversitesi, Bilgisayar Mühendisliği Bölüm
 
 [**03.08.2022**](https://github.com/bimser-intern/docs/issues/82)
 
+- Daily Scrum yapıldı.
+
 - Git ve Github workshop'una katılındı.
 
 - Git komutları , pull request , code review kavramları araştırıldı ve öğrenildi.
 
 - Android ile alakalı componentler(Room ve Fragment) araştırıldı.
+
+[**04.08.2022**](https://github.com/bimser-intern/docs/issues/119)
+
+- Daily Scrum yapıldı.
+
+- Code review yapıldı.
+
+- Android ile alakalı componentler(Rxjava ve Navigation) araştırıldı ve öğrenildi.
+
+- Manual test ve otomasyon testi hakkında bir toplantıya katılındı.
+
+- Android geliştirme ve componentlerle ilgili sunum hazırlandı.
 
