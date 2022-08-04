@@ -20,3 +20,7 @@ Ben Kerem Erkubilay, Düzce Üniversitesinde Bilgisayar Mühendisliği okuyorum.
 -  Günlük tutmaya başlanıldı.
 -  Kotlin eğitimime başladım.
   
+[**04.08.2022**]
+-  Daily Scrum yapıldı.
+-  Software QA Team Lead buluşması yapıldı. Merve Akdağ Test Engineer olmak hakkında sunum yapıp bilgilerini bizimle paylaştı.
+-  Kotlin hakkında küçük bir sunum hazırlamaya başladım. Bana yardımı dokunan bilgileri sunumun içine katıyorum. Kotlin çalışmaya devam ediyorum.
