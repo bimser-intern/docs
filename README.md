@@ -43,6 +43,8 @@ https://discord.gg/TgdnJWfPJ8
 
 - [Muhammet Düzenli](Interns/MuhammetDuzenli.md)
 
+- [Enise Arslan](Interns/EniseArslan.md)
+
 - [Kerem Erkubilay](Interns/KeremErkubilay.md)
 
 - [Muhammed Yurga](Interns/MuhammedYurga.md)
@@ -53,7 +55,7 @@ https://discord.gg/TgdnJWfPJ8
 
 - [Abdullah Bodur](Interns/AbdullahBodur.md)
 
-
+- [Ömer Üçüncü](Interns/OmerUcuncu.md)
 
 - [Simge Terzioğlu](Interns/SimgeTerzioglu.md)
 
