@@ -41,6 +41,8 @@ https://discord.gg/TgdnJWfPJ8
 
 - [Ömer Hamsi](Interns/ÖmerHamsi.md)
 
+- [Esra Yelmen](Interns/EsraYelmen.md)
+
 - [Muhammet Düzenli](Interns/MuhammetDuzenli.md)
 
 - [Enise Arslan](Interns/EniseArslan.md)
