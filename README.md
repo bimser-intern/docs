@@ -11,10 +11,10 @@ Projenin başarılı ve güzel bir şekilde ilerlemesi için oluşturulmuş dok�
 
 
 1. [Markdown](./docs/Markdown.md)
-
 2. [Git Versiyon Kontrol Sistemi](./docs/Git-Versiyon-Kontrol.md)
 3. [React](docs/React.md)
 4. [Tailwind](docs/Tailwind.md)
+5. [Android Developer ve IOS Developer](docs/Android-IOS-Dev.md)
 
 
 ## Projeye Katkıda Bulunmak
@@ -37,8 +37,13 @@ https://discord.gg/TgdnJWfPJ8
 
 - [Ufuk Yetişkin](Interns/UfukYetiskin.md)
 
+- [Selin Ayten Cengiz](Interns/SelinAytenCengiz.md)
 
+- [Ömer Hamsi](Interns/ÖmerHamsi.md)
+
+- [Muhammet Düzenli](Interns/MuhammetDuzenli.md)
 
 - [Enise Arslan](Interns/EniseArslan.md)
 
+- [Kerem Erkubilay](Interns/KeremErkubilay.md)
 
