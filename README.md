@@ -54,3 +54,27 @@ https://discord.gg/TgdnJWfPJ8
 - [Safa Can Pehlivan](Interns/SafaCanPehlivan.md)
 
 - [Abdullah Bodur](Interns/AbdullahBodur.md)
+
+- [Ömer Üçüncü](Interns/OmerUcuncu.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
