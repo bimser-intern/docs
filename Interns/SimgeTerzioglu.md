@@ -2,7 +2,7 @@
 
 Ben Simge Terzioğlu, Kırklareli Üniversitesi Yazılım Mühendisliği Bölümü öğrencisiyim.
 
-Yazılım ile üniversitede tanıştım. Üniversite eğitimimde C, C#, C++, Python, Java, Kotlin ve Web Programlama derslerini aldım.Eğitimim esnasında birkaç mobil uygulama, C# ile otomasyonlar ve data visualization gibi projeler yaptım. Veri bilimi alanına yönelmek ve kendimi bu alanda geliştirmek istiyorum.
+Yazılım ile üniversitede tanıştım. Üniversite eğitimimde C, C#, C++, Python, Java, Kotlin ve Web Programlama derslerini aldım. Eğitimim esnasında birkaç mobil uygulama, C# ile otomasyonlar ve data visualization gibi projeler yaptım. Veri bilimi alanına yönelmek ve kendimi bu alanda geliştirmek istiyorum.
 
 Şu anda **Bimser**'de staj yapmaktayım ve Sayın Özgür Tıpırdamaz Bey'in mentörlüğü ile çeşitli projeler ortaya çıkarmaktayız.
 
