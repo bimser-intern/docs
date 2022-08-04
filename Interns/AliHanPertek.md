@@ -6,17 +6,25 @@ Yazılım ile üniversitede tanıştım. Son yıllarda, C# dilinde ASP.Net MVC t
 
 ## Tarihçe
 
-[**01.08.2022**](https://github.com/bimser-intern/docs/issues/9)
+[**01.08.2022**](https://github.com/bimser-intern/docs/issues/107)
 
 - Git nedir, nasıl kullanılır araştırıldı. [Makaleye buradan erişebilirsiniz.](https://coderspace.io/blog/git-nedir-nasil-kullanilir/)
 - Git kurulum işlemleri hakkında araştırma yapıldı. [Makaleye burdan erişebilirsiniz.](https://coderspace.io/blog/git-nedir-nasil-kullanilir/)
-- Git kullanımı ile ilgili okundu. [Makaleye buradan erişebilirsiniz.](https://bidb.itu.edu.tr/seyir-defteri/blog/2019/02/13/git)
+- Git kullanımı ile ilgili makaleler okundu. [Makaleye buradan erişebilirsiniz.](https://bidb.itu.edu.tr/seyir-defteri/blog/2019/02/13/git)
 
-[**02.08.2022**](https://github.com/bimser-intern/docs/issues/10)
+[**02.08.2022**](https://github.com/bimser-intern/docs/issues/107)
 
 - Github Versiyon Kontrol Sistemi hakkında detaylı araştırma yapıldı. [Dokümana buradan ulaşabilirsiniz.](https://docs.microsoft.com/tr-tr/contribute/get-started-setup-github)
 - Git terminal komutları hakkında araştırma yapıldı.
+- Yapılacak git giriş ve kuruluma ilgili olarak sunum oluşturuldu.
 
-[**03.09.2022**](https://github.com/bimser-intern/docs/issues/11)
+[**03.09.2022**](https://github.com/bimser-intern/docs/issues/107)
 
+- Git giriş ve kurulum işlemleri hakkında sunum yapıldı.
 - Docker'la ilgili araştırma yapılıd. [Yazıya buradan ulaşabilirsiniz.](https://medium.com/batech/docker-nedir-docker-kavramlar%C4%B1-avantajlar%C4%B1-901b37742ee0)
+
+[**04.09.2022**](https://github.com/bimser-intern/docs/issues/136)
+
+- Azure eğitimine başlandı. [Detaylara burdan ulaşabilirsiniz.](https://www.udemy.com/course/projelerle-azure-cloud-kursu/learn/lecture/16555000?src=sac&kw=azure#overview)
+- Azurla ilgili çeşitli makaleler okundu. [Yazıya burdan ulaşabilirsiniz.](https://medium.com/devopsturkiye/azure-devops-nedi%CC%87r-ve-nasil-kullanilir-cf0d95ec78bd)
+- Stajyer & Merve Akdağ(Software QA Team Lead) toplantısı gerçekleştirildi.
