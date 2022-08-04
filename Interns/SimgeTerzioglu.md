@@ -28,5 +28,5 @@ Yazılım ile üniversitede tanıştım. Üniversite eğitimimde C, C#, C++, Pyt
 [**04.08.2022**](https://github.com/bimser-intern/docs/issues/126)
 
 - Software QA Team Lead Buluşması etkinliğine katılım sağlandı.
-- Figma konusu araştırıldı. [Burada erişebilirsiniz.](https://www.youtube.com/watch?v=Mw0hEbjFL78)
+- Figma konusu araştırıldı. [Buradan erişebilirsiniz.](https://www.youtube.com/watch?v=Mw0hEbjFL78)
 - Business Analyst için nasıl analiz yapılır hakkında video izlenildi. [Buradan erişebilirsiniz.](https://www.youtube.com/watch?v=ji1sEscrqZs)
