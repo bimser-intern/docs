@@ -39,4 +39,6 @@ https://discord.gg/TgdnJWfPJ8
 
 - [Ömer Hamsi](Interns/ÖmerHamsi.md)
 
+- [Esra Yelmen](Interns/EsraYelmen.md)
+
 
