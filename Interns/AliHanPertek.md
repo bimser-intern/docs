@@ -20,11 +20,13 @@ Yazılım ile üniversitede tanıştım. Son yıllarda, C# dilinde ASP.Net MVC t
 
 [**03.09.2022**](https://github.com/bimser-intern/docs/issues/107)
 
+- Daily Scrum toplantsı gerçekleştirildi.
 - Git giriş ve kurulum işlemleri hakkında sunum yapıldı.
 - Docker'la ilgili araştırma yapıldı. [Yazıya buradan ulaşabilirsiniz.](https://medium.com/batech/docker-nedir-docker-kavramlar%C4%B1-avantajlar%C4%B1-901b37742ee0)
 
 [**04.09.2022**](https://github.com/bimser-intern/docs/issues/136)
 
+- Daily Scrum toplantsı gerçekleştirildi.
 - Azure eğitimine başlandı. [Detaylara burdan ulaşabilirsiniz.](https://www.udemy.com/course/projelerle-azure-cloud-kursu/learn/lecture/16555000?src=sac&kw=azure#overview)
 - Azurla ilgili çeşitli makaleler okundu. [Yazıya burdan ulaşabilirsiniz.](https://medium.com/devopsturkiye/azure-devops-nedi%CC%87r-ve-nasil-kullanilir-cf0d95ec78bd)
 - Stajyer & Merve Akdağ(Software QA Team Lead) toplantısı gerçekleştirildi.
