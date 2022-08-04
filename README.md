@@ -37,8 +37,12 @@ https://discord.gg/TgdnJWfPJ8
 
 - [Ufuk Yetişkin](Interns/UfukYetiskin.md)
 
+- [Selin Ayten Cengiz](Interns/SelinAytenCengiz.md)
+
 - [Ömer Hamsi](Interns/ÖmerHamsi.md)
 
 - [Safa Can Pehlivan](Interns/SafaCanPehlivan.md)
 
+- [Muhammet Düzenli](Interns/MuhammetDuzenli.md)
 
+- [Kerem Erkubilay](Interns/KeremErkubilay.md)
