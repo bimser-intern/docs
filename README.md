@@ -61,3 +61,5 @@ https://discord.gg/TgdnJWfPJ8
 
 - [Simge Terzioğlu](Interns/SimgeTerzioglu.md)
 
+- [Ümmügülsüm Erol](Interns/UmmugulsumErol.md)
+
