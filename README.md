@@ -59,6 +59,8 @@ https://discord.gg/TgdnJWfPJ8
 
 - [Ömer Üçüncü](Interns/OmerUcuncu.md)
 
+- [Rahime Türkmen](Interns/RahimeTurkmen.md)
+
 - [Simge Terzioğlu](Interns/SimgeTerzioglu.md)
 
 - [Ümmügülsüm Erol](Interns/UmmugulsumErol.md)
