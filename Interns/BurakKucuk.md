@@ -16,5 +16,13 @@ Ben Burak Küçük, Girne Üniversitesi Yazılım Mühendisliği  öğrencisiyim
 
 [**03.08.2022**](https://github.com/bimser-intern/docs/issues/89)
 
-- Figma ile ilgi eğitimler izlendi.[Videoya buradan erişebilirsiniz.](https://youtu.be/drekJK0DOr8)
+- Figma ile ilgili eğitimler izlendi.[Videoya buradan erişebilirsiniz.](https://youtu.be/drekJK0DOr8)
+
+- [**04.08.2022**](https://github.com/bimser-intern/docs/issues/89)
+
+- Figmayla alakalı örnekler bulundu. İncelendi.[Makaleye buradan erişebilirsiniz.](https://kod-suz.com/article/size-zaman-kazandiracak-10-figma-eklentisi)
+
+- Github git kullanımı araştırıldı.[Makaleye buradan erişebilirsiniz.](https://www.webtekno.com/github-nedir-ne-ise-yarar-h117655.htmlsad)
+
+
 
