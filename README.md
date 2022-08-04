@@ -41,6 +41,8 @@ https://discord.gg/TgdnJWfPJ8
 
 - [Ömer Hamsi](Interns/ÖmerHamsi.md)
 
+- [Esra Yelmen](Interns/EsraYelmen.md)
+
 - [Muhammet Düzenli](Interns/MuhammetDuzenli.md)
 
 - [Enise Arslan](Interns/EniseArslan.md)
@@ -59,24 +61,7 @@ https://discord.gg/TgdnJWfPJ8
 
 - [Rahime Türkmen](Interns/RahimeTurkmen.md)
 
+- [Simge Terzioğlu](Interns/SimgeTerzioglu.md)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [Ümmügülsüm Erol](Interns/UmmugulsumErol.md)
 
