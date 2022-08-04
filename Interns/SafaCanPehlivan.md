@@ -16,3 +16,9 @@ Mühendisliği 3. sınıf öğrencisiyim 23 yaşındayım yapı olarak meraklı 
 
 - İlk dailyscrum'ı gerçekleştirdik tüm takıma dün yaptıklarını, bügün yapacaklarını, risk durumu, mutluluk analizi ve stres seviyelerini sordum.
 - Javascript ve Node.js hakkında udemyden kurs alıp belli bir yere kadar ilerlettim.
+
+[**04.08.2022**](https://github.com/bimser-intern/docs/issues/143)
+
+- Dailyscrum yapıldı. GitHub ile ilgili conflict sorunlarını çözdük.   
+- Javascript hakkında çalışmaya devam ettim. Yarınki Backend konularını içeren sunumu hazırladım. 
+- Software QA Team Lead Buluşması etkinliğine katılım sağlandı.
