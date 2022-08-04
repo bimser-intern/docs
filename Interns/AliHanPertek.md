@@ -16,12 +16,12 @@ Yazılım ile üniversitede tanıştım. Son yıllarda, C# dilinde ASP.Net MVC t
 
 - Github Versiyon Kontrol Sistemi hakkında detaylı araştırma yapıldı. [Dokümana buradan ulaşabilirsiniz.](https://docs.microsoft.com/tr-tr/contribute/get-started-setup-github)
 - Git terminal komutları hakkında araştırma yapıldı.
-- Yapılacak git giriş ve kuruluma ilgili olarak sunum oluşturuldu.
+- Yapılacak git giriş ve kurulumlarla ilgili sunum oluşturuldu.
 
 [**03.09.2022**](https://github.com/bimser-intern/docs/issues/107)
 
 - Git giriş ve kurulum işlemleri hakkında sunum yapıldı.
-- Docker'la ilgili araştırma yapılıd. [Yazıya buradan ulaşabilirsiniz.](https://medium.com/batech/docker-nedir-docker-kavramlar%C4%B1-avantajlar%C4%B1-901b37742ee0)
+- Docker'la ilgili araştırma yapıldı. [Yazıya buradan ulaşabilirsiniz.](https://medium.com/batech/docker-nedir-docker-kavramlar%C4%B1-avantajlar%C4%B1-901b37742ee0)
 
 [**04.09.2022**](https://github.com/bimser-intern/docs/issues/136)
 
