@@ -62,3 +62,5 @@ https://discord.gg/TgdnJWfPJ8
 - [Burak Küçük](Interns/BurakKucuk.md)
 
 - [Ali Han Pertek](Interns/AliHanPertek.md)
+
+- [Eray Danacı](Interns/ErayDanaci.md)
