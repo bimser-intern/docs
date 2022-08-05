@@ -35,4 +35,15 @@ Eğitim süresince ilk stajımı  **Bimser**'de gönüllü stajyer olarak yapmak
  - Issues hakkında sunum hazırlandı.
  - Figma hakkında sunum hazırlandı.
  - Manual test ve otomasyon testi hakkında bir toplantıya katılındı.
- - Business Analyst için nasıl analiz yapılır hakkında video izlenildi
+ - Business Analyst için nasıl analiz yapılır hakkında video izlendi.[Buraya tıklayarak ulaşabilirsiniz.](https://www.youtube.com/watch?v=ji1sEscrqZs)
+
+[**05.08.2022**](https://github.com/bimser-intern/docs/issues/162)
+
+ - Daily scrum yapıldı.
+ - Backend sunumuna katılındı.
+ - Frontend sunumuna katılındı.
+ - Android sunumuna katılındı.
+ - Business Analyst dokümantasyon yöntemleri sunumu yapıldı.[Buraya tıklayarak dokümantasyon yöntemleri dokümanına ulaşabilirsiniz.](https://ba-works.com/blog/gereksinimlerin-dokumantasyonu-hakkinda-merak-edilenler/)
+ - Business Analyst sunumuna katılındı.
+ - DevOps sunumuna katılındı.
+ - Product Owner ile toplantı yapıldı.
