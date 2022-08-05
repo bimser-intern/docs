@@ -64,3 +64,5 @@ https://discord.gg/TgdnJWfPJ8
 - [Ali Han Pertek](Interns/AliHanPertek.md)
 
 - [Eray Danacı](Interns/ErayDanaci.md)
+
+- [Öykü Motor](Interns/OykuMotor.md)
