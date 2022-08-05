@@ -33,7 +33,7 @@ Yazılım ile üniversitede tanıştım. Üniversite eğitimimde C, C#, C++, Pyt
 
 [**05.08.2022**](https://github.com/bimser-intern/docs/issues/164)
 
-- Daily scrum toplantısın yapıldı.
+- Daily scrum toplantısı yapıldı.
 - İş analizi sunumu yapıldı.
 - Yapılan diğer sunumlara katılım sağlandı.
 - Product Owner ile görüşüldü ve proje hakkında bilgi alındı.
