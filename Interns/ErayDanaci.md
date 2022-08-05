@@ -2,11 +2,11 @@
 
   
 
-Ben Eray DANACI, Kocaeli Üniversitesi Bilişim Sistemleri Mühendisliği Bölümü son sınıf öğrencisiyim.
+Ben Eray DANACI, Kocaeli Üniversitesi Bilişim Sistemleri Mühendisliği bölümü son sınıf öğrencisiyim.
 
   
 
-Yazılım ile lisede tanıştım. 4 yıl boyunca web programlama dersleri aldım. Zorunlu lise stajımı Sabancı Üniversitesinde yaptım. Üniversite eğitimimde         C#, Python, SQL ve Web Programlama derslerini aldım. Üniversite stajımı Kocaeli Üniversitesinde yaptım ve eğitimim esnasında birçok proje geliştirdim.
+Yazılım ile lisede tanıştım. 4 yıl boyunca web programlama dersleri aldım. Zorunlu lise stajımı Sabancı Üniversitesinde yaptım. Üniversite eğitimimde C#, Python, SQL ve Web Programlama derslerini aldım. Üniversite stajımı Kocaeli Üniversitesinde yaptım ve eğitimim esnasında birçok proje geliştirdim.
 
   
 
@@ -57,3 +57,13 @@ Yazılım ile lisede tanıştım. 4 yıl boyunca web programlama dersleri aldım
 - Stajyer & Merve Akdağ(Software QA Team Lead) toplantısı gerçekleştirildi.
 
 - Redux ve Redux-Saga konuları hakkında sunum hazırlandı. 
+
+[**05.08.2022**](https://github.com/bimser-intern/docs/issues/168)
+
+
+
+- Developer ekiplerinin sunumları takip edildi.
+
+- Redux ve Redux-Saga konuları hakkında sunum yapıldı.
+
+- React araştırıldı.
