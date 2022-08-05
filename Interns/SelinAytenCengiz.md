@@ -61,3 +61,24 @@ Ben Selin Ayten Cengiz, Kocaeli Üniversitesi, Bilgisayar Mühendisliği Bölüm
 
 - Android geliştirme ve componentlerle ilgili sunum hazırlandı.
 
+[**05.08.2022**](https://github.com/bimser-intern/docs/issues/154)
+
+- Daily Scrum yapıldı.
+
+- Code review yapıldı.
+
+- Android geliştirme ve componentlerle ilgili sunum yapıldı.
+
+- Backend sunumuna katılındı.
+
+- Is analizi sunumuna katılındı.
+
+- Frontend sunumuna katılındı.
+
+- Test sunumuna katılındı.
+
+- Devops sunumuna katılındı.
+
+- Android ile alakalı componentler(Rxjava ve Retrofit) araştırıldı ve öğrenildi.
+
+
