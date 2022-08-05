@@ -34,3 +34,10 @@ Python dilini 6 Haziran-18 Temmuz 2022 tarihleri arasında Kocaeli Üniversitesi
 - DevOps üzerine okumalar ve araştırmalar yapılmaya devam edildi.
 - Software QA Team Lead Buluşması etkinliğine katılım sağlandı.
 
+[**05.08.2022**](https://github.com/bimser-intern/docs/issues/160)
+
+- DevOps CI/CD pipeline konusu araştırıldı. [Makaleye buradan ulaşabilirsiniz.](https://www.ibm.com/cloud/blog/ci-cd-pipeline)
+- Continuous Integration konusundaki araştırma detaylandırıldı. [Makaleye buradan ulaşabilirsiniz.](https://www.ibm.com/cloud/learn/continuous-integration)
+- Continuous Delivery konusundaki araştırma detaylandırıldı. [Makaleye buradan ulaşabilirsiniz.](https://www.ibm.com/cloud/learn/continuous-delivery)
+- GitFlow, GitHub Gitflow ve Trunk-Based Development konuları araştırıldı. [Makaleye buradan ulaşabilirsiniz.](https://www.toptal.com/software/trunk-based-development-git-flow)
+- DevOps stajyer ekibi ile birlikte detaylı DevOps sunumu yapıldı. [Sunumun video kaydına buradan ulaşabilirsiniz.](https://youtu.be/KSHBXY1gU8Q)
