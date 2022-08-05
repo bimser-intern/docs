@@ -13,7 +13,7 @@ Eğitim süresince ilk stajımı  **Bimser**'de gönüllü stajyer olarak yapmak
 [**01.08.2022**](https://github.com/bimser-intern/docs/issues/105)
 
  - UI/UX Designer, Business Analyst, Documentation Specialist hakkında araştırma yapıldı.
- - Git ve Github kullanımı ile ilgili dokümantasyonlar okundu.[Buraya tıklayarak ulaşabilirsiniz.](https://bidb.itu.edu.tr/seyir-defteri/blog/2019/02/13/git)
+ - Git ve Github kullanımı ile ilgili dokümantasyonlar okundu. [Buraya tıklayarak ulaşabilirsiniz.](https://bidb.itu.edu.tr/seyir-defteri/blog/2019/02/13/git)
 
 [**02.08.2022**](https://github.com/bimser-intern/docs/issues/105)
 
@@ -21,12 +21,12 @@ Eğitim süresince ilk stajımı  **Bimser**'de gönüllü stajyer olarak yapmak
  - Android Developer ve IOS Developer nedir sunumu yapıldı.
  - Scrum metodolojisi sunumu yapıldı.
  - Görevlendirmeler yapıldı.
- - Issue hakkında araştırma yapıldı.[Buraya tıklayarak ulaşabilirsiniz.](https://medium.com/@noteCe/5-github-g%C3%B6rev-y%C3%B6netimi-i%CC%87ssues-ve-organizasyon-1277ef74b409)
+ - Issue hakkında araştırma yapıldı. [Buraya tıklayarak ulaşabilirsiniz.](https://medium.com/@noteCe/5-github-g%C3%B6rev-y%C3%B6netimi-i%CC%87ssues-ve-organizasyon-1277ef74b409)
 
 [**03.08.2022**](https://github.com/bimser-intern/docs/issues/105)
 
  - Business Analyst için gerekli olan analiz yöntemleri araştırıldı.
- - Business Analyst için gerekli olan bir araç araştırıldı ve denendi.[Buraya tıklayarak ulaşabilirsiniz.](https://www.figma.com/files/recent?fuid=1136558939572195768)
+ - Business Analyst için gerekli olan bir araç araştırıldı ve denendi. [Buraya tıklayarak ulaşabilirsiniz.](https://www.figma.com/files/recent?fuid=1136558939572195768)
 
 [**04.08.2022**](https://github.com/bimser-intern/docs/issues/121)
 
@@ -35,7 +35,7 @@ Eğitim süresince ilk stajımı  **Bimser**'de gönüllü stajyer olarak yapmak
  - Issues hakkında sunum hazırlandı.
  - Figma hakkında sunum hazırlandı.
  - Manual test ve otomasyon testi hakkında bir toplantıya katılındı.
- - Business Analyst için nasıl analiz yapılır hakkında video izlendi.[Buraya tıklayarak ulaşabilirsiniz.](https://www.youtube.com/watch?v=ji1sEscrqZs)
+ - Business Analyst için nasıl analiz yapılır hakkında video izlendi. [Buraya tıklayarak ulaşabilirsiniz.](https://www.youtube.com/watch?v=ji1sEscrqZs)
 
 [**05.08.2022**](https://github.com/bimser-intern/docs/issues/162)
 
@@ -43,7 +43,7 @@ Eğitim süresince ilk stajımı  **Bimser**'de gönüllü stajyer olarak yapmak
  - Backend sunumuna katılındı.
  - Frontend sunumuna katılındı.
  - Android sunumuna katılındı.
- - Business Analyst dokümantasyon yöntemleri sunumu yapıldı.[Buraya tıklayarak dokümantasyon yöntemleri dokümanına ulaşabilirsiniz.](https://ba-works.com/blog/gereksinimlerin-dokumantasyonu-hakkinda-merak-edilenler/)
+ - Business Analyst dokümantasyon yöntemleri sunumu yapıldı. [Buraya tıklayarak dokümantasyon yöntemleri dokümanına ulaşabilirsiniz.](https://ba-works.com/blog/gereksinimlerin-dokumantasyonu-hakkinda-merak-edilenler/)
  - Business Analyst sunumuna katılındı.
  - DevOps sunumuna katılındı.
  - Product Owner ile toplantı yapıldı.
