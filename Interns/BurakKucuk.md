@@ -11,6 +11,7 @@ Ben Burak Küçük, Girne Üniversitesi Yazılım Mühendisliği  öğrencisiyim
 - Documentation Specialist ile ilgili araştırmalar yapıldı okundu. [Makaleye buradan erişebilirsiniz.](https://business.linkedin.com/talent-solutions/resources/talent-engagement/job-descriptions/technical-writer#:~:text=Technical%20writers%20are%20skilled%20wordsmiths,information%20with%20ease%20and%20clarity)
 
 [**02.08.2022**](https://github.com/bimser-intern/docs/issues/89)
+
 - Figma ile ilgili dokümantasyon incelendi. [Makaleye buradan erişebilirsiniz.](https://www.userspots.com/rehber/figma-nedir-nasil-kullanilir)
 
 - İş analizi ile ilgili dokümantasyonlar incelendi. [Makaleye buradan erişebilirsiniz.](https://www.albertsolino.com/blog/is-analizi-nedir/)
