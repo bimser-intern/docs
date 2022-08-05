@@ -9,7 +9,7 @@ Yazılım ile üniversitede tanıştım. Son yıllarda, C# dilinde ASP.Net MVC t
 [**01.08.2022**](https://github.com/bimser-intern/docs/issues/107)
 
 - Git nedir, nasıl kullanılır araştırıldı. [Makaleye buradan erişebilirsiniz.](https://coderspace.io/blog/git-nedir-nasil-kullanilir/)
-- Git kurulum işlemleri hakkında araştırma yapıldı. [Makaleye burdan erişebilirsiniz.](https://coderspace.io/blog/git-nedir-nasil-kullanilir/)
+- Git kurulum işlemleri hakkında araştırma yapıldı. [Makaleye buradan erişebilirsiniz.](https://coderspace.io/blog/git-nedir-nasil-kullanilir/)
 - Git kullanımı ile ilgili makaleler okundu. [Makaleye buradan erişebilirsiniz.](https://bidb.itu.edu.tr/seyir-defteri/blog/2019/02/13/git)
 
 [**02.08.2022**](https://github.com/bimser-intern/docs/issues/107)
@@ -27,6 +27,14 @@ Yazılım ile üniversitede tanıştım. Son yıllarda, C# dilinde ASP.Net MVC t
 [**04.09.2022**](https://github.com/bimser-intern/docs/issues/136)
 
 - Daily Scrum toplantsı gerçekleştirildi.
-- Azure eğitimine başlandı. [Detaylara burdan ulaşabilirsiniz.](https://www.udemy.com/course/projelerle-azure-cloud-kursu/learn/lecture/16555000?src=sac&kw=azure#overview)
-- Azurla ilgili çeşitli makaleler okundu. [Yazıya burdan ulaşabilirsiniz.](https://medium.com/devopsturkiye/azure-devops-nedi%CC%87r-ve-nasil-kullanilir-cf0d95ec78bd)
+- Azure eğitimine başlandı. [Detaylara buradan ulaşabilirsiniz.](https://www.udemy.com/course/projelerle-azure-cloud-kursu/learn/lecture/16555000?src=sac&kw=azure#overview)
+- Azurla ilgili çeşitli makaleler okundu. [Yazıya buradan ulaşabilirsiniz.](https://medium.com/devopsturkiye/azure-devops-nedi%CC%87r-ve-nasil-kullanilir-cf0d95ec78bd)
 - Stajyer & Merve Akdağ(Software QA Team Lead) toplantısı gerçekleştirildi.
+
+[**05.09.2022**](https://github.com/bimser-intern/docs/issues/166)
+
+- Daily Scrum toplantısı gerçekleştirildi.
+- Azure sunumu hazırlandı. [Detaylara buradan ulaşabilirsiniz.](https://docs.google.com/presentation/d/1oSvsFzzQYcIALDQ95JD8CAegL5taJ54D/edit?usp=sharing&ouid=113696402408162409574&rtpof=true&sd=true)
+- Azure kurulumla ilgili sunum hazırlandı. [Detaylara buradan ulaşabilirsiniz.](https://docs.google.com/presentation/d/1IFb6ySVJHvR6SpPjRJFy-rX8W73gxbxI/edit?usp=sharing&ouid=113696402408162409574&rtpof=true&sd=true)
+- DevOps stajyer ekibi ile birlikte detaylı DevOps sunumu yapıldı. [Sunumun video kaydına buradan ulaşabilirsiniz.](https://youtu.be/KSHBXY1gU8Q)
+- Sanal Makineler (Virtual Machines), Web siteleri (Web sites), Kurumsal Bulut Hizmetleri (Cloud Services), SQL Database-Tables-Blobs, Virtual Network-Connect-Traffic Manager, SQL Reporting-Hadoop, Queues-Services Bus, Caching teknolojileri hakkında detaylı araştırma yapıldı.
