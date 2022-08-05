@@ -51,8 +51,6 @@ https://discord.gg/TgdnJWfPJ8
 
 - [Abdullah Bodur](Interns/AbdullahBodur.md)
 
-- [Ömer Üçüncü](Interns/OmerUcuncu.md)
-
 - [Rahime Türkmen](Interns/RahimeTurkmen.md)
 
 - [Simge Terzioğlu](Interns/SimgeTerzioglu.md)
@@ -64,3 +62,5 @@ https://discord.gg/TgdnJWfPJ8
 - [Ali Han Pertek](Interns/AliHanPertek.md)
 
 - [Eray Danacı](Interns/ErayDanaci.md)
+
+- [Ömer Üçüncü](Interns/OmerUcuncu.md)
