@@ -6,13 +6,12 @@ Ben Ömer Hamsi, Kocaeli Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.
 
 [**01.08.2022**](https://github.com/bimser-intern/docs/issues/78)
 
-- Markdown nedir, nasıl kullanılır araştırıldı.[Makaleye buradan erişebilirsiniz.](https://www.markdownguide.org/cheat-sheet/) 
-- Git ve Github kullanımı ile ilgili dokumantasyonlar okundu. [Makaleye buradan erişebilirsiniz.](https://bidb.itu.edu.tr/seyir-defteri/blog/2019/02/13/git)
+- Markdown nedir, nasıl kullanılır araştırıldı. [Makaleye buradan erişebilirsiniz.](https://www.markdownguide.org/cheat-sheet/) 
+- Git ve Github kullanımı ile ilgili dokümantasyonlar okundu. [Makaleye buradan erişebilirsiniz.](https://bidb.itu.edu.tr/seyir-defteri/blog/2019/02/13/git)
 
 [**02.08.2022**](https://github.com/bimser-intern/docs/issues/78)
-- Github kullanımı ile ilgili dokumantasyonlar okundu. [Makaleye buradan erişebilirsiniz.](https://www.hosting.com.tr/blog/github-nedir/)
-
-- React ile ilgili dokumantasyon incelendi.[Makaleye buradan erişebilirsiniz.](https://reactjs.org/docs/getting-started.html)
+- Github kullanımı ile ilgili dokümantasyonlar okundu. [Makaleye buradan erişebilirsiniz.](https://www.hosting.com.tr/blog/github-nedir/)
+- React ile ilgili dokümantasyon incelendi. [Makaleye buradan erişebilirsiniz.](https://reactjs.org/docs/getting-started.html)
 
 [**03.08.2022**](https://github.com/bimser-intern/docs/issues/78)
 - Dailyscrum toplantısına katılındı. 
@@ -24,3 +23,9 @@ Ben Ömer Hamsi, Kocaeli Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.
 - Dailyscrum toplantısına katılındı.
 - Sass dokümantasyonu incelendi ve denemeler yapıldı. [Makaleye buradan erişebilirsiniz.](https://sass-lang.com/documentation/)
 - Redux dokümantasyonu, kurs içeriği takip edildi ve çeşitli denemeler yapıldı. [Makaleye buradan erişebilirsiniz.](https://redux.js.org/introduction/getting-started)
+
+[**05.08.2022**](https://github.com/bimser-intern/docs/issues/159)
+- Dailyscrum toplantısına katılındı.
+- Developer ekiplerinin sunumları takip edildi.
+- React ve Material UI ile ilgili sunum yapıldı.
+- React, Sass, Material UI ile ilgili dokümantasyon incelemesi ve çeşitli denemeler yapıldı. 
