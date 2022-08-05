@@ -24,3 +24,9 @@ Ben Ömer Hamsi, Kocaeli Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.
 - Dailyscrum toplantısına katılındı.
 - Sass dokümantasyonu incelendi ve denemeler yapıldı. [Makaleye buradan erişebilirsiniz.](https://sass-lang.com/documentation/)
 - Redux dokümantasyonu, kurs içeriği takip edildi ve çeşitli denemeler yapıldı. [Makaleye buradan erişebilirsiniz.](https://redux.js.org/introduction/getting-started)
+
+[**05.08.2022**](https://github.com/bimser-intern/docs/issues/159)
+- Dailyscrum toplantısına katılındı.
+- Developer ekiplerinin sunumları takip edildi.
+- React ve Material UI ile ilgili sunum yapıldı.
+- React, Sass, Material UI ile ilgili dokümantasyon incelemesi ve çeşitli denemeler yapıldı. 
