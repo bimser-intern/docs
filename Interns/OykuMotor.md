@@ -1,36 +1,42 @@
-## Hakk?nda
+## Hakkinda
 
-Ben Öykü Motor, Kocaeli Üniveristesi son sinif ö?rencisiyim. C,C# ve Java dillerinde okul projeleri yapt?m. Hem web hem de masaüstü uygulamalar geli?tirmi? bulunmaktay?m. Yapt???m projelerde veri taban? olarak MySQL,MsSQL kullan?m?n? ö?rendim.Projeler s?ras?nda NoSQL veri taban? uygulamas? olan MongoDB ve graf veritaban? Neo4j hakk?nda biraz bilgi sahibi oldum. 
-Web tabanl? uygulamalar geli?tirirken genel olarak C# ASP.NET dilini ve Visual Studio geli?tirme ortam?n? kulland?m.
+Ben Öykü Motor, Kocaeli Üniveristesi son sinif ögrencisiyim. C,C# ve Java dillerinde okul projeleri yaptim. Hem web hem de masaüstü uygulamalar gelistirmis bulunmaktayim. Yaptigim projelerde veri tabani olarak MySQL,MsSQL kullanimi ögrendim.Projeler sirasinda NoSQL veri tabani uygulamasi olan MongoDB ve graf veritabani Neo4j hakkinda biraz bilgi sahibi oldum. 
+Web tabanli uygulamalar gelistirirken genel olarak C# ASP.NET dilini ve Visual Studio gelistirme ortamini kullandim.
 
-## Tarihçe
+## Tarihce
 
 [*01.08.2022*](https://github.com/bimser-intern/docs/issues/85)
 
-- Tan??ma toplant?s? yap?ld?. Staj?n ilerleyi?i hakk?nda bilgilendirilme yap?ld?.
+- Tanışma toplantısı yapıldı. Stajın ilerleyişi hakkında bilgilendirilme yapıldı.
 
-- Staj?n ilerleyen günlerinde kullanaca??m?z konular için konu payla??m? yap?ld?.
+- Stajın ilerleyen günlerinde kullanacağımız konular için konu paylaşımı yapıldı.
 
-- Git Branch hakk?nda ara?t?rma yap?ld?.
+- Git ve Github kullanımı konusunda araştırma yapıldı.  [Kursa buradan erişebilirsiniz.](https://www.btkakademi.gov.tr/portal/course/versiyon-kontrolleri-git-ve-github-19439).
 
 [*02.08.2022*](https://github.com/bimser-intern/docs/issues/85)
 
-- Scrum metodolojisi hakk?nda yap?lan sunuma kat?l?m sa?land?.
+- Scrum metodolojisi hakkında yapılan sunuma katılım sağlandı.
 
-- Staj boyunca geli?tirece?imiz uygulama için pozisyonlar seçildi.
+- Staj boyunca geliştireceğimiz uygulama için pozisyonlar seçildi.
+
+- Product Owner'lık pozisyonu hakkında araştırma yapıldı.
+
+- Git Branch konusu için sunum hazırlandı.
 
 [*03.08.2022*](https://github.com/bimser-intern/docs/issues/85)
 
-- Github Görev Yönetimi (Issues) ve Organizasyonu ara?t?r?ld?. [Makaleye buradan eri?ebilirsiniz.](https://medium.com/@noteCe/5-github-görev-yönetimi-i?ssues-ve-organizasyon-1277ef74b409#:~:text=Issues%20(%20Görev%20Yönetimi),%2C%20listeleyebilece?imiz%2C%20yönetebilece?imiz%20bir%20ekran.&text=Issues%27lar%20projelerimizin%20görevlerini%2C%20geli?tirmelerini,izlemek%20için%20harika%20bir%20yoldur.)
+- Geliştireceğimiz anket uygulaması için örnek projeler incelendi.
 
-- Gereksinim dokümantasyonunun nas?l haz?rland??? ara?t?r?ld?. Örnek yaz?l?m proje ?ablonu incelendi. [Makaleye buradan eri?ebilirsiniz.](https://medium.com/@denizkilinc/yaz?l?m-proje-?ablonu-basit-ve-herkese-laz?m-db177dbb294c)
-
-- ?? analizi hakk?nda sunum haz?rland?.
+- Proje geliştirmeye başlanabilmesi için projenin ana adımları yazıldı.
 
 [*04.08.2022*](https://github.com/bimser-intern/docs/issues/139)
 
-- Figma hakk?nda ara?t?rma yap?lmaya ba?land?. Shape tool (objeler), text tool (yaz? arac?), auto layout ve component incelendi. [Makaleye buradan eri?ebilirsiniz.](https://www.userspots.com/rehber/figma-nedir-nasil-kullanilir)
+- Software QA Team Lead Buluşması'na katılım sağlandı.
 
-- Software QA Team Lead Bulu?mas?'na kat?l?m sa?land?.
+[*05.08.2022*](https://github.com/bimser-intern/docs/issues/85)
 
-- Web ve mobil uygulama arayüz tasar?mlar? incelendi.
+- Devops, Fronted, Backend ve Android pozisyonları için hazırlanan sunumlara katılım sağlandı.
+
+- İş analizi ekibiyle projenin detayları konuşuldu.
+
+- Proje için gereken adımlar GitHub'a Issue olarak eklendi.
