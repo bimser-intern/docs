@@ -6,13 +6,12 @@ Ben Ömer Hamsi, Kocaeli Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.
 
 [**01.08.2022**](https://github.com/bimser-intern/docs/issues/78)
 
-- Markdown nedir, nasıl kullanılır araştırıldı.[Makaleye buradan erişebilirsiniz.](https://www.markdownguide.org/cheat-sheet/) 
-- Git ve Github kullanımı ile ilgili dokumantasyonlar okundu. [Makaleye buradan erişebilirsiniz.](https://bidb.itu.edu.tr/seyir-defteri/blog/2019/02/13/git)
+- Markdown nedir, nasıl kullanılır araştırıldı. [Makaleye buradan erişebilirsiniz.](https://www.markdownguide.org/cheat-sheet/) 
+- Git ve Github kullanımı ile ilgili dokümantasyonlar okundu. [Makaleye buradan erişebilirsiniz.](https://bidb.itu.edu.tr/seyir-defteri/blog/2019/02/13/git)
 
 [**02.08.2022**](https://github.com/bimser-intern/docs/issues/78)
-- Github kullanımı ile ilgili dokumantasyonlar okundu. [Makaleye buradan erişebilirsiniz.](https://www.hosting.com.tr/blog/github-nedir/)
-
-- React ile ilgili dokumantasyon incelendi.[Makaleye buradan erişebilirsiniz.](https://reactjs.org/docs/getting-started.html)
+- Github kullanımı ile ilgili dokümantasyonlar okundu. [Makaleye buradan erişebilirsiniz.](https://www.hosting.com.tr/blog/github-nedir/)
+- React ile ilgili dokümantasyon incelendi. [Makaleye buradan erişebilirsiniz.](https://reactjs.org/docs/getting-started.html)
 
 [**03.08.2022**](https://github.com/bimser-intern/docs/issues/78)
 - Dailyscrum toplantısına katılındı. 
