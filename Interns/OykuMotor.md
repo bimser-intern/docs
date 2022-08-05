@@ -1,7 +1,7 @@
-## Hakkinda
+## Hakkında
 
-Ben Öykü Motor, Kocaeli Üniveristesi son sinif ögrencisiyim. C,C# ve Java dillerinde okul projeleri yaptim. Hem web hem de masaüstü uygulamalar gelistirmis bulunmaktayim. Yaptigim projelerde veri tabani olarak MySQL,MsSQL kullanimi ögrendim.Projeler sirasinda NoSQL veri tabani uygulamasi olan MongoDB ve graf veritabani Neo4j hakkinda biraz bilgi sahibi oldum. 
-Web tabanli uygulamalar gelistirirken genel olarak C# ASP.NET dilini ve Visual Studio gelistirme ortamini kullandim.
+Ben Öykü Motor, Kocaeli Üniveristesi son sınıf öğrencisiyim. C,C# ve Java dillerinde okul projeleri yaptım. Hem web hem de masaüstü uygulamalar geliştirmiş bulunmaktayım. Yaptığım projelerde veri tabanı olarak MySQL,MsSQL kullanımını öğrendim.Projeler sırasında NoSQL veri tabanı uygulaması olan MongoDB ve graf veritabanı Neo4j hakkında biraz bilgi sahibi oldum. 
+Web tabanlı uygulamalar geliştirirken genel olarak C# ASP.NET dilini ve Visual Studio geliştirme ortamını kullandım.
 
 ## Tarihce
 
