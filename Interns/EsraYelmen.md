@@ -22,3 +22,10 @@ Ben Esra Yelmen. Bolu Abant İzzet Baysal Üniversitesi Bilgisayar Mühendisliğ
 - Git sunumu yapıldı.
 - GitHub kullanımı daha detaylı araştırıldı.
 - Test Management Tool araştırması yapıldı.
+
+[**04.08.2022**](https://github.com/bimser-intern/docs/issues/145)
+
+- Test senaryosu araştırıldı.
+- Test otomasyon kursuna başlandı.
+- k6 hakkında araştırma yapıldı.
+- Software QA Team Lead Buluşması'na katılım sağlandı.
