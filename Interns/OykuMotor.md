@@ -1,15 +1,15 @@
 ## Hakk?nda
 
-Ben Öykü Motor, Kocaeli Üniveristesi son s?n?f ö?rencisiyim. C,C# ve Java dillerinde okul projeleri yapt?m. Hem web hem de masaüstü uygulamalar geli?tirmi? bulunmaktay?m. Yapt???m projelerde veri taban? olarak MySQL,MsSQL kullan?m?n? ö?rendim.Projeler s?ras?nda NoSQL veri taban? uygulamas? olan MongoDB ve graf veritaban? Neo4j hakk?nda biraz bilgi sahibi oldum. 
+Ben Ã–ykÃ¼ Motor, Kocaeli Ãœniveristesi son sinif Ã¶?rencisiyim. C,C# ve Java dillerinde okul projeleri yapt?m. Hem web hem de masaÃ¼stÃ¼ uygulamalar geli?tirmi? bulunmaktay?m. Yapt???m projelerde veri taban? olarak MySQL,MsSQL kullan?m?n? Ã¶?rendim.Projeler s?ras?nda NoSQL veri taban? uygulamas? olan MongoDB ve graf veritaban? Neo4j hakk?nda biraz bilgi sahibi oldum. 
 Web tabanl? uygulamalar geli?tirirken genel olarak C# ASP.NET dilini ve Visual Studio geli?tirme ortam?n? kulland?m.
 
-## Tarihçe
+## TarihÃ§e
 
 [*01.08.2022*](https://github.com/bimser-intern/docs/issues/85)
 
 - Tan??ma toplant?s? yap?ld?. Staj?n ilerleyi?i hakk?nda bilgilendirilme yap?ld?.
 
-- Staj?n ilerleyen günlerinde kullanaca??m?z konular için konu payla??m? yap?ld?.
+- Staj?n ilerleyen gÃ¼nlerinde kullanaca??m?z konular iÃ§in konu payla??m? yap?ld?.
 
 - Git Branch hakk?nda ara?t?rma yap?ld?.
 
@@ -17,13 +17,13 @@ Web tabanl? uygulamalar geli?tirirken genel olarak C# ASP.NET dilini ve Visual S
 
 - Scrum metodolojisi hakk?nda yap?lan sunuma kat?l?m sa?land?.
 
-- Staj boyunca geli?tirece?imiz uygulama için pozisyonlar seçildi.
+- Staj boyunca geli?tirece?imiz uygulama iÃ§in pozisyonlar seÃ§ildi.
 
 [*03.08.2022*](https://github.com/bimser-intern/docs/issues/85)
 
-- Github Görev Yönetimi (Issues) ve Organizasyonu ara?t?r?ld?. [Makaleye buradan eri?ebilirsiniz.](https://medium.com/@noteCe/5-github-görev-yönetimi-i?ssues-ve-organizasyon-1277ef74b409#:~:text=Issues%20(%20Görev%20Yönetimi),%2C%20listeleyebilece?imiz%2C%20yönetebilece?imiz%20bir%20ekran.&text=Issues%27lar%20projelerimizin%20görevlerini%2C%20geli?tirmelerini,izlemek%20için%20harika%20bir%20yoldur.)
+- Github GÃ¶rev YÃ¶netimi (Issues) ve Organizasyonu ara?t?r?ld?. [Makaleye buradan eri?ebilirsiniz.](https://medium.com/@noteCe/5-github-gÃ¶rev-yÃ¶netimi-i?ssues-ve-organizasyon-1277ef74b409#:~:text=Issues%20(%20GÃ¶rev%20YÃ¶netimi),%2C%20listeleyebilece?imiz%2C%20yÃ¶netebilece?imiz%20bir%20ekran.&text=Issues%27lar%20projelerimizin%20gÃ¶revlerini%2C%20geli?tirmelerini,izlemek%20iÃ§in%20harika%20bir%20yoldur.)
 
-- Gereksinim dokümantasyonunun nas?l haz?rland??? ara?t?r?ld?. Örnek yaz?l?m proje ?ablonu incelendi. [Makaleye buradan eri?ebilirsiniz.](https://medium.com/@denizkilinc/yaz?l?m-proje-?ablonu-basit-ve-herkese-laz?m-db177dbb294c)
+- Gereksinim dokÃ¼mantasyonunun nas?l haz?rland??? ara?t?r?ld?. Ã–rnek yaz?l?m proje ?ablonu incelendi. [Makaleye buradan eri?ebilirsiniz.](https://medium.com/@denizkilinc/yaz?l?m-proje-?ablonu-basit-ve-herkese-laz?m-db177dbb294c)
 
 - ?? analizi hakk?nda sunum haz?rland?.
 
@@ -33,4 +33,4 @@ Web tabanl? uygulamalar geli?tirirken genel olarak C# ASP.NET dilini ve Visual S
 
 - Software QA Team Lead Bulu?mas?'na kat?l?m sa?land?.
 
-- Web ve mobil uygulama arayüz tasar?mlar? incelendi.
+- Web ve mobil uygulama arayÃ¼z tasar?mlar? incelendi.
