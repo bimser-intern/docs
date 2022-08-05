@@ -19,8 +19,8 @@ Python dilini 6 Haziran-18 Temmuz 2022 tarihleri arasında Kocaeli Üniversitesi
 
 [**02.08.2022**](https://github.com/bimser-intern/docs/issues/88)
 
-- Scrum Metodolojileri hakkında sunum yapıldı.[Sunumun video kaydına buradan ulaşabilirsiniz.](https://www.youtube.com/watch?v=eVh3XDIcsrA)
-- Rol alacağım DevOps Engineer pozisyonu hakkında detaylı araştırma yapıldı ve IBM Developer ekibi tarafından hazırlanan DevOps Basics for Everyone kursu izlenmeye başladı.[Kurs adresine buradan ulaşabilirsiniz.](https://learning.edx.org/course/course-v1:IBM+CD0115EN+1T2022/home)
+- Scrum Metodolojileri hakkında sunum yapıldı. [Sunumun video kaydına buradan ulaşabilirsiniz.](https://www.youtube.com/watch?v=eVh3XDIcsrA)
+- Rol alacağım DevOps Engineer pozisyonu hakkında detaylı araştırma yapıldı ve IBM Developer ekibi tarafından hazırlanan DevOps Basics for Everyone kursu izlenmeye başladı. [Kurs adresine buradan ulaşabilirsiniz.](https://learning.edx.org/course/course-v1:IBM+CD0115EN+1T2022/home)
 
 [**03.08.2022**](https://github.com/bimser-intern/docs/issues/122)
 
