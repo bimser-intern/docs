@@ -30,3 +30,10 @@ Yazılım ile üniversitede tanıştım. Üniversite eğitimimde C, C#, C++, Pyt
 - Software QA Team Lead Buluşması etkinliğine katılım sağlandı.
 - Figma konusu araştırıldı. [Buradan erişebilirsiniz.](https://www.youtube.com/watch?v=Mw0hEbjFL78)
 - Business Analyst için nasıl analiz yapılır hakkında video izlenildi. [Buradan erişebilirsiniz.](https://www.youtube.com/watch?v=ji1sEscrqZs)
+
+[**05.08.2022**](https://github.com/bimser-intern/docs/issues/164)
+
+- Daily scrum toplantısı yapıldı.
+- İş analizi sunumu yapıldı.
+- Yapılan diğer sunumlara katılım sağlandı.
+- Product Owner ile görüşüldü ve proje hakkında bilgi alındı.
