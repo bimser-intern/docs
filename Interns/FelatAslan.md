@@ -5,7 +5,7 @@ Yazılım ile üniversitede tanıştım. Başta Algoritma Temelleri olmakla bera
 
 ## Tarihçe
 
-[**01.08.2022**](https://www.alastyr.com/blog/frontend-developer-kimdir-ne-is-yapar/#:~:text=FrontEnd%20developer%20olarak%20ifade%20edilen,web%20sitesinin%20en%20%C3%B6nemli%20alanlar%C4%B1d%C4%B1r.)
+[**01.08.2022**](https://github.com/bimser-intern/docs/issues/92)
 
 - Frontend Developer kimdir?
 - Görevleri nelerdir?
@@ -14,7 +14,7 @@ Yazılım ile üniversitede tanıştım. Başta Algoritma Temelleri olmakla bera
 - Frontend Developer RoadMap 
   Konuları araştırıldı sunum oluşturuldu. [makaleye-burdan-ulaşabilirsiniz](https://www.alastyr.com/blog/frontend-developer-kimdir-ne-is-yapar/#:~:text=FrontEnd%20developer%20olarak%20ifade%20edilen,web%20sitesinin%20en%20%C3%B6nemli%20alanlar%C4%B1d%C4%B1r.)
 
-[**02.08.2022**]()
+[**02.08.2022**](https://github.com/bimser-intern/docs/issues/92)
 
 - Frontend Developer kimdir?
 - Görevleri nelerdir?
@@ -28,12 +28,20 @@ Yazılım ile üniversitede tanıştım. Başta Algoritma Temelleri olmakla bera
 - Yapılan iş bölümü dahilinde Redis ve SASS konularında ön araştırma yapıldı.[detaylara-buradan-ulaşabilirsiniz.](https://devnot.com/2020/redis-nedir-temel-kullanim-alanlari-nelerdir/)
 [detaylara-buradan-ulaşabilirsiniz.](https://drupart.com.tr/blog/sass-nedir-nasil-kullanilir)
 
-[**03.08.2022**]()
+[**03.08.2022**](https://github.com/bimser-intern/docs/issues/92)
 - Sabah daily toplantısı Yapıldı.
 - Git version System Sunumu izlendi.
-- Redis ve SASS hakkında araştırma yapıldı. [detaylara-buradan-ulaşabilirsiniz]()
+- Redis ve SASS hakkında araştırma yapıldı. 
+[detaylara-buradan-ulaşabilirsiniz](https://devnot.com/2020/redis-nedir-temel-kullanim-alanlari-nelerdir/)
+[detaylara-buradan-ulaşabilirsiniz](https://drupart.com.tr/blog/sass-nedir-nasil-kullanilir)
 
-[**04.08.2022**]()
+[**04.08.2022**](https://github.com/bimser-intern/docs/issues/147)
 - Sabah daily toplantısı yapıldı.
 - Öğleden sonra staj bilgilendirme toplantısına katıldım.
 - Redis ve SASS hakkında yapılan araştırma ile ilgili sunum hazırlandı.
+
+[**05.08.2022**](https://github.com/bimser-intern/docs/issues/157)
+- Sabah daily scrum toplantısı yapıldı.
+- Redis ve Sass ile alakalı hazırlanan sunum sunuldu.
+- Developer ekiplerinin sunumları izlendi.
+- Js ile alakalı araştırma yapıldı.
