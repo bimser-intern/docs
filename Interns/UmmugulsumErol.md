@@ -25,3 +25,20 @@ Yazılım ile üniversitede tanıştım. C eğitimi aldım. Okul haricinde kendi
 
 - Test management tools araştırması yapıldı.
 - Yazılım test uygulamaları ile ilgili bir workshop izlenmeye başlandı. [Videoya buradan ulaşabilirsiniz.](https://www.youtube.com/watch?v=1I0rmsGkI3E&ab_channel=BSTAkademi)
+
+[**04.08.2022**](https://github.com/bimser-intern/docs/issues/125)
+
+- Test senaryosu hakkında araştırma yapıldı. [Makaleye buradan ulaşabilirsiniz.](https://yasinalbakir.net/test-senaryosu-nasil-yazilir/)
+- Selenium hakkında araştırma yapıldı. [Makaleye buradan ulaşabilirsiniz.](https://tr.linkedin.com/pulse/selenium-nedir-neden-kullan%C4%B1l%C4%B1r-elif-%C3%A7a%C4%9Flayan)
+- Yazılım testi ve test senaryosu hakkında sunum hazırlandı.
+- Selenium hakkında sunum hazırlandı.
+- Yazılım test uygulamaları workshop videosu tamamlandı. [Videoya buradan ulaşabilirsiniz.](https://www.youtube.com/watch?v=1I0rmsGkI3E&ab_channel=BSTAkademi)
+- Software QA Team Lead Buluşması etkinliğine katılım sağlandı.
+
+[**05.08.2022**](https://github.com/bimser-intern/docs/issues/125)
+
+- Yazılım testi ve test senaryosu sunumu yapıldı.
+- Selenium sunumu yapıldı.
+- Front-end, back-end, devops, android ve analiz sunumlarına katılım sağlandı.
+- Product owner ve analiz ekibinin toplantısına katılım sağlandı.
+- Test management tools araştırması yapıldı.
