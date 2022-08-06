@@ -34,5 +34,17 @@ Ben Enise Arslan, Kocaeli Üniversitesi Bilgisayar Mühendisliği son sınıf ö
 
 - Web ve mobil uygulama arayüz tasarımları incelendi.
 
+[**05.08.2022**](https://github.com/bimser-intern/docs/issues/176)
+
+- Daily scrum toplantısına katılındı.
+
+- Developer ekiplerinin sunumlarına katılındı.(Backend, Android, Fronted ve Test ekibi)
+
+- İş analizi nedir, iş tanımı ve görevleri hakkında sunum yapıldı.
+
+- Figma eğitimine devam edildi.
+ 
+- Product owner'la analiz ekibinin toplantısına katılındı.
+
 
 
