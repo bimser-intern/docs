@@ -63,4 +63,7 @@ https://discord.gg/TgdnJWfPJ8
 
 - [Eray Danacı](Interns/ErayDanaci.md)
 
+- [Öykü Motor](Interns/OykuMotor.md)
+
 - [Ömer Üçüncü](Interns/OmerUcuncu.md)
+
