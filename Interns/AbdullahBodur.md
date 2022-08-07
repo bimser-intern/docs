@@ -5,20 +5,25 @@ Ben Abdullah Bodur, Hacettepe Üniversitesi Bilgisayar Mühendisliği öğrencis
 ## Tarihçe
 
 [**01.08.2022**](https://github.com/bimser-intern/docs/issues/94)
-- Staj ekibi ile tanıştım
-- Security Engineer konusunu araştırdım
+- Staj ekibi ile tanıştım.
+- Security Engineer konusunu araştırdım.
 
 [**02.08.2022**](https://github.com/bimser-intern/docs/issues/94)
-- Dünkü verilen sunumlar bugün yapıldı
+- Dünkü verilen sunumlar bugün yapıldı.
 - Görevlendirilmeler yapıldı, ben backend developer görevini aldım.
-- Neo4J Kütüphanesini araştırdım [detaylara buradan ulaşabilirsiniz](https://neo4j.com/developer/javascript/)
+- Neo4J Kütüphanesini araştırdım. [detaylara buradan ulaşabilirsiniz](https://neo4j.com/developer/javascript/)
 
 [**03.08.2022**](https://github.com/bimser-intern/docs/issues/94)
-- Sabah Daily toplantısı yapıldı
-- Git & Github sunumu yapıldı
-- AuraDB Kütüphanesini araştırdım [detaylara buradan ulaşabilirsiniz](https://neo4j.com/docs/aura/auradb/)
+- Sabah Daily toplantısı yapıldı.
+- Git & Github sunumu yapıldı.
+- AuraDB Kütüphanesini araştırdım. [detaylara buradan ulaşabilirsiniz](https://neo4j.com/docs/aura/auradb/)
 
 [**04.08.2022**](https://github.com/bimser-intern/docs/issues/130)
-- Sabah Daily toplantısı yapıldı
-- Backend teknolojileri hakkında sunum hazırlandı
+- Sabah Daily toplantısı yapıldı.
+- Backend teknolojileri hakkında sunum hazırlandı.
 - Software QA Team Lead Buluşması etkinliğine katılım sağlandı.
+
+[**05.08.2022**](https://github.com/bimser-intern/docs/issues/184)
+- Sabah Daily toplantısı yapıldı.
+- Backend teknolojileri hakkında sunum yapıldı.
+- Gerekli toollar yüklendi.
