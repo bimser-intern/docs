@@ -35,3 +35,9 @@ Ben Kerem Erkubilay, Düzce Üniversitesinde Bilgisayar Mühendisliği okuyorum.
 - Test sunumuna katılındı.
 - Devops sunumuna katılındı.
 - Kotlin ve mobil uygulama geliştirme hakkında araştırmalara devam edildi.
+
+[**08.08.2022**]
+- Daily Scrum yapıldı.
+- Sprint planlama toplantısına katılındı.
+- Seçilen issuelar hakkında araştırma yapıldı.
+- Sprintte seçilen sayfalar yapılmaya başlandı.
