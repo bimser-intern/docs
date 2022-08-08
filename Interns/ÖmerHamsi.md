@@ -29,3 +29,10 @@ Ben Ömer Hamsi, Kocaeli Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.
 - Developer ekiplerinin sunumları takip edildi.
 - React ve Material UI ile ilgili sunum yapıldı.
 - React, Sass, Material UI ile ilgili dokümantasyon incelemesi ve çeşitli denemeler yapıldı. 
+
+[**08.08.2022**](https://github.com/bimser-intern/docs/issues/194)
+- Sprint planlama toplantısına katılım sağlandı.
+- React projesi kurulumu gerçekleştirildi.
+- Proje için gerekli kütüphane kurulumları gerçekleştirildi.
+- Routing işlemleri yapılmaya başlandı.
+- Giriş ve login sayfası tasarımları yapılmaya başlandı.
