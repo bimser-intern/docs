@@ -27,5 +27,12 @@ Ben Esra Yelmen. Bolu Abant İzzet Baysal Üniversitesi Bilgisayar Mühendisliğ
 
 - Test senaryosu araştırıldı.
 - Test otomasyon kursuna başlandı.
-- k6 hakkında araştırma yapıldı.
+- k6 hakkında araştırma yapıldı ve sunum hazırlandı.
 - Software QA Team Lead Buluşması'na katılım sağlandı.
+
+[**05.08.2022**](https://github.com/bimser-intern/docs/issues/181)
+
+- k6 Load Test Tool hakkında sunum yapıldı.
+- Back-end, Front-end, Android, DevOps, Analiz sunumlarına katılım sağlandı.
+- Test Management Tool araştırması yapıldı.
+- Product Owner ve Analiz ekibinin toplantısına katılım sağlandı.
