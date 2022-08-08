@@ -37,3 +37,9 @@ Yazılım ile üniversitede tanıştım. Üniversite eğitimimde C, C#, C++, Pyt
 - İş analizi sunumu yapıldı.
 - Yapılan diğer sunumlara katılım sağlandı.
 - Product Owner ile görüşüldü ve proje hakkında bilgi alındı.
+
+[**08.08.2022**](https://github.com/bimser-intern/docs/issues/199)
+
+- Daily scrum toplantısı yapıldı.
+- Sprint planlama toplantısına katılım sağlandı.
+- Surveysaurus projesinin tasarımı ve analizi üzerinde düzenlemeler yapıldı.
