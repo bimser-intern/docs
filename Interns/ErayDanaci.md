@@ -67,3 +67,17 @@ Yazılım ile lisede tanıştım. 4 yıl boyunca web programlama dersleri aldım
 - Redux ve Redux-Saga konuları hakkında sunum yapıldı.
 
 - React araştırıldı.
+
+[**08.08.2022**](https://github.com/bimser-intern/docs/issues/197)
+
+
+
+- Sprint planlama toplantısına katılım sağlandı.
+
+- React proje kurulumu gerçekleştirildi.
+
+- Gerekli eklentilerin kurulumu yapıldı.
+
+- React kursuna devam edildi.
+
+- Giriş sayfası üzerinde çalışılmaya başlandı.
