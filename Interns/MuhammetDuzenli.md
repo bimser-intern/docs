@@ -41,3 +41,13 @@ Python dilini 6 Haziran-18 Temmuz 2022 tarihleri arasında Kocaeli Üniversitesi
 - Continuous Delivery konusundaki araştırma detaylandırıldı. [Makaleye buradan ulaşabilirsiniz.](https://www.ibm.com/cloud/learn/continuous-delivery)
 - GitFlow, GitHub Gitflow ve Trunk-Based Development konuları araştırıldı. [Makaleye buradan ulaşabilirsiniz.](https://www.toptal.com/software/trunk-based-development-git-flow)
 - DevOps stajyer ekibi ile birlikte detaylı DevOps sunumu yapıldı. [Sunumun video kaydına buradan ulaşabilirsiniz.](https://youtu.be/KSHBXY1gU8Q)
+
+
+[**08.08.2022**](https://github.com/bimser-intern/docs/issues/188)
+
+- Resmi Docker dokümantasyonu incelendi ve başlangıç seviyesindeki örnekler yapıldı. [Dokümantasyona buradan ulaşabilirsiniz.](https://docs.docker.com/get-started/)
+- Çeşitli Docker Image dosyaları oluşturuldu.
+- Docker ile alakalı kurs izlendi. [Kursa buradan ulaşabilirsiniz.](https://www.udemy.com/course/adan-zye-docker/)
+- Azure DevOps ve Docker ilişkili kurs izlendi. [Kursa buradan ulaşabilirsiniz.](https://www.udemy.com/course/devops-using-vsts-docker-azure/)
+- Docker Compose ile alakalı kurs izlendi. [Kursa buradan ulaşabilirsiniz.](https://www.youtube.com/watch?v=cu3_ldKZ0os)
+- Sprint planlama toplantısına katılım sağlandı.
