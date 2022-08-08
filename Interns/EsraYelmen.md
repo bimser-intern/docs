@@ -36,3 +36,19 @@ Ben Esra Yelmen. Bolu Abant İzzet Baysal Üniversitesi Bilgisayar Mühendisliğ
 - Back-end, Front-end, Android, DevOps, Analiz sunumlarına katılım sağlandı.
 - Test Management Tool araştırması yapıldı.
 - Product Owner ve Analiz ekibinin toplantısına katılım sağlandı.
+
+[**08.08.2022**](https://github.com/bimser-intern/docs/issues/196)
+
+- Sprint planlama toplantısına katılım sağlandı.
+- SpiraTest Test Management Tool dokümanı incelendi.
+- SpiraTest üzerinde test senaryosu oluşturma örnekleri yapıldı.
+
+
+
+
+
+
+
+
+
+
