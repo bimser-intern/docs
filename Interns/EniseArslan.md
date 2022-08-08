@@ -48,11 +48,11 @@ Ben Enise Arslan, Kocaeli Üniversitesi Bilgisayar Mühendisliği son sınıf ö
 
 [**08.08.2022**](https://github.com/bimser-intern/docs/issues/190)
 
-- Daily scrum toplantısına katılındı.
+- Daily scrum toplantısına katılınm sağlandı.
 
 - Surveysaurus projesinin analizinin son hali düzenlendi.
 
-- Sprint planlama toplantısına katılındı.
+- Sprint planlama toplantısına katılım sağlandı.
 
 
 
