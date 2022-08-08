@@ -48,7 +48,7 @@ Yazılım ile üniversitede tanıştım. Başta Algoritma Temelleri olmakla bera
 
 [**08.08.2022**](https://github.com/bimser-intern/docs/issues/192)
 - Sabah daily scrum yapıldı. 
-- Js ile ile ilgili kurs videoları izlendi.
+- Js ile ilgili kurs videoları izlendi.
 - İlk sprint planing toplantısı yapıldı.
 - Haftalık sprint toplantısında  görevlerin iş yüklerine göre zorluğu derecelendirildi.
 - Yazılım geliştirme takımları arasında görev dağılımları yapıldı.
