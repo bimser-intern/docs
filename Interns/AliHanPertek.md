@@ -42,7 +42,7 @@ Yazılım ile üniversitede tanıştım. Son yıllarda, C# dilinde ASP.Net MVC t
 [**08.08.2022**](https://github.com/bimser-intern/docs/issues/198)
 
 - Docker kursları izlendi. [Detaylara buradan ulaşabilirsiniz.](https://www.udemy.com/course/docker-tr/learn/lecture/14177613#overview)
-- Resmi Docker dokümanları araştırıldı.[Dokümana buradan ulaşabilirsiniz.](https://docs.docker.com/compose/gettingstarted/)
+- Resmi Docker dokümanları araştırıldı. [Dokümana buradan ulaşabilirsiniz.](https://docs.docker.com/compose/gettingstarted/)
 - Docker imaj dosyalarının genel yapısı araştırıldı.
-- Azure DevOps'la ilgili kurslar izlendi.[Detaylara buradan ulaşabilirsiniz.](https://www.udemy.com/course/azure-devops-ci-cd-pipelines/learn/lecture/15110250?src=sac&kw=azure+de#overview)
+- Azure DevOps'la ilgili kurslar izlendi. [Detaylara buradan ulaşabilirsiniz.](https://www.udemy.com/course/azure-devops-ci-cd-pipelines/learn/lecture/15110250?src=sac&kw=azure+de#overview)
 - Sprint planlama toplantısına katılım sağlandı.
