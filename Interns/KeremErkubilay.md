@@ -41,3 +41,8 @@ Ben Kerem Erkubilay, Düzce Üniversitesinde Bilgisayar Mühendisliği okuyorum.
 - Sprint planlama toplantısına katılındı.
 - Seçilen issuelar hakkında araştırma yapıldı.
 - Sprintte seçilen sayfalar yapılmaya başlandı.
+
+[**09.08.2022**]
+- Daily Scrum yapıldı.
+- Kullanıcıların login sayfası aracılığıyla hesaplarına erişimlerini sağlayacakları sayfa geliştirildi.
+- Yapılan sayfadaki eksiklikler gözden geçirildi.
