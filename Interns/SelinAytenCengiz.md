@@ -81,4 +81,40 @@ Ben Selin Ayten Cengiz, Kocaeli Üniversitesi, Bilgisayar Mühendisliği Bölüm
 
 - Android ile alakalı componentler(Rxjava ve Retrofit) araştırıldı ve öğrenildi.
 
+[**08.08.2022**](https://github.com/bimser-intern/docs/issues/216)
+
+- Daily Scrum yapıldı.
+
+- Code review yapıldı.
+
+- Sprint planlama toplantısına katılındı.
+
+- Sprint dahilindeki issue'lar paylaştırıldı.
+
+- Yapılan figma analizleri baz alınarak projenin  giriş sayfası geliştirildi.
+
+   - Sayfa başında ortalanmış bir şekilde uygulamanın logosu ve 'Surveysaurus' yazısı bulunmalıdır. Logo ve marka adının (Surveysaurus) altında 'Create your Survey Saurus for free' yazısı yazmalıdır.
+
+   - Create your Survey Saurus for free'yazısının altında yine sayfayı ortalayacak şekilde anket oluşturma butonu olmalıdır.Buton üstünde 'Create Survey' yazısı yazmalıdır.
+
+   - Create Survey' butonunun altında kullanıcıyı, uygulamada var olan anket listesine nasıl ulaşabileceğine yönlendirecek olan 'Swipe To See Our Surveys' yazısı ile belirtilmelidir.
+
+   - Sayfanın üst barında orta kısımda uygulamanın logosu bulunmalıdır.
+
+   
+
+[**09.08.2022**](https://github.com/bimser-intern/docs/issues/216)
+
+- Daily Scrum yapıldı.
+
+- Code review yapıldı.
+
+- Yapılan figma analizleri baz alınarak projenin toolbar'ı geliştirildi.
+
+  - Sayfanın sağ üst köşesinde kullanıcının profil bilgilerine ulaşabileceği profil ikonu bulunmalıdır. Bu ikona tıklandığında açılır menü ile giriş yapılmış ise kullanıcı "User Info", "My surveys" ve "Log out" seçeneklerine ulaşabilmelidir.
+
+  - Sayfanın sol üst kısmında üç çizik halinde ikon bulunmalı ve bu ikona basılabilmelidir. İkona basıldığında 'Home' 'Sign Up','Login' işlemleri çıkmalıdır.Kullanıcı giriş yapmış ise 'Sign In','Sign Up' işlemleri yerine '@username' yazmalıdır.
+
+  - Butonların , menülerin ve kaydırma işlemlerinin yönlendirmeleri yapılmıştır.
+
 
