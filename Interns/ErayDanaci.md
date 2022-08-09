@@ -81,3 +81,11 @@ Yazılım ile lisede tanıştım. 4 yıl boyunca web programlama dersleri aldım
 - React kursuna devam edildi.
 
 - Giriş sayfası üzerinde çalışılmaya başlandı.
+
+[**09.08.2022**](https://github.com/bimser-intern/docs/issues/218)
+
+
+
+- React kursuna devam edildi.
+
+- Giriş sayfası ve menü yapıldı.
