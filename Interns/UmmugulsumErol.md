@@ -42,3 +42,16 @@ Yazılım ile üniversitede tanıştım. C eğitimi aldım. Okul haricinde kendi
 - Front-end, back-end, devops, android ve analiz sunumlarına katılım sağlandı.
 - Product owner ve analiz ekibinin toplantısına katılım sağlandı.
 - Test management tools araştırması yapıldı.
+
+[**08.08.2022**](https://github.com/bimser-intern/docs/issues/210)
+
+- Sprint planlama toplantısına katılım sağlandı.
+- Test management tool seçimi yapıldı.
+- SpiraTest dokümanı incelendi. [Dokümana buradan ulaşabilirsiniz.](https://spiradoc.inflectra.com/SpiraTest-Quick-Start-Guide/?_ga=2.216784086.173773726.1659906522-182466970.1659714055&_gac=1.248912501.1659906522.Cj0KCQjwxb2XBhDBARIsAOjDZ36KIMmGW4pvR8wctCKzl9r5azMEwp64BQwtHykRKOPxQsdEEH0GJHsaAgSsEALw_wcB)
+- SpiraTest içerisinde senaryo denemesi yapıldı. 
+
+[**09.08.2022**](https://github.com/bimser-intern/docs/issues/210)
+
+- Test management tool konusunda oluşan soruna çözüm arandı. 
+- Test management tool konusunda araştırma ve inceleme yapıldı.
+- Test senaryoları yazılmaya başlandı. 
