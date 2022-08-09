@@ -51,3 +51,9 @@ Python dilini 6 Haziran-18 Temmuz 2022 tarihleri arasında Kocaeli Üniversitesi
 - Azure DevOps ve Docker ilişkili kurs izlendi. [Kursa buradan ulaşabilirsiniz.](https://www.udemy.com/course/devops-using-vsts-docker-azure/)
 - Docker Compose ile alakalı kurs izlendi. [Kursa buradan ulaşabilirsiniz.](https://www.youtube.com/watch?v=cu3_ldKZ0os)
 - Sprint planlama toplantısına katılım sağlandı.
+
+[**09.08.2022**](https://github.com/bimser-intern/docs/issues/224)
+
+- Azure Container Registry işlemleri yapıldı.
+- Docker komutları tekrarlandı ve image işlemleri yapıldı.
+ 
