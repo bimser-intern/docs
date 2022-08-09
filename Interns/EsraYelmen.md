@@ -42,3 +42,9 @@ Ben Esra Yelmen. Bolu Abant İzzet Baysal Üniversitesi Bilgisayar Mühendisliğ
 - Sprint planlama toplantısına katılım sağlandı.
 - SpiraTest Test Management Tool dokümanı incelendi.
 - SpiraTest üzerinde test senaryosu oluşturma örnekleri yapıldı.
+
+[**09.08.2022**](https://github.com/bimser-intern/docs/issues/220)
+
+-Test Management Tool konusunda oluşan probleme ekipçe çözüm arandı.
+-Test senaryoları yazılmaya başlandı.
+
