@@ -36,3 +36,7 @@ Ben Ömer Hamsi, Kocaeli Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.
 - Proje için gerekli kütüphane kurulumları gerçekleştirildi.
 - Routing işlemleri yapılmaya başlandı.
 - Giriş ve login sayfası tasarımları yapılmaya başlandı.
+
+[**09.08.2022**](https://github.com/bimser-intern/docs/issues/213)
+- Dailyscrum toplantısına katılındı.
+- Giriş, login ve sign up sayfaları tasarımları yapıldı.
