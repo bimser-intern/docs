@@ -40,6 +40,13 @@ Ben Burak Küçük, Girne Üniversitesi Yazılım Mühendisliği  öğrencisiyim
 
 - Test sunumuna katılındı.
 
+[**08.08.2022**](https://github.com/bimser-intern/docs/issues/204)
+
+- Sprint planlama toplantısına katılım sağlandı.
+
+- Surveysaurus projesinin tasarımı ve analizi üzerinde düzenlemeler yapıldı.
+
+
 
 
 
