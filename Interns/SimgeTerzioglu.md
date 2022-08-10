@@ -49,3 +49,10 @@ Yazılım ile üniversitede tanıştım. Üniversite eğitimimde C, C#, C++, Pyt
 - Daily scrum toplantısı yapıldı.
 - SpiraTest konusunda araştırma yapıldı.
 - Test senaryoları yazıldı.
+
+[**10.08.2022**](https://github.com/bimser-intern/docs/issues/239)
+
+- Daily scrum toplantısı yapıldı.
+- Software Development Unit Manager Buluşması'na katılım sağlandı.
+- Analizler üzerinde düzenlemeler yapıldı.
+- Web kısmının test senaryoları gözden geçirildi ve tamamlandı. 
