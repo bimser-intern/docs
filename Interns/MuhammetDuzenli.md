@@ -57,3 +57,12 @@ Python dilini 6 Haziran-18 Temmuz 2022 tarihleri arasında Kocaeli Üniversitesi
 - Azure Container Registry işlemleri yapıldı.
 - Docker komutları tekrarlandı ve image işlemleri yapıldı.
  
+[**10.08.2022**](https://github.com/bimser-intern/docs/issues/232)
+
+- Docker uygulamaları için ACR dokümantasyonu incelendi. [Makaleye buradan ulaşabilirsiniz.](https://docs.microsoft.com/en-us/cli/azure/acr?view=azure-cli-latest)
+- Azure CLI dokümantasyonu incelendi. [Makaleye buradan ulaşabilirsiniz.](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-azure-cli)
+- Ahmet Alp BALKAN tarafından hazırlanan Docker ve Container içerikli video serisi izlendi. [Oynatma listesine buradan ulaşabilirsiniz.](https://youtube.com/playlist?list=PLe1QWkyzVMv6psIEboToi7sbcNpQlhc9c)
+- Node.js ve React tabanlı uygulamalar için Dockerfile yazıldı.
+- Azure Container App ile 2 farklı uygulama ayağa kaldırıldı.
+- Software Development Unit Manager Buluşması etkinliğine katılım sağlandı.
+  
