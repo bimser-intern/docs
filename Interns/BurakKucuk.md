@@ -46,6 +46,21 @@ Ben Burak Küçük, Girne Üniversitesi Yazılım Mühendisliği  öğrencisiyim
 
 - Surveysaurus projesinin tasarımı ve analizi üzerinde düzenlemeler yapıldı.
 
+[**09.08.2022**](https://github.com/bimser-intern/docs/issues/248)
+
+- Daily scrum toplantısına katınıldı.
+
+- Analizler ve tasarımlar üzerinde düzenlemeler yapıldı.
+
+[**10.08.2022**](https://github.com/bimser-intern/docs/issues/248)
+
+- Daily scrum toplantısına katınıldı.
+
+- Rest api servisi ile ilgili araştırmalar yapıldı.
+
+-  Software Development Unit Manager Buluşması yapıldı.
+
+
 
 
 
