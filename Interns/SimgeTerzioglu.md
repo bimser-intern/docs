@@ -43,3 +43,9 @@ Yazılım ile üniversitede tanıştım. Üniversite eğitimimde C, C#, C++, Pyt
 - Daily scrum toplantısı yapıldı.
 - Sprint planlama toplantısına katılım sağlandı.
 - Surveysaurus projesinin tasarımı ve analizi üzerinde düzenlemeler yapıldı.
+
+[**09.08.2022**](https://github.com/bimser-intern/docs/issues/212)
+
+- Daily scrum toplantısı yapıldı.
+- SpiraTest konusunda araştırma yapıldı.
+- Test senaryoları yazıldı.
