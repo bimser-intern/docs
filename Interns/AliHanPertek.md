@@ -41,6 +41,7 @@ Yazılım ile üniversitede tanıştım. Son yıllarda, C# dilinde ASP.Net MVC t
 
 [**08.08.2022**](https://github.com/bimser-intern/docs/issues/198)
 
+- Daily Scrum toplantısı gerçekleştirildi.
 - Docker kursları izlendi. [Detaylara buradan ulaşabilirsiniz.](https://www.udemy.com/course/docker-tr/learn/lecture/14177613#overview)
 - Resmi Docker dokümanları araştırıldı. [Dokümana buradan ulaşabilirsiniz.](https://docs.docker.com/compose/gettingstarted/)
 - Docker imaj dosyalarının genel yapısı araştırıldı.
@@ -49,7 +50,16 @@ Yazılım ile üniversitede tanıştım. Son yıllarda, C# dilinde ASP.Net MVC t
 
 [**09.08.2022**](https://github.com/bimser-intern/docs/issues/222)
 
+- Daily Scrum toplantısı gerçekleştirildi.
 - Docker compos yapısı incelendi. [Detaylara buradan ulaşabilirsiniz.](https://www.youtube.com/watch?v=HG6yIjZapSA)
 - Docker imaj oluşturmayla ilgili videolar izlendi. [Detaylara buradan ulaşabilirsiniz.](https://www.youtube.com/watch?v=OPoaiSIOOSQ)
 - Azura oluşturmuş olduğumuz imajlarını yükledik.
 - Docker portainer imajının kullanımı hakkında video izlendi. [Detaylara buradan ulaşabilirsiniz.](https://www.youtube.com/watch?v=9jDKyouULns)
+
+[**10.08.2022**](https://github.com/bimser-intern/docs/issues/234)
+
+- Daily Scrum toplantısı gerçekleştirildi.
+- Mobile DevOps with App Center ile ilgili videolar izlendi. [Detaylara buradan ulaşabilirsiniz.](https://www.youtube.com/watch?v=su-qGafvkCU)
+- Çeşitli Dockerfile dosyaları yazıldı.
+- Azure ve Docker kursları izlendi.
+- Software Development Unit Manager Buluşması etkinliğine katılım sağlandı.
