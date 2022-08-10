@@ -46,3 +46,10 @@ Yazılım ile üniversitede tanıştım. Son yıllarda, C# dilinde ASP.Net MVC t
 - Docker imaj dosyalarının genel yapısı araştırıldı.
 - Azure DevOps'la ilgili kurslar izlendi. [Detaylara buradan ulaşabilirsiniz.](https://www.udemy.com/course/azure-devops-ci-cd-pipelines/learn/lecture/15110250?src=sac&kw=azure+de#overview)
 - Sprint planlama toplantısına katılım sağlandı.
+
+[**09.08.2022**](https://github.com/bimser-intern/docs/issues/222)
+
+- Docker compos yapısı incelendi. [Detaylara buradan ulaşabilirsiniz.](https://www.youtube.com/watch?v=HG6yIjZapSA)
+- Docker imaj oluşturmayla ilgili videolar izlendi. [Detaylara buradan ulaşabilirsiniz.](https://www.youtube.com/watch?v=OPoaiSIOOSQ)
+- Azura oluşturmuş olduğumuz imajlarını yükledik.
+- Docker portainer imajının kullanımı hakkında video izlendi. [Detaylara buradan ulaşabilirsiniz.](https://www.youtube.com/watch?v=9jDKyouULns)
