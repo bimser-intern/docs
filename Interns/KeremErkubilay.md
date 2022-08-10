@@ -46,3 +46,7 @@ Ben Kerem Erkubilay, Düzce Üniversitesinde Bilgisayar Mühendisliği okuyorum.
 - Daily Scrum yapıldı.
 - Kullanıcıların login sayfası aracılığıyla hesaplarına erişimlerini sağlayacakları sayfa geliştirildi.
 - Yapılan sayfadaki eksiklikler gözden geçirildi.
+
+[**09.08.2022**]
+- Daily Scrum yapıldı.
+- Login ve sign up sayfalarının tasarımı tamamlandı.
