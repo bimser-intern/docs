@@ -53,3 +53,11 @@ Yazılım ile üniversitede tanıştım. Başta Algoritma Temelleri olmakla bera
 - Haftalık sprint toplantısında  görevlerin iş yüklerine göre zorluğu derecelendirildi.
 - Yazılım geliştirme takımları arasında görev dağılımları yapıldı.
 - Frontend kısmında ana sayfanın tasarımı yapıldı.
+
+[**09.08.2022**](https://github.com/bimser-intern/docs/issues/208)
+
+- Sabah daily scrum toplantısı yapıldı.
+- Takım arkadaşları ile proje ile ilgili toplantı yapıldı.
+- Görev ayrımı yapıldı.
+- React üzerine araştırma yapıldı.
+- Projenin login ve register bölümleri üzerine çalışıldı.
