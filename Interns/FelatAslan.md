@@ -67,3 +67,12 @@ Yazılım ile üniversitede tanıştım. Başta Algoritma Temelleri olmakla bera
 - Software unit manager stajer bilgilendirme toplantısına katıldım.
 - React üzerine araştırma yapıldı.
 - Projenin login ve register bölümleri yapıldı.
+
+[**11.08.2022**](https://github.com/bimser-intern/docs/issues/257)
+- Sabah daily scrum toplantısı yapıldı.
+- Takım arkadaşlarıyla toplantı yapıldı.
+- Projede şuana kadar yapılan yerler gözden geçirildi.
+- Eksikler not edildi.
+- Stajyer & Furkan Küçük(devops unit manager) buluşma toplatısına katıldım.
+- Stajyer & Gökhan Gerdan(data scientist) buluşma toplantısına katıldım.
+
