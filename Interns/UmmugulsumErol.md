@@ -65,7 +65,7 @@ Yazılım ile üniversitede tanıştım. C eğitimi aldım. Okul haricinde kendi
 [**11.08.2022**](https://github.com/bimser-intern/docs/issues/272)
 
 - Web kısmının test senaryoları üzerinde son düzenlemeler yapıldı.
-- Android test senaryoları yazıldı. 
+- Android kısmının test senaryoları yazıldı. 
 - Devops Unit Manager Buluşması etkinliğine katılım sağlandı.
 - Data Scientist Buluşması etkinliğine katılım sağlandı.
 - Test senaryolar tamamlandı.
