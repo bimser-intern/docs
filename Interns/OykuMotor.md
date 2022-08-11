@@ -40,3 +40,23 @@ Web tabanlı uygulamalar geliştirirken genel olarak C# ASP.NET dilini ve Visual
 - İş analizi ekibiyle projenin detayları konuşuldu.
 
 - Proje için gereken adımlar GitHub'a Issue olarak eklendi.
+
+[*08.08.2022*](https://github.com/bimser-intern/docs/issues/230)
+
+- Haftasonu, devoloper ekibinin uygulamayı geliştimeye başlaması için iş analizi ekibiyle birlikte proje adımları detaylandırıldı.
+
+- Proje adımlarını yöneteceğimiz github projects bölümü düzenlendi.
+
+- Sprint Planning toplantısı düzenlendi, developer ekibine proje detayları anlatıldı.
+
+[*09.08.2022*](https://github.com/bimser-intern/docs/issues/230)
+
+- Proje statüleri düzenlendi.
+
+- Daily scrum toplantısına katılım sağlandı.
+
+[*10.08.2022*](https://github.com/bimser-intern/docs/issues/230)
+
+- Software Development Unit Manager Sami Mıynat buluşmasına katılım sağlandı.
+
+- Gelecek hafta için projeye eklenecek olan özellikler kabaca analiz edildi.
