@@ -94,8 +94,22 @@ Yazılım ile lisede tanıştım. 4 yıl boyunca web programlama dersleri aldım
 
 
 
-- Stajyer & Sami Mıynat(Software Development Unit Manager - Backend) Buluşması
+- Stajyer & Sami Mıynat(Software Development Unit Manager - Backend) Buluşması'na katılım sağlandı.
 
 - Backend ekibi ile görüşüldü.
 
 - Proje üzerinde tasarım eklemeleri yapıldı.
+
+[**11.08.2022**](https://github.com/bimser-intern/docs/issues/262)
+
+
+
+- Stajyer & Furkan Küçük(Devops Unit Manager) Buluşması'na katılım sağlandı.
+
+- Stajyer & Gökhan Gerdan(Data Scientist) Buluşması'na katılım sağlandı.
+
+- Devops ekibi ile görüşüldü.
+
+- Backend ekibi ile görüşüldü.
+
+- Proje üzerinde tasarım düzeltmeri ve yeni eklemeler yapıldı.
