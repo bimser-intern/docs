@@ -117,4 +117,21 @@ Ben Selin Ayten Cengiz, Kocaeli Üniversitesi, Bilgisayar Mühendisliği Bölüm
 
   - Butonların , menülerin ve kaydırma işlemlerinin yönlendirmeleri yapılmıştır.
 
+  
+[**10.08.2022**](https://github.com/bimser-intern/docs/issues/238)
+
+- Daily Scrum yapıldı.
+
+- Code review yapıldı.
+
+- Software Development Unit Manager Sami Mıynat buluşmasına katılım sağlandı.
+
+- Yapılan figma analizleri baz alınarak projenin CreateSurvey kısmı geliştirildi.
+
+  - Sayfada kullanıcının sorusunu yazabileceği bir text alanı olmalıdır. Alanın içinde silik bir şekilde 'Add your question' yazmalıdır.
+
+  - Soru alanının alt kısmında ankete isim verilebilen bir alan olmalıdır. Bu alanın içinde silik bir şekilde "Survey name" yazmalıdır.
+
+  - Anket ismi alanının altında kullanıcının sorusuna ait seçeneklerini yazabileceği alanı olmalıdır.(Test sorusunun şıkları gibi düşünülebilir).
+
 
