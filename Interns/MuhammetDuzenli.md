@@ -66,3 +66,10 @@ Python dilini 6 Haziran-18 Temmuz 2022 tarihleri arasında Kocaeli Üniversitesi
 - Azure Container App ile 2 farklı uygulama ayağa kaldırıldı.
 - Software Development Unit Manager Buluşması etkinliğine katılım sağlandı.
   
+
+[**11.08.2022**](https://github.com/bimser-intern/docs/issues/275)
+
+- ACR üzerinde örnek uygulama ayağa kaldırıldı.
+- ACR üzerinde iki uygulamanın haberleşmesi sağlandı.
+- DevOps Unit Manager Buluşması etkinliğine katılım sağlandı.
+- Data Scientist Buluşması etkinliğine katılım sağlandı.
