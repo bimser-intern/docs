@@ -89,3 +89,13 @@ Yazılım ile lisede tanıştım. 4 yıl boyunca web programlama dersleri aldım
 - React kursuna devam edildi.
 
 - Giriş sayfası ve menü yapıldı.
+
+[**10.08.2022**](https://github.com/bimser-intern/docs/issues/241)
+
+
+
+- Stajyer & Sami Mıynat(Software Development Unit Manager - Backend) Buluşması
+
+- Backend ekibi ile görüşüldü.
+
+- Proje üzerinde tasarım eklemeleri yapıldı.
