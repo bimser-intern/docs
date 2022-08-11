@@ -48,3 +48,8 @@ Ben Esra Yelmen. Bolu Abant İzzet Baysal Üniversitesi Bilgisayar Mühendisliğ
 - Test Management Tool konusunda oluşan probleme ekipçe çözüm arandı.
 - Test senaryoları yazılmaya başlandı.
 
+[**10.08.2022**](https://github.com/bimser-intern/docs/issues/243)
+
+- Web tarafının test senaryolarının yazımı tamamlandı.
+- Azure Test Plans incelendi.
+- Software Development Unit Manager Buluşması'na katılım sağlandı.
