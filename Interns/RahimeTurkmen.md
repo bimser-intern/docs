@@ -28,7 +28,7 @@ Bimser Çözüm şirketinde zorunlu staj yapmaktayım ve bu staj süresince yapa
 
 
 
-[**04.08.2022**] (https://github.com/bimser-intern/docs/issues/173)
+[**04.08.2022**](https://github.com/bimser-intern/docs/issues/173)
 
 - Stajyer & Merve Akdağ(Software QA Team Lead) toplantısı gerçekleştirildi.
 - Docker kursuna devam edildi. Container 101 bölümüne geçildi.
@@ -49,10 +49,29 @@ Bimser Çözüm şirketinde zorunlu staj yapmaktayım ve bu staj süresince yapa
 [**08.08.2022**](https://github.com/bimser-intern/docs/issues/207)
 
 - Image, container, docker file üzerinde bilgi edinildi. 
-
+- Docker ile alakalı kurs izlendi. [Kurs için tıklayabilirsiniz.](https://www.udemy.com/course/adan-zye-docker/)
 
 [**09.08.2022**](https://github.com/bimser-intern/docs/issues/207)
 
 - Daily Scrum'a katılım sağlandı.
 - Docker compose üzerinde çalışmalar yapıldı. 
 - Azure devops development ortamı oluşturmaya çalıştık. 
+
+
+[**10.08.2022**](https://github.com/bimser-intern/docs/issues/252)
+
+- Daily Scrum'a katılım sağlandı.
+-  Stajyer & Sami Mıynat(Software Development Unit Manager - Backend) toplantısına katılım sağlandı.
+- Dockerfile oluşturma üzerinde çalışmalar yapıldı. [Okuma belgesi için tıklayınız.](https://acokgungordu.medium.com/docker-serisi-dockerfile-olu%C5%9Fturma-a21dfcfdb2bc)
+- Azure Container App dokümantasyonu incelendi. [Dokümantasyona buradan ulaşabilirsiniz.](https://docs.microsoft.com/en-us/azure/container-apps/get-started?tabs=bash)
+
+
+[**11.08.2022**](https://github.com/bimser-intern/docs/issues/252)
+
+- Stajyer & Furkan Küçük(Devops Unit Manager) toplantısına katılım sağlandı.
+- Toplantıda bahsedilen toollar (Ansible, Kubernetes, Terraform) hakkında araştırma yapıldı, bilgi edinildi. [Kaynağa buradan ulaşabilirsiniz.](https://hackr.io/blog/top-devops-tools)
+- Blue-Green deployment, scripting for devops, sistem mimarisi üzerine araştırmalar yapıldı. 
+     - Blue green Deployment --> [Belgeye buradan ulaşabilirsiniz.](https://medium.com/devopsturkiye/blue-green-deployments-a-b-testing-ve-canary-releases-aras%C4%B1ndaki-fark-nedir-55e15f8d499c)
+     - Scripting for devops -->  [Belgeye buradan ulaşabilirsiniz.](https://medium.com/kocsistem/azure-devops-i%C3%A7in-extension-nas%C4%B1l-yaz%C4%B1l%C4%B1r-a7ff708bd622)
+- Stajyer & Gökhan Gerdan(Data Scientist) toplantısına katılım sağlandı. 
+- Ingress yönlendirilmesi araştırıldı.
