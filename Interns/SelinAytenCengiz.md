@@ -135,3 +135,24 @@ Ben Selin Ayten Cengiz, Kocaeli Üniversitesi, Bilgisayar Mühendisliği Bölüm
   - Anket ismi alanının altında kullanıcının sorusuna ait seçeneklerini yazabileceği alanı olmalıdır.(Test sorusunun şıkları gibi düşünülebilir).
 
 
+  [**11.08.2022**](https://github.com/bimser-intern/docs/issues/259)
+
+- Daily Scrum yapıldı.
+
+- Code review yapıldı.
+
+- Stajyer & Gökhan Gerdan(Data Scientist) buluşmasına katılım sağlandı.
+
+- Stajyer & Furkan Küçük(Devops Unit Manager) buluşmasına katılım sağlandı
+
+- Projede tasarımsal iyileştirmeler yapıldı.
+
+- Proje içinde login olup olmama durumunun güncel tutulması için menu değişiklikleri yapıldı.
+
+- Projenin servis ile haberleşme kısmı tamamlandı.
+
+  - Servis arayüzü yazıldı.
+
+  - Post methodları yazıldı.
+
+  - Response için objeler oluşturuldu.
