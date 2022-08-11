@@ -48,13 +48,13 @@ Ben Burak Küçük, Girne Üniversitesi Yazılım Mühendisliği  öğrencisiyim
 
 [**09.08.2022**](https://github.com/bimser-intern/docs/issues/248)
 
-- Daily scrum toplantısına katınıldı.
+- Daily scrum toplantısına katılındı.
 
 - Analizler ve tasarımlar üzerinde düzenlemeler yapıldı.
 
 [**10.08.2022**](https://github.com/bimser-intern/docs/issues/248)
 
-- Daily scrum toplantısına katınıldı.
+- Daily scrum toplantısına katılındı.
 
 - Rest api servisi ile ilgili araştırmalar yapıldı.
 
@@ -62,7 +62,7 @@ Ben Burak Küçük, Girne Üniversitesi Yazılım Mühendisliği  öğrencisiyim
 
 [**11.08.2022**](https://github.com/bimser-intern/docs/issues/261)
 
-- Daily scrum toplantısına katınıldı.
+- Daily scrum toplantısına katılındı.
 
 - Stajyer & Furkan Küçük(Devops Unit Manager) Buluşması'na katılındı.
 
