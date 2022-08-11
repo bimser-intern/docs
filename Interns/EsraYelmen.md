@@ -53,3 +53,10 @@ Ben Esra Yelmen. Bolu Abant İzzet Baysal Üniversitesi Bilgisayar Mühendisliğ
 - Web tarafının test senaryolarının yazımı tamamlandı.
 - Azure Test Plans incelendi.
 - Software Development Unit Manager Buluşması'na katılım sağlandı.
+
+[**11.08.2022**](https://github.com/bimser-intern/docs/issues/278)
+
+- Android test senaryoları tamamlandı.
+- Test senaryoları tekrar gözden geçirildi.
+- DevOps Unit Manager Buluşması'na katılım sağlandı.
+- Data Scientist Buluşması'na katılım sağlandı.
