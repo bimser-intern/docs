@@ -68,4 +68,4 @@ Yazılım ile üniversitede tanıştım. C eğitimi aldım. Okul haricinde kendi
 - Android kısmının test senaryoları yazıldı. 
 - Devops Unit Manager Buluşması etkinliğine katılım sağlandı.
 - Data Scientist Buluşması etkinliğine katılım sağlandı.
-- Test senaryolar tamamlandı.
+- Test senaryoları tamamlandı.
