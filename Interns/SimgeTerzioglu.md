@@ -56,3 +56,11 @@ Yazılım ile üniversitede tanıştım. Üniversite eğitimimde C, C#, C++, Pyt
 - Software Development Unit Manager Buluşması'na katılım sağlandı.
 - Analizler üzerinde düzenlemeler yapıldı.
 - Web kısmının test senaryoları gözden geçirildi ve tamamlandı. 
+
+[**11.08.2022**](https://github.com/bimser-intern/docs/issues/266)
+
+- Daily scrum toplantısı yapıldı.
+- Android test senaryoları yazıldı.
+- Devops Unit Manager Buluşması etkinliğine katılım sağlandı.
+- Data Scientist Buluşması etkinliğine katılım sağlandı.
+- Daha önce yazılmış olan senaryolar üzerinde düzenlemeler yapıldı ve senaryolar tamamlandı.
