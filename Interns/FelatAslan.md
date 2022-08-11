@@ -61,3 +61,9 @@ Yazılım ile üniversitede tanıştım. Başta Algoritma Temelleri olmakla bera
 - Görev ayrımı yapıldı.
 - React üzerine araştırma yapıldı.
 - Projenin login ve register bölümleri üzerine çalışıldı.
+
+[**10.08.2022**](https://github.com/bimser-intern/docs/issues/250)
+- Sabah daily scrum toplantısı yapıldı.
+- Software unit manager stajer bilgilendirme toplantısına katıldım.
+- React üzerine araştırma yapıldı.
+- Projenin login ve register bölümleri yapıldı.
