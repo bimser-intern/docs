@@ -58,7 +58,18 @@ Ben Burak Küçük, Girne Üniversitesi Yazılım Mühendisliği  öğrencisiyim
 
 - Rest api servisi ile ilgili araştırmalar yapıldı.
 
--  Software Development Unit Manager Buluşması yapıldı.
+- Software Development Unit Manager Buluşması yapıldı.
+
+[**11.08.2022**](https://github.com/bimser-intern/docs/issues/261)
+
+- Daily scrum toplantısına katınıldı.
+
+- Stajyer & Furkan Küçük(Devops Unit Manager) Buluşması'na katılındı.
+
+- Stajyer & Gökhan Gerdan(Data Scientist) Buluşması'na katılındı.
+
+- Figma üzerinden tasarımla ilgili düzeltilmeler ve eklemeler yapıldı.
+
 
 
 
