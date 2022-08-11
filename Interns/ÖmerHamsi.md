@@ -40,3 +40,9 @@ Ben Ömer Hamsi, Kocaeli Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.
 [**09.08.2022**](https://github.com/bimser-intern/docs/issues/213)
 - Dailyscrum toplantısına katılındı.
 - Giriş, login ve sign up sayfaları tasarımları yapıldı.
+
+[**10.08.2022**](https://github.com/bimser-intern/docs/issues/236)
+- Dailyscrum toplantısına katılındı.
+- Backend ekibi ile görüşüldü.
+- Proje üzerinde tasarım eklemeleri yapıldı.
+- Açılır menü eklendi ve validation kontrolleri yapıldı.
