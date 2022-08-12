@@ -76,3 +76,9 @@ Yazılım ile üniversitede tanıştım. Başta Algoritma Temelleri olmakla bera
 - Stajyer & Furkan Küçük(devops unit manager) buluşma toplatısına katıldım.
 - Stajyer & Gökhan Gerdan(data scientist) buluşma toplantısına katıldım.
 
+[**12.08.2022](https://github.com/bimser-intern/docs/issues/286)
+- Sabah daily scrum toplantısı yapıldı.
+- Stajyer & Erdem Topuz(Mobile Development Unit Manager) buluşma toplantısına katıldım.
+- Takım arkadaşlarıyla toplantı yapıldı.
+- Projenin eksikleri giderildi.
+- Sprint toplantısı yapıldı ve şuana kadar yapılan proje değerlendirildi ve iyi ve kötü tarafları not edildi.
