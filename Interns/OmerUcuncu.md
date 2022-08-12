@@ -65,7 +65,7 @@ Eğitim süresince ilk stajımı  **Bimser**'de gönüllü stajyer olarak yapmak
 
  - Daily scrum yapıldı.
  - Android test senaryosu yazıldı.
- - Android kısmına açılış animasyonu eklenildi.
+ - Figma üstünden Android kısmına açılış animasyonu eklenildi.
  - Data Scientist hakkında toplantıya katılındı.
  - DevOps hakkında toplantıya katılındı.
 
