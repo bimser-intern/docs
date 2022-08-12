@@ -55,3 +55,17 @@ Yazılım ile üniversitede tanıştım. C eğitimi aldım. Okul haricinde kendi
 - Test management tool konusunda oluşan soruna çözüm arandı. 
 - Test management tool konusunda araştırma ve inceleme yapıldı.
 - Test senaryoları yazılmaya başlandı. 
+
+[**10.08.2022**](https://github.com/bimser-intern/docs/issues/272)
+
+- Web kısmının test senaryoları gözden geçirildi ve tamamlandı.
+- Azure DevOps Test Plans incelendi.
+- Software Development Unit Manager Buluşması etkinliğine katılım sağlandı.
+
+[**11.08.2022**](https://github.com/bimser-intern/docs/issues/272)
+
+- Web kısmının test senaryoları üzerinde son düzenlemeler yapıldı.
+- Android kısmının test senaryoları yazıldı. 
+- Devops Unit Manager Buluşması etkinliğine katılım sağlandı.
+- Data Scientist Buluşması etkinliğine katılım sağlandı.
+- Test senaryoları tamamlandı.
