@@ -47,6 +47,12 @@ Ben Kerem Erkubilay, Düzce Üniversitesinde Bilgisayar Mühendisliği okuyorum.
 - Kullanıcıların login sayfası aracılığıyla hesaplarına erişimlerini sağlayacakları sayfa geliştirildi.
 - Yapılan sayfadaki eksiklikler gözden geçirildi.
 
-[**09.08.2022**]
+[**10.08.2022**]
 - Daily Scrum yapıldı.
 - Login ve sign up sayfalarının tasarımı tamamlandı.
+
+[**11.08.2022**]
+- Daily Scrum yapıldı.
+- Login ve sign up sayfalarında ki kontroller tamamlandı.
+- Stajyer & Gökhan Gerdan(Data Scientist) buluşmasına katılım sağlandı.
+- Stajyer & Furkan Küçük(Devops Unit Manager) buluşmasına katılım sağlandı
