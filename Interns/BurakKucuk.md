@@ -70,7 +70,15 @@ Ben Burak Küçük, Girne Üniversitesi Yazılım Mühendisliği  öğrencisiyim
 
 - Figma üzerinden tasarımla ilgili düzeltilmeler ve eklemeler yapıldı.
 
+[**12.08.2022**](https://github.com/bimser-intern/docs/issues/300)
 
+- Daily scrum toplantısına katılındı.
+
+- Stajyer & Erdem Topuz(Mobile Development Unit Manager) buluşma toplantısına katılım sağlandı.
+
+- Ekip olarak nerelerde hata yaptığımıza karar verip bir sonraki hafta dikkat edeceğimiz noktaları belirledik.
+
+- Android kısmının issueları incelendi.
 
 
 
