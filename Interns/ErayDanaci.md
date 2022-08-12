@@ -112,4 +112,4 @@ Yazılım ile lisede tanıştım. 4 yıl boyunca web programlama dersleri aldım
 
 - Backend ekibi ile görüşüldü.
 
-- Proje üzerinde tasarım düzeltmeri ve yeni eklemeler yapıldı.
+- Proje üzerinde tasarım düzeltmeleri ve yeni eklemeler yapıldı.
