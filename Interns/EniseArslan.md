@@ -54,5 +54,29 @@ Ben Enise Arslan, Kocaeli Üniversitesi Bilgisayar Mühendisliği son sınıf ö
 
 - Sprint planlama toplantısına katılım sağlandı.
 
+[**09.08.2022**](https://github.com/bimser-intern/docs/issues/253)
+
+- Daily scrum toplantısına katılındı.
+
+- Surveysaurus projesinin analizleri gözden geçirildi.
+
+[**10.08.2022**](https://github.com/bimser-intern/docs/issues/253)
+
+- Daily scrum toplantısına katılındı.
+
+- Stajyer & Sami Mıynat(Software Development Unit Manager - Backend) Buluşması'na katılım sağlandı.
+
+- Surveysaurus projesinin analizleri gözden geçirildi. Sprint planlama toplantısında konuşulan detaylar üzerinden eklemeler yapıldı.
+
+[**11.08.2022**](https://github.com/bimser-intern/docs/issues/253)
+
+- Daily scrum toplantısına katılındı.
+
+- Surveysaurus projesinin analizleri detaylandırıldı. Kullanıcı kayıt ekranı, giriş ekranı ve kullanıcı sayfasının tasarımı figmada eklemeler yaparak düzenlendi.
+
+- Stajyer & Furkan Küçük(Devops Unit Manager) Buluşması'na katılındı.
+
+- Stajyer & Gökhan Gerdan(Data Scientist) Buluşması'na katılındı.
+
 
 
