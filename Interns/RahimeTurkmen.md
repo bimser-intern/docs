@@ -12,12 +12,10 @@ Bimser Çözüm şirketinde zorunlu staj yapmaktayım ve bu staj süresince yapa
 - Versiyon kontrol sistemi (Git) çalışması yapıldı. [Kurs adresine buradan ulaşabilirsiniz.](https://www.btkakademi.gov.tr/portal/course/versiyon-kontrolleri-git-ve-github-19439)
 
 
-
 [**02.08.2022**](https://github.com/bimser-intern/docs/issues/118)
 
 - Stajda geliştireceğimiz proje üzerinde rol alacağım Devops Engineer pozisyonu için Docker çalışmaya başlandı. [Kurs adresine buradan ulaşabilirsiniz.](https://www.udemy.com/course/adan-zye-docker/)
 - Git Temelleri sunumu için araştırma yapıldı. [Kaynak için tıklayınız.](https://app.patika.dev/moduller/frontend-web-gelistirme/git-bash-ile-git-temel-komutlari)
-
 
 
 [**03.08.2022**](https://github.com/bimser-intern/docs/issues/118)
@@ -27,7 +25,6 @@ Bimser Çözüm şirketinde zorunlu staj yapmaktayım ve bu staj süresince yapa
 - CI/CD süreçleri hakkında bilgi edinildi. [Makaleye buradan ulaşabilirsiniz.](https://www.simplilearn.com/best-ci-cd-tools-article#continuous_integration_ci_and_continuous_delivery_cd_what_is_cicd)
 
 
-
 [**04.08.2022**](https://github.com/bimser-intern/docs/issues/173)
 
 - Stajyer & Merve Akdağ(Software QA Team Lead) toplantısı gerçekleştirildi.
@@ -35,7 +32,6 @@ Bimser Çözüm şirketinde zorunlu staj yapmaktayım ve bu staj süresince yapa
 - Jenkins araştırmaları yapıldı. [Kaynaklar için tıklayabilirsiniz.](https://kerteriz.net/jenkins-nedir-kurulumu-ve-ci-cd-surec-ornegi/)
 - CI süreci detaylı araştırıldı.
 - Devops Engineer alanındaki arkadaşlarımla sunum hazırlandı.
-
 
 
 [**05.08.2022**](https://github.com/bimser-intern/docs/issues/173)
@@ -50,6 +46,7 @@ Bimser Çözüm şirketinde zorunlu staj yapmaktayım ve bu staj süresince yapa
 
 - Image, container, docker file üzerinde bilgi edinildi. 
 - Docker ile alakalı kurs izlendi. [Kurs için tıklayabilirsiniz.](https://www.udemy.com/course/adan-zye-docker/)
+
 
 [**09.08.2022**](https://github.com/bimser-intern/docs/issues/207)
 
@@ -68,6 +65,7 @@ Bimser Çözüm şirketinde zorunlu staj yapmaktayım ve bu staj süresince yapa
 
 [**11.08.2022**](https://github.com/bimser-intern/docs/issues/252)
 
+- Daily Scrum'a katılım sağlandı.
 - Stajyer & Furkan Küçük(Devops Unit Manager) toplantısına katılım sağlandı.
 - Toplantıda bahsedilen toollar (Ansible, Kubernetes, Terraform) hakkında araştırma yapıldı, bilgi edinildi. [Kaynağa buradan ulaşabilirsiniz.](https://hackr.io/blog/top-devops-tools)
 - Blue-Green deployment, scripting for devops, sistem mimarisi üzerine araştırmalar yapıldı. 
@@ -75,3 +73,11 @@ Bimser Çözüm şirketinde zorunlu staj yapmaktayım ve bu staj süresince yapa
      - Scripting for devops -->  [Belgeye buradan ulaşabilirsiniz.](https://medium.com/kocsistem/azure-devops-i%C3%A7in-extension-nas%C4%B1l-yaz%C4%B1l%C4%B1r-a7ff708bd622)
 - Stajyer & Gökhan Gerdan(Data Scientist) toplantısına katılım sağlandı. 
 - Ingress yönlendirilmesi araştırıldı.
+
+
+[**12.08.2022**](https://github.com/bimser-intern/docs/issues/292)
+
+- Daily Scrum'a katılım sağlandı.
+- Stajyer & Gökhan Gerdan(Data Scientist) Buluşması'na katılım sağlandı.
+- Devops ekibi ile fronten backend developer ortamını tamamlamaya çalıştık.
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
