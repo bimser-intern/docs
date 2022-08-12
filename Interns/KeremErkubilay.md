@@ -56,3 +56,10 @@ Ben Kerem Erkubilay, Düzce Üniversitesinde Bilgisayar Mühendisliği okuyorum.
 - Login ve sign up sayfalarında ki kontroller tamamlandı.
 - Stajyer & Gökhan Gerdan(Data Scientist) buluşmasına katılım sağlandı.
 - Stajyer & Furkan Küçük(Devops Unit Manager) buluşmasına katılım sağlandı
+
+[**12.08.2022**]
+- Daily Scrum yapıldı.
+- Login ve sign up sayfalarında iyileştirmeler yapıldı.
+- Stajyer & Erdem Topuz(Mobile Development Unit Manager) buluşma toplantısına katılım sağlandı.
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
+- Takım olarak neleri iyi yapıp neleri hatalı yaptığımıza karar verip bir sonraki hafta dikkat edeceğimiz noktaları belirledik.
