@@ -46,3 +46,12 @@ Ben Ömer Hamsi, Kocaeli Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.
 - Backend ekibi ile görüşüldü.
 - Proje üzerinde tasarım eklemeleri yapıldı.
 - Açılır menü eklendi ve validation kontrolleri yapıldı.
+
+[**11.08.2022**](https://github.com/bimser-intern/docs/issues/270)
+- Daily Scrum toplantısına katılındı.
+- Takım arkadaşları ile toplantı yapıldı ve eksikler belirlendi.
+- Stajyer & Gökhan Gerdan(Data Scientist) buluşmasına katılım sağlandı.
+- Stajyer & Furkan Küçük(Devops Unit Manager) buluşmasına katılım sağlandı.
+- Proje üzerinde tasarımda düzenlemeler yapıldı.
+- Seçilen ülkenin şehirlerinin gösterilmesi oluşturulan dizi ile sağlandı.
+- Linklerin yönlendirilmesi düzenlendi. 
