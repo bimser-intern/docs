@@ -63,3 +63,12 @@ Yazılım ile üniversitede tanıştım. Son yıllarda, C# dilinde ASP.Net MVC t
 - Çeşitli Dockerfile dosyaları yazıldı.
 - Azure ve Docker kursları izlendi.
 - Software Development Unit Manager Buluşması etkinliğine katılım sağlandı.
+
+[**11.08.2022**](https://github.com/bimser-intern/docs/issues/263)
+
+- Daily Scrum toplantısı gerçekleştirildi.
+- Stajyer & Furkan Küçük(Devops Unit Manager) toplantısına katılım sağlandı.
+- Toplantıda bahsedilen toollar (Ansible, Kubernetes, Terraform) hakkında araştırma yapıldı. [Detaylara buradan ulaşabilirsiniz.](https://medium.com/devopsturkiye/ansible-nedir-dosya-yap%C4%B1s%C4%B1-nas%C4%B1ld%C4%B1r-nas%C4%B1l-kullan%C4%B1l%C4%B1r-4d8c90cdb266)
+- Stajyer & Gökhan Gerdan(Data Scientist) toplantısına katılım sağlandı.
+- Toplantıda bahsedilen çeşitli veri setleri hakkında araştırma yapıldı.
+- Azure üzerinden kaynak grupları oluşturuldu.
