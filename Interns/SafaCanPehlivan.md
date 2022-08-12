@@ -22,3 +22,31 @@ Mühendisliği 3. sınıf öğrencisiyim 23 yaşındayım yapı olarak meraklı 
 - Dailyscrum yapıldı. GitHub ile ilgili conflict sorunlarını çözdük.   
 - Javascript hakkında çalışmaya devam ettim. Yarınki Backend konularını içeren sunumu hazırladım. 
 - Software QA Team Lead Buluşması etkinliğine katılım sağlandı.
+
+[**05.08.2022**](https://github.com/bimser-intern/docs/issues/280)
+
+- Dailyscrum yapıldı.  
+- Node.js hakkında udemyden alınan kursa devam ettim
+
+[**08.08.2022**](https://github.com/bimser-intern/docs/issues/280)
+
+- Dailyscrum yapıldı.  
+- Node.js hakkında udemyden alınan kursa devam ettim. Api hakkında araştırmalar yapıldı.
+- Express.js hakkında çalışmalar yapıldı.
+- Sprint planning toplantısı yapıldı ve görevler işler dağıtıldı
+
+[**09.08.2022**](https://github.com/bimser-intern/docs/issues/280)
+
+- Dailyscrum yapıldı.  
+- Rest api servisi ve controller hakkında araştırma yaptım ve birkaç kod denemesi yaptım
+
+[**10.08.2022**](https://github.com/bimser-intern/docs/issues/280)
+
+- Dailyscrum yapıldı.  
+- Rest api hakkında farklı kaynak ve videolar izlerek bilgi sahibi olmaya çalıştım bir yandan da backend ekibi olarak rest api servisimizin temelini oluşturduk
+
+[**11.08.2022**](https://github.com/bimser-intern/docs/issues/280)
+
+- Dailyscrum yapıldı. Sprint sonuna yaklaştığımız için bügün biraz stresli ve yorucu idi sorunlar üst üste geldi sorunların çözülmesi için takımları bir araya getirip çözülmesine yardımcı olmaya çalıştım.
+- Yarın sprintin son günü olduğu için backend ekibi ile sıkı çalışıp apiyi tamamladık.
+
