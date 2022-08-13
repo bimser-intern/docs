@@ -78,6 +78,6 @@ Bimser Çözüm şirketinde zorunlu staj yapmaktayım ve bu staj süresince yapa
 [**12.08.2022**](https://github.com/bimser-intern/docs/issues/292)
 
 - Daily Scrum'a katılım sağlandı.
-- Stajyer & Gökhan Gerdan(Data Scientist) Buluşması'na katılım sağlandı.
-- Devops ekibi ile fronten backend developer ortamını tamamlamaya çalıştık.
+- Stajyer & Erdem Topuz(Mobile Development Unit Manager) Buluşması'na katılım sağlandı.
+- Devops ekibi ile frontend backend developer ortamını tamamlamaya çalıştık.
 - Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
