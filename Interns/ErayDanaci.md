@@ -113,3 +113,15 @@ Yazılım ile lisede tanıştım. 4 yıl boyunca web programlama dersleri aldım
 - Backend ekibi ile görüşüldü.
 
 - Proje üzerinde tasarım düzeltmeleri ve yeni eklemeler yapıldı.
+
+[**12.08.2022**](https://github.com/bimser-intern/docs/issues/294)
+
+
+
+- Stajyer & Erdem Topuz(Mobile Development Unit Manager) buluşma'na katılım sağlandı.
+
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
+
+- Devops ekibi ile görüşüldü.
+
+- Proje üzerindeki eksiklikler giderildi.
