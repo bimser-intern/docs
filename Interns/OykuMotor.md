@@ -60,3 +60,21 @@ Web tabanlı uygulamalar geliştirirken genel olarak C# ASP.NET dilini ve Visual
 - Software Development Unit Manager Sami Mıynat buluşmasına katılım sağlandı.
 
 - Gelecek hafta için projeye eklenecek olan özellikler kabaca analiz edildi.
+
+[*11.08.2022*](https://github.com/bimser-intern/docs/issues/304)
+
+- Stajyer & Furkan Küçük(Devops Unit Manager) Buluşması'na katılındı.
+
+- Stajyer & Gökhan Gerdan(Data Scientist) Buluşması'na katılındı.
+
+- İş analiz ekibiyle birlikte sprint 2 planı yapıldı. Figmaya yeni tasarımlar eklendi.
+
+[*12.08.2022*](https://github.com/bimser-intern/docs/issues/304)
+
+ - Daily scrum toplantısına katılım sağlandı.
+
+ - Stajyer & Erdem Topuz(Mobile Development Unit Manager) Buluşması'na katılındı.
+
+ - Sprint Review toplantısına katılındı.
+
+ - Sprint Retrospective toplantısına katılındı.
