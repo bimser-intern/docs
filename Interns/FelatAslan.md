@@ -82,3 +82,11 @@ Yazılım ile üniversitede tanıştım. Başta Algoritma Temelleri olmakla bera
 - Takım arkadaşlarıyla toplantı yapıldı.
 - Projenin eksikleri giderildi.
 - Sprint toplantısı yapıldı ve şuana kadar yapılan proje değerlendirildi ve iyi ve kötü tarafları not edildi.
+
+[**15.08.2022](https://github.com/bimser-intern/docs/issues/321)
+- Sprint 1 toplantısı yapıldı ve iş yüklerinin büyüklükleri belirlendi.
+- Daily scrum toplantısı yapıldı.
+- Sprint 2 Toplantısı yapıldı ve bu hafta yapılacak görevler belirlendi.
+- Stajyer & Esra Moğultay(Business Analyst Team Lead) Buluşma toplantısına katıldım.
+- Create survey sayfasının tasarımı yapıldı.
+
