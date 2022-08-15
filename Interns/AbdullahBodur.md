@@ -27,3 +27,36 @@ Ben Abdullah Bodur, Hacettepe Üniversitesi Bilgisayar Mühendisliği öğrencis
 - Sabah Daily toplantısı yapıldı.
 - Backend teknolojileri hakkında sunum yapıldı.
 - Gerekli toollar yüklendi.
+
+[**08.08.2022**](https://github.com/bimser-intern/docs/issues/306)
+
+- Sabah Daily toplantısı yapıldı.  
+- Sprint planning toplantısı yapıldı.
+- Backend takımı olarak kullanıcı giriş/kayıt protokolünü oluşturma görevini aldık
+
+[**09.08.2022**](https://github.com/bimser-intern/docs/issues/306)
+
+- Sabah Daily toplantısı yapıldı.  
+- Geliştireceğimiz projenin altyapısını oluşturdum
+
+[**10.08.2022**](https://github.com/bimser-intern/docs/issues/306)
+
+- Sabah Daily toplantısı yapıldı.  
+- Takım içi yönlendirmeler ve katkılarda bulundum.
+- Takımlar arası mini toplantılara katıldım.
+
+
+[**11.08.2022**](https://github.com/bimser-intern/docs/issues/306)
+
+- Sabah Daily toplantısı yapıldı.
+- Stajyer & Furkan Küçük(Devops Unit Manager) Buluşması'na katılım sağlandı.
+- Stajyer & Gökhan Gerdan(Data Scientist) Buluşması'na katılım sağlandı.
+- Takım olarak projenin bu haftaki görevini bitirmek için gerekli çalışmaları tamamlamaya çalıştık.
+- Gerekli diğer takımlar ile görüşmeler sağladım ve onlara gerekli olan input/output çıktısını verdim.
+
+[**12.08.2022**](https://github.com/bimser-intern/docs/issues/306)
+
+- Devops ile ilgili bir sorunun çözülmesinde katkıda bulundum.
+- Takım olarak projenin bu haftaki görevini bitirmek için gerekli çalışmaları tamamlamaya çalıştık.
+- Gerekli diğer takımlar ile görüşmeler sağladım ve onlara gerekli olan input/output çıktısını verdim.
+
