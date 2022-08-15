@@ -81,3 +81,11 @@ Bimser Çözüm şirketinde zorunlu staj yapmaktayım ve bu staj süresince yapa
 - Stajyer & Erdem Topuz(Mobile Development Unit Manager) Buluşması'na katılım sağlandı.
 - Devops ekibi ile frontend backend developer ortamını tamamlamaya çalıştık.
 - Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
+
+
+[**15.08.2022**](https://github.com/bimser-intern/docs/issues/316)
+
+- Daily Scrum'a katılım sağlandı.
+- Stajyer & Esra Moğultay(Business Analyst Team Lead) Buluşması'na katılım sağlandı.
+- Frontend geliştirme ortamı için yazılan Dockerfile tekrar yazıldı.
+- Yazılım sürecinin geliştirmesini otomatize edebileceğimiz github actions araştırıldı. [Belgeye buradan ulaşabilirsiniz.](https://furkan-dvlp.medium.com/ci-cd-ve-github-actions-c7d9dc9c9c24)
