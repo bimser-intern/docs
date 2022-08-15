@@ -68,3 +68,11 @@ Eğitim süresince ilk stajımı  **Bimser**'de gönüllü stajyer olarak yapmak
  - Figma üstünden Android kısmına açılış animasyonu eklenildi.
  - Data Scientist hakkında toplantıya katılındı.
  - DevOps hakkında toplantıya katılındı.
+
+[**12.08.2022**](https://github.com/bimser-intern/docs/issues/285)
+
+ - Daily scrum yapıldı.
+ - Mobile Development Unit Manager toplantısına katılındı.
+ - Sprint Review toplantısına katılındı.
+ - Sprint Retrospective toplantısına katılındı.
+ - İlerleyen haftanın analizleri yapılmaya başlanıldı.
