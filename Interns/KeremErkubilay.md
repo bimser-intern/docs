@@ -63,3 +63,10 @@ Ben Kerem Erkubilay, Düzce Üniversitesinde Bilgisayar Mühendisliği okuyorum.
 - Stajyer & Erdem Topuz(Mobile Development Unit Manager) buluşma toplantısına katılım sağlandı.
 - Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
 - Takım olarak neleri iyi yapıp neleri hatalı yaptığımıza karar verip bir sonraki hafta dikkat edeceğimiz noktaları belirledik.
+
+[**15.08.2022**](https://github.com/bimser-intern/docs/issues/315)
+- Spring Planning toplantısı yapıldı.
+- Daily Scrum yapıldı.
+- Login ve sign up sayfalarında istenen eklemeler ve değişiklikler yapıldı.
+- Stajyer & Esra Moğultay(Business Analyst Team Lead) buluşmasına katılım sağlandı.
+
