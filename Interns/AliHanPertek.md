@@ -72,3 +72,11 @@ Yazılım ile üniversitede tanıştım. Son yıllarda, C# dilinde ASP.Net MVC t
 - Stajyer & Gökhan Gerdan(Data Scientist) toplantısına katılım sağlandı.
 - Toplantıda bahsedilen çeşitli veri setleri hakkında araştırma yapıldı.
 - Azure üzerinden kaynak grupları oluşturuldu.
+
+[**12.08.2022**](https://github.com/bimser-intern/docs/issues/298)
+
+- Daily Scrum'a katılım sağlandı.
+- Stajyer & Gökhan Gerdan(Data Scientist) Buluşması'na katılım sağlandı.
+- Azure mobil servisler hakkında araştırma yapıldı. [Detaylara buradan ulaşabilirsiniz.](https://www.youtube.com/watch?v=EV6DPafCntA&list=PLU1n1ikWH9CIw5jpPSOH0sJwippkmek2C&index=5)
+- Azure servis planları hakkında araştırma yapıldı. [Detaylara buradan ulaşabilirsiniz.](https://www.youtube.com/watch?v=LyV_BmwLWY4)
+- Sprint planlama toplantısına katılım sağlandı. Projenin artıları, eksikleri ve projede nasıl bir yol izlememiz konusunda önemli yerlere değinildi.
