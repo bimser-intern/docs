@@ -79,3 +79,10 @@ Python dilini 6 Haziran-18 Temmuz 2022 tarihleri arasında Kocaeli Üniversitesi
 - Ingress işlemleri yapıldı.
 - ACR üzerinde mevcut projenin frontend ve backend bölümleri ayağa kaldırıldı.
 - Dockerfile yazımlarında debugging işlemleri gerçekleştirildi.
+
+[**15.08.2022**](https://github.com/bimser-intern/docs/issues/311)
+
+- Frontend bölümü için yazılmış olan Dockerfile tekrar düzenlendi.
+- GitHub Actions modülünün sunmuş olduğu özellikler incelendi.
+- CI Pipeline için kullanılabilecek araçlar araştırıldı.
+- Business Analyst Team Lead Buluşması etkinliğine katılım sağlandı.
