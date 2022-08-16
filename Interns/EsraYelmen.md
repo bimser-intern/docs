@@ -60,3 +60,15 @@ Ben Esra Yelmen. Bolu Abant İzzet Baysal Üniversitesi Bilgisayar Mühendisliğ
 - Test senaryoları tekrar gözden geçirildi.
 - DevOps Unit Manager Buluşması'na katılım sağlandı.
 - Data Scientist Buluşması'na katılım sağlandı.
+
+[**12.08.2022**](https://github.com/bimser-intern/docs/issues/318)
+
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
+- Mobile Development Unit Manager Buluşması'na katılım sağlandı.
+- Test senaryoları Issueslara eklenmeye başlandı.
+
+[**15.08.2022**](https://github.com/bimser-intern/docs/issues/318)
+
+- Sprint planlama toplantısına katılım sağlandı.
+- Test senaryolarının yazımı tamamlandı.
+- Selenium çalışmaları yapıldı.
