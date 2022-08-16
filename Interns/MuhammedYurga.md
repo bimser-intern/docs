@@ -36,3 +36,18 @@ Bu benim ilk stajım. Kendimi en çok geliştirme imkanı bulabileceğim yerlerd
 
 [**09.08.2022**]
 - Proje için API kodlamaya başladık. Gerekli işler için API kodlamaya devam edeceğiz.
+
+[**10.08.2022**]
+- Model klsöründeki user.js dosyası için metotlar yazıyorum. Veritabanından veriyi çekecek ya da veriyi gönderecek aşamayı yazıyorum.
+
+[**11.08.2022**]
+- Aynı işlere devam ettim. Proje geliştirirken öğrenmeye devam ediyorum. Yazdığım kodları harici bir node.js projesinde test ettim.
+- Bugün bu sprintin işlerini bitirdik. Hata aldığımız noktalarla uğraştık.
+
+[**12.08.2022**]
+- Bugün sprint review toplantısı gerçekleşti. 
+
+[**15.08.2022**]
+- Sprint Planning toplantısı gerçekleşti. Bu hafta kullanıcı bilgileri görüntüleme ve güncelleme, anket oluşurma ve anket doldurma üzerine çalışacağız.
+- Giriş işleminde istenen ülke ve şehir bilgisi için dünyadaki 203 şehirlerini veritabanına kaydettim. Bunun için .NET uygulaması yazdım. 
+
