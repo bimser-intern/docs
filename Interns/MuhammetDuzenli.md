@@ -86,3 +86,11 @@ Python dilini 6 Haziran-18 Temmuz 2022 tarihleri arasında Kocaeli Üniversitesi
 - GitHub Actions modülünün sunmuş olduğu özellikler incelendi.
 - CI Pipeline için kullanılabilecek araçlar araştırıldı.
 - Business Analyst Team Lead Buluşması etkinliğine katılım sağlandı.
+
+[**16.08.2022**](https://github.com/bimser-intern/docs/issues/338)
+
+- Backend CORS kısmı ile alakalı zannedilen problemin tespiti yapıldı.
+- Oluşturduğumuz container dosyalarındaki hata giderildi.
+- Backend ve Frontend takımları ile toplantı yapıldı.
+- Frontend kısmının ayağa kaldırılması için denemeler yapıldı.
+- 
