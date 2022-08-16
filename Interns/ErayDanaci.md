@@ -137,3 +137,13 @@ Yazılım ile lisede tanıştım. 4 yıl boyunca web programlama dersleri aldım
 - Backend ekibi ile görüşüldü.
 
 - My Surveys sayfasının tasarımı yapıldı.
+
+[**16.08.2022**](https://github.com/bimser-intern/docs/issues/335)
+
+
+
+- My Surveys sayfasının tasarımına eklemeler yapıldı.
+
+- React Grid yapısı araştırıldı.
+
+- Backend ekibi ile görüşüldü.
