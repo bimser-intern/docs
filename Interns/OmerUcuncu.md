@@ -76,3 +76,13 @@ Eğitim süresince ilk stajımı  **Bimser**'de gönüllü stajyer olarak yapmak
  - Sprint Review toplantısına katılındı.
  - Sprint Retrospective toplantısına katılındı.
  - İlerleyen haftanın analizleri yapılmaya başlanıldı.
+
+[**15.08.2022**](https://github.com/bimser-intern/docs/issues/308)
+
+ - Daily scrum yapıldı.
+ - Business Analyst Team Lead toplantısına katılındı.
+ - Sprint Planning toplantısına katılındı.
+ - Web için test senaryoları yazıldı.
+ - Product Owner ile toplantı yapıldı.
+ - Benchmarking yapılmaya başlanıldı.
+ - Selenium nasıl kullanılır hakkında araştırma ve videolar izlenmeye başlandı.
