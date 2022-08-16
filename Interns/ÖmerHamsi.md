@@ -55,3 +55,16 @@ Ben Ömer Hamsi, Kocaeli Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.
 - Proje üzerinde tasarımda düzenlemeler yapıldı.
 - Seçilen ülkenin şehirlerinin gösterilmesi oluşturulan dizi ile sağlandı.
 - Linklerin yönlendirilmesi düzenlendi. 
+
+[**12.08.2022**](https://github.com/bimser-intern/docs/issues/313)
+- Daily scrum yapıldı.
+- Mobile Development Unit Manager toplantısına katılındı.
+- Sprint Review toplantısına katılındı.
+- Sprint Retrospective toplantısına katılındı.
+- Login, sign up post metotları yazıldı.
+
+[**15.08.2022**](https://github.com/bimser-intern/docs/issues/313)
+- Sprint planlama toplantısına katılım sağlandı.
+- Daily scrum yapıldı.
+- Confirm password kısmı eklendi, uyarı mesajları düzenlendi.
+- Our survey kısmına carousel eklenmeye çalışıldı.
