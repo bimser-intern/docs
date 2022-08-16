@@ -125,3 +125,15 @@ Yazılım ile lisede tanıştım. 4 yıl boyunca web programlama dersleri aldım
 - Devops ekibi ile görüşüldü.
 
 - Proje üzerindeki eksiklikler giderildi.
+
+[**15.08.2022**](https://github.com/bimser-intern/docs/issues/309)
+
+
+
+- Sprint planlama toplantısına katılım sağlandı.
+
+- Stajyer & Esra Moğultay(Business Analyst Team Lead) buluşma'na katılım sağlandı.
+
+- Backend ekibi ile görüşüldü.
+
+- My Surveys sayfasının tasarımı yapıldı.
