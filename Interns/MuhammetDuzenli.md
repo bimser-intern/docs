@@ -93,4 +93,4 @@ Python dilini 6 Haziran-18 Temmuz 2022 tarihleri arasında Kocaeli Üniversitesi
 - Oluşturduğumuz container dosyalarındaki hata giderildi.
 - Backend ve Frontend takımları ile toplantı yapıldı.
 - Frontend kısmının ayağa kaldırılması için denemeler yapıldı.
-- 
+
