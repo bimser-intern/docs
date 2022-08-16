@@ -72,3 +72,12 @@ Yazılım ile üniversitede tanıştım. Üniversite eğitimimde C, C#, C++, Pyt
 - Mobile Development Unit Manager Buluşma toplantısına katılım sağlandı.
 - Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
 - Yazılan test senaryoları Issues alanlarına eklendi.
+
+[**15.08.2022**](https://github.com/bimser-intern/docs/issues/325)
+
+- Sprint Planning toplantısına katılım sağlandı.
+- Daily scrum yapıldı.
+- Business Analyst Team Lead Buluşması etkinliğine katılım sağlandı.
+- Test ekibiyle görüşüldü.
+- Test senaryoları yazıldı.
+- Product Owner ile toplantı yapıldı ve gelecek hafta için gerekli olan tasarımlar belirlendi.
