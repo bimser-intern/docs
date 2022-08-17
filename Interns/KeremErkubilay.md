@@ -70,3 +70,13 @@ Ben Kerem Erkubilay, Düzce Üniversitesinde Bilgisayar Mühendisliği okuyorum.
 - Login ve sign up sayfalarında istenen eklemeler ve değişiklikler yapıldı.
 - Stajyer & Esra Moğultay(Business Analyst Team Lead) buluşmasına katılım sağlandı.
 
+[**16.08.2022**](https://github.com/bimser-intern/docs/issues/341)
+- Daily Scrum yapıldı.
+- My Surveys sayfasının taslağı oluşturuldu.
+
+[**17.08.2022**](https://github.com/bimser-intern/docs/issues/351)
+- Frontend bölümünün Docker dosyası düzenlendi.
+- Backend ve Frontend bölümlerindeki değişiklikler manuel olarak buluta yüklendi.
+- GitHub Actions kullanarak CI/CD Pipeline işlemleri başlatıldı.
+- Senior Technical Product Manager Buluşması etkinliğine katılım sağlandı.
+- GitHub Actions üzerindeki hatalar giderilmeye çalışıldı.
