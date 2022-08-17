@@ -94,3 +94,11 @@ Python dilini 6 Haziran-18 Temmuz 2022 tarihleri arasında Kocaeli Üniversitesi
 - Backend ve Frontend takımları ile toplantı yapıldı.
 - Frontend kısmının ayağa kaldırılması için denemeler yapıldı.
 
+[**17.08.2022**](https://github.com/bimser-intern/docs/issues/349)
+
+- Frontend bölümünün Docker dosyası düzenlendi.
+- Backend ve Frontend bölümlerindeki değişiklikler manuel olarak buluta yüklendi.
+- GitHub Actions kullanarak CI/CD Pipeline işlemleri başlatıldı.
+- Senior Technical Product Manager Buluşması etkinliğine katılım sağlandı.
+- GitHub Actions üzerindeki hatalar giderilmeye çalışıldı.
+
