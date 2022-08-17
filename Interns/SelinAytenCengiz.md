@@ -135,7 +135,7 @@ Ben Selin Ayten Cengiz, Kocaeli Üniversitesi, Bilgisayar Mühendisliği Bölüm
   - Anket ismi alanının altında kullanıcının sorusuna ait seçeneklerini yazabileceği alanı olmalıdır.(Test sorusunun şıkları gibi düşünülebilir).
 
 
-  [**11.08.2022**](https://github.com/bimser-intern/docs/issues/259)
+[**11.08.2022**](https://github.com/bimser-intern/docs/issues/259)
 
 - Daily Scrum yapıldı.
 
@@ -156,3 +156,30 @@ Ben Selin Ayten Cengiz, Kocaeli Üniversitesi, Bilgisayar Mühendisliği Bölüm
   - Post methodları yazıldı.
 
   - Response için objeler oluşturuldu.
+
+
+
+ [**12.08.2022**](https://github.com/bimser-intern/docs/issues/323)
+
+- Daily Scrum yapıldı.
+
+- Code review yapıldı.
+
+- Stajyer & Erdem Topuz(Mobile Development Unit Manager) buluşma toplantısına katılım sağlandı.
+
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
+
+- Projede tasarımsal iyileştirmeler yapıldı.
+
+
+[**15.08.2022**](https://github.com/bimser-intern/docs/issues/323)
+
+- Daily Scrum yapıldı.
+
+- Code review yapıldı.
+
+- Sprint planning toplantısına katılındı.
+
+- Projede servise istek göndererek kayıt ve giriş işlemleri gerçekleştirildi.
+
+- Anket listeleme sayfasının taslağı oluşturuldu.
