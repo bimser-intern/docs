@@ -86,3 +86,10 @@ Eğitim süresince ilk stajımı  **Bimser**'de gönüllü stajyer olarak yapmak
  - Product Owner ile toplantı yapıldı.
  - Benchmarking yapılmaya başlanıldı.
  - Selenium nasıl kullanılır hakkında araştırma ve videolar izlenmeye başlandı.
+
+ [**16.08.2022**](https://github.com/bimser-intern/docs/issues/329)
+
+ - Daily scrum yapıldı.
+ - Önümüzdeki haftanın tasarımı için analiz yazıldı.
+ - Test senaryoları gözden geçirildi.
+ - Selenium kuruldu ve kullanıldı.
