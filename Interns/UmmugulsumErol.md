@@ -69,3 +69,21 @@ Yazılım ile üniversitede tanıştım. C eğitimi aldım. Okul haricinde kendi
 - Devops Unit Manager Buluşması etkinliğine katılım sağlandı.
 - Data Scientist Buluşması etkinliğine katılım sağlandı.
 - Test senaryoları tamamlandı.
+
+[**12.08.2022**](https://github.com/bimser-intern/docs/issues/287)
+
+- Mobile Development Unit Manager Buluşması etkinliğine katılım sağlandı.
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
+- Yazılan test senaryoları Github issues alanlarına eklendi.
+
+[**15.08.2022**](https://github.com/bimser-intern/docs/issues/287)
+
+- Sprint Planning toplantısına katılım sağlandı.
+- Business Analyst Team Lead Buluşması etkinliğine katılım sağlandı.
+- Test senaryoları yazıldı.
+- Selenium hakkında araştırma yapıldı. 
+
+[**16.08.2022**](https://github.com/bimser-intern/docs/issues/287)
+
+- Test senaryoları gözden geçirildi ve düzenlemeler yapıldı. 
+- Selenium çalışmalarına başlandı ve Python Selenium modülü kullanımı hakkında videolar izlendi. [Videolara buradan ulaşabilirsiniz.](https://www.youtube.com/watch?v=XvwPdJz4bJo&list=PLLftmqJYInB3vealn4v4xtwFiawmNyuM1&index=1&ab_channel=SinanErdin%C3%A7)
