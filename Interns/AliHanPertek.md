@@ -92,5 +92,5 @@ Yazılım ile üniversitede tanıştım. Son yıllarda, C# dilinde ASP.Net MVC t
 [**16.08.2022**](https://github.com/bimser-intern/docs/issues/333)
 
 - Daily Scrum'a katılım sağlandı.
-- CI/CD olayları araştırıldı. [Detaylara buradan ulaşabilirsiniz.](https://www.argenova.com.tr/cicd-nedir#:~:text=S%C3%BCrekli%20entegrasyon%20(Continuous%20Integration%2C%20CI,ilkelerini%20ve%20uygulamalar%20koleksiyonunu%20i%C3%A7erir.)
+- CI/CD olayları araştırıldı. [Detaylara buradan ulaşabilirsiniz.](https://caylakyazilimci.com/post/ci-cd-nedir)
 - Jenkins kavramları hakkında araştırma yapıldı. [Detaylara buradan ulaşabilirsiniz.](https://gokayburucweblog.mozellosite.com/programlama/params/post/2254673/jenkins---birinci-kisim)
