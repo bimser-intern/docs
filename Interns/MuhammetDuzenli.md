@@ -102,3 +102,10 @@ Python dilini 6 Haziran-18 Temmuz 2022 tarihleri arasında Kocaeli Üniversitesi
 - Senior Technical Product Manager Buluşması etkinliğine katılım sağlandı.
 - GitHub Actions üzerindeki hatalar giderilmeye çalışıldı.
 
+[**18.08.2022**](https://github.com/bimser-intern/docs/issues/363)
+
+- GitHub Actions tarafında alınan hata giderildi.
+- Backend GitHub Actions tarafı ayağa kaldırıldı.
+- Frontend GitHub Actions tarafı ayağa kaldırıldı.
+- Frontend tarafında yeni kütüphane kullanıldığı bilgisi alındı ve Dockerfile buna göre tekrar düzenlendi.
+- İleride yapılacak DevOps geliştirmeleri için araştırmalar yapıldı.
