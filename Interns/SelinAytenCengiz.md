@@ -183,3 +183,33 @@ Ben Selin Ayten Cengiz, Kocaeli Üniversitesi, Bilgisayar Mühendisliği Bölüm
 - Projede servise istek göndererek kayıt ve giriş işlemleri gerçekleştirildi.
 
 - Anket listeleme sayfasının taslağı oluşturuldu.
+
+
+[**16.08.2022**](https://github.com/bimser-intern/docs/issues/356)
+
+- Daily Scrum yapıldı.
+
+- Code review yapıldı.
+
+- Sample Survey sayfası geliştirildi, anketler listelendi.
+
+- Fill Survey sayfası geliştirildi, anketlerde şıklar seçilebilir hale getirildi.
+
+- Recycler view için adapter yazıldı.
+
+
+[**17.08.2022**](https://github.com/bimser-intern/docs/issues/356)
+
+- Daily Scrum yapıldı.
+
+- Code review yapıldı.
+
+- Senior Technical Product Manager Buluşması etkinliğine katılım sağlandı.
+
+- MySurvey sayfası geliştirildi, anketler listelendi.
+
+- Token kullanılarak Sample Survey, My Survey ve Fill Survey ve Create Survey sayfaları için servise istek atma işlemleri gerçekleştirildi.
+
+- Servisten gelen bilgilere göre My Survey ve Sample Survey sayfalarında listeleme yapıldı.
+
+- JsonToKotlinClass plugin'i kullanılarak servisten kullanıcı bilgileri ve anket listeleri alındı.
