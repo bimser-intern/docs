@@ -79,3 +79,8 @@ Ben Kerem Erkubilay, Düzce Üniversitesinde Bilgisayar Mühendisliği okuyorum.
 - Stajyer & Fatma Nur Özen(Senior Technical Product Manager) buluşmasına katılım sağlandı.
 - User Info sayfasının taslağı oluşturuldu.
 
+[**18.08.2022**](https://github.com/bimser-intern/docs/issues/361)
+- Daily Scrum yapıldı.
+- Karanlık modda oluşan hatalar giderildi.
+- Stajyer & Bertan Yaman(Frontend Development Unit Manager) buluşmasına katılım sağlandı.
+- Appcenter için apk oluşturuldu.
