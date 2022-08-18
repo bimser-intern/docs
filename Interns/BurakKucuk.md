@@ -80,6 +80,27 @@ Ben Burak Küçük, Girne Üniversitesi Yazılım Mühendisliği  öğrencisiyim
 
 - Android kısmının issueları incelendi.
 
+[**15.08.2022**](https://github.com/bimser-intern/docs/issues/331)
+
+- Daily Scrum yapıldı.
+
+- Sprint Planning toplantısı yapıldı.
+
+- Stajyer & Esra Moğultay(Business Analyst Team Lead) buluşmasına katılım sağlandı. 
+
+- Android studio hakkında araştırma yapıldı.
+
+[**16.08.2022**](https://github.com/bimser-intern/docs/issues/331)
+
+- Daily Scrum yapıldı.
+
+- Product Owner ile toplantı yapıldı.
+
+- Android studio hakkında araştırmalara devam edildi.
+
+
+
+
 
 
 
