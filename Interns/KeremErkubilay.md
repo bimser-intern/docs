@@ -75,8 +75,6 @@ Ben Kerem Erkubilay, Düzce Üniversitesinde Bilgisayar Mühendisliği okuyorum.
 - My Surveys sayfasının taslağı oluşturuldu.
 
 [**17.08.2022**](https://github.com/bimser-intern/docs/issues/351)
-- Frontend bölümünün Docker dosyası düzenlendi.
-- Backend ve Frontend bölümlerindeki değişiklikler manuel olarak buluta yüklendi.
-- GitHub Actions kullanarak CI/CD Pipeline işlemleri başlatıldı.
-- Senior Technical Product Manager Buluşması etkinliğine katılım sağlandı.
-- GitHub Actions üzerindeki hatalar giderilmeye çalışıldı.
+- Daily Scrum yapıldı.
+- Stajyer & Fatma Nur Özen(Senior Technical Product Manager) buluşmasına katılım sağlandı.
+- User Info sayfasının taslağı oluşturuldu.
