@@ -80,3 +80,17 @@ Yazılım ile üniversitede tanıştım. Son yıllarda, C# dilinde ASP.Net MVC t
 - Azure mobil servisler hakkında araştırma yapıldı. [Detaylara buradan ulaşabilirsiniz.](https://www.youtube.com/watch?v=EV6DPafCntA&list=PLU1n1ikWH9CIw5jpPSOH0sJwippkmek2C&index=5)
 - Azure servis planları hakkında araştırma yapıldı. [Detaylara buradan ulaşabilirsiniz.](https://www.youtube.com/watch?v=LyV_BmwLWY4)
 - Sprint planlama toplantısına katılım sağlandı. Projenin artıları, eksikleri ve projede nasıl bir yol izlememiz konusunda önemli yerlere değinildi.
+
+[**15.08.2022**](https://github.com/bimser-intern/docs/issues/333)
+
+- Daily Scrum'a katılım sağlandı.
+- Stajyer & Esra Moğultay(Business Analyst Team Lead) toplantısına katılım sağlandı.
+- Docker üzerinden Jenkins kurulumu tamamlandı.
+- Jenkins'le ilgili çeşitli dokümanlar okundu. [Detaylara buradan ulaşabilirsiniz.](https://celik-1907.medium.com/jenki%CC%87ns-nedi%CC%87r-85b5cc91e42d)
+- Jenkins'le ilgili videolar izlendi. [Detaylara buradan ulaşabilirsiniz.](https://www.youtube.com/watch?v=PrqzBimgsiI)
+
+[**16.08.2022**](https://github.com/bimser-intern/docs/issues/333)
+
+- Daily Scrum'a katılım sağlandı.
+- CI/CD olayları araştırıldı. [Detaylara buradan ulaşabilirsiniz.](https://caylakyazilimci.com/post/ci-cd-nedir)
+- Jenkins kavramları hakkında araştırma yapıldı. [Detaylara buradan ulaşabilirsiniz.](https://gokayburucweblog.mozellosite.com/programlama/params/post/2254673/jenkins---birinci-kisim)
