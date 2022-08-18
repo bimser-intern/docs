@@ -95,3 +95,12 @@ Yazılım ile üniversitede tanıştım. Üniversite eğitimimde C, C#, C++, Pyt
 - Senior Technical Product Manager Buluşması etkinliğine katılım sağlandı.
 - Surveysaurus web sürümü için manuel testler yapıldı.
 - Önümüzdeki hafta için tasarımlar yapıldı.
+
+[**18.08.2022**](https://github.com/bimser-intern/docs/issues/364)
+
+- Daily scrum yapıldı.
+- Frontend Development Unit Manager Buluşması etkinliğine katılım sağlandı.
+- Surveysaurus web ve mobil sürümü için manuel testler yapıldı.
+- Yapılan testler sonucu bulunan hatalar Github üstünden issue olarak eklendi.
+- Figma üstünden tasarımlar yapıldı.
+- Yapılan tasarımların analizi yazıldı.
