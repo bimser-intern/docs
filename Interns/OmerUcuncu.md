@@ -93,3 +93,11 @@ Eğitim süresince ilk stajımı  **Bimser**'de gönüllü stajyer olarak yapmak
  - Önümüzdeki haftanın tasarımı için analiz yazıldı.
  - Test senaryoları gözden geçirildi.
  - Selenium kuruldu ve kullanıldı.
+
+ [**17.08.2022**](https://github.com/bimser-intern/docs/issues/347)
+
+ - Daily scrum yapıldı.
+ - Senior Technical Product Manager buluşmasına katılındı.
+ - Surveysaurus web sürümü için manuel testler yapıldı.
+ - Önümüzdeki hafta için tasarımlar yapıldı.
+ - Tasarımların analizleri yazıldı.

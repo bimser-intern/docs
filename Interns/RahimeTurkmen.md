@@ -89,3 +89,20 @@ Bimser Çözüm şirketinde zorunlu staj yapmaktayım ve bu staj süresince yapa
 - Stajyer & Esra Moğultay(Business Analyst Team Lead) Buluşması'na katılım sağlandı.
 - Frontend geliştirme ortamı için yazılan Dockerfile tekrar yazıldı.
 - Yazılım sürecinin geliştirmesini otomatize edebileceğimiz github actions araştırıldı. [Belgeye buradan ulaşabilirsiniz.](https://furkan-dvlp.medium.com/ci-cd-ve-github-actions-c7d9dc9c9c24)
+
+
+[**16.08.2022**](https://github.com/bimser-intern/docs/issues/346)
+
+- Daily Scrum'a katılım sağlandı.
+- Backend development ortamında oluşan cors kütüphanesi sorunu çözüldü.
+- Azure üzerinde container app oluşturarak hatalar giderilmeye çalışıldı. [Dokümantasyona buradan ulaşabilirsiniz.](https://docs.microsoft.com/en-us/azure/container-apps/communicate-between-microservices?tabs=bash&pivots=acr-remote)
+
+
+
+[**17.08.2022**](https://github.com/bimser-intern/docs/issues/346)
+
+- Daily Scrum'a katılım sağlandı.
+- Stajyer & Fatma Nur Özen(Senior Technical Product Manager) Buluşması'na katılım sağlandı.
+- Surveysaurus projesinin ui bölümüne ait dockerfile düzenlendi.
+- Proje development ortamının hataları tamamen giderildi.
+- CI/CD süreci için Github actions kullanıldı.

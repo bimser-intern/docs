@@ -76,17 +76,22 @@ Yazılım ile üniversitede tanıştım. Başta Algoritma Temelleri olmakla bera
 - Stajyer & Furkan Küçük(devops unit manager) buluşma toplatısına katıldım.
 - Stajyer & Gökhan Gerdan(data scientist) buluşma toplantısına katıldım.
 
-[**12.08.2022](https://github.com/bimser-intern/docs/issues/286)
+[**12.08.2022**](https://github.com/bimser-intern/docs/issues/286)
 - Sabah daily scrum toplantısı yapıldı.
 - Stajyer & Erdem Topuz(Mobile Development Unit Manager) buluşma toplantısına katıldım.
 - Takım arkadaşlarıyla toplantı yapıldı.
 - Projenin eksikleri giderildi.
 - Sprint toplantısı yapıldı ve şuana kadar yapılan proje değerlendirildi ve iyi ve kötü tarafları not edildi.
 
-[**15.08.2022](https://github.com/bimser-intern/docs/issues/321)
+[**15.08.2022**](https://github.com/bimser-intern/docs/issues/321)
 - Sprint 1 toplantısı yapıldı ve iş yüklerinin büyüklükleri belirlendi.
 - Daily scrum toplantısı yapıldı.
 - Sprint 2 Toplantısı yapıldı ve bu hafta yapılacak görevler belirlendi.
 - Stajyer & Esra Moğultay(Business Analyst Team Lead) Buluşma toplantısına katıldım.
 - Create survey sayfasının tasarımı yapıldı.
 
+[**16.08.2022**](https://github.com/bimser-intern/docs/issues/342)
+- Sabah daily scrum toplantısı yapıldı.
+- Takım arkadaşlarıyla toplantı yapıldı create survey ve my survey sayfalarındaki eksikler giderildi.
+- Proje github'a pull request edildi.[dokümana-buradan-erişebilirsiniz](https://github.com/bimser-intern/surveysaurus-ui/pull/13)
+- React ile ilgili araştırma yapıldı.

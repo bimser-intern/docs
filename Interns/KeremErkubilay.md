@@ -78,3 +78,4 @@ Ben Kerem Erkubilay, Düzce Üniversitesinde Bilgisayar Mühendisliği okuyorum.
 - Daily Scrum yapıldı.
 - Stajyer & Fatma Nur Özen(Senior Technical Product Manager) buluşmasına katılım sağlandı.
 - User Info sayfasının taslağı oluşturuldu.
+
