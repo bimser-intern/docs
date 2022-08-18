@@ -88,3 +88,10 @@ Yazılım ile üniversitede tanıştım. Üniversite eğitimimde C, C#, C++, Pyt
 - Önümüzdeki haftanın tasarımı için analiz ekibiyle görüşüldü.
 - Test senaryoları gözden geçirildi.
 - Selenium hakkında araştırma yapıldı ve selenium kurulup kullanıldı. [Buradan erişebilirsiniz.](https://www.udemy.com/course/sifirdan-ileri-seviyeye-python/learn/lecture/13447814#overview)
+
+[**17.08.2022**](https://github.com/bimser-intern/docs/issues/354)
+
+- Daily scrum yapıldı.
+- Senior Technical Product Manager Buluşması etkinliğine katılım sağlandı.
+- Surveysaurus web sürümü için manuel testler yapıldı.
+- Önümüzdeki hafta için tasarımlar yapıldı.
