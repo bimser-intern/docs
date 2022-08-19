@@ -95,3 +95,9 @@ Yazılım ile üniversitede tanıştım. Başta Algoritma Temelleri olmakla bera
 - Takım arkadaşlarıyla toplantı yapıldı create survey ve my survey sayfalarındaki eksikler giderildi.
 - Proje github'a pull request edildi.[dokümana-buradan-erişebilirsiniz](https://github.com/bimser-intern/surveysaurus-ui/pull/13)
 - React ile ilgili araştırma yapıldı.
+
+[**17.08.2022**](https://github.com/bimser-intern/docs/issues/358)
+- Sabah daily scrum toplantısına katıldım.
+- Projede gitignore ve create survey dosyaları düzeltildi.
+- Stajyer & Fatma Nur Özen(Senior Technical Product Manager) Buluşma toplatısına katıldım.
+- Projede çıkan conflict sorunu çözüldü.
