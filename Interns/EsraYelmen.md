@@ -72,3 +72,28 @@ Ben Esra Yelmen. Bolu Abant İzzet Baysal Üniversitesi Bilgisayar Mühendisliğ
 - Sprint planlama toplantısına katılım sağlandı.
 - Test senaryolarının yazımı tamamlandı.
 - Selenium çalışmaları yapıldı.
+- Business Analyst Team Lead Buluşması'na katılım sağlandı.
+
+[**16.08.2022**](https://github.com/bimser-intern/docs/issues/382)
+
+- Test senaryoları gözden geçirildi.
+- Selenium çalışmalarına devam edildi.
+
+[**17.08.2022**](https://github.com/bimser-intern/docs/issues/382)
+
+- Web tarafı için manuel testler yapıldı.
+- Bulunan hatalar Github'a bug issue olarak girildi.
+- Senior Technical Product Manager Buluşması'na katılım sağlandı.
+
+[**18.08.2022**](https://github.com/bimser-intern/docs/issues/382)
+
+- Android tarafı için manuel testler yapıldı.
+- Bulunan hatalar Github'a bug issue olarak girildi.
+- Selenium ve Python kullanılarak web login işlemine ait test otomasyonu yazılmaya başlandı.
+- Frontend Development Unit Manager Buluşması'na katılım sağlandı.
+
+[**19.08.2022**](https://github.com/bimser-intern/docs/issues/382)
+
+- Test otomasyon çalışmalarına devam edildi.
+- Customer Success Manager Buluşması'na katılım sağlandı. 
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
