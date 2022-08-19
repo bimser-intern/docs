@@ -101,3 +101,11 @@ Yazılım ile üniversitede tanıştım. Başta Algoritma Temelleri olmakla bera
 - Projede gitignore ve create survey dosyaları düzeltildi.
 - Stajyer & Fatma Nur Özen(Senior Technical Product Manager) Buluşma toplatısına katıldım.
 - Projede çıkan conflict sorunu çözüldü.
+
+[**18.08.2022**](https://github.com/bimser-intern/docs/issues/370)
+- Sabah daily scrum toplantısı yapıldı.
+- Projenin pull request 'ten dönen hataları giderildi.
+- Post işlemleri gerçekleştirildi.
+- User page dinamik hale getirildi.
+- Stajyer & Bertan Yaman(Frontend Development Unit Manager) Buluşma toplantısına katılındı.
+
