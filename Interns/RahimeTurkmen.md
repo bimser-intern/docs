@@ -106,3 +106,11 @@ Bimser Çözüm şirketinde zorunlu staj yapmaktayım ve bu staj süresince yapa
 - Surveysaurus projesinin ui bölümüne ait dockerfile düzenlendi.
 - Proje development ortamının hataları tamamen giderildi.
 - CI/CD süreci için Github actions kullanıldı.
+
+[**18.08.2022**](https://github.com/bimser-intern/docs/issues/368)
+
+- Daily Scrum'a katılım sağlandı.
+- Stajyer & Bertan Yaman(Frontend Development Unit Manager) Buluşması'na katılım sağlandı.
+- Projemizin CI/CD süreçleri için github actions'ı kullanmaya başladık.
+- Frontend ve backend kısımları için github actions ayağa kaldırdık.
+- Frontend kısmında güncelleme alındı, import edilen yeni kütüphane için dockerfile düzenlendi, deploy başarılı bir şekilde gerçekleşti.
