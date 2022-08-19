@@ -101,3 +101,12 @@ Eğitim süresince ilk stajımı  **Bimser**'de gönüllü stajyer olarak yapmak
  - Surveysaurus web sürümü için manuel testler yapıldı.
  - Önümüzdeki hafta için tasarımlar yapıldı.
  - Tasarımların analizleri yazıldı.
+
+ [**18.08.2022**](https://github.com/bimser-intern/docs/issues/360)
+
+ - Daily scrum yapıldı.
+ - Frontend Development Unit Manager buluşmasına katılındı.
+ - Surveysaurus web ve mobil sürümü için manuel testler yapıldı.
+ - Yapılan testler sonucu hatalar Github üstünden issue olarak eklendi.
+ - Figma üstünden tasarımlar yapıldı.
+ - Önümüzdeki haftanın son analizi yazıldı.
