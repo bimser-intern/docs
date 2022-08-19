@@ -94,7 +94,7 @@ Yazılım ile lisede tanıştım. 4 yıl boyunca web programlama dersleri aldım
 
 
 
-- Stajyer & Sami Mıynat(Software Development Unit Manager - Backend) Buluşması'na katılım sağlandı.
+- Stajyer & Sami Mıynat(Software Development Unit Manager - Backend) buluşması'na katılım sağlandı.
 
 - Backend ekibi ile görüşüldü.
 
@@ -104,9 +104,9 @@ Yazılım ile lisede tanıştım. 4 yıl boyunca web programlama dersleri aldım
 
 
 
-- Stajyer & Furkan Küçük(Devops Unit Manager) Buluşması'na katılım sağlandı.
+- Stajyer & Furkan Küçük(Devops Unit Manager) buluşması'na katılım sağlandı.
 
-- Stajyer & Gökhan Gerdan(Data Scientist) Buluşması'na katılım sağlandı.
+- Stajyer & Gökhan Gerdan(Data Scientist) buluşması'na katılım sağlandı.
 
 - Devops ekibi ile görüşüldü.
 
@@ -118,7 +118,7 @@ Yazılım ile lisede tanıştım. 4 yıl boyunca web programlama dersleri aldım
 
 
 
-- Stajyer & Erdem Topuz(Mobile Development Unit Manager) buluşma'na katılım sağlandı.
+- Stajyer & Erdem Topuz(Mobile Development Unit Manager) buluşması'na katılım sağlandı.
 
 - Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
 
@@ -132,7 +132,7 @@ Yazılım ile lisede tanıştım. 4 yıl boyunca web programlama dersleri aldım
 
 - Sprint planlama toplantısına katılım sağlandı.
 
-- Stajyer & Esra Moğultay(Business Analyst Team Lead) buluşma'na katılım sağlandı.
+- Stajyer & Esra Moğultay(Business Analyst Team Lead) buluşması'na katılım sağlandı.
 
 - Backend ekibi ile görüşüldü.
 
@@ -147,3 +147,37 @@ Yazılım ile lisede tanıştım. 4 yıl boyunca web programlama dersleri aldım
 - React Grid yapısı araştırıldı.
 
 - Backend ekibi ile görüşüldü.
+
+[**17.08.2022**](https://github.com/bimser-intern/docs/issues/380)
+
+
+
+- Stajyer & Fatma Nur Özen(Senior Technical Product Manager) buluşması'na katılım sağlandı.
+
+- Projede gitignore ve create survey dosyaları düzeltildi.
+
+- Css dosyaları projeden kaldırıldı.
+
+- DevOps ekibi ile görüşüldü.
+
+[**18.08.2022**](https://github.com/bimser-intern/docs/issues/380)
+
+
+
+- Stajyer & Bertan Yaman(Frontend Development Unit Manager) buluşması'na katılım sağlandı.
+
+- User page için survey verileri çekilip ekranda gösterildi.
+
+- User page açılır menü eklendi.
+
+[**19.08.2022**](https://github.com/bimser-intern/docs/issues/380)
+
+
+
+- Stajyer & Erol Eryiğit(Customer Success Manager) buluşması'na katılım sağlandı.
+
+- React Grid yapısı araştırıldı.
+
+- Test ekibi ile görüşüldü.
+
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
