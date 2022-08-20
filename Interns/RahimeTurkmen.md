@@ -15,7 +15,7 @@ Bimser Çözüm şirketinde zorunlu staj yapmaktayım ve bu staj süresince yapa
 [**02.08.2022**](https://github.com/bimser-intern/docs/issues/118)
 
 - Stajda geliştireceğimiz proje üzerinde rol alacağım Devops Engineer pozisyonu için Docker çalışmaya başlandı. [Kurs adresine buradan ulaşabilirsiniz.](https://www.udemy.com/course/adan-zye-docker/)
-- Git Temelleri sunumu için araştırma yapıldı. [Kaynak için tıklayınız.](https://app.patika.dev/moduller/frontend-web-gelistirme/git-bash-ile-git-temel-komutlari)
+- Git Temelleri sunumu için araştırma yapıldı. [Kaynak için tıklayabilirsiniz.](https://app.patika.dev/moduller/frontend-web-gelistirme/git-bash-ile-git-temel-komutlari)
 
 
 [**03.08.2022**](https://github.com/bimser-intern/docs/issues/118)
@@ -36,7 +36,7 @@ Bimser Çözüm şirketinde zorunlu staj yapmaktayım ve bu staj süresince yapa
 
 [**05.08.2022**](https://github.com/bimser-intern/docs/issues/173)
 
-- Devops engineer alanına yönelik diğer takım arkadaşlarımız için docker-jenkins sunumu yapıldı. [Sunumumuzu izlemek için tıklayınız](https://www.youtube.com/watch?v=KSHBXY1gU8Q&t=1585s)
+- Devops engineer alanına yönelik diğer takım arkadaşlarımız için docker-jenkins sunumu yapıldı. [Sunumumuzu izlemek için tıklayabilirsiniz.](https://www.youtube.com/watch?v=KSHBXY1gU8Q&t=1585s)
 - Backend, android, iş analizi, tester ekibi sunumuna katılım sağlandı.
 - Git kullanımı çalışmalarım devam ediyor.
 - Azure devops araştırılmaya başlandı.
@@ -59,7 +59,7 @@ Bimser Çözüm şirketinde zorunlu staj yapmaktayım ve bu staj süresince yapa
 
 - Daily Scrum'a katılım sağlandı.
 -  Stajyer & Sami Mıynat(Software Development Unit Manager - Backend) toplantısına katılım sağlandı.
-- Dockerfile oluşturma üzerinde çalışmalar yapıldı. [Okuma belgesi için tıklayınız.](https://acokgungordu.medium.com/docker-serisi-dockerfile-olu%C5%9Fturma-a21dfcfdb2bc)
+- Dockerfile oluşturma üzerinde çalışmalar yapıldı. [Okuma belgesi için tıklayabilirsiniz.](https://acokgungordu.medium.com/docker-serisi-dockerfile-olu%C5%9Fturma-a21dfcfdb2bc)
 - Azure Container App dokümantasyonu incelendi. [Dokümantasyona buradan ulaşabilirsiniz.](https://docs.microsoft.com/en-us/azure/container-apps/get-started?tabs=bash)
 
 
@@ -114,3 +114,13 @@ Bimser Çözüm şirketinde zorunlu staj yapmaktayım ve bu staj süresince yapa
 - Projemizin CI/CD süreçleri için github actions'ı kullanmaya başladık.
 - Frontend ve backend kısımları için github actions ayağa kaldırdık.
 - Frontend kısmında güncelleme alındı, import edilen yeni kütüphane için dockerfile düzenlendi, deploy başarılı bir şekilde gerçekleşti.
+
+
+[**19.08.2022**](https://github.com/bimser-intern/docs/issues/390)
+
+- Daily Scrum'a katılım sağlandı.
+- Stajyer & Erol Eryiğit(Customer Success Manager) Buluşması'na katılım sağlandı.
+- Sprint Review Toplantısı, Sprint Retrospective Toplantısına katılım sağlandı.
+- Docker CMD ENTRYPOINT farkı araştırıldı, öğrenildi. [Kaynak için tıklayabilirsiniz.](https://www.youtube.com/watch?v=HD6yKEOzvhw)
+- Test senaryoları integrasyonu araştırmalarına başlandı.
+- Selenium ile github actions kullanımına göz atıldı.
