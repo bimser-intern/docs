@@ -110,3 +110,11 @@ Eğitim süresince ilk stajımı  **Bimser**'de gönüllü stajyer olarak yapmak
  - Yapılan testler sonucu hatalar Github üstünden issue olarak eklendi.
  - Figma üstünden tasarımlar yapıldı.
  - Önümüzdeki haftanın son analizi yazıldı.
+
+ [**19.09.2022**](https://github.com/bimser-intern/docs/issues/384)
+
+ - Daily scrum yapıldı.
+ - Sprint Review toplantısına katılındı.
+ - Sprint Retrospective toplantısına katılındı.
+ - Customer Success Manager buluşmasına katılındı.
+ - Yeni eklenen özelliklerin analizi yazıldı.
