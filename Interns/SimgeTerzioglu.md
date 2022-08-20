@@ -104,3 +104,12 @@ Yazılım ile üniversitede tanıştım. Üniversite eğitimimde C, C#, C++, Pyt
 - Yapılan testler sonucu bulunan hatalar Github üstünden issue olarak eklendi.
 - Figma üstünden tasarımlar yapıldı.
 - Yapılan tasarımların analizi yazıldı.
+
+[**19.08.2022**](https://github.com/bimser-intern/docs/issues/386)
+
+- Daily scrum yapıldı.
+- Sprint Review toplantısına katılım sağlandı.
+- Sprint Retrospective toplantısına katılım sağlandı.
+- Customer Success Manager Buluşması etkinliğine katılım sağlandı.
+- Tasarıma yeni eklemeler yapıldı.
+- Yeni eklenen özelliklerin analizi yazıldı.
