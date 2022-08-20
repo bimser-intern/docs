@@ -109,3 +109,13 @@ Python dilini 6 Haziran-18 Temmuz 2022 tarihleri arasında Kocaeli Üniversitesi
 - Frontend GitHub Actions tarafı ayağa kaldırıldı.
 - Frontend tarafında yeni kütüphane kullanıldığı bilgisi alındı ve Dockerfile buna göre tekrar düzenlendi.
 - İleride yapılacak DevOps geliştirmeleri için araştırmalar yapıldı.
+
+[**19.08.2022**](https://github.com/bimser-intern/docs/issues/377)
+
+- GitHub Actions üzerinde oluşabilecek problemler tespit edildi.
+- Backend ve Frontend kısımlarındaki güncellemeler gözden geçirildi.
+- Build ve Deploy aşamaları detaylıca incelendi.
+- YAML uzantılı dosyalar ve işlevleri araştırıldı.
+- Selenium ve CI/CD entegrasyonu araştırıldı.
+- Oluşturmuş olduğumuz sistemin geliştirilmesi ve iyileştirilmesi için gerekli adımlar araştırıldı.
+- Customer Success Manager Buluşması etkinliğine katılım sağlandı.
