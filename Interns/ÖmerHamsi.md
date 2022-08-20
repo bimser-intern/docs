@@ -68,3 +68,29 @@ Ben Ömer Hamsi, Kocaeli Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.
 - Daily scrum yapıldı.
 - Confirm password kısmı eklendi, uyarı mesajları düzenlendi.
 - Our survey kısmına carousel eklenmeye çalışıldı.
+
+[**16.08.2022**](https://github.com/bimser-intern/docs/issues/373)
+- Sabah daily scrum toplantısı yapıldı.
+- Takım arkadaşlarıyla toplantı yapıldı.
+- Login, sign up uyarı mesajları düzenlendi.
+- Login, sign up post işlemleri denendi, kullanıcı yönlendirildi.
+- Kullanıcı girişi local storage kaydedildi.
+- User page menü kısmı dinamik hale getirildi.
+
+[**17.08.2022**](https://github.com/bimser-intern/docs/issues/373)
+- Sabah daily scrum toplantısına katıldım.
+- Projede gitignore ve create survey dosyaları düzeltildi.
+- Css dosyaları projeden kaldırıldı.
+- Our sample survey kısmına çeşitli kütüphanelerle slider eklenmeye çalışıldı.
+
+[**18.08.2022**](https://github.com/bimser-intern/docs/issues/373)
+- Sabah daily scrum toplantısına katıldım.
+- Create survey sayfası post işlemi yapıldı, option ekleme, silme kısımları düzeltildi.
+- User page için survey verileri çekilip ekranda gösterildi.
+- User page açılır menü eklendi.
+
+[**19.08.2022**](https://github.com/bimser-intern/docs/issues/373)
+- Sabah daily scrum toplantısına katıldım.
+- Our sample survey kısmına slick kütüphanesi eklenerek veriler gösterildi.
+- Sprint Review toplantısına katılındı.
+- Sprint Retrospective toplantısına katılındı.
