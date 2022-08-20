@@ -84,3 +84,11 @@ Ben Kerem Erkubilay, Düzce Üniversitesinde Bilgisayar Mühendisliği okuyorum.
 - Karanlık modda oluşan hatalar giderildi.
 - Stajyer & Bertan Yaman(Frontend Development Unit Manager) buluşmasına katılım sağlandı.
 - Appcenter için apk oluşturuldu.
+
+[**19.08.2022**](https://github.com/bimser-intern/docs/issues/372)
+- Daily Scrum yapıldı.
+- Test ekibinin bulduğu buglar düzeltilmeye başlandı.
+- Stajyer & Erol Eryiğit(Customer Success Manager) buluşmasına katılım sağlandı.
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
+- Takım olarak neleri iyi yaptığımıza, neleri hatalı yaptığımıza karar verip bir sonraki haftada dikkat edeceğimiz noktaları belirledik.
+
