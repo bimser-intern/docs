@@ -109,3 +109,9 @@ Yazılım ile üniversitede tanıştım. Başta Algoritma Temelleri olmakla bera
 - User page dinamik hale getirildi.
 - Stajyer & Bertan Yaman(Frontend Development Unit Manager) Buluşma toplantısına katılındı.
 
+[**19.08.2022**](https://github.com/bimser-intern/docs/issues/388)
+- Sabah daily scrum toplantısı yapıldı.
+- Carousel bar kısmı homepage sayfasına eklendi ve proje pull request edildi.
+- Stajyer & Erol Eryiğit(Customer Success Manager) Buluşma toplantısına katılındı.
+- Haftalık sprint 1 toplantısı yapıldı, verilen görevlerin yapılıp yapılmadığı kontrol edildi.
+- Haftalık sprint 2 toplantısı yapıldı, hafta değerlendirilmesi yapıldı.  
