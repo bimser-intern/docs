@@ -78,3 +78,47 @@ Web tabanlı uygulamalar geliştirirken genel olarak C# ASP.NET dilini ve Visual
  - Sprint Review toplantısına katılındı.
 
  - Sprint Retrospective toplantısına katılındı.
+
+ [**15.08.2022**](https://github.com/bimser-intern/docs/issues/394)
+
+- Bu hafta yapılacak yeni özellikler sprint planning toplantısında anlatıldı.
+
+- Stajyer & Esra Moğultay(Business Analyst Team Lead) Buluşması'na katılındı.
+
+- Bussiness analyst ekibi ile gelecek sprint için projeye eklenmesi gereken isterler değerlendirildi. Araştırmaya başlandı.
+
+- Frontend ekibinin kodları incelendi. 
+
+[**16.08.2022**](https://github.com/bimser-intern/docs/issues/394)
+
+- Daily scrum toplantısına katılındı.
+
+- Projeye eklenecek olan yeni özellikler için analizler yazılmaya başlandı. 
+
+- Proje eklenecek harita sayfası için araştırma yapıldı.
+
+- React ile ilgili araştırma yapıldı. 
+
+[**17.08.2022**](https://github.com/bimser-intern/docs/issues/394)
+
+- Stajyer & Fatma Nur Özen(Senior Technical Product Manager) Buluşması'na katılındı.
+
+- Analiz ekibiyle birlikte projenin yeni tasarımları yapıldı.
+
+- Projenin anket doldurma sayfasının frontend tarafı için deneme yapıldı.
+
+[**18.08.2022**](https://github.com/bimser-intern/docs/issues/394)
+
+- Daily scrum toplantısına katılındı.
+
+- Stajyer & Bertan Yaman(Frontend Development Unit Manager) Buluşması'na katılındı.
+
+- Seçilen anketlerin filling out survey sayfası üzerinde görüntülenmesi sağlandı.
+
+[**19.08.2022**](https://github.com/bimser-intern/docs/issues/394)
+
+- Stajyer & Erol Eryiğit(Customer Success Manager) Buluşması'na katılındı.
+
+- Sprint review toplantısında haftanın işlerinin değerlendirilmesi yapıldı.
+
+- Sprint retrospective toplantısı düzenlendi.
