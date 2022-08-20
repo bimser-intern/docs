@@ -94,3 +94,31 @@ Yazılım ile üniversitede tanıştım. Son yıllarda, C# dilinde ASP.Net MVC t
 - Daily Scrum'a katılım sağlandı.
 - CI/CD olayları araştırıldı. [Detaylara buradan ulaşabilirsiniz.](https://caylakyazilimci.com/post/ci-cd-nedir)
 - Jenkins kavramları hakkında araştırma yapıldı. [Detaylara buradan ulaşabilirsiniz.](https://gokayburucweblog.mozellosite.com/programlama/params/post/2254673/jenkins---birinci-kisim)
+
+[**17.08.2022**](https://github.com/bimser-intern/docs/issues/375)
+
+- Daily Scrum'a katılım sağlandı.
+- Stajyer & Fatma Nur Özen(Senior Technical Product Manager) buluşmasına katılım sağlandı.
+- Jenkinsle ilgili örnek CI/CD komutları gerçekleştirildi.
+- App Center'a test kullanıcıları eklendi.
+- Android geliştirme ortamı sağlandı.
+- App Center uygulamasının kullanımı hakkında bilgi verildi.
+
+[**18.08.2022**](https://github.com/bimser-intern/docs/issues/375)
+
+- Daily Scrum'a katılım sağlandı.
+- Stajyer & Bertan Yaman(Frontend Development Unit Manager) buluşmasına katılım sağlandı.
+- App Center üzerinden uygulama dağıtımı başarılı bir şekilde yapıldı.
+- App Center'da oluşan hatalar üzerine çalışma yapıldı.
+- Maven kullanımı hakkında araştırma yapıldı. [Detaylara buradan ulaşabilirsiniz.](http://muratgulcu.com/maven-genel-bakis/)
+
+[**19.08.2022**](https://github.com/bimser-intern/docs/issues/375)
+
+- Daily Scrum'a katılım sağlandı.
+- Stajyer & Erol Eryiğit(Customer Success Manager) buluşmasına katılım sağlandı.
+- App center build işlemleri başarılı bir şekilde yapıldı.
+- Maven kurulum işlemleri yapıldı.
+- java ortamının sağlanması için java kurulumu yapıldı.
+- Blue Stacks üzerinden uygulama sunumu yapıldı.
+- App Center'da oluşan hatalar üzerinde araştırma yapıldı.[Detaylara buradan ulaşabilirsiniz.](https://stackoverflow.com/questions/17315425/error-in-setting-java-home)
+- Sprint planlama toplantısına katılım sağlandı. Projenin artıları, eksikleri ve projede nasıl bir yol izlememiz konusunda önemli yerlere değinildi.
