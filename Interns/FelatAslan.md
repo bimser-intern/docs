@@ -115,3 +115,10 @@ Yazılım ile üniversitede tanıştım. Başta Algoritma Temelleri olmakla bera
 - Stajyer & Erol Eryiğit(Customer Success Manager) Buluşma toplantısına katılındı.
 - Haftalık sprint 1 toplantısı yapıldı, verilen görevlerin yapılıp yapılmadığı kontrol edildi.
 - Haftalık sprint 2 toplantısı yapıldı, hafta değerlendirilmesi yapıldı.  
+
+[**22.08.2022**](https://github.com/bimser-intern/docs/issues/405)
+- Sprint 1 toplantısı yapıldı ve görevlerin büyüklüğü belirlendi.
+- Sprint 2 toplantısı yapıldı ve hangi görevlerin alınacağı belirlendi.
+- Daily scrum toplantısı yapıldı.
+- Takım arkadaşlarıyla toplantı yapıldı ve görev ayrımı yapıldı.
+- Testten dönen eksikler giderildi.
