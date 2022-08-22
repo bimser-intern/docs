@@ -213,3 +213,33 @@ Ben Selin Ayten Cengiz, Kocaeli Üniversitesi, Bilgisayar Mühendisliği Bölüm
 - Servisten gelen bilgilere göre My Survey ve Sample Survey sayfalarında listeleme yapıldı.
 
 - JsonToKotlinClass plugin'i kullanılarak servisten kullanıcı bilgileri ve anket listeleri alındı.
+
+
+[**18.08.2022**](https://github.com/bimser-intern/docs/issues/396)
+
+- Daily Scrum yapıldı.
+
+- Code review yapıldı.
+
+- User info sayfası geliştirildi. User info sayfasına kullanıcı bilgileri getirildi.
+
+- Add option textlerine silinebilme özelliği getirildi.
+
+- Sol menünün giriş yapıldıktan sonraki fonksiyonları değiştirildi.
+
+- Stajyer & Bertan Yaman(Frontend Development Unit Manager) buluşmasına katılım sağlandı.
+
+
+[**19.08.2022**](https://github.com/bimser-intern/docs/issues/396)
+
+- Daily Scrum yapıldı.
+
+- Code review yapıldı.
+
+- Test ekibinin bulduğu buglar düzeltilmeye başlandı.
+
+- Stajyer & Erol Eryiğit(Customer Success Manager) buluşmasına katılım sağlandı.
+
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
+
+- Country ve city için servis istekleri atıldı.
