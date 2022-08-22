@@ -118,3 +118,9 @@ Eğitim süresince ilk stajımı  **Bimser**'de gönüllü stajyer olarak yapmak
  - Sprint Retrospective toplantısına katılındı.
  - Customer Success Manager buluşmasına katılındı.
  - Yeni eklenen özelliklerin analizi yazıldı.
+
+ [**22.08.2022**](https://github.com/bimser-intern/docs/issues/400)
+
+ - Daily scrum yapıldı.
+ - Sprint Planning toplantısına katılındı.
+ - K6 Automation Testing Tool kuruldu ve kullanımı için araştırma yapıldı.
