@@ -123,4 +123,5 @@ Eğitim süresince ilk stajımı  **Bimser**'de gönüllü stajyer olarak yapmak
 
  - Daily scrum yapıldı.
  - Sprint Planning toplantısına katılındı.
- - K6 Automation Testing Tool kuruldu ve kullanımı için araştırma yapıldı.
+ - Web ve android için test senaryoları yazıldı.
+ - K6 Automation Testing Tool kuruldu ve kullanımı için araştırma yapıldı. [Buradan erişebilirsiniz.](https://k6.io/docs/)
