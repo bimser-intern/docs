@@ -92,3 +92,12 @@ Ben Kerem Erkubilay, Düzce Üniversitesinde Bilgisayar Mühendisliği okuyorum.
 - Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
 - Takım olarak neleri iyi yaptığımıza, neleri hatalı yaptığımıza karar verip bir sonraki haftada dikkat edeceğimiz noktaları belirledik.
 
+[**22.08.2022**](https://github.com/bimser-intern/docs/issues/401)
+- Sprint Planning yapıldı.
+- Daily Scrum yapıldı.
+- Yeni butonların tasarımları yapıldı.
+
+[**23.08.2022**](https://github.com/bimser-intern/docs/issues/415)
+- Daily Scrum yapıldı.
+- Google Maps eklendi
+
