@@ -122,3 +122,9 @@ Yazılım ile üniversitede tanıştım. Başta Algoritma Temelleri olmakla bera
 - Daily scrum toplantısı yapıldı.
 - Takım arkadaşlarıyla toplantı yapıldı ve görev ayrımı yapıldı.
 - Testten dönen eksikler giderildi.
+
+[**23.08.2022**](https://github.com/bimser-intern/docs/issues/413)
+- Sabah daily scrum toplantısı yapıldı.
+- Takım arkadaşlarıyla toplantı yapıldı.
+- Homepage sayfasında navbar menüsündeki logonun ortaya hizalanması üzerine çalışıldı.
+- Sign up sayfasında kayıt olma durumundaki hata üzerine çalışıldı.
