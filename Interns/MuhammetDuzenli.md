@@ -119,3 +119,11 @@ Python dilini 6 Haziran-18 Temmuz 2022 tarihleri arasında Kocaeli Üniversitesi
 - Selenium ve CI/CD entegrasyonu araştırıldı.
 - Oluşturmuş olduğumuz sistemin geliştirilmesi ve iyileştirilmesi için gerekli adımlar araştırıldı.
 - Customer Success Manager Buluşması etkinliğine katılım sağlandı.
+
+[**22.08.2022**](https://github.com/bimser-intern/docs/issues/398)
+
+- GitHub Actions ile Pull Request Build tetiklemesi sağlandı.
+- Selenium ve CI/CD entegrasyonu araştırıldı.
+- Oluşturmuş olduğumuz sistemin geliştirilmesi ve iyileştirilmesi için gerekli adımlar araştırıldı.
+- URL Routing ve Domain Services konusu araştırıldı.
+- Farklı GitHub Actions uygulamaları incelendi.
