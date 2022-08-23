@@ -97,3 +97,14 @@ Ben Esra Yelmen. Bolu Abant İzzet Baysal Üniversitesi Bilgisayar Mühendisliğ
 - Test otomasyon çalışmalarına devam edildi.
 - Customer Success Manager Buluşması'na katılım sağlandı. 
 - Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
+
+[**22.08.2022**](https://github.com/bimser-intern/docs/issues/407)
+
+- Sprint Planning toplantısına katılım sağlandı.
+- Web ve android test senaryoları yazıldı.
+- k6 Load Testing Tool kullanımı hakkında araştırma yapıldı.
+
+[**23.08.2022**](https://github.com/bimser-intern/docs/issues/407)
+
+- k6 araştırmalarına devam edildi.
+- k6 ile denemeler yapıldı.
