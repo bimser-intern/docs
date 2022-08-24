@@ -101,3 +101,7 @@ Ben Kerem Erkubilay, Düzce Üniversitesinde Bilgisayar Mühendisliği okuyorum.
 - Daily Scrum yapıldı.
 - Google Maps eklendi
 
+[**24.08.2022**](https://github.com/bimser-intern/docs/issues/427)
+- Daily Scrum yapıldı.
+- Harita araştırması yapıldı.
+- GitHub action sorunu çözüldü.
