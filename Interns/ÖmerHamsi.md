@@ -94,3 +94,15 @@ Ben Ömer Hamsi, Kocaeli Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.
 - Our sample survey kısmına slick kütüphanesi eklenerek veriler gösterildi.
 - Sprint Review toplantısına katılındı.
 - Sprint Retrospective toplantısına katılındı.
+
+[**22.08.2022**](https://github.com/bimser-intern/docs/issues/421)
+- Sprint planlama toplantısına katılım sağlandı.
+- Takım içerisinde görev dağılımı yapıldı.
+- Kullanıcının giriş yapmadan oluşturduğu anketinin giriş yapıldıktan sonra kayıt edilmesi sağlandı.
+- Ülke ve şehir bilgileri çekilerek input içerisinde gösterilmesi sağlandı.
+
+[**23.08.2022**](https://github.com/bimser-intern/docs/issues/421)
+- Sabah daily scrum toplantısına katılım sağlandı.
+- Tıklanan anketin detayının görüntülenmesi sağlandı.
+- Anket doldurma sayfası tasarımı yeni güncellemeler yapıldı.
+- Anket doldurma post işlemi yapıldı.
