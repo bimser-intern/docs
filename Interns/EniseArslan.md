@@ -134,6 +134,30 @@ Ben Enise Arslan, Kocaeli Üniversitesi Bilgisayar Mühendisliği son sınıf ö
 
 - Sprint Review ve Sprint Retrospective toplantılarına katılındı.
 
+[**22.08.2022**](https://github.com/bimser-intern/docs/issues/426)
+
+- Sprint planlama toplantısına katılındı.
+
+- Daily scrum yapıldı.
+
+- Projeye eklenecek olan google ile giriş yapma kısmı için araştırma yapıldı, analizi yazıldı.
+
+
+[**23.08.2022**](https://github.com/bimser-intern/docs/issues/426)
+
+- Daily scrum yapıldı.
+
+- Google ile giriş yapma kısmının figma da tasarımı yapıldı. Analizdeki eksikler düzenlendi. 
+
+[**23.08.2022**](https://github.com/bimser-intern/docs/issues/426)
+
+- Daily scrum yapıldı.
+
+- Product owner ile gelecek sprint için projeye eklenmesi beklenen isterler konuşuldu. 
+
+- Projeye eklenecek olan, anket yazarının profil sayfası (creator page) için analiz yazıldı. Figma üzerinde tasarımı yapıldı.
+
+- Kullanıcının tüm anketlere erişebilmesi için tasarıma "all survey page" eklendi. Analizi düzenlendi.
 
 
 
