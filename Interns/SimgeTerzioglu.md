@@ -126,3 +126,9 @@ Yazılım ile üniversitede tanıştım. Üniversite eğitimimde C, C#, C++, Pyt
 - Daily scrum yapıldı.
 - Selenium ile giriş ve kayıt işlemlerinin testi yazıldı.
 - K6 araştırıldı.
+
+[**24.08.2022**](https://github.com/bimser-intern/docs/issues/434)
+
+- Daily scrum yapıldı.
+- Product Owner ile görüşüldü ve gelecek hafta için gerekli olan tasarımlar belirlendi.
+- Selenium ile anket doldurma sayfasının otomasyonu yazılmaya başlandı.
