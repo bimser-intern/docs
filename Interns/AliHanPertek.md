@@ -120,5 +120,31 @@ Yazılım ile üniversitede tanıştım. Son yıllarda, C# dilinde ASP.Net MVC t
 - Maven kurulum işlemleri yapıldı.
 - java ortamının sağlanması için java kurulumu yapıldı.
 - Blue Stacks üzerinden uygulama sunumu yapıldı.
-- App Center'da oluşan hatalar üzerinde araştırma yapıldı.[Detaylara buradan ulaşabilirsiniz.](https://stackoverflow.com/questions/17315425/error-in-setting-java-home)
+- App Center'da oluşan hatalar üzerinde araştırma yapıldı. [Detaylara buradan ulaşabilirsiniz.](https://stackoverflow.com/questions/17315425/error-in-setting-java-home)
 - Sprint planlama toplantısına katılım sağlandı. Projenin artıları, eksikleri ve projede nasıl bir yol izlememiz konusunda önemli yerlere değinildi.
+
+[**22.08.2022**](https://github.com/bimser-intern/docs/issues/443)
+
+- Daily Scrum'a katılım sağlandı.
+- Sprint Planning toplantısına katılım sağlandı.
+- Github Actions hakkında araştırmalar yapıldı.
+- GitHub Actions üzerinde oluşabilecek problemler tespit edildi.
+- Android tarafındaki güncellemeler gözden geçirildi.
+- Build işlemleri başarılı bir şekilde tamamlanmıştır. [Detaylara buradan ulaşabilirsiniz.](https://github.com/bimser-intern/surveysaurus-android/pull/33)
+- App Center üzerinden monitör izlendi.
+
+[**23.08.2022**](https://github.com/bimser-intern/docs/issues/443)
+
+- Daily Scrum'a katılım sağlandı.
+- Selandroid ve CI/CD entegrasyonu araştırıldı.
+- Github Actions tarafından oluşan hatalar giderildi.
+- App Center üzerinden monitör izlendi.
+- Birden fazla cihaz üzerinden uygulama testinin sağlanması için gerekli araştırmalar yapıldı.[Detaylara buradan ulaşabilirsiniz.](https://console.momentumsuite.com/mlive/login)
+
+[**24.08.2022**](https://github.com/bimser-intern/docs/issues/443)
+
+- Daily Scrum'a katılım sağlandı.
+- App Center üzerinden monitör izlendi.
+- Android test otomasyonlarını otomatize etme işlemi araştırıldı. [Detaylara buradan ulaşabilirsiniz.](https://console.momentumsuite.com/en)
+- Github Actions tarafından oluşan hatalar giderildi.
+- Çeşitli cihazlar üzerinden uygulama testi başarıyla sağlandı.
