@@ -87,3 +87,35 @@ Yazılım ile üniversitede tanıştım. C eğitimi aldım. Okul haricinde kendi
 
 - Test senaryoları gözden geçirildi ve düzenlemeler yapıldı. 
 - Selenium çalışmalarına başlandı ve Python Selenium modülü kullanımı hakkında videolar izlendi. [Videolara buradan ulaşabilirsiniz.](https://www.youtube.com/watch?v=XvwPdJz4bJo&list=PLLftmqJYInB3vealn4v4xtwFiawmNyuM1&index=1&ab_channel=SinanErdin%C3%A7)
+
+[**17.08.2022**](https://github.com/bimser-intern/docs/issues/429)
+
+- Python ve Selenium ile web test otomasyonu konusunda çalışmaya devam edildi. [Videolara buradan ulaşabilirsiniz.](https://www.youtube.com/watch?v=MM10SYKfqwA&list=PLbFzTYWXNlJ4BrHcQ5dVhy9xhLtLg2Kcr&ab_channel=TestOtomasyonM%C3%BChendisi)
+- Web tarafı için manuel testler yapıldı.
+- Bulunan hatalar Github'a bug issue olarak girildi.
+- Senior Technical Product Manager Buluşması etkinliğine katılım sağlandı.
+
+[**18.08.2022**](https://github.com/bimser-intern/docs/issues/429)
+
+- Android tarafı için manuel testler yapıldı.
+- Bulunan hatalar Github'a bug issue olarak girildi.
+- Python ve Selenium ile web test otomasyonu konusunda çalışmalar ilerletildi ve web kısmı için login işleminin otomasyonu yazılmaya başlandı.
+- Frontend Development Unit Manager Buluşması etkinliğine katılım sağlandı.
+
+[**19.08.2022**](https://github.com/bimser-intern/docs/issues/429)
+
+- Web test otomasyonu çalışmalarına devam edildi. 
+- Customer Success Manager Buluşması etkinliğine katılım sağlandı. 
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
+
+[**22.08.2022**](https://github.com/bimser-intern/docs/issues/429)
+
+- Sprint Planning toplantısına katılım sağlandı.
+- Web ve android test senaryoları yazıldı.
+- JMeter ve Load test üzerine araştırma yapıldı ve konuyla ilgili video izlendi. [Videoya buradan ulaşabilirsiniz.](https://www.youtube.com/watch?v=_WWb6D4lmEw&ab_channel=SoftwareTestingBootcamp)
+- Web kısmı için sign up işleminin otomasyonu yazılmaya başlandı.
+
+[**24.08.2022**](https://github.com/bimser-intern/docs/issues/429)
+
+- Web kısmı için Create Survey sayfasının otomasyonu üzerinde çalışmaya başlandı.
+- Sign up otomasyonu üzerinde geliştirme yapılmaya başlandı. 
