@@ -127,3 +127,11 @@ Python dilini 6 Haziran-18 Temmuz 2022 tarihleri arasında Kocaeli Üniversitesi
 - Oluşturmuş olduğumuz sistemin geliştirilmesi ve iyileştirilmesi için gerekli adımlar araştırıldı.
 - URL Routing ve Domain Services konusu araştırıldı.
 - Farklı GitHub Actions uygulamaları incelendi.
+
+[**23.08.2022**](https://github.com/bimser-intern/docs/issues/410)
+
+- URL Routing işlemleri için araştırmalar yapıldı.
+- Azure Application Gateway oluşturma işlemi gerçekleştirildi. [Dokümantasyona buradan ulaşabilirsiniz.](https://docs.microsoft.com/en-us/azure/application-gateway/quick-create-portal) 
+- Oluşturulan sanal makineler arasında iletişim kurulmaya çalışıldı.
+- Azure Portal üzerinde routing işlemleri denendi. [Dokümantasyona buradan ulaşabilirsiniz.](https://docs.microsoft.com/en-us/azure/application-gateway/create-url-route-portal)
+- Frontend tarafında yapılan güncelleme incelendi ve build tarafında çıkan problem tespit edilmeye çalışıldı.
