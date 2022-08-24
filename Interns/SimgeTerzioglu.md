@@ -120,3 +120,9 @@ Yazılım ile üniversitede tanıştım. Üniversite eğitimimde C, C#, C++, Pyt
 - Sprint Planning toplantısına katılım sağlandı.
 - Web ve android için test senaryoları yazıldı.
 - K6 Automation Testing Tool kuruldu ve kullanımı için araştırma yapıldı. [Buradan erişebilirsiniz.](https://k6.io/docs/getting-started/installation/)
+
+[**23.08.2022**](https://github.com/bimser-intern/docs/issues/417)
+
+- Daily scrum yapıldı.
+- Selenium ile giriş ve kayıt işlemlerinin testi yazıldı.
+- K6 araştırıldı.
