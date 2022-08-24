@@ -98,6 +98,83 @@ Ben Burak Küçük, Girne Üniversitesi Yazılım Mühendisliği  öğrencisiyim
 
 - Android studio hakkında araştırmalara devam edildi.
 
+[**17.08.2022**](https://github.com/bimser-intern/docs/issues/439)
+
+- Daily Scrum yapıldı.
+
+- Stajyer & Fatma Nur Özen(Senior Technical Product Manager) buluşmasına katılım sağlandı.
+
+- Önümüzdeki hafta için tasarımlar yapıldı.
+ 
+- Jenkins hakkında araştırmalar yapıldı.
+
+[**18.08.2022**](https://github.com/bimser-intern/docs/issues/439)
+
+- Daily scrum yapıldı.
+
+- Stajyer & Bertan Yaman(Frontend Development Unit Manager) buluşmasına katılım sağlandı.
+
+- Figma üstünden tasarımlar yapıldı.
+
+- App Center'da oluşan hatalar üzerine çalışma yapıldı
+
+- Maven kullanımı hakkında araştırma yapıldı.
+
+[**19.08.2022**](https://github.com/bimser-intern/docs/issues/439)
+
+- Daily scrum yapıldı.
+
+- Stajyer & Erol Eryiğit(Customer Success Manager) buluşmasına katılım sağlandı.
+
+- Tasarıma yeni eklemeler yapıldı.
+
+- Sprint Review toplantısına katılım sağlandı.
+
+- Sprint Retrospective toplantısına katılım sağlandı.
+
+- App center build işlemleri başarılı bir şekilde yapıldı.
+
+- Maven kurulum işlemleri yapıldı.
+
+[**22.08.2022**](https://github.com/bimser-intern/docs/issues/439)
+
+- Daily scrum yapıldı.
+
+- Sprint Planning toplantısına katılım sağlandı.
+
+- Oluşturmuş olduğumuz sistemin geliştirilmesi ve iyileştirilmesi için gerekli adımlar araştırıldı.
+
+- Github Actions hakkında araştırmalar yapıldı.
+
+[**23.08.2022**](https://github.com/bimser-intern/docs/issues/439)
+
+- Daily scrum yapıldı.
+
+- Android tarafında yapılan güncelleme incelendi ve build tarafında çıkan problem tespit edilmeye çalışıldı.
+
+- Selandroid ve CI/CD entegrasyonu araştırıldı.
+
+- Farklı GitHub Actions uygulamaları incelendi.
+
+[**24.08.2022**](https://github.com/bimser-intern/docs/issues/439)
+
+- Daily scrum yapıldı.
+
+- Product Owner ile görüşüldü ve gelecek hafta için gerekli olan tasarımlar belirlendi.
+
+- Farklı test otomasyonları incelendi.
+
+- Automate üzerinden otomasyonlar yapıldı.
+
+
+
+
+
+
+
+
+
+
 
 
 
