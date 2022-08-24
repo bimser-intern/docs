@@ -124,3 +124,25 @@ Bimser Çözüm şirketinde zorunlu staj yapmaktayım ve bu staj süresince yapa
 - Docker CMD ENTRYPOINT farkı araştırıldı, öğrenildi. [Kaynak için tıklayabilirsiniz.](https://www.youtube.com/watch?v=HD6yKEOzvhw)
 - Test senaryoları integrasyonu araştırmalarına başlandı.
 - Selenium ile github actions kullanımına göz atıldı.
+
+[**22.08.2022**](https://github.com/bimser-intern/docs/issues/424)
+
+- Daily Scrum'a katılım sağlandı.
+- Sprint Planning toplantısına katılım sağlandı, haftalık yapacağımız işler belirlendi.
+- Url rooting görevi için araştırmalar yapıldı. 
+- Github actions build-deploy işleminde pull request onayı sonrası build işlemine başlanacak şekilde ayarlandı.
+- Selenium automated test with github actions başlığı altında araştırmalar yapıldı.
+
+[**23.08.2022**](https://github.com/bimser-intern/docs/issues/424)
+- Daily Scrum'a katılım sağlandı.
+- İzin alındı.
+
+
+[**24.08.2022**](https://github.com/bimser-intern/docs/issues/424)
+
+- Daily Scrum'a katılım sağlandı.
+- Uygulama ve sistemleri izlemek-monitor etmek amacıyla kullanılan Prometheus ve Grafana üzerine araştırmalar yapıldı.
+  - Prometheus --> [Bilgi edinmek için tıklayabilirsiniz](https://www.youtube.com/watch?v=EOJQRiMVZys)
+  - Grafana --> [Bilgi edinmek için tıklayabilirsiniz](https://medium.com/mobvenlab-tr/prometheus-alertmanager-ve-grafana-ile-server-monitoring-c8b669ed63dd#:~:text=Prometheus%2C%20AlertManager%20ve%20Grafana%20bir,okunmas%C4%B1n%C4%B1%20daha%20kolay%20hale%20getirir.&text=Tablo%20%C5%9Feklinde%20g%C3%B6rd%C3%BC%C4%9F%C3%BCm%C3%BCz%20t%C3%BCm%20bilgiler%2C%20node_exporter%20taraf%C4%B1ndan%20elde%20etti%C4%9Fimiz%20bilgilerdir.)
+- Url rooting işlemini gerçekleştirebilmek için azure services, traffic manager, app gateaway araştırıldı.
+- Url rooting işlemi için application gateaway uygulandı. Başarılı olunamadı. [Kaynak için tıklayabilirsiniz.](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-application-gateway)
