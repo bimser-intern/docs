@@ -125,3 +125,9 @@ Eğitim süresince ilk stajımı  **Bimser**'de gönüllü stajyer olarak yapmak
  - Sprint Planning toplantısına katılındı.
  - Web ve android için test senaryoları yazıldı.
  - K6 Automation Testing Tool kuruldu ve kullanımı için araştırma yapıldı. [Buradan erişebilirsiniz.](https://k6.io/docs/)
+
+[**23.08.2022**](https://github.com/bimser-intern/docs/issues/409)
+
+- Daily scrum yapıldı.
+- K6 Automation Testing Tool aracılığı ile nasıl load testi, performans testi ve stres testi yapılır hakkında detaylı dokümantasyonlar okundu ve bunlar hakkında videolar izlenildi.
+- K6 aracılığı ile deneme amaçlı 1 sanal kişilik (VUs) load testi ile performans testi yapıldı ve bunun sonuçlarını tekrar öğrenme ve deneme amaçlı olarak K6 Cloud'a atıldı. Cloud servisi sayesinde farklı metric ve değerleri kolay bir şekilde izleme fırsatı yakalamamızı sağladı.
