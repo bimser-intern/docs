@@ -113,3 +113,10 @@ Yazılım ile üniversitede tanıştım. Üniversite eğitimimde C, C#, C++, Pyt
 - Customer Success Manager Buluşması etkinliğine katılım sağlandı.
 - Tasarıma yeni eklemeler yapıldı.
 - Yeni eklenen özelliklerin analizi yazıldı.
+
+[**22.08.2022**](https://github.com/bimser-intern/docs/issues/403)
+
+- Daily scrum yapıldı.
+- Sprint Planning toplantısına katılım sağlandı.
+- Web ve android için test senaryoları yazıldı.
+- K6 Automation Testing Tool kuruldu ve kullanımı için araştırma yapıldı. [Buradan erişebilirsiniz.](https://k6.io/docs/getting-started/installation/)
