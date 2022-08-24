@@ -135,3 +135,11 @@ Python dilini 6 Haziran-18 Temmuz 2022 tarihleri arasında Kocaeli Üniversitesi
 - Oluşturulan sanal makineler arasında iletişim kurulmaya çalışıldı.
 - Azure Portal üzerinde routing işlemleri denendi. [Dokümantasyona buradan ulaşabilirsiniz.](https://docs.microsoft.com/en-us/azure/application-gateway/create-url-route-portal)
 - Frontend tarafında yapılan güncelleme incelendi ve build tarafında çıkan problem tespit edilmeye çalışıldı.
+
+
+[**24.08.2022**](https://github.com/bimser-intern/docs/issues/432)
+
+- Frontend tarafında yapılan dizin değişimlerinin yol açtığı problemler Dockerfile ve YAML file düzenlemeleri ile giderildi.
+- GitHub Actions ile Selenium entegrasyonu hakkında araştırma yapıldı. 
+- Farklı Selenium otomasyonları incelendi.
+- Test ekibinin yazmış olduğu Selenium UI otomasyonu mevcut projeye implemente edilmeye çalışıldı.
