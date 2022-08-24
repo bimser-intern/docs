@@ -243,3 +243,33 @@ Ben Selin Ayten Cengiz, Kocaeli Üniversitesi, Bilgisayar Mühendisliği Bölüm
 - Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
 
 - Country ve city için servis istekleri atıldı.
+
+
+[**22.08.2022**](https://github.com/bimser-intern/docs/issues/420)
+
+- Daily Scrum yapıldı.
+
+- Code review yapıldı.
+
+- Test ekibinin bulduğu buglar düzeltilmeye başlandı.
+
+- Geçen sprintte city için olan bug düzeltildi.
+
+- Seçeneklere rate özelliği eklendi.
+
+
+[**23.08.2022**](https://github.com/bimser-intern/docs/issues/420)
+
+- Daily Scrum yapıldı.
+
+- Code review yapıldı.
+
+- User info için city ve country servis istekleri atıldı.
+
+- User info sayfasında bilgi ve şifre güncelleme fonksiyonları eklendi.
+
+- Bilgi ve şifre güncelleme için servis istekleri atıldı.
+
+- Rate survey sayfası düzenlenerek fill survey ile aynı sayfaya alındı.
+
+- Seçeneklerin yüzdeleri için servis istekleri atıldı.
