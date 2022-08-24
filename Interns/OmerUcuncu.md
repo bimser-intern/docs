@@ -131,3 +131,9 @@ Eğitim süresince ilk stajımı  **Bimser**'de gönüllü stajyer olarak yapmak
 - Daily scrum yapıldı.
 - K6 Automation Testing Tool aracılığı ile nasıl load testi, performans testi ve stres testi yapılır hakkında detaylı dokümantasyonlar okundu ve bunlar hakkında videolar izlenildi.
 - K6 aracılığı ile deneme amaçlı 1 sanal kişilik (VUs) load testi ile performans testi yapıldı ve bunun sonuçlarını tekrar öğrenme ve deneme amaçlı olarak K6 Cloud'a atıldı. Cloud servisi sayesinde farklı metric ve değerleri kolay bir şekilde izleme fırsatı yakalamamızı sağladı.
+
+[**24.08.2022**](https://github.com/bimser-intern/docs/issues/436)
+
+- Daily scrum yapıldı.
+- Product Owner ile görüşüldü ve gelecek hafta için gerekli olan tasarımlar belirlendi.
+- K6 cloud versiyonu Grafana'ya bağlandı, aynı şekilde Prometheus da Grafanaya bağlandı. K6 Cloud üstünden deneme amaçlı load test yapıldı ve Grafanada izlenilmeye çalışıldı.
