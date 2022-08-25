@@ -13,6 +13,7 @@ Projenin başarılı ve güzel bir şekilde ilerlemesi için oluşturulmuş dok�
 3. [React](docs/React.md)
 4. [Tailwind](docs/Tailwind.md)
 5. [Android Developer ve IOS Developer](docs/Android-IOS-Dev.md)
+6. [Git Branch](docs/Git-Branch.md)
 
 ## Projeye Katkıda Bulunmak
 

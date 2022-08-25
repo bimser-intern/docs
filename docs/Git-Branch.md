@@ -1,11 +1,11 @@
 # İçerik
 
-1. [Git Branch Nedir?](#Git-Branch-Nedir?)
-2. [Merge](#Merge)
-3. [Fast Forward](#Fast-Forward)
-4. [Merge Conflict](#Merge-Conflict)
-5. [Stash](#Stash)
-6. [Pop](#Pop)
+1. [Git Branch Nedir?](#git-branch-nedir)
+2. [Merge](#merge)
+3. [Fast Forward](#fast-forward)
+4. [Merge Conflict](#merge-conflict)
+5. [Stash](#stash)
+6. [Pop](#pop)
 7. [Sunum Dosyası](#sunum-dosyası)
 8. [Kaynakça](#kaynakça)
 
@@ -13,17 +13,28 @@
 
 Git branch, bir projede birden çok sürümü organize etmemize yardımcı olur. 
 
-* git branch   Repositorydeki tüm branchleri listeler.
-* git branch (branchname)  branchname adında yeni bir branch oluşturur.
-* git switch (branchname)   branchler arası geçiş yapmamızı sağlar.
-* git checkout (branchname) branchler arası geçiş yapmamızı sağlar.
-* git checkout –b (branchname) branch oluşturur ve direkt o branch e geçiş yapar.
+* > `git branch`   
+Repositorydeki tüm branchleri listeler.
+
+* > `git branch (branchname)`  
+(branchname) adında yeni bir branch oluşturur.
+
+* > `git switch (branchname) `   
+Branchler arası geçiş yapmamızı sağlar.
+
+* > `git checkout (branchname)` 
+Branchler arası geçiş yapmamızı sağlar.
+
+* > `git checkout –b (branchname)` 
+Branch oluşturur ve direkt o branch e geçiş yapar.
 
 
 # Merge 
 
-Bir branch i başka bir branche bağlama işlemine denir.
-git merge komutu ile yapılır.
+Bir branchi başka bir branche bağlama işlemine denir.
+
+>`git merge `
+Komutu ile yapılır.
 
 # Fast Forward
 
@@ -38,13 +49,13 @@ Bazı durumlarda branch'lerden bir tanesinde herhangi bir değişiklik yapılmam
 
 Bazen Commit işlemi yaptıktan sonra yüzlerce satır komut yazarsınız. Sonra birden yazdığınız kodlardan önceki versiyon üzerinde değişiklik yapmanız gerekebilir. Bu durumda bu yazdığınız komutları bir yere saklamanız gerekir. İşte bu gibi durumlarda git stash kullanmamız gerekir.
 
-> 'git stash' 
+>`git stash`
 
 komutu ile sağlanır.
 
 # Pop
 
-git stash pop komutu ile listenin en üstünde yer alan değişiklik geri yüklenecek ve bu değişiklik listeden silinecek.
+`git stash pop` komutu ile listenin en üstünde yer alan değişiklik geri yüklenecek ve bu değişiklik listeden silinecek.
 
 # Sunum Dosyası
 
