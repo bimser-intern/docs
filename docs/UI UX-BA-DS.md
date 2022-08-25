@@ -1,21 +1,21 @@
-﻿# İçerik
-1. [UI/UX Designer](#uıux-desıgner)
-	- [UX (User Experience) Nedir?](#ux-nedir)
-	- [UI (User Interface) Nedir?](#uı-nedir)
-	- [UX ile UI Tasarımının  Arasındaki  Farklar  Nelerdir?](#ux-ile-ui-tasarımının-arasındaki-farklar-nelerdir)
-	- [UX Designer Rolleri](#ux-designer)
-	- [UI Designer](#uı-designer)
-	- [UI Designer'ın Kullandığı Bazı Araç Ve Uygulamalar](#uı-designerın-kullandığı-bazı-araç-ve-uygulamalar)
-	- [UX Designer'ın Kullandığı Bazı Araç Ve Uygulamalar](#ux-designerın-kullandığı-bazı-araç-ve-uygulamar)
+# İçerik
+1. [UI/UX Designer](#uiux-designer)
+    - [UX (User Experience) Nedir?](#ux-designer)
+    - [UI (User Interface) Nedir?](#ui-designer)
+    - [UX ile UI Tasarımının  Arasındaki  Farklar  Nelerdir?](#ux-ile-ui-tasarımının-arasındaki-farklar-nelerdir)
+    - [UX Designer Rolleri](#ux-designer)
+    - [UI Designer](#ui-designer)
+    - [UI Designer'ın Kullandığı Bazı Araç Ve Uygulamalar](#ui-designerın-kullandığı-bazı-araç-ve-uygulamalar)
+    - [UX Designer'ın Kullandığı Bazı Araç Ve Uygulamalar](#ux-designerın-kullandığı-bazı-araç-ve-uygulamalar)
 
-2. [Business Analyst(İş Analisti)](#business-analyst-(iş-analisti))
-	- [İş Analisti Ne İş Yapar? Görev  ve  Sorumlulukları  Nelerdir?](#iş-analisti-ne-iş-yapar-görev-ve-sorumlulukları-nelerdir)
-	- [İş Analisti’nin  Kullandığı  Bazı  Araç  ve  Gereçler](#iş-analistinin-kullandığı-bazı-araç-ve-gereçler)
+2. [Business Analyst(İş Analisti)](#business-analysti̇ş-anali̇sti̇)
+    - [İş Analisti Ne İş Yapar? Görev  ve  Sorumlulukları  Nelerdir?](#i̇ş-analisti-ne-i̇ş-yapar-görev-ve-sorumlulukları-nelerdir)
+    - [İş Analisti’nin  Kullandığı  Bazı  Araç  ve  Gereçler](#i̇ş-analistinin-kullandığı-bazı-araç-ve-gereçler)
 
-3. [Documentation  Specialist (Dokümantasyon Uzmanı)](#documentation-specialist-(dokümantasyon-uzmanı))
-	- [Documentation  Specialist (Dokümantasyon Uzmanı)  Rolleri](#documentation-specialist-(dokümantasyon-uzmanı)-rolleri)
-	- [İstenen  Yetenekler](#istenen-yetenekler)
-	- [Documentation  Specialist (Dokümantasyon Uzmanı) Kullandığı  Bazı  Araç  ve  Gereçler](#documentation-specialist-(dokümantasyon-uzmanı)-kullandığı-bazı-araç-ve-gereçler)
+3. [Documentation  Specialist (Dokümantasyon Uzmanı)](#documentation-specialist-dokümantasyon-uzmani)
+    - [Documentation  Specialist (Dokümantasyon Uzmanı)  Rolleri](#documentation-specialist-dokümantasyon-uzmanı-rolleri)
+    - [İstenen  Yetenekler](#i̇stenen-yetenekler)
+    - [Documentation  Specialist (Dokümantasyon Uzmanı) Kullandığı  Bazı  Araç  ve  Gereçler](#documentation-specialist-dokümantasyon-uzmanı-kullandığı-bazı-araç-ve-gereçler)
 	
 4. [Sunum videosu](https://drive.google.com/file/d/1FcaN9SD7LllebjUVDpbSvMAebaPRi7bz/view?usp=sharing)
 
