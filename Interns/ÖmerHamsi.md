@@ -106,3 +106,14 @@ Ben Ömer Hamsi, Kocaeli Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.
 - Tıklanan anketin detayının görüntülenmesi sağlandı.
 - Anket doldurma sayfası tasarımı yeni güncellemeler yapıldı.
 - Anket doldurma post işlemi yapıldı.
+
+[**24.08.2022**](https://github.com/bimser-intern/docs/issues/452)
+- Sabah daily scrum toplantısına katılım sağlandı.
+- Doldurulan anketin şıklarının oranlarının görüntülenmesi sağlandı.
+- Yorum ekleme alanı eklendi ve post işlemi gerçekleştirildi.
+
+[**25.08.2022**](https://github.com/bimser-intern/docs/issues/452)
+- Sabah daily scrum toplantısına katılım sağlandı.
+- Yorumlar kısmının tasarımı ayarlandı.
+- Yorumlar çekildi ve dinamik olarak gösterildi.
+- Eklenen yorumun dinamik olarak sayfada gösterilmesi sağlandı.
