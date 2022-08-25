@@ -215,6 +215,6 @@ Yazılım ile lisede tanıştım. 4 yıl boyunca web programlama dersleri aldım
 
 - Homepage, Login, SignUp, Menu, CreateSurvey, UserPage sayfalarının tasarımları güncellendi.
 
-- Yorumlar kısmının tasarımı yapıldı.
+- Yorumlar kısmının tasarımı yapıldı. 
 
-- Test ekibi, Backend ekibi ile görüşüldü.
+- Test ekibi, Backend ekibi ve devOps ile görüşüldü.
