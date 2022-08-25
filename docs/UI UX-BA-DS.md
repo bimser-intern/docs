@@ -1,5 +1,5 @@
 ﻿# İçerik
-1. [UI/UX Designer](#uı/ux-desıgner)
+1. [UI/UX Designer](#uıux-desıgner)
 	- [UX (User Experience) Nedir?](#ux-nedir)
 	- [UI (User Experience) Nedir?](#uı-nedir)
 	- [UX ile UI Tasarımının  Arasındaki  Farklar  Nelerdir?](#ux-ile-ui-tasarımının-arasındaki-farklar-nelerdir)
