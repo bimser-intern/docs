@@ -1,22 +1,22 @@
 # İçerik
-1. [UI/UX Designer](#uiux-designer)
-    - [UX (User Experience) Nedir?](#ux-designer)
-    - [UI (User Interface) Nedir?](#ui-designer)
-    - [UX ile UI Tasarımının  Arasındaki  Farklar  Nelerdir?](#ux-ile-ui-tasarımının-arasındaki-farklar-nelerdir)
-    - [UX Designer Rolleri](#ux-designer)
-    - [UI Designer](#ui-designer)
-    - [UI Designer'ın Kullandığı Bazı Araç Ve Uygulamalar](#ui-designerın-kullandığı-bazı-araç-ve-uygulamalar)
-    - [UX Designer'ın Kullandığı Bazı Araç Ve Uygulamalar](#ux-designerın-kullandığı-bazı-araç-ve-uygulamalar)
+1. UI/UX Designer
+    - UX (User Experience) Nedir?
+    - UI (User Interface) Nedir?
+    - UX ile UI Tasarımının  Arasındaki  Farklar  Nelerdir?
+    - UX Designer Rolleri
+    - UI Designer
+    - UI Designer'ın Kullandığı Bazı Araç Ve Uygulamalar
+    - UX Designer'ın Kullandığı Bazı Araç Ve Uygulamalar
 
-2. [Business Analyst(İş Analisti)](#business-analysti̇ş-anali̇sti̇)
-    - [İş Analisti Ne İş Yapar? Görev  ve  Sorumlulukları  Nelerdir?](#i̇ş-analisti-ne-i̇ş-yapar-görev-ve-sorumlulukları-nelerdir)
-    - [İş Analisti’nin  Kullandığı  Bazı  Araç  ve  Gereçler](#i̇ş-analistinin-kullandığı-bazı-araç-ve-gereçler)
+2. Business Analyst(İş Analisti)
+    - İş Analisti Ne İş Yapar? Görev  ve  Sorumlulukları  Nelerdir?
+    - İş Analisti’nin  Kullandığı  Bazı  Araç  ve  Gereçler
 
-3. [Documentation  Specialist (Dokümantasyon Uzmanı)](#documentation-specialist-dokümantasyon-uzmani)
-    - [Documentation  Specialist (Dokümantasyon Uzmanı)  Rolleri](#documentation-specialist-dokümantasyon-uzmanı-rolleri)
-    - [İstenen  Yetenekler](#i̇stenen-yetenekler)
-    - [Documentation  Specialist (Dokümantasyon Uzmanı) Kullandığı  Bazı  Araç  ve  Gereçler](#documentation-specialist-dokümantasyon-uzmanı-kullandığı-bazı-araç-ve-gereçler)
-	
+3. Documentation  Specialist (Dokümantasyon Uzmanı)
+    - Documentation  Specialist (Dokümantasyon Uzmanı)  Rolleri
+    - İstenen  Yetenekler
+    - Documentation  Specialist (Dokümantasyon Uzmanı) Kullandığı  Bazı  Araç  ve  Gereçler
+    
 4. [Sunum videosu](https://drive.google.com/file/d/1FcaN9SD7LllebjUVDpbSvMAebaPRi7bz/view?usp=sharing)
 
 # UI/UX DESIGNER
