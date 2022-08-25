@@ -12,7 +12,7 @@ Yazılım ile üniversitede tanıştım. Başta Algoritma Temelleri olmakla bera
 - Frontend Developer'da olması gereken özellikler nelerdir?
 - Frontend Developer olmak için ne yapmak gerekir?
 - Frontend Developer RoadMap 
-  Konuları araştırıldı sunum oluşturuldu. [makaleye-burdan-ulaşabilirsiniz](https://www.alastyr.com/blog/frontend-developer-kimdir-ne-is-yapar/#:~:text=FrontEnd%20developer%20olarak%20ifade%20edilen,web%20sitesinin%20en%20%C3%B6nemli%20alanlar%C4%B1d%C4%B1r.)
+  Konuları araştırıldı sunum oluşturuldu. [Makaleye buradan ulaşabilirsiniz](https://www.alastyr.com/blog/frontend-developer-kimdir-ne-is-yapar/#:~:text=FrontEnd%20developer%20olarak%20ifade%20edilen,web%20sitesinin%20en%20%C3%B6nemli%20alanlar%C4%B1d%C4%B1r.)
 
 [**02.08.2022**](https://github.com/bimser-intern/docs/issues/92)
 
@@ -25,15 +25,15 @@ Yazılım ile üniversitede tanıştım. Başta Algoritma Temelleri olmakla bera
 
 - React, Material UI, Redux, Redux-Saga, Redis ve SASS konuları araştırılmak için görevlendirme alındı.
 - Frontend developer ekibi arasında iş bölümü yapıldı.
-- Yapılan iş bölümü dahilinde Redis ve SASS konularında ön araştırma yapıldı.[detaylara-buradan-ulaşabilirsiniz.](https://devnot.com/2020/redis-nedir-temel-kullanim-alanlari-nelerdir/)
-[detaylara-buradan-ulaşabilirsiniz.](https://drupart.com.tr/blog/sass-nedir-nasil-kullanilir)
+- Yapılan iş bölümü dahilinde Redis ve SASS konularında ön araştırma yapıldı.[detaylara buradan ulaşabilirsiniz.](https://devnot.com/2020/redis-nedir-temel-kullanim-alanlari-nelerdir/)
+[detaylara buradan ulaşabilirsiniz.](https://drupart.com.tr/blog/sass-nedir-nasil-kullanilir)
 
 [**03.08.2022**](https://github.com/bimser-intern/docs/issues/92)
 - Sabah daily toplantısı Yapıldı.
 - Git version System Sunumu izlendi.
 - Redis ve SASS hakkında araştırma yapıldı. 
-[detaylara-buradan-ulaşabilirsiniz](https://devnot.com/2020/redis-nedir-temel-kullanim-alanlari-nelerdir/)
-[detaylara-buradan-ulaşabilirsiniz](https://drupart.com.tr/blog/sass-nedir-nasil-kullanilir)
+[detaylara buradan ulaşabilirsiniz](https://devnot.com/2020/redis-nedir-temel-kullanim-alanlari-nelerdir/)
+[detaylara buradan ulaşabilirsiniz](https://drupart.com.tr/blog/sass-nedir-nasil-kullanilir)
 
 [**04.08.2022**](https://github.com/bimser-intern/docs/issues/147)
 - Sabah daily toplantısı yapıldı.
@@ -93,7 +93,7 @@ Yazılım ile üniversitede tanıştım. Başta Algoritma Temelleri olmakla bera
 [**16.08.2022**](https://github.com/bimser-intern/docs/issues/342)
 - Sabah daily scrum toplantısı yapıldı.
 - Takım arkadaşlarıyla toplantı yapıldı create survey ve my survey sayfalarındaki eksikler giderildi.
-- Proje github'a pull request edildi.[dokümana-buradan-erişebilirsiniz](https://github.com/bimser-intern/surveysaurus-ui/pull/13)
+- Proje github'a pull request edildi.[dokümana buradan erişebilirsiniz](https://github.com/bimser-intern/surveysaurus-ui/pull/13)
 - React ile ilgili araştırma yapıldı.
 
 [**17.08.2022**](https://github.com/bimser-intern/docs/issues/358)
@@ -133,5 +133,15 @@ Yazılım ile üniversitede tanıştım. Başta Algoritma Temelleri olmakla bera
 - Sabah daily scrum toplantısı yapıldı.
 - Projedeki conflictler rebase edilerek halledildi.
 - Projenin güncel hali pull request edildi.
-- Test dönüp çözülen eksiklikler güncel projeye entegre edildi.[Dokümana-buradan-ulaşabilirsiniz.](https://github.com/bimser-intern/surveysaurus-ui/pull/30)
+- Test dönüp çözülen eksiklikler güncel projeye entegre edildi.[Dokümana buradan ulaşabilirsiniz.](https://github.com/bimser-intern/surveysaurus-ui/pull/30)
 - Proje son güncel hali ile pull request edildi.
+
+[**25.08.2022**](https://github.com/bimser-intern/docs/issues/471)
+- Sabah daily scrum toplantısı yapıldı.
+- Homepage sayfasında test ekibinden dönen hatalar giderildi.
+- Login sayfasında test ekibinden dönen hatalar giderildi.
+- SignUp sayfasında test ekibinden dönen hatalar giderildi.
+- Menude test ekibinden dönen hatalar giderildi.
+- CreateSurvey sayfasında test ekibinden dönen hatalar giderildi.
+- UserPage sayfasında test ekibinden dönen hatalar giderildi.
+- Proje pull request edildi.[Dokümana buradan erişebilirsiniz](https://github.com/bimser-intern/surveysaurus-ui/pull/36)
