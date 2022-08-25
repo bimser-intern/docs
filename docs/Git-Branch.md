@@ -1,11 +1,11 @@
 # İçerik
 
-1. [Git Branch Nedir?](#Git-Branch-Nedir?)
-2. [Merge](#Merge)
-3. [Fast Forward](#Fast-Forward)
-4. [Merge Conflict](#Merge-Conflict)
-5. [Stash](#Stash)
-6. [Pop](#Pop)
+1. [Git Branch Nedir?](#git-branch-nedir)
+2. [Merge](#merge)
+3. [Fast Forward](fast-forward)
+4. [Merge Conflict](#merge-conflict)
+5. [Stash](#stash)
+6. [Pop](#pop)
 7. [Sunum Dosyası](#sunum-dosyası)
 8. [Kaynakça](#kaynakça)
 
