@@ -14,6 +14,8 @@ Projenin başarılı ve güzel bir şekilde ilerlemesi için oluşturulmuş dok�
 4. [Tailwind](docs/Tailwind.md)
 5. [Android Developer ve IOS Developer](docs/Android-IOS-Dev.md)
 6. [Git Branch](docs/Git-Branch.md)
+7. [UI/UX Designer, Business Analyst, Documentation Specialist](docs/UI%20UX-BA-DS.md)
+
 
 ## Projeye Katkıda Bulunmak
 
