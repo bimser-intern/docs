@@ -128,3 +128,10 @@ Yazılım ile üniversitede tanıştım. Başta Algoritma Temelleri olmakla bera
 - Takım arkadaşlarıyla toplantı yapıldı.
 - Homepage sayfasında navbar menüsündeki logonun ortaya hizalanması üzerine çalışıldı.
 - Sign up sayfasında kayıt olma durumundaki hata üzerine çalışıldı.
+
+[**24.08.2022**](https://github.com/bimser-intern/docs/issues/449)
+- Sabah daily scrum toplantısı yapıldı.
+- Projedeki conflictler rebase edilerek halledildi.
+- Projenin güncel hali pull request edildi.
+- Test dönüp çözülen eksiklikler güncel projeye entegre edildi.[Dokümana-buradan-ulaşabilirsiniz.](https://github.com/bimser-intern/surveysaurus-ui/pull/30)
+- Proje son güncel hali ile pull request edildi.
