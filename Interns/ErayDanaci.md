@@ -181,3 +181,28 @@ Yazılım ile lisede tanıştım. 4 yıl boyunca web programlama dersleri aldım
 - Test ekibi ile görüşüldü.
 
 - Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
+
+[**22.08.2022**](https://github.com/bimser-intern/docs/issues/441)
+
+
+
+- Sprint planlama toplantısına katılım sağlandı.
+
+- Ekip içerisinde görev dağılımı yapıldı.
+
+- Testten dönen eksiklikler üzerinde çalışıldı.
+
+
+[**23.08.2022**](https://github.com/bimser-intern/docs/issues/441)
+
+
+
+- Anket doldurma sayfası tasarımı ve yeni güncellemeler yapıldı.
+
+[**24.08.2022**](https://github.com/bimser-intern/docs/issues/441)
+
+
+
+- Homepage, Login, SignUp, Menu, CreateSurvey, UserPage sayfalarının hataları giderildi.
+
+- Homepage, Login, SignUp, Menu, CreateSurvey, UserPage sayfalarının tasarımları güncellendi.
