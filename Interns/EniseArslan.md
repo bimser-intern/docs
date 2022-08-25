@@ -149,7 +149,7 @@ Ben Enise Arslan, Kocaeli Üniversitesi Bilgisayar Mühendisliği son sınıf ö
 
 - Google ile giriş yapma kısmının figma da tasarımı yapıldı. Analizdeki eksikler düzenlendi. 
 
-[**23.08.2022**](https://github.com/bimser-intern/docs/issues/426)
+[**24.08.2022**](https://github.com/bimser-intern/docs/issues/426)
 
 - Daily scrum yapıldı.
 
@@ -158,6 +158,16 @@ Ben Enise Arslan, Kocaeli Üniversitesi Bilgisayar Mühendisliği son sınıf ö
 - Projeye eklenecek olan, anket yazarının profil sayfası (creator page) için analiz yazıldı. Figma üzerinde tasarımı yapıldı.
 
 - Kullanıcının tüm anketlere erişebilmesi için tasarıma "all survey page" eklendi. Analizi düzenlendi.
+
+[**25.08.2022**](https://github.com/bimser-intern/docs/issues/460)
+
+- Daily scrum yapıldı.
+
+- Kullanıcın ikon seçebilmesi için personel info sayfasında düzenleme yapıldı. Analizi ve tasarımı eklendi.
+
+- Fill survey sayfasına ve kullanıcının profil sayfasına yapılacak olan yenilikler için analiz yazıldı. Tasarımlara eklendi.
+
+- Anketler üzerinden kullanıcıların puan kazanması için bir puanlama sistemi plandı.
 
 
 
