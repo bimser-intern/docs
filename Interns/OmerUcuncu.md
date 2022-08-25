@@ -137,3 +137,10 @@ Eğitim süresince ilk stajımı  **Bimser**'de gönüllü stajyer olarak yapmak
 - Daily scrum yapıldı.
 - Product Owner ile görüşüldü ve gelecek hafta için gerekli olan tasarımlar belirlendi.
 - K6 cloud versiyonu Grafana'ya bağlandı, aynı şekilde Prometheus da Grafanaya bağlandı. K6 Cloud üstünden deneme amaçlı load test yapıldı ve Grafanada izlenilmeye çalışıldı.
+
+[**25.08.2022**](https://github.com/bimser-intern/docs/issues/456)
+
+- Daily scrum yapıldı.
+- Surveysaurus web'in yeni sürümü geldiği için yeniden manuel testler yapıldı ve hatalar bug olarak surveysaurus-pm'e girildi.
+- K6 load testi Home Page ve Login için yapıldı sonuçları K6 Cloud'a atıldı ordan verileri izlenebilir ve analizleri görülebilir bir hale getirildi.
+- Home Page ve Login ekranlarının load test scriptleri hazırlandı yarın surveysaurus-qa reposuna atılacak.

@@ -13,7 +13,7 @@ Projenin başarılı ve güzel bir şekilde ilerlemesi için oluşturulmuş dok�
 3. [React](docs/React.md)
 4. [Tailwind](docs/Tailwind.md)
 5. [Android Developer ve IOS Developer](docs/Android-IOS-Dev.md)
-
+7. [UI/UX Designer, Business Analyst, Documentation Specialist](docs/UI%20UX-BA-DS.md)
 ## Projeye Katkıda Bulunmak
 
 Projeye katkıda bulunmak için gerekli kurallara uyulmalıdır. Kurallar;
