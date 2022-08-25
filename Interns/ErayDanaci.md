@@ -206,3 +206,15 @@ Yazılım ile lisede tanıştım. 4 yıl boyunca web programlama dersleri aldım
 - Homepage, Login, SignUp, Menu, CreateSurvey, UserPage sayfalarının hataları giderildi.
 
 - Homepage, Login, SignUp, Menu, CreateSurvey, UserPage sayfalarının tasarımları güncellendi.
+
+[**25.08.2022**](https://github.com/bimser-intern/docs/issues/461)
+
+
+
+- Homepage, Login, SignUp, Menu, CreateSurvey, UserPage sayfalarının hataları giderildi.
+
+- Homepage, Login, SignUp, Menu, CreateSurvey, UserPage sayfalarının tasarımları güncellendi.
+
+- Yorumlar kısmının tasarımı yapıldı.
+
+- Test ekibi, Backend ekibi ile görüşüldü.
