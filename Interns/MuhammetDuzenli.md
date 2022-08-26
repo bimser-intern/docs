@@ -150,3 +150,10 @@ Python dilini 6 Haziran-18 Temmuz 2022 tarihleri arasında Kocaeli Üniversitesi
 - GitHub Actions ile Selenium entegrasyonu gerçekleştirilmeye çalışıldı. 
 - Selenium scriptinde çıkan hata giderilmeye çalışıldı.
 - Farklı ChromeDriver sürümleri ve farklı Python sürümleriyle denemeler yapıldı.
+
+[**26.08.2022**](https://github.com/bimser-intern/docs/issues/499)
+
+- Frontend tarafı için yapılan Selenium test denemeleri başarıyla tamamlandı.
+- Belirli Chrome konfigürasyonları sayesinde yazılan script çalıştırıldı. 
+- Test otomasyonu oluşturulacak yeni ortam için çalışmalara başlandı.
+- Python otomasyon scriptleri hakkında araştırma yapıldı.
