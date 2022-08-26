@@ -6,8 +6,13 @@
 4. [Merge Conflict](#merge-conflict)
 5. [Stash](#stash)
 6. [Pop](#pop)
-7. [Sunum Dosyası](#sunum-dosyası)
-8. [Kaynakça](#kaynakça)
+7. [Checkout](#checkout)
+8. [Reset](#reset)
+9. [Revert](#revert)
+10. [Diff](#diff)
+11. [Rebase](#rebase)
+12. [Sunum Dosyası](#sunum-dosyası)
+13. [Kaynakça](#kaynakça)
 
 # Git Branch Nedir?
 
@@ -57,9 +62,33 @@ komutu ile sağlanır.
 
 `git stash pop` komutu ile listenin en üstünde yer alan değişiklik geri yüklenecek ve bu değişiklik listeden silinecek.
 
+# Checkout
+
+>`git checkout` komutu branch'ler arasında geçiş yapmak için kullanılır.
+
+# Reset
+
+>`git reset "commithash"` komutu ile önceki commitlere geri dönebiliriz. "commithash", dönmek istediğimiz commitin hash kodudur. Döndüğümüz committen sonraki değişikler artık görünmez ancak silinmez de. İstediğimizde bu commitleri geri alabiliriz.
+
+>`git reset --hard "commithash"` komutu ise döndüğümüz committen sonraki değişikleri tamamen siler.
+
+# Revert
+
+>`git revert "commithash"` komutu geri almak istediğimiz commit için yeni bir commit ekler. Bu yeni eklenen commit "commithash" hash kodlu commit içeriğine sahip olur. 
+
+# Diff
+
+>`git diff <"kaynak branch"> <"hedef branch">` komutu iki branch arasındaki farkları gösterir. Commit hash kodları kullanılarak iki commit arasındaki farklar da görülebilir. `git diff` olarak kullanıldığında mevcut çalışma dosyası içindeki değişikleri gösterir.
+
+# Rebase 
+
+>`git rebase` komutunu commit kalabalığı oluşmuş branchleri sadeleştirmek için kullanırız. Merge işlemine benzer ancak rebase yapıldığında commitlerin kronolojik sırası kaybolur.
+
 # Sunum Dosyası
 
 [Git Branch Sunumu](https://drive.google.com/file/d/1wcX0y-HYyKV9QG_tGR_VLqwbHUv41P3X/view?usp=sharing)
+
+[Git Branch Komutlar Sunumu](https://drive.google.com/file/d/1Ca64nJTjPvDuZ89SIDCj9OneEDTvtb7L/view)
 
 # Kaynakça
 
