@@ -118,3 +118,9 @@ Ben Esra Yelmen. Bolu Abant İzzet Baysal Üniversitesi Bilgisayar Mühendisliğ
 
 - Web tarafı için manuel testler yapıldı.
 - Bulunan hatalar Github'a bug issue olarak girildi.
+
+[**26.08.2022**](https://github.com/bimser-intern/docs/issues/502)
+
+- k6 ile Login, HomePage, Login-CreateSurvey-MySurvey-FillSurvey, SignUp-FillSurvey senaryolarının load testleri yapıldı.
+- k6 Cloud üzerinden yapılan load testlerin analizleri incelendi.
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
