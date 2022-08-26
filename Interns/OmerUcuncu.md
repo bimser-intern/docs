@@ -144,3 +144,10 @@ Eğitim süresince ilk stajımı  **Bimser**'de gönüllü stajyer olarak yapmak
 - Surveysaurus web'in yeni sürümü geldiği için yeniden manuel testler yapıldı ve hatalar bug olarak surveysaurus-pm'e girildi.
 - K6 load testi Home Page ve Login için yapıldı sonuçları K6 Cloud'a atıldı ordan verileri izlenebilir ve analizleri görülebilir bir hale getirildi.
 - Home Page ve Login ekranlarının load test scriptleri hazırlandı yarın surveysaurus-qa reposuna atılacak.
+
+[**26.08.2022**](https://github.com/bimser-intern/docs/issues/480)
+
+- Daily scrum yapıldı.
+- Sprint Review toplantısına katılındı ve bu haftaki sprintte başarısız olduk.
+- Sprint Retrospective toplantısına katılındı.
+- K6 CLI üstünden load testler yapıldı bu testler; HomePage, Login, Login-CreateSurvey-MySurvey-FillSurvey, SignUp-FillSurvey senaryoları şeklinde load testleri yapıldı ve bu testler K6 Cloud'a atıldı. Atılan bu testler K6 üstünden değerleri incelendi ve PDF formatında tüm değerler ve analizleriyle birlikte Discorda atıldı. Yapılan bu load testleri K6'nın raporlama sistemine göre pass damgası almıştır.
