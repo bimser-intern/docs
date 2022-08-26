@@ -16,6 +16,7 @@ Projenin başarılı ve güzel bir şekilde ilerlemesi için oluşturulmuş dok�
 6. [Git Branch](docs/Git-Branch.md)
 7. [UI/UX Designer, Business Analyst, Documentation Specialist](docs/UI%20UX-BA-DS.md)
 8. [Scrum](docs/Scrum.md)
+9. [Markdown Markup Language](docs/Markdown-Markup-Language.md)
 
 
 ## Projeye Katkıda Bulunmak
