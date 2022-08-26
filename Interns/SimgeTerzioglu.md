@@ -132,3 +132,9 @@ Yazılım ile üniversitede tanıştım. Üniversite eğitimimde C, C#, C++, Pyt
 - Daily scrum yapıldı.
 - Product Owner ile görüşüldü ve gelecek hafta için gerekli olan tasarımlar belirlendi.
 - Selenium ile anket doldurma sayfasının otomasyonu yazılmaya başlandı.
+
+[**25.08.2022**](https://github.com/bimser-intern/docs/issues/469)
+
+- Daily scrum yapıldı.
+- Surveysaurus web'in yeni sürümü geldiği için yeniden manuel testler yapıldı ve hatalar bug olarak surveysaurus-pm'e girildi.
+- Selenium ile anket doldurma sayfasının otomasyonu tamamlandı.

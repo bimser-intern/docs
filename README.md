@@ -20,7 +20,7 @@ Projenin başarılı ve güzel bir şekilde ilerlemesi için oluşturulmuş dok�
 10. [Backend Developer](docs/Backend.md)
 11. [Git Giriş Ve Kurulum](docs/Git-Giris-Kurulum.md)
 12. [GitHub](./docs/Github.md)
-
+13. [Kotlin](./docs/Kotlin.md)
 
 ## Projeye Katkıda Bulunmak
 
@@ -76,4 +76,3 @@ https://discord.gg/TgdnJWfPJ8
 - [Ömer Üçüncü](Interns/OmerUcuncu.md)
 
 - [Berna Akdoğanlar](Interns/BernaAkdoganlar.md)
-
