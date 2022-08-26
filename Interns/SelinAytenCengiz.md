@@ -273,3 +273,27 @@ Ben Selin Ayten Cengiz, Kocaeli Üniversitesi, Bilgisayar Mühendisliği Bölüm
 - Rate survey sayfası düzenlenerek fill survey ile aynı sayfaya alındı.
 
 - Seçeneklerin yüzdeleri için servis istekleri atıldı.
+
+
+[**24.08.2022**](https://github.com/bimser-intern/docs/issues/476)
+
+- Daily Scrum yapıldı.
+
+- Code review yapıldı.
+
+- Projede kullanılacak harita seçildi.
+
+- Local html üzerinden webview kullanılarak map gösterildi.
+
+- User info tasarımı güncellendi.
+
+
+[**25.08.2022**](https://github.com/bimser-intern/docs/issues/476)
+
+- Daily Scrum yapıldı.
+
+- Code review yapıldı.
+
+- Map için servis istekleri atıldı.
+
+- Rate sayfasında güncellemeler yapıldı, tasarım iyileştirildi, buglar çözüldü.
