@@ -240,3 +240,14 @@ Birçok kişi ve birçok Takım tarafından bu toplantı statü alma ve verme to
 - [Sprint Retrospective](https://batuhanakpunar.medium.com/b%C3%B6l%C3%BCm-13-sprint-retrospective-sprint-retrospectifi-toplant%C4%B1s%C4%B1-%EF%B8%8F-9e226853b137)
 - [Scrum Master](https://makersturkiye.com/scrum-master-kimdir-ve-neler-yapar/#:~:text=Scrum%20Master%27%C4%B1n%20Development%20Team%27e%20kar%C5%9F%C4%B1%20sorumluluklar%C4%B1ndan%20bir%20di%C4%9Feri,kald%C4%B1rma%20sorumlulu%C4%9Funu%20%C3%BCstlenen%20ki%C5%9Fi%20olur)
 - [Sprint Nedir ?](https://www.acmagile.com/blog/sprint-nedir)
+
+
+### Katkıda Bulunanlar
+
+- [Enise Arslan](https://github.com/enisearslan)
+- [Sefa Can Pehlivan](https://github.com/Sefa4177)
+- [Muhammet Düzenli](https://github.com/muhammetduzenli)
+
+### Sunum Videosu
+
+* Ayrıca okumuş olduğunuz dokümanın sunumu da yapılmıştır. [Sunumun video kaydına buradan ulaşabilirsiniz.](https://www.youtube.com/watch?v=eVh3XDIcsrA)
