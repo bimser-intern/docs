@@ -110,3 +110,10 @@ Ben Kerem Erkubilay, Düzce Üniversitesinde Bilgisayar Mühendisliği okuyorum.
 - Daily Scrum yapıldı.
 - Comment tasarımı araştırıldı.
 - DevOps ve Backend ekibi ile görüşüldü.
+
+
+[**26.08.2022**](https://github.com/bimser-intern/docs/issues/490)
+- Daily Scrum yapıldı.
+- GitHub sunumu yüklendi.
+- Kotlin sunumu yüklendi.
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
