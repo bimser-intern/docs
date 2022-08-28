@@ -148,3 +148,19 @@ Yazılım ile üniversitede tanıştım. Son yıllarda, C# dilinde ASP.Net MVC t
 - Android test otomasyonlarını otomatize etme işlemi araştırıldı. [Detaylara buradan ulaşabilirsiniz.](https://console.momentumsuite.com/en)
 - Github Actions tarafından oluşan hatalar giderildi.
 - Çeşitli cihazlar üzerinden uygulama testi başarıyla sağlandı.
+
+[**25.08.2022**](https://github.com/bimser-intern/docs/issues/496)
+
+- Daily Scrum'a katılım sağlandı.
+- App Center üzerinden monitör izlendi.
+- App Center üzerinden çeşitli konfigrasyonlar sağlandı.
+- Test load işlemleri başarıyla sağlandı.
+- Pr build işlemleri başarıyla sağlandı.
+
+[**26.08.2022**](https://github.com/bimser-intern/docs/issues/496)
+
+- Daily Scrum'a katılım sağlandı.
+- App Center üzerinden monitör izlendi.
+- App Center üzerinden log kayıt konfigrasyonları sağlandı.
+- Github Action konfigrasyonları hakkında araştırma yapıldı.
+- Sprint planlama toplantısına katılım sağlandı. Projenin artıları, eksikleri ve projede nasıl bir yol izlememiz konusunda önemli yerlere değinildi.
