@@ -145,3 +145,12 @@ Yazılım ile üniversitede tanıştım. Başta Algoritma Temelleri olmakla bera
 - CreateSurvey sayfasında test ekibinden dönen hatalar giderildi.
 - UserPage sayfasında test ekibinden dönen hatalar giderildi.
 - Proje pull request edildi.[Dokümana buradan erişebilirsiniz](https://github.com/bimser-intern/surveysaurus-ui/pull/36)
+
+[**26.08.2022**](https://github.com/bimser-intern/docs/issues/492)
+- Sabah daily scrum toplantısı yapıldı.
+- Homepage sayfasındaki create a survey butonundaki aşağı kayma düzeltildi.[dokumana buradan erişebilirsiniz](https://github.com/bimser-intern/surveysaurus-ui/pull/38)
+- Anket doldurma sayfasının pull requesti açıldı.[dokumana buradan erişebilirsiniz](https://github.com/bimser-intern/surveysaurus-ui/pull/40)
+- Giriş yapmadan önce menudeki açılır menunün açılması engellendi.
+- Giriş yaptıktan sonra Signup ve login butonları kaldırıldı.[dokumana buradan erişebilirsiniz](https://github.com/bimser-intern/surveysaurus-ui/pull/42)
+- Haftalık son sprint toplantısı yapıldı bu hafta verilmiş olan görevler kontrol edildi.
+- Eksik ve hatalar belirlendi.
