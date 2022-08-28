@@ -146,3 +146,23 @@ Bimser Çözüm şirketinde zorunlu staj yapmaktayım ve bu staj süresince yapa
   - Grafana --> [Bilgi edinmek için tıklayabilirsiniz](https://medium.com/mobvenlab-tr/prometheus-alertmanager-ve-grafana-ile-server-monitoring-c8b669ed63dd#:~:text=Prometheus%2C%20AlertManager%20ve%20Grafana%20bir,okunmas%C4%B1n%C4%B1%20daha%20kolay%20hale%20getirir.&text=Tablo%20%C5%9Feklinde%20g%C3%B6rd%C3%BC%C4%9F%C3%BCm%C3%BCz%20t%C3%BCm%20bilgiler%2C%20node_exporter%20taraf%C4%B1ndan%20elde%20etti%C4%9Fimiz%20bilgilerdir.)
 - Url rooting işlemini gerçekleştirebilmek için azure services, traffic manager, app gateaway araştırıldı.
 - Url rooting işlemi için application gateaway uygulandı. Başarılı olunamadı. [Kaynak için tıklayabilirsiniz.](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-application-gateway)
+
+
+[**25.08.2022**](https://github.com/bimser-intern/docs/issues/506)
+
+- Daily Scrum'a katılım sağlandı.
+- Backend ortamında yapılan değişiklik sonucu ortaya çıkan hatayı çözüme ulaştırdık.
+- Virtual network hakkında bilgi edinildi. [Kaynak için tıklayabilirsiniz.](https://docs.microsoft.com/tr-tr/azure/virtual-network/virtual-networks-overview)
+- Port, IP, TCP/UDP keywordleri hakkında ilgi edinildi. [Dokümantasyona buradan ulaşabilirsiniz.](https://www.linkedin.com/pulse/port-nedir-dincer-oksuzbakan/?originalSubdomain=tr)
+- Application gateway ile url rooting işlemini gerçekleştirebilmek için denemeler yapıldı.
+
+
+
+[**26.08.2022**](https://github.com/bimser-intern/docs/issues/506)
+
+- Daily Scrum'a katılım sağlandı.
+- Traffic manager nedir, niçin kullanılır başlığı altında araştırmalar yapıldı.[Kaynak için tıklayabilirsiniz.](https://docs.microsoft.com/tr-tr/azure/traffic-manager/traffic-manager-overview)
+- DNS nedir araştırıldı. [Kaynak için tıklayabilirsiniz.](https://medium.com/@gokhansengun/dns-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r-98c61cf36f0b)
+- Traffic Manager yapısı oluşturuldu, url rooting işlemi için deneme yapıldı.
+- Sprint review toplantısında projenin ilerleme durumu, görevlerimiz gözden geçirildi.
+- Sprint retrospective toplantısına katılım sağlandı.
