@@ -20,7 +20,8 @@ Projenin başarılı ve güzel bir şekilde ilerlemesi için oluşturulmuş dok�
 10. [Backend Developer](docs/Backend.md)
 11. [Git Giriş Ve Kurulum](docs/Git-Giris-Kurulum.md)
 
-13. [Frontend Developer](docs/Frontend.md)
+
+14. [Frontend Developer](docs/Frontend.md)
 
 ## Projeye Katkıda Bulunmak
 
