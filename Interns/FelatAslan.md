@@ -154,3 +154,10 @@ Yazılım ile üniversitede tanıştım. Başta Algoritma Temelleri olmakla bera
 - Giriş yaptıktan sonra Signup ve login butonları kaldırıldı.[dokumana buradan erişebilirsiniz](https://github.com/bimser-intern/surveysaurus-ui/pull/42)
 - Haftalık son sprint toplantısı yapıldı bu hafta verilmiş olan görevler kontrol edildi.
 - Eksik ve hatalar belirlendi.
+[**29.08.2022**](https://github.com/bimser-intern/docs/issues/521)
+- Sabah sprint toplantısı yapıldı görevler büyüklerine göre işaretlendi.
+- Daily scrum toplantısı yapıldı.
+- Homepage sayfasından fillsurvey sayfasına yönlendirmede scroll sorunu çözüldü sayfanın baştan başlaması sağlandı.
+- Homepage sayfasındaki açılır menüye userpage sayfasına yönlendiren mysurveys butonu eklendi.
+- Homepage sayfasında surveys kısmındaki carousel kartlarının testten dönen sorunu halledildi.
+- Userınfo sayfasının uzantısı eklendi.
