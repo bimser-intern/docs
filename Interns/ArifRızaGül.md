@@ -86,7 +86,7 @@ aracılığıyla C, Java, Python üzerinde projeler geliştirdim. Bimser şirket
 
 [**19.09.2022**](https://github.com/bimser-intern/docs/issues/508)
  - Daily scrum yapıldı.
- - Sprint Planning toplantısına katılım sağlandı.
+ - Sprint review toplantısına katılım sağlandı.
  - Web ve android test senaryoları yazıldı.
  - k6 Load Testing Tool kullanımı hakkında araştırma yapıldı.
 
