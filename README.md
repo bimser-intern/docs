@@ -21,6 +21,7 @@ Projenin başarılı ve güzel bir şekilde ilerlemesi için oluşturulmuş dok�
 11. [Git Giriş Ve Kurulum](docs/Git-Giris-Kurulum.md)
 12. [GitHub](docs/GitHub.md)
 
+13. [Kotlin](docs/Kotlin.md)
 ## Projeye Katkıda Bulunmak
 
 Projeye katkıda bulunmak için gerekli kurallara uyulmalıdır. Kurallar;
