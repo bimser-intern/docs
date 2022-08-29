@@ -119,3 +119,21 @@ Yazılım ile üniversitede tanıştım. C eğitimi aldım. Okul haricinde kendi
 
 - Web kısmı için Create Survey sayfasının otomasyonu üzerinde çalışmaya başlandı.
 - Sign up otomasyonu üzerinde geliştirme yapılmaya başlandı. 
+
+[**25.08.2022**](https://github.com/bimser-intern/docs/issues/519)
+
+- Web kısmı için manuel testler yapıldı.
+- Bulunan hatalar Github'a bug issue olarak girildi.
+
+[**26.08.2022**](https://github.com/bimser-intern/docs/issues/519)
+
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
+- Mobil kısmının yeni sürümü için manuel testler yapıldı. 
+- Bulunan hatalar Github'a bug issue olarak girildi.
+
+[**29.08.2022**](https://github.com/bimser-intern/docs/issues/519)
+
+- Sprint Planning toplantısına katılım sağlandı.
+- Appium konusunda araştırma yapıldı. Doküman incelendi ve videolar izlendi. 
+- Python ve Selenium ile web test otomasyonu konusunda çalışmaya devam edildi. Create Survey sayfasının otomasyonu ilerletildi.
+- Login otomasyonu, komut satırı argümanları eklenerek Github QA reposuna eklendi. 
