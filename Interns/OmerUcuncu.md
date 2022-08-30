@@ -151,3 +151,9 @@ Eğitim süresince ilk stajımı  **Bimser**'de gönüllü stajyer olarak yapmak
 - Sprint Review toplantısına katılındı ve bu haftaki sprintte başarısız olduk.
 - Sprint Retrospective toplantısına katılındı.
 - K6 CLI üstünden load testler yapıldı bu testler; HomePage, Login, Login-CreateSurvey-MySurvey-FillSurvey, SignUp-FillSurvey senaryoları şeklinde load testleri yapıldı ve bu testler K6 Cloud'a atıldı. Atılan bu testler K6 üstünden değerleri incelendi ve PDF formatında tüm değerler ve analizleriyle birlikte Discorda atıldı. Yapılan bu load testleri K6'nın raporlama sistemine göre pass damgası almıştır.
+
+[**29.08.2022**](https://github.com/bimser-intern/docs/issues/511)
+
+- Daily scrum yapıldı.
+- Sprint Planning toplantısına katılındı.
+- Haftasonu Appium araştırılmıştı, bugün ise Appium indirildi ve kuruldu. Kuruluş esnasında çok fazla hata aldığımız için ekip olarak görev dağılımı yaptık ve ben tüm sorunları teker teker derinlemesine araştırarak, deneyerek günün sonunda çözmüş oldum. Başarılı bir şekilde Android Studio üstündeki sanal Android cihazımızı Appium'a bağladık ve Appium Inspector sayesinde surveysaurus mobil uygulamasındaki elementleri xpath yoluyla çekebilmemize olanak sağladı. Yarından itibaren Python dilini kullanarak Pycharm editörü aracılığı ile Selenium'u kullanarak android için test otomasyonlarımızı hazırlamaya başlamış olacağız.
