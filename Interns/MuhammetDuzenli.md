@@ -79,3 +79,87 @@ Python dilini 6 Haziran-18 Temmuz 2022 tarihleri arasında Kocaeli Üniversitesi
 - Ingress işlemleri yapıldı.
 - ACR üzerinde mevcut projenin frontend ve backend bölümleri ayağa kaldırıldı.
 - Dockerfile yazımlarında debugging işlemleri gerçekleştirildi.
+
+[**15.08.2022**](https://github.com/bimser-intern/docs/issues/311)
+
+- Frontend bölümü için yazılmış olan Dockerfile tekrar düzenlendi.
+- GitHub Actions modülünün sunmuş olduğu özellikler incelendi.
+- CI Pipeline için kullanılabilecek araçlar araştırıldı.
+- Business Analyst Team Lead Buluşması etkinliğine katılım sağlandı.
+
+[**16.08.2022**](https://github.com/bimser-intern/docs/issues/338)
+
+- Backend CORS kısmı ile alakalı zannedilen problemin tespiti yapıldı.
+- Oluşturduğumuz container dosyalarındaki hata giderildi.
+- Backend ve Frontend takımları ile toplantı yapıldı.
+- Frontend kısmının ayağa kaldırılması için denemeler yapıldı.
+
+[**17.08.2022**](https://github.com/bimser-intern/docs/issues/349)
+
+- Frontend bölümünün Docker dosyası düzenlendi.
+- Backend ve Frontend bölümlerindeki değişiklikler manuel olarak buluta yüklendi.
+- GitHub Actions kullanarak CI/CD Pipeline işlemleri başlatıldı.
+- Senior Technical Product Manager Buluşması etkinliğine katılım sağlandı.
+- GitHub Actions üzerindeki hatalar giderilmeye çalışıldı.
+
+[**18.08.2022**](https://github.com/bimser-intern/docs/issues/363)
+
+- GitHub Actions tarafında alınan hata giderildi.
+- Backend GitHub Actions tarafı ayağa kaldırıldı.
+- Frontend GitHub Actions tarafı ayağa kaldırıldı.
+- Frontend tarafında yeni kütüphane kullanıldığı bilgisi alındı ve Dockerfile buna göre tekrar düzenlendi.
+- İleride yapılacak DevOps geliştirmeleri için araştırmalar yapıldı.
+
+[**19.08.2022**](https://github.com/bimser-intern/docs/issues/377)
+
+- GitHub Actions üzerinde oluşabilecek problemler tespit edildi.
+- Backend ve Frontend kısımlarındaki güncellemeler gözden geçirildi.
+- Build ve Deploy aşamaları detaylıca incelendi.
+- YAML uzantılı dosyalar ve işlevleri araştırıldı.
+- Selenium ve CI/CD entegrasyonu araştırıldı.
+- Oluşturmuş olduğumuz sistemin geliştirilmesi ve iyileştirilmesi için gerekli adımlar araştırıldı.
+- Customer Success Manager Buluşması etkinliğine katılım sağlandı.
+
+[**22.08.2022**](https://github.com/bimser-intern/docs/issues/398)
+
+- GitHub Actions ile Pull Request Build tetiklemesi sağlandı.
+- Selenium ve CI/CD entegrasyonu araştırıldı.
+- Oluşturmuş olduğumuz sistemin geliştirilmesi ve iyileştirilmesi için gerekli adımlar araştırıldı.
+- URL Routing ve Domain Services konusu araştırıldı.
+- Farklı GitHub Actions uygulamaları incelendi.
+
+[**23.08.2022**](https://github.com/bimser-intern/docs/issues/410)
+
+- URL Routing işlemleri için araştırmalar yapıldı.
+- Azure Application Gateway oluşturma işlemi gerçekleştirildi. [Dokümantasyona buradan ulaşabilirsiniz.](https://docs.microsoft.com/en-us/azure/application-gateway/quick-create-portal) 
+- Oluşturulan sanal makineler arasında iletişim kurulmaya çalışıldı.
+- Azure Portal üzerinde routing işlemleri denendi. [Dokümantasyona buradan ulaşabilirsiniz.](https://docs.microsoft.com/en-us/azure/application-gateway/create-url-route-portal)
+- Frontend tarafında yapılan güncelleme incelendi ve build tarafında çıkan problem tespit edilmeye çalışıldı.
+
+
+[**24.08.2022**](https://github.com/bimser-intern/docs/issues/432)
+
+- Frontend tarafında yapılan dizin değişimlerinin yol açtığı problemler Dockerfile ve YAML file düzenlemeleri ile giderildi.
+- GitHub Actions ile Selenium entegrasyonu hakkında araştırma yapıldı. 
+- Farklı Selenium otomasyonları incelendi.
+- Test ekibinin yazmış olduğu Selenium UI otomasyonu mevcut projeye implemente edilmeye çalışıldı.
+
+[**25.08.2022**](https://github.com/bimser-intern/docs/issues/458)
+
+- Backend tarafında yapılan değişikler sonucunda ortaya çıkan hata giderilmeye çalışıldı.
+- GitHub Actions ile Selenium entegrasyonu gerçekleştirilmeye çalışıldı. 
+- Selenium scriptinde çıkan hata giderilmeye çalışıldı.
+- Farklı ChromeDriver sürümleri ve farklı Python sürümleriyle denemeler yapıldı.
+
+[**26.08.2022**](https://github.com/bimser-intern/docs/issues/499)
+
+- Frontend tarafı için yapılan Selenium test denemeleri başarıyla tamamlandı.
+- Belirli Chrome konfigürasyonları sayesinde yazılan script çalıştırıldı. 
+- Test otomasyonu oluşturulacak yeni ortam için çalışmalara başlandı.
+- Python otomasyon scriptleri hakkında araştırma yapıldı.
+
+[**29.08.2022**](https://github.com/bimser-intern/docs/issues/513)
+
+- Selenium otomasyon testleri [surveysaurus-qa](https://github.com/bimser-intern/surveysaurus-qa) reposuna taşındı.
+- QA reposunda bulunan testlerin UI kısmında yapılan değişiklerle birlikte tetiklenmesi sağlandı.
+- GitHub Actions workflow-call ve workflow-dispatch yapısı araştırılıp uygulandı.

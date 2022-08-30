@@ -13,16 +13,15 @@ Projenin başarılı ve güzel bir şekilde ilerlemesi için oluşturulmuş dok�
 3. [React](docs/React.md)
 4. [Tailwind](docs/Tailwind.md)
 5. [Android Developer ve IOS Developer](docs/Android-IOS-Dev.md)
-
-
-
-
-
-
-
-
-
-15. [Security Engineer ve DevOps Engineer](docs/Devops-Engineer-Security-Engineer.md)
+6. [Git Branch](docs/Git-Branch.md)
+7. [UI/UX Designer, Business Analyst, Documentation Specialist](docs/UI%20UX-BA-DS.md)
+8. [Scrum](docs/Scrum.md)
+9. [Markdown Markup Language](docs/Markdown-Markup-Language.md)
+10. [Backend Developer](docs/Backend.md)
+11. [Git Giriş Ve Kurulum](docs/Git-Giris-Kurulum.md)
+12. [GitHub](docs/GitHub.md)
+13. [Kotlin](docs/Kotlin.md)
+14. [Security Engineer ve DevOps Engineer](docs/Devops-Engineer-Security-Engineer.md)
 
 ## Projeye Katkıda Bulunmak
 
@@ -78,4 +77,3 @@ https://discord.gg/TgdnJWfPJ8
 - [Ömer Üçüncü](Interns/OmerUcuncu.md)
 
 - [Berna Akdoğanlar](Interns/BernaAkdoganlar.md)
-

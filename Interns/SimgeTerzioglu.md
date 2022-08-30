@@ -72,3 +72,85 @@ Yazılım ile üniversitede tanıştım. Üniversite eğitimimde C, C#, C++, Pyt
 - Mobile Development Unit Manager Buluşma toplantısına katılım sağlandı.
 - Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
 - Yazılan test senaryoları Issues alanlarına eklendi.
+
+[**15.08.2022**](https://github.com/bimser-intern/docs/issues/325)
+
+- Sprint Planning toplantısına katılım sağlandı.
+- Daily scrum yapıldı.
+- Business Analyst Team Lead Buluşması etkinliğine katılım sağlandı.
+- Test ekibiyle görüşüldü.
+- Test senaryoları yazıldı.
+- Product Owner ile toplantı yapıldı ve gelecek hafta için gerekli olan tasarımlar belirlendi.
+
+[**16.08.2022**](https://github.com/bimser-intern/docs/issues/340)
+
+- Daily scrum yapıldı.
+- Önümüzdeki haftanın tasarımı için analiz ekibiyle görüşüldü.
+- Test senaryoları gözden geçirildi.
+- Selenium hakkında araştırma yapıldı ve selenium kurulup kullanıldı. [Buradan erişebilirsiniz.](https://www.udemy.com/course/sifirdan-ileri-seviyeye-python/learn/lecture/13447814#overview)
+
+[**17.08.2022**](https://github.com/bimser-intern/docs/issues/354)
+
+- Daily scrum yapıldı.
+- Senior Technical Product Manager Buluşması etkinliğine katılım sağlandı.
+- Surveysaurus web sürümü için manuel testler yapıldı.
+- Önümüzdeki hafta için tasarımlar yapıldı.
+
+[**18.08.2022**](https://github.com/bimser-intern/docs/issues/364)
+
+- Daily scrum yapıldı.
+- Frontend Development Unit Manager Buluşması etkinliğine katılım sağlandı.
+- Surveysaurus web ve mobil sürümü için manuel testler yapıldı.
+- Yapılan testler sonucu bulunan hatalar Github üstünden issue olarak eklendi.
+- Figma üstünden tasarımlar yapıldı.
+- Yapılan tasarımların analizi yazıldı.
+
+[**19.08.2022**](https://github.com/bimser-intern/docs/issues/386)
+
+- Daily scrum yapıldı.
+- Sprint Review toplantısına katılım sağlandı.
+- Sprint Retrospective toplantısına katılım sağlandı.
+- Customer Success Manager Buluşması etkinliğine katılım sağlandı.
+- Tasarıma yeni eklemeler yapıldı.
+- Yeni eklenen özelliklerin analizi yazıldı.
+
+[**22.08.2022**](https://github.com/bimser-intern/docs/issues/403)
+
+- Daily scrum yapıldı.
+- Sprint Planning toplantısına katılım sağlandı.
+- Web ve android için test senaryoları yazıldı.
+- K6 Automation Testing Tool kuruldu ve kullanımı için araştırma yapıldı. [Buradan erişebilirsiniz.](https://k6.io/docs/getting-started/installation/)
+
+[**23.08.2022**](https://github.com/bimser-intern/docs/issues/417)
+
+- Daily scrum yapıldı.
+- Selenium ile giriş ve kayıt işlemlerinin testi yazıldı.
+- K6 araştırıldı.
+
+[**24.08.2022**](https://github.com/bimser-intern/docs/issues/434)
+
+- Daily scrum yapıldı.
+- Product Owner ile görüşüldü ve gelecek hafta için gerekli olan tasarımlar belirlendi.
+- Selenium ile anket doldurma sayfasının otomasyonu yazılmaya başlandı.
+
+[**25.08.2022**](https://github.com/bimser-intern/docs/issues/469)
+
+- Daily scrum yapıldı.
+- Surveysaurus web'in yeni sürümü geldiği için yeniden manuel testler yapıldı ve hatalar bug olarak surveysaurus-pm'e girildi.
+- Selenium ile anket doldurma sayfasının otomasyonu tamamlandı.
+
+[**26.08.2022**](https://github.com/bimser-intern/docs/issues/479)
+
+- Daily scrum yapıldı.
+- Sprint Review toplantısına katılım sağlandı.
+- Sprint Retrospective toplantısına katılım sağlandı.
+- Android'in yeni sürümünün testleri yapıldı.
+- Bulunan hatalar bug olarak surveysaurus-pm'e girildi.
+- Web otomasyonları için chrome tarayıcısına geçildi ve gerekli kurulumlar yapılıp yazılan otomasyonlar güncellendi.
+
+[**29.08.2022**](https://github.com/bimser-intern/docs/issues/515)
+
+- Daily scrum yapıldı.
+- Sprint Planning toplantısına katılım sağlandı.
+- Appium araştırıldı, indirildi ve kurulumu sağlandı.
+- İlk android otomasyonu yazıldı.

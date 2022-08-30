@@ -94,7 +94,7 @@ Yazılım ile lisede tanıştım. 4 yıl boyunca web programlama dersleri aldım
 
 
 
-- Stajyer & Sami Mıynat(Software Development Unit Manager - Backend) Buluşması'na katılım sağlandı.
+- Stajyer & Sami Mıynat(Software Development Unit Manager - Backend) buluşması'na katılım sağlandı.
 
 - Backend ekibi ile görüşüldü.
 
@@ -104,9 +104,9 @@ Yazılım ile lisede tanıştım. 4 yıl boyunca web programlama dersleri aldım
 
 
 
-- Stajyer & Furkan Küçük(Devops Unit Manager) Buluşması'na katılım sağlandı.
+- Stajyer & Furkan Küçük(Devops Unit Manager) buluşması'na katılım sağlandı.
 
-- Stajyer & Gökhan Gerdan(Data Scientist) Buluşması'na katılım sağlandı.
+- Stajyer & Gökhan Gerdan(Data Scientist) buluşması'na katılım sağlandı.
 
 - Devops ekibi ile görüşüldü.
 
@@ -118,10 +118,115 @@ Yazılım ile lisede tanıştım. 4 yıl boyunca web programlama dersleri aldım
 
 
 
-- Stajyer & Erdem Topuz(Mobile Development Unit Manager) buluşma'na katılım sağlandı.
+- Stajyer & Erdem Topuz(Mobile Development Unit Manager) buluşması'na katılım sağlandı.
 
 - Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
 
 - Devops ekibi ile görüşüldü.
 
 - Proje üzerindeki eksiklikler giderildi.
+
+[**15.08.2022**](https://github.com/bimser-intern/docs/issues/309)
+
+
+
+- Sprint planlama toplantısına katılım sağlandı.
+
+- Stajyer & Esra Moğultay(Business Analyst Team Lead) buluşması'na katılım sağlandı.
+
+- Backend ekibi ile görüşüldü.
+
+- My Surveys sayfasının tasarımı yapıldı.
+
+[**16.08.2022**](https://github.com/bimser-intern/docs/issues/335)
+
+
+
+- My Surveys sayfasının tasarımına eklemeler yapıldı.
+
+- React Grid yapısı araştırıldı.
+
+- Backend ekibi ile görüşüldü.
+
+[**17.08.2022**](https://github.com/bimser-intern/docs/issues/380)
+
+
+
+- Stajyer & Fatma Nur Özen(Senior Technical Product Manager) buluşması'na katılım sağlandı.
+
+- Projede gitignore ve create survey dosyaları düzeltildi.
+
+- Css dosyaları projeden kaldırıldı.
+
+- DevOps ekibi ile görüşüldü.
+
+[**18.08.2022**](https://github.com/bimser-intern/docs/issues/380)
+
+
+
+- Stajyer & Bertan Yaman(Frontend Development Unit Manager) buluşması'na katılım sağlandı.
+
+- User page için survey verileri çekilip ekranda gösterildi.
+
+- User page açılır menü eklendi.
+
+[**19.08.2022**](https://github.com/bimser-intern/docs/issues/380)
+
+
+
+- Stajyer & Erol Eryiğit(Customer Success Manager) buluşması'na katılım sağlandı.
+
+- React Grid yapısı araştırıldı.
+
+- Test ekibi ile görüşüldü.
+
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
+
+[**22.08.2022**](https://github.com/bimser-intern/docs/issues/441)
+
+
+
+- Sprint planlama toplantısına katılım sağlandı.
+
+- Ekip içerisinde görev dağılımı yapıldı.
+
+- Testten dönen eksiklikler üzerinde çalışıldı.
+
+
+[**23.08.2022**](https://github.com/bimser-intern/docs/issues/441)
+
+
+
+- Anket doldurma sayfası tasarımı ve yeni güncellemeler yapıldı.
+
+[**24.08.2022**](https://github.com/bimser-intern/docs/issues/441)
+
+
+
+- Homepage, Login, SignUp, Menu, CreateSurvey, UserPage sayfalarının hataları giderildi.
+
+- Homepage, Login, SignUp, Menu, CreateSurvey, UserPage sayfalarının tasarımları güncellendi.
+
+[**25.08.2022**](https://github.com/bimser-intern/docs/issues/461)
+
+
+
+- Homepage, Login, SignUp, Menu, CreateSurvey, UserPage sayfalarının hataları giderildi.
+
+- Homepage, Login, SignUp, Menu, CreateSurvey, UserPage sayfalarının tasarımları güncellendi.
+
+- Yorumlar kısmının tasarımı yapıldı. 
+
+- Test ekibi, Backend ekibi ve devOps ile görüşüldü.
+
+[**26.08.2022**](https://github.com/bimser-intern/docs/issues/494)
+
+
+
+- Homepage sayfasındaki create a survey butonu düzeltildi.
+
+- Açılır menu kaldırıldı.
+
+- Giriş yaptıktan sonra Signup ve login butonları kaldırıldı.
+
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.

@@ -76,3 +76,84 @@ Eğitim süresince ilk stajımı  **Bimser**'de gönüllü stajyer olarak yapmak
  - Sprint Review toplantısına katılındı.
  - Sprint Retrospective toplantısına katılındı.
  - İlerleyen haftanın analizleri yapılmaya başlanıldı.
+
+[**15.08.2022**](https://github.com/bimser-intern/docs/issues/308)
+
+ - Daily scrum yapıldı.
+ - Business Analyst Team Lead toplantısına katılındı.
+ - Sprint Planning toplantısına katılındı.
+ - Web için test senaryoları yazıldı.
+ - Product Owner ile toplantı yapıldı.
+ - Benchmarking yapılmaya başlanıldı.
+ - Selenium nasıl kullanılır hakkında araştırma ve videolar izlenmeye başlandı.
+
+ [**16.08.2022**](https://github.com/bimser-intern/docs/issues/329)
+
+ - Daily scrum yapıldı.
+ - Önümüzdeki haftanın tasarımı için analiz yazıldı.
+ - Test senaryoları gözden geçirildi.
+ - Selenium kuruldu ve kullanıldı.
+
+ [**17.08.2022**](https://github.com/bimser-intern/docs/issues/347)
+
+ - Daily scrum yapıldı.
+ - Senior Technical Product Manager buluşmasına katılındı.
+ - Surveysaurus web sürümü için manuel testler yapıldı.
+ - Önümüzdeki hafta için tasarımlar yapıldı.
+ - Tasarımların analizleri yazıldı.
+
+ [**18.08.2022**](https://github.com/bimser-intern/docs/issues/360)
+
+ - Daily scrum yapıldı.
+ - Frontend Development Unit Manager buluşmasına katılındı.
+ - Surveysaurus web ve mobil sürümü için manuel testler yapıldı.
+ - Yapılan testler sonucu hatalar Github üstünden issue olarak eklendi.
+ - Figma üstünden tasarımlar yapıldı.
+ - Önümüzdeki haftanın son analizi yazıldı.
+
+ [**19.09.2022**](https://github.com/bimser-intern/docs/issues/384)
+
+ - Daily scrum yapıldı.
+ - Sprint Review toplantısına katılındı.
+ - Sprint Retrospective toplantısına katılındı.
+ - Customer Success Manager buluşmasına katılındı.
+ - Yeni eklenen özelliklerin analizi yazıldı.
+
+ [**22.08.2022**](https://github.com/bimser-intern/docs/issues/400)
+
+ - Daily scrum yapıldı.
+ - Sprint Planning toplantısına katılındı.
+ - Web ve android için test senaryoları yazıldı.
+ - K6 Automation Testing Tool kuruldu ve kullanımı için araştırma yapıldı. [Buradan erişebilirsiniz.](https://k6.io/docs/)
+
+[**23.08.2022**](https://github.com/bimser-intern/docs/issues/409)
+
+- Daily scrum yapıldı.
+- K6 Automation Testing Tool aracılığı ile nasıl load testi, performans testi ve stres testi yapılır hakkında detaylı dokümantasyonlar okundu ve bunlar hakkında videolar izlenildi.
+- K6 aracılığı ile deneme amaçlı 1 sanal kişilik (VUs) load testi ile performans testi yapıldı ve bunun sonuçlarını tekrar öğrenme ve deneme amaçlı olarak K6 Cloud'a atıldı. Cloud servisi sayesinde farklı metric ve değerleri kolay bir şekilde izleme fırsatı yakalamamızı sağladı.
+
+[**24.08.2022**](https://github.com/bimser-intern/docs/issues/436)
+
+- Daily scrum yapıldı.
+- Product Owner ile görüşüldü ve gelecek hafta için gerekli olan tasarımlar belirlendi.
+- K6 cloud versiyonu Grafana'ya bağlandı, aynı şekilde Prometheus da Grafanaya bağlandı. K6 Cloud üstünden deneme amaçlı load test yapıldı ve Grafanada izlenilmeye çalışıldı.
+
+[**25.08.2022**](https://github.com/bimser-intern/docs/issues/456)
+
+- Daily scrum yapıldı.
+- Surveysaurus web'in yeni sürümü geldiği için yeniden manuel testler yapıldı ve hatalar bug olarak surveysaurus-pm'e girildi.
+- K6 load testi Home Page ve Login için yapıldı sonuçları K6 Cloud'a atıldı ordan verileri izlenebilir ve analizleri görülebilir bir hale getirildi.
+- Home Page ve Login ekranlarının load test scriptleri hazırlandı yarın surveysaurus-qa reposuna atılacak.
+
+[**26.08.2022**](https://github.com/bimser-intern/docs/issues/480)
+
+- Daily scrum yapıldı.
+- Sprint Review toplantısına katılındı ve bu haftaki sprintte başarısız olduk.
+- Sprint Retrospective toplantısına katılındı.
+- K6 CLI üstünden load testler yapıldı bu testler; HomePage, Login, Login-CreateSurvey-MySurvey-FillSurvey, SignUp-FillSurvey senaryoları şeklinde load testleri yapıldı ve bu testler K6 Cloud'a atıldı. Atılan bu testler K6 üstünden değerleri incelendi ve PDF formatında tüm değerler ve analizleriyle birlikte Discorda atıldı. Yapılan bu load testleri K6'nın raporlama sistemine göre pass damgası almıştır.
+
+[**29.08.2022**](https://github.com/bimser-intern/docs/issues/511)
+
+- Daily scrum yapıldı.
+- Sprint Planning toplantısına katılındı.
+- Haftasonu Appium araştırılmıştı, bugün ise Appium indirildi ve kuruldu. Kuruluş esnasında çok fazla hata aldığımız için ekip olarak görev dağılımı yaptık ve ben tüm sorunları teker teker derinlemesine araştırarak, deneyerek günün sonunda çözmüş oldum. Başarılı bir şekilde Android Studio üstündeki sanal Android cihazımızı Appium'a bağladık ve Appium Inspector sayesinde surveysaurus mobil uygulamasındaki elementleri xpath yoluyla çekebilmemize olanak sağladı. Yarından itibaren Python dilini kullanarak Pycharm editörü aracılığı ile Selenium'u kullanarak android için test otomasyonlarımızı hazırlamaya başlamış olacağız.

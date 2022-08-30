@@ -78,5 +78,100 @@ Ben Enise Arslan, Kocaeli Üniversitesi Bilgisayar Mühendisliği son sınıf ö
 
 - Stajyer & Gökhan Gerdan(Data Scientist) Buluşması'na katılındı.
 
+[**12.08.2022**](https://github.com/bimser-intern/docs/issues/392)
+
+- Daily scrum toplantısına katılındı.
+
+- Gelecek hafta için analizler gözden geçirildi.
+
+- Sprint Review ve Sprint Retrospective toplantılarına katılındı.
+
+[**15.08.2022**](https://github.com/bimser-intern/docs/issues/392)
+
+- Sprint planning toplantısına katılındı.
+
+- Stajyer & Esra Moğultay(Business Analyst Team Lead) Buluşması'na katılındı.
+
+- Product owner ile gelecek sprint için projeye eklenmesi beklenen isterler değerlendirildi. Araştırmaya başlandı.
+
+- Js ile ilgili araştırma yapıldı. 
+
+[**16.08.2022**](https://github.com/bimser-intern/docs/issues/392)
+
+- Daily scrum yapıldı.
+
+- Projeye eklenecek olan comment ve surveyrates alanları için analiz yazıldı. 
+
+- React ile ilgili araştırma yapıldı. [Makaleye buradan erişebilirsiniz.](https://tr.reactjs.org/docs/getting-started.html)
+
+[**17.08.2022**](https://github.com/bimser-intern/docs/issues/392)
+
+- Daily scrum yapıldı.
+
+- Stajyer & Fatma Nur Özen(Senior Technical Product Manager) Buluşması'na katılındı.
+
+- Projeye eklenecek olan map için tasarıma karar verildi, analizler düzenlendi.
+
+- Filling out survey sayfasının tasarımı üzerine deneme yapıldı.
+
+[**18.08.2022**](https://github.com/bimser-intern/docs/issues/392)
+
+- Daily scrum yapıldı.
+
+- Stajyer & Bertan Yaman(Frontend Development Unit Manager) Buluşması'na katılındı.
+
+- Gelecek hafta için yapılan analizlere göre tasarımlar yapıldı.
+
+- Seçilen anketlerin filling out survey sayfası üzerinden görüntülenmesi sağlandı.
+
+[**19.08.2022**](https://github.com/bimser-intern/docs/issues/392)
+
+- Daily scrum yapıldı.
+
+- Stajyer & Erol Eryiğit(Customer Success Manager) Buluşması'na katılındı.
+
+- Gelecek hafta için hazırlanan analizin son hali düzenlendi.
+
+- Sprint Review ve Sprint Retrospective toplantılarına katılındı.
+
+[**22.08.2022**](https://github.com/bimser-intern/docs/issues/426)
+
+- Sprint planlama toplantısına katılındı.
+
+- Daily scrum yapıldı.
+
+- Projeye eklenecek olan google ile giriş yapma kısmı için araştırma yapıldı, analizi yazıldı.
+
+
+[**23.08.2022**](https://github.com/bimser-intern/docs/issues/426)
+
+- Daily scrum yapıldı.
+
+- Google ile giriş yapma kısmının figma da tasarımı yapıldı. Analizdeki eksikler düzenlendi. 
+
+[**24.08.2022**](https://github.com/bimser-intern/docs/issues/426)
+
+- Daily scrum yapıldı.
+
+- Product owner ile gelecek sprint için projeye eklenmesi beklenen isterler konuşuldu. 
+
+- Projeye eklenecek olan, anket yazarının profil sayfası (creator page) için analiz yazıldı. Figma üzerinde tasarımı yapıldı.
+
+- Kullanıcının tüm anketlere erişebilmesi için tasarıma "all survey page" eklendi. Analizi düzenlendi.
+
+[**25.08.2022**](https://github.com/bimser-intern/docs/issues/460)
+
+- Daily scrum yapıldı.
+
+- Kullanıcın ikon seçebilmesi için personel info sayfasında düzenleme yapıldı. Analizi ve tasarımı eklendi.
+
+- Fill survey sayfasına ve kullanıcının profil sayfasına yapılacak olan yenilikler için analiz yazıldı. Tasarımlara eklendi.
+
+- Anketler üzerinden kullanıcıların puan kazanması için bir puanlama sistemi plandı.
+
+
+
+
+
 
 

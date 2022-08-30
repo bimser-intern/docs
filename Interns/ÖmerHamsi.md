@@ -55,3 +55,78 @@ Ben Ömer Hamsi, Kocaeli Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.
 - Proje üzerinde tasarımda düzenlemeler yapıldı.
 - Seçilen ülkenin şehirlerinin gösterilmesi oluşturulan dizi ile sağlandı.
 - Linklerin yönlendirilmesi düzenlendi. 
+
+[**12.08.2022**](https://github.com/bimser-intern/docs/issues/313)
+- Daily scrum yapıldı.
+- Mobile Development Unit Manager toplantısına katılındı.
+- Sprint Review toplantısına katılındı.
+- Sprint Retrospective toplantısına katılındı.
+- Login, sign up post metotları yazıldı.
+
+[**15.08.2022**](https://github.com/bimser-intern/docs/issues/313)
+- Sprint planlama toplantısına katılım sağlandı.
+- Daily scrum yapıldı.
+- Confirm password kısmı eklendi, uyarı mesajları düzenlendi.
+- Our survey kısmına carousel eklenmeye çalışıldı.
+
+[**16.08.2022**](https://github.com/bimser-intern/docs/issues/373)
+- Sabah daily scrum toplantısı yapıldı.
+- Takım arkadaşlarıyla toplantı yapıldı.
+- Login, sign up uyarı mesajları düzenlendi.
+- Login, sign up post işlemleri denendi, kullanıcı yönlendirildi.
+- Kullanıcı girişi local storage kaydedildi.
+- User page menü kısmı dinamik hale getirildi.
+
+[**17.08.2022**](https://github.com/bimser-intern/docs/issues/373)
+- Sabah daily scrum toplantısına katıldım.
+- Projede gitignore ve create survey dosyaları düzeltildi.
+- Css dosyaları projeden kaldırıldı.
+- Our sample survey kısmına çeşitli kütüphanelerle slider eklenmeye çalışıldı.
+
+[**18.08.2022**](https://github.com/bimser-intern/docs/issues/373)
+- Sabah daily scrum toplantısına katıldım.
+- Create survey sayfası post işlemi yapıldı, option ekleme, silme kısımları düzeltildi.
+- User page için survey verileri çekilip ekranda gösterildi.
+- User page açılır menü eklendi.
+
+[**19.08.2022**](https://github.com/bimser-intern/docs/issues/373)
+- Sabah daily scrum toplantısına katıldım.
+- Our sample survey kısmına slick kütüphanesi eklenerek veriler gösterildi.
+- Sprint Review toplantısına katılındı.
+- Sprint Retrospective toplantısına katılındı.
+
+[**22.08.2022**](https://github.com/bimser-intern/docs/issues/421)
+- Sprint planlama toplantısına katılım sağlandı.
+- Takım içerisinde görev dağılımı yapıldı.
+- Kullanıcının giriş yapmadan oluşturduğu anketinin giriş yapıldıktan sonra kayıt edilmesi sağlandı.
+- Ülke ve şehir bilgileri çekilerek input içerisinde gösterilmesi sağlandı.
+
+[**23.08.2022**](https://github.com/bimser-intern/docs/issues/421)
+- Sabah daily scrum toplantısına katılım sağlandı.
+- Tıklanan anketin detayının görüntülenmesi sağlandı.
+- Anket doldurma sayfası tasarımı yeni güncellemeler yapıldı.
+- Anket doldurma post işlemi yapıldı.
+
+[**24.08.2022**](https://github.com/bimser-intern/docs/issues/452)
+- Sabah daily scrum toplantısına katılım sağlandı.
+- Doldurulan anketin şıklarının oranlarının görüntülenmesi sağlandı.
+- Yorum ekleme alanı eklendi ve post işlemi gerçekleştirildi.
+
+[**25.08.2022**](https://github.com/bimser-intern/docs/issues/452)
+- Sabah daily scrum toplantısına katılım sağlandı.
+- Yorumlar kısmının tasarımı ayarlandı.
+- Yorumlar çekildi ve dinamik olarak gösterildi.
+- Eklenen yorumun dinamik olarak sayfada gösterilmesi sağlandı.
+
+[**26.08.2022**](https://github.com/bimser-intern/docs/issues/516)
+- Sabah daily scrum toplantısına katılım sağlandı.
+- Yorumlar kısmı recursive yapılmaya çalışıldı.
+- Yorumlara report edebilme özelliği eklendi. 
+
+[**30.08.2022**](https://github.com/bimser-intern/docs/issues/516)
+- Sprint planlama toplantısına katılım sağlandı.
+- Sabah daily scrum toplantısına katılım sağlandı.
+- Yorumlar kısmı recursive yapıldı.
+- Doldurulan anketin cevabı görüntülendi ve verilen cevabın güncellenmesi sağlandı.
+- Kullanıcının giriş yapmadan doldurduğu anketin kayıt edilmesi sağlandı.
+- Yorumları upvote etme özelliği eklendi.

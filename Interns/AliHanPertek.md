@@ -80,3 +80,87 @@ Yazılım ile üniversitede tanıştım. Son yıllarda, C# dilinde ASP.Net MVC t
 - Azure mobil servisler hakkında araştırma yapıldı. [Detaylara buradan ulaşabilirsiniz.](https://www.youtube.com/watch?v=EV6DPafCntA&list=PLU1n1ikWH9CIw5jpPSOH0sJwippkmek2C&index=5)
 - Azure servis planları hakkında araştırma yapıldı. [Detaylara buradan ulaşabilirsiniz.](https://www.youtube.com/watch?v=LyV_BmwLWY4)
 - Sprint planlama toplantısına katılım sağlandı. Projenin artıları, eksikleri ve projede nasıl bir yol izlememiz konusunda önemli yerlere değinildi.
+
+[**15.08.2022**](https://github.com/bimser-intern/docs/issues/333)
+
+- Daily Scrum'a katılım sağlandı.
+- Stajyer & Esra Moğultay(Business Analyst Team Lead) toplantısına katılım sağlandı.
+- Docker üzerinden Jenkins kurulumu tamamlandı.
+- Jenkins'le ilgili çeşitli dokümanlar okundu. [Detaylara buradan ulaşabilirsiniz.](https://celik-1907.medium.com/jenki%CC%87ns-nedi%CC%87r-85b5cc91e42d)
+- Jenkins'le ilgili videolar izlendi. [Detaylara buradan ulaşabilirsiniz.](https://www.youtube.com/watch?v=PrqzBimgsiI)
+
+[**16.08.2022**](https://github.com/bimser-intern/docs/issues/333)
+
+- Daily Scrum'a katılım sağlandı.
+- CI/CD olayları araştırıldı. [Detaylara buradan ulaşabilirsiniz.](https://caylakyazilimci.com/post/ci-cd-nedir)
+- Jenkins kavramları hakkında araştırma yapıldı. [Detaylara buradan ulaşabilirsiniz.](https://gokayburucweblog.mozellosite.com/programlama/params/post/2254673/jenkins---birinci-kisim)
+
+[**17.08.2022**](https://github.com/bimser-intern/docs/issues/375)
+
+- Daily Scrum'a katılım sağlandı.
+- Stajyer & Fatma Nur Özen(Senior Technical Product Manager) buluşmasına katılım sağlandı.
+- Jenkinsle ilgili örnek CI/CD komutları gerçekleştirildi.
+- App Center'a test kullanıcıları eklendi.
+- Android geliştirme ortamı sağlandı.
+- App Center uygulamasının kullanımı hakkında bilgi verildi.
+
+[**18.08.2022**](https://github.com/bimser-intern/docs/issues/375)
+
+- Daily Scrum'a katılım sağlandı.
+- Stajyer & Bertan Yaman(Frontend Development Unit Manager) buluşmasına katılım sağlandı.
+- App Center üzerinden uygulama dağıtımı başarılı bir şekilde yapıldı.
+- App Center'da oluşan hatalar üzerine çalışma yapıldı.
+- Maven kullanımı hakkında araştırma yapıldı. [Detaylara buradan ulaşabilirsiniz.](http://muratgulcu.com/maven-genel-bakis/)
+
+[**19.08.2022**](https://github.com/bimser-intern/docs/issues/375)
+
+- Daily Scrum'a katılım sağlandı.
+- Stajyer & Erol Eryiğit(Customer Success Manager) buluşmasına katılım sağlandı.
+- App center build işlemleri başarılı bir şekilde yapıldı.
+- Maven kurulum işlemleri yapıldı.
+- java ortamının sağlanması için java kurulumu yapıldı.
+- Blue Stacks üzerinden uygulama sunumu yapıldı.
+- App Center'da oluşan hatalar üzerinde araştırma yapıldı. [Detaylara buradan ulaşabilirsiniz.](https://stackoverflow.com/questions/17315425/error-in-setting-java-home)
+- Sprint planlama toplantısına katılım sağlandı. Projenin artıları, eksikleri ve projede nasıl bir yol izlememiz konusunda önemli yerlere değinildi.
+
+[**22.08.2022**](https://github.com/bimser-intern/docs/issues/443)
+
+- Daily Scrum'a katılım sağlandı.
+- Sprint Planning toplantısına katılım sağlandı.
+- Github Actions hakkında araştırmalar yapıldı.
+- GitHub Actions üzerinde oluşabilecek problemler tespit edildi.
+- Android tarafındaki güncellemeler gözden geçirildi.
+- Build işlemleri başarılı bir şekilde tamamlanmıştır. [Detaylara buradan ulaşabilirsiniz.](https://github.com/bimser-intern/surveysaurus-android/pull/33)
+- App Center üzerinden monitör izlendi.
+
+[**23.08.2022**](https://github.com/bimser-intern/docs/issues/443)
+
+- Daily Scrum'a katılım sağlandı.
+- Selandroid ve CI/CD entegrasyonu araştırıldı.
+- Github Actions tarafından oluşan hatalar giderildi.
+- App Center üzerinden monitör izlendi.
+- Birden fazla cihaz üzerinden uygulama testinin sağlanması için gerekli araştırmalar yapıldı.[Detaylara buradan ulaşabilirsiniz.](https://console.momentumsuite.com/mlive/login)
+
+[**24.08.2022**](https://github.com/bimser-intern/docs/issues/443)
+
+- Daily Scrum'a katılım sağlandı.
+- App Center üzerinden monitör izlendi.
+- Android test otomasyonlarını otomatize etme işlemi araştırıldı. [Detaylara buradan ulaşabilirsiniz.](https://console.momentumsuite.com/en)
+- Github Actions tarafından oluşan hatalar giderildi.
+- Çeşitli cihazlar üzerinden uygulama testi başarıyla sağlandı.
+
+[**25.08.2022**](https://github.com/bimser-intern/docs/issues/496)
+
+- Daily Scrum'a katılım sağlandı.
+- App Center üzerinden monitör izlendi.
+- App Center üzerinden çeşitli konfigrasyonlar sağlandı.
+- Test load işlemleri başarıyla sağlandı.
+- Pr build işlemleri başarıyla sağlandı.
+
+[**26.08.2022**](https://github.com/bimser-intern/docs/issues/496)
+
+- Daily Scrum'a katılım sağlandı.
+- App Center üzerinden monitör izlendi.
+- App Center üzerinden log kayıt konfigrasyonları sağlandı.
+- Github Action konfigrasyonları hakkında araştırma yapıldı.
+- Sprint planlama toplantısına katılım sağlandı. Projenin artıları, eksikleri ve projede nasıl bir yol izlememiz konusunda önemli yerlere değinildi.

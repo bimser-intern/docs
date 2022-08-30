@@ -135,7 +135,7 @@ Ben Selin Ayten Cengiz, Kocaeli Üniversitesi, Bilgisayar Mühendisliği Bölüm
   - Anket ismi alanının altında kullanıcının sorusuna ait seçeneklerini yazabileceği alanı olmalıdır.(Test sorusunun şıkları gibi düşünülebilir).
 
 
-  [**11.08.2022**](https://github.com/bimser-intern/docs/issues/259)
+[**11.08.2022**](https://github.com/bimser-intern/docs/issues/259)
 
 - Daily Scrum yapıldı.
 
@@ -156,3 +156,144 @@ Ben Selin Ayten Cengiz, Kocaeli Üniversitesi, Bilgisayar Mühendisliği Bölüm
   - Post methodları yazıldı.
 
   - Response için objeler oluşturuldu.
+
+
+
+ [**12.08.2022**](https://github.com/bimser-intern/docs/issues/323)
+
+- Daily Scrum yapıldı.
+
+- Code review yapıldı.
+
+- Stajyer & Erdem Topuz(Mobile Development Unit Manager) buluşma toplantısına katılım sağlandı.
+
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
+
+- Projede tasarımsal iyileştirmeler yapıldı.
+
+
+[**15.08.2022**](https://github.com/bimser-intern/docs/issues/323)
+
+- Daily Scrum yapıldı.
+
+- Code review yapıldı.
+
+- Sprint planning toplantısına katılındı.
+
+- Projede servise istek göndererek kayıt ve giriş işlemleri gerçekleştirildi.
+
+- Anket listeleme sayfasının taslağı oluşturuldu.
+
+
+[**16.08.2022**](https://github.com/bimser-intern/docs/issues/356)
+
+- Daily Scrum yapıldı.
+
+- Code review yapıldı.
+
+- Sample Survey sayfası geliştirildi, anketler listelendi.
+
+- Fill Survey sayfası geliştirildi, anketlerde şıklar seçilebilir hale getirildi.
+
+- Recycler view için adapter yazıldı.
+
+
+[**17.08.2022**](https://github.com/bimser-intern/docs/issues/356)
+
+- Daily Scrum yapıldı.
+
+- Code review yapıldı.
+
+- Senior Technical Product Manager Buluşması etkinliğine katılım sağlandı.
+
+- MySurvey sayfası geliştirildi, anketler listelendi.
+
+- Token kullanılarak Sample Survey, My Survey ve Fill Survey ve Create Survey sayfaları için servise istek atma işlemleri gerçekleştirildi.
+
+- Servisten gelen bilgilere göre My Survey ve Sample Survey sayfalarında listeleme yapıldı.
+
+- JsonToKotlinClass plugin'i kullanılarak servisten kullanıcı bilgileri ve anket listeleri alındı.
+
+
+[**18.08.2022**](https://github.com/bimser-intern/docs/issues/396)
+
+- Daily Scrum yapıldı.
+
+- Code review yapıldı.
+
+- User info sayfası geliştirildi. User info sayfasına kullanıcı bilgileri getirildi.
+
+- Add option textlerine silinebilme özelliği getirildi.
+
+- Sol menünün giriş yapıldıktan sonraki fonksiyonları değiştirildi.
+
+- Stajyer & Bertan Yaman(Frontend Development Unit Manager) buluşmasına katılım sağlandı.
+
+
+[**19.08.2022**](https://github.com/bimser-intern/docs/issues/396)
+
+- Daily Scrum yapıldı.
+
+- Code review yapıldı.
+
+- Test ekibinin bulduğu buglar düzeltilmeye başlandı.
+
+- Stajyer & Erol Eryiğit(Customer Success Manager) buluşmasına katılım sağlandı.
+
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
+
+- Country ve city için servis istekleri atıldı.
+
+
+[**22.08.2022**](https://github.com/bimser-intern/docs/issues/420)
+
+- Daily Scrum yapıldı.
+
+- Code review yapıldı.
+
+- Test ekibinin bulduğu buglar düzeltilmeye başlandı.
+
+- Geçen sprintte city için olan bug düzeltildi.
+
+- Seçeneklere rate özelliği eklendi.
+
+
+[**23.08.2022**](https://github.com/bimser-intern/docs/issues/420)
+
+- Daily Scrum yapıldı.
+
+- Code review yapıldı.
+
+- User info için city ve country servis istekleri atıldı.
+
+- User info sayfasında bilgi ve şifre güncelleme fonksiyonları eklendi.
+
+- Bilgi ve şifre güncelleme için servis istekleri atıldı.
+
+- Rate survey sayfası düzenlenerek fill survey ile aynı sayfaya alındı.
+
+- Seçeneklerin yüzdeleri için servis istekleri atıldı.
+
+
+[**24.08.2022**](https://github.com/bimser-intern/docs/issues/476)
+
+- Daily Scrum yapıldı.
+
+- Code review yapıldı.
+
+- Projede kullanılacak harita seçildi.
+
+- Local html üzerinden webview kullanılarak map gösterildi.
+
+- User info tasarımı güncellendi.
+
+
+[**25.08.2022**](https://github.com/bimser-intern/docs/issues/476)
+
+- Daily Scrum yapıldı.
+
+- Code review yapıldı.
+
+- Map için servis istekleri atıldı.
+
+- Rate sayfasında güncellemeler yapıldı, tasarım iyileştirildi, buglar çözüldü.
