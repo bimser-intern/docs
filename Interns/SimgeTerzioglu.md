@@ -138,3 +138,19 @@ Yazılım ile üniversitede tanıştım. Üniversite eğitimimde C, C#, C++, Pyt
 - Daily scrum yapıldı.
 - Surveysaurus web'in yeni sürümü geldiği için yeniden manuel testler yapıldı ve hatalar bug olarak surveysaurus-pm'e girildi.
 - Selenium ile anket doldurma sayfasının otomasyonu tamamlandı.
+
+[**26.08.2022**](https://github.com/bimser-intern/docs/issues/479)
+
+- Daily scrum yapıldı.
+- Sprint Review toplantısına katılım sağlandı.
+- Sprint Retrospective toplantısına katılım sağlandı.
+- Android'in yeni sürümünün testleri yapıldı.
+- Bulunan hatalar bug olarak surveysaurus-pm'e girildi.
+- Web otomasyonları için chrome tarayıcısına geçildi ve gerekli kurulumlar yapılıp yazılan otomasyonlar güncellendi.
+
+[**29.08.2022**](https://github.com/bimser-intern/docs/issues/515)
+
+- Daily scrum yapıldı.
+- Sprint Planning toplantısına katılım sağlandı.
+- Appium araştırıldı, indirildi ve kurulumu sağlandı.
+- İlk android otomasyonu yazıldı.

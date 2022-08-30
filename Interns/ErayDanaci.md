@@ -218,3 +218,15 @@ Yazılım ile lisede tanıştım. 4 yıl boyunca web programlama dersleri aldım
 - Yorumlar kısmının tasarımı yapıldı. 
 
 - Test ekibi, Backend ekibi ve devOps ile görüşüldü.
+
+[**26.08.2022**](https://github.com/bimser-intern/docs/issues/494)
+
+
+
+- Homepage sayfasındaki create a survey butonu düzeltildi.
+
+- Açılır menu kaldırıldı.
+
+- Giriş yaptıktan sonra Signup ve login butonları kaldırıldı.
+
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
