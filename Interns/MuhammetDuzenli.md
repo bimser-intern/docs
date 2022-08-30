@@ -157,3 +157,9 @@ Python dilini 6 Haziran-18 Temmuz 2022 tarihleri arasında Kocaeli Üniversitesi
 - Belirli Chrome konfigürasyonları sayesinde yazılan script çalıştırıldı. 
 - Test otomasyonu oluşturulacak yeni ortam için çalışmalara başlandı.
 - Python otomasyon scriptleri hakkında araştırma yapıldı.
+
+[**29.08.2022**](https://github.com/bimser-intern/docs/issues/513)
+
+- Selenium otomasyon testleri [surveysaurus-qa](https://github.com/bimser-intern/surveysaurus-qa) reposuna taşındı.
+- QA reposunda bulunan testlerin UI kısmında yapılan değişiklerle birlikte tetiklenmesi sağlandı.
+- GitHub Actions workflow-call ve workflow-dispatch yapısı araştırılıp uygulandı.
