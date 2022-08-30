@@ -14,6 +14,16 @@ Projenin başarılı ve güzel bir şekilde ilerlemesi için oluşturulmuş dok�
 4. [Tailwind](docs/Tailwind.md)
 5. [Android Developer ve IOS Developer](docs/Android-IOS-Dev.md)
 
+
+
+
+
+
+
+
+
+15. [Security Engineer ve DevOps Engineer](docs/Devops-Engineer-Security-Engineer.md)
+
 ## Projeye Katkıda Bulunmak
 
 Projeye katkıda bulunmak için gerekli kurallara uyulmalıdır. Kurallar;
