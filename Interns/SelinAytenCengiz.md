@@ -297,3 +297,31 @@ Ben Selin Ayten Cengiz, Kocaeli Üniversitesi, Bilgisayar Mühendisliği Bölüm
 - Map için servis istekleri atıldı.
 
 - Rate sayfasında güncellemeler yapıldı, tasarım iyileştirildi, buglar çözüldü.
+
+- Csv dosyasına erişme ve yazma işlemleri için araştırmalar yapıldı.
+
+
+[**26.08.2022**](https://github.com/bimser-intern/docs/issues/509)
+
+- Daily Scrum yapıldı.
+
+- Code review yapıldı.
+
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
+
+- Map için örnek dataya göre renklendirme yapıldı.
+
+- Csv dosyasına erişme ve yazma işlemleri için araştırmalar yapıldı.
+
+
+[**29.08.2022**](https://github.com/bimser-intern/docs/issues/509)
+
+- Daily Scrum yapıldı.
+
+- Code review yapıldı.
+
+- Create Survey sayfası için işlevsellik bugları düzeltildi.
+
+- Fill Survey sayfası için işlesellik bugları düzeltildi.
+
+- User info sayfası için işlevsellik bugları düzeltildi.
