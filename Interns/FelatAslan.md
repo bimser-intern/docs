@@ -25,15 +25,15 @@ Yazılım ile üniversitede tanıştım. Başta Algoritma Temelleri olmakla bera
 
 - React, Material UI, Redux, Redux-Saga, Redis ve SASS konuları araştırılmak için görevlendirme alındı.
 - Frontend developer ekibi arasında iş bölümü yapıldı.
-- Yapılan iş bölümü dahilinde Redis ve SASS konularında ön araştırma yapıldı.[detaylara buradan ulaşabilirsiniz.](https://devnot.com/2020/redis-nedir-temel-kullanim-alanlari-nelerdir/)
-[detaylara buradan ulaşabilirsiniz.](https://drupart.com.tr/blog/sass-nedir-nasil-kullanilir)
+- Yapılan iş bölümü dahilinde Redis ve SASS konularında ön araştırma yapıldı. [Detaylara buradan ulaşabilirsiniz.](https://devnot.com/2020/redis-nedir-temel-kullanim-alanlari-nelerdir/)
+[Detaylara buradan ulaşabilirsiniz.](https://drupart.com.tr/blog/sass-nedir-nasil-kullanilir)
 
 [**03.08.2022**](https://github.com/bimser-intern/docs/issues/92)
 - Sabah daily toplantısı Yapıldı.
 - Git version System Sunumu izlendi.
 - Redis ve SASS hakkında araştırma yapıldı. 
-[detaylara buradan ulaşabilirsiniz](https://devnot.com/2020/redis-nedir-temel-kullanim-alanlari-nelerdir/)
-[detaylara buradan ulaşabilirsiniz](https://drupart.com.tr/blog/sass-nedir-nasil-kullanilir)
+[Detaylara buradan ulaşabilirsiniz](https://devnot.com/2020/redis-nedir-temel-kullanim-alanlari-nelerdir/)
+[Detaylara buradan ulaşabilirsiniz](https://drupart.com.tr/blog/sass-nedir-nasil-kullanilir)
 
 [**04.08.2022**](https://github.com/bimser-intern/docs/issues/147)
 - Sabah daily toplantısı yapıldı.
@@ -93,7 +93,7 @@ Yazılım ile üniversitede tanıştım. Başta Algoritma Temelleri olmakla bera
 [**16.08.2022**](https://github.com/bimser-intern/docs/issues/342)
 - Sabah daily scrum toplantısı yapıldı.
 - Takım arkadaşlarıyla toplantı yapıldı create survey ve my survey sayfalarındaki eksikler giderildi.
-- Proje github'a pull request edildi.[dokümana buradan erişebilirsiniz](https://github.com/bimser-intern/surveysaurus-ui/pull/13)
+- Proje github'a pull request edildi. [Dokümana buradan erişebilirsiniz](https://github.com/bimser-intern/surveysaurus-ui/pull/13)
 - React ile ilgili araştırma yapıldı.
 
 [**17.08.2022**](https://github.com/bimser-intern/docs/issues/358)
@@ -133,7 +133,7 @@ Yazılım ile üniversitede tanıştım. Başta Algoritma Temelleri olmakla bera
 - Sabah daily scrum toplantısı yapıldı.
 - Projedeki conflictler rebase edilerek halledildi.
 - Projenin güncel hali pull request edildi.
-- Test dönüp çözülen eksiklikler güncel projeye entegre edildi.[Dokümana buradan ulaşabilirsiniz.](https://github.com/bimser-intern/surveysaurus-ui/pull/30)
+- Test dönüp çözülen eksiklikler güncel projeye entegre edildi. [Dokümana buradan ulaşabilirsiniz.](https://github.com/bimser-intern/surveysaurus-ui/pull/30)
 - Proje son güncel hali ile pull request edildi.
 
 [**25.08.2022**](https://github.com/bimser-intern/docs/issues/471)
@@ -144,13 +144,21 @@ Yazılım ile üniversitede tanıştım. Başta Algoritma Temelleri olmakla bera
 - Menude test ekibinden dönen hatalar giderildi.
 - CreateSurvey sayfasında test ekibinden dönen hatalar giderildi.
 - UserPage sayfasında test ekibinden dönen hatalar giderildi.
-- Proje pull request edildi.[Dokümana buradan erişebilirsiniz](https://github.com/bimser-intern/surveysaurus-ui/pull/36)
+- Proje pull request edildi. [Dokümana buradan erişebilirsiniz](https://github.com/bimser-intern/surveysaurus-ui/pull/36)
 
 [**26.08.2022**](https://github.com/bimser-intern/docs/issues/492)
 - Sabah daily scrum toplantısı yapıldı.
-- Homepage sayfasındaki create a survey butonundaki aşağı kayma düzeltildi.[dokumana buradan erişebilirsiniz](https://github.com/bimser-intern/surveysaurus-ui/pull/38)
-- Anket doldurma sayfasının pull requesti açıldı.[dokumana buradan erişebilirsiniz](https://github.com/bimser-intern/surveysaurus-ui/pull/40)
+- Homepage sayfasındaki create a survey butonundaki aşağı kayma düzeltildi. [Dokümana buradan erişebilirsiniz.](https://github.com/bimser-intern/surveysaurus-ui/pull/38)
+- Anket doldurma sayfasının pull requesti açıldı. [Dokümana buradan erişebilirsiniz.](https://github.com/bimser-intern/surveysaurus-ui/pull/40)
 - Giriş yapmadan önce menudeki açılır menunün açılması engellendi.
-- Giriş yaptıktan sonra Signup ve login butonları kaldırıldı.[dokumana buradan erişebilirsiniz](https://github.com/bimser-intern/surveysaurus-ui/pull/42)
+- Giriş yaptıktan sonra Signup ve login butonları kaldırıldı. [Dokümana buradan erişebilirsiniz.](https://github.com/bimser-intern/surveysaurus-ui/pull/42)
 - Haftalık son sprint toplantısı yapıldı bu hafta verilmiş olan görevler kontrol edildi.
 - Eksik ve hatalar belirlendi.
+
+[**29.08.2022**](https://github.com/bimser-intern/docs/issues/521)
+- Sabah sprint toplantısı yapıldı görevler büyüklerine göre işaretlendi.
+- Daily scrum toplantısı yapıldı.
+- Homepage sayfasından fillsurvey sayfasına yönlendirmede scroll sorunu çözüldü sayfanın baştan başlaması sağlandı.
+- Homepage sayfasındaki açılır menüye userpage sayfasına yönlendiren mysurveys butonu eklendi.
+- Homepage sayfasında surveys kısmındaki carousel kartlarının testten dönen sorunu halledildi.
+- Userınfo sayfasının uzantısı eklendi.
