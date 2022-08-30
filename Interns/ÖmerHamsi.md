@@ -117,3 +117,16 @@ Ben Ömer Hamsi, Kocaeli Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.
 - Yorumlar kısmının tasarımı ayarlandı.
 - Yorumlar çekildi ve dinamik olarak gösterildi.
 - Eklenen yorumun dinamik olarak sayfada gösterilmesi sağlandı.
+
+[**26.08.2022**](https://github.com/bimser-intern/docs/issues/516)
+- Sabah daily scrum toplantısına katılım sağlandı.
+- Yorumlar kısmı recursive yapılmaya çalışıldı.
+- Yorumlara report edebilme özelliği eklendi. 
+
+[**30.08.2022**](https://github.com/bimser-intern/docs/issues/516)
+- Sprint planlama toplantısına katılım sağlandı.
+- Sabah daily scrum toplantısına katılım sağlandı.
+- Yorumlar kısmı recursive yapıldı.
+- Doldurulan anketin cevabı görüntülendi ve verilen cevabın güncellenmesi sağlandı.
+- Kullanıcının giriş yapmadan doldurduğu anketin kayıt edilmesi sağlandı.
+- Yorumları upvote etme özelliği eklendi.
