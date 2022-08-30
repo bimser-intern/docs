@@ -9,7 +9,6 @@ aracılığıyla C, Java, Python üzerinde projeler geliştirdim. Bimser şirket
 - Tester alanında araştırmalar yapıldı. [Linke tıklayarak ulaşabilirsiniz.](https://miktadozturk.medium.com/yaz%C4%B1l%C4%B1m-test-m%C3%BChendisli%C4%9Fi-ve-yaz%C4%B1l%C4%B1m-testine-genel-bak%C4%B1%C5%9F-40585be2fc58)
 
 [**02.08.2022**](https://github.com/bimser-intern/docs/issues/508)
-
  - UI/UX Designer, Business Analyst, Documentation Specialist hakkında sunumuna katıldım.
  - Android Developer ve IOS Developer nedir sunumuna katıldım.
  - Görevlendirmeler yapıldı.
@@ -80,7 +79,6 @@ aracılığıyla C, Java, Python üzerinde projeler geliştirdim. Bimser şirket
  - Senior Technical Product Manager Buluşması'na katılım sağlandı.
 
 [**18.08.2022**](https://github.com/bimser-intern/docs/issues/508)
-
  - Daily scrum yapıldı.
  - Diş randevusu için izin alındı. 
 
