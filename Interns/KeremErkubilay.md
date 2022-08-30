@@ -117,3 +117,8 @@ Ben Kerem Erkubilay, Düzce Üniversitesinde Bilgisayar Mühendisliği okuyorum.
 - GitHub sunumu yüklendi.
 - Kotlin sunumu yüklendi.
 - Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
+
+[**29.08.2022**](https://github.com/bimser-intern/docs/issues/527)
+- Sprint Planning toplantısı yapıldı.
+- Daily Scrum yapıldı.
+- Bugların çözümlerine başlanıldı.
