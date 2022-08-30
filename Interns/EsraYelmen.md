@@ -124,3 +124,10 @@ Ben Esra Yelmen. Bolu Abant İzzet Baysal Üniversitesi Bilgisayar Mühendisliğ
 - k6 ile Login, HomePage, Login-CreateSurvey-MySurvey-FillSurvey, SignUp-FillSurvey senaryolarının load testleri yapıldı.
 - k6 Cloud üzerinden yapılan load testlerin analizleri incelendi.
 - Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
+
+[**29.08.2022**](https://github.com/bimser-intern/docs/issues/523)
+
+- Sprint Planning toplantısına katılım sağlandı.
+- Appium hakkında araştırma yapıldı.
+- Signup test otomasyonu üzerinde çalışıldı.
+- Login test otomasyonuna komut satırı argümanları eklenerek Github QA reposuna eklendi.
