@@ -166,6 +166,49 @@ Ben Burak Küçük, Girne Üniversitesi Yazılım Mühendisliği  öğrencisiyim
 
 - Automate üzerinden otomasyonlar yapıldı.
 
+[**25.08.2022**](https://github.com/bimser-intern/docs/issues/534)
+
+- Daily Scrum yapıldı.
+
+- App Center üzerinden monitör izlendi.
+
+- App Center üzerinden çeşitli konfigrasyonlar sağlandı.
+
+- Test load işlemleri başarıyla sağlandı.
+
+- Pr build işlemleri başarıyla sağlandı.
+
+[**26.08.2022**](https://github.com/bimser-intern/docs/issues/534)
+
+- Daily Scrum yapıldı.
+
+- App Center üzerinden log kayıt konfigrasyonları sağlandı.
+
+- Github Action konfigrasyonları hakkında araştırma yapıldı.
+
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.Projenin artıları, eksikleri ve projede nasıl bir yol izlememiz konusunda önemli yerlere değinildi.
+
+[**29.08.2022**](https://github.com/bimser-intern/docs/issues/534)
+
+- Daily Scrum yapıldı.
+
+- Sprint Planning toplantısına katılım sağlandı.
+
+- GitHub Action'da çeşitli güncellemeler yapıldı.
+
+- Otomatik build ve release işlemleri sağlandı.
+
+- Android tarafında oluşan github action hataları giderildi.
+
+[**31.08.2022**](https://github.com/bimser-intern/docs/issues/534)
+
+- Daily Scrum yapıldı.
+
+- Stajyer & Mehmet Özgür Dürüster(Software Consultancy Team Leader) buluşmasına katılım sağlandı.
+
+- React ile ilgili araştırmalar yapıldı.
+
+- App Center üzerinden monitör izlendi.
 
 
 
