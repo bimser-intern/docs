@@ -162,3 +162,11 @@ Yazılım ile üniversitede tanıştım. Başta Algoritma Temelleri olmakla bera
 - Homepage sayfasındaki açılır menüye userpage sayfasına yönlendiren mysurveys butonu eklendi.
 - Homepage sayfasında surveys kısmındaki carousel kartlarının testten dönen sorunu halledildi.
 - Userınfo sayfasının uzantısı eklendi.
+
+[**31.08.2022**](https://github.com/bimser-intern/docs/issues/536)
+- Sabah daily scrum toplantısı yapıldı.
+- Surveysaurus-ui reposunun readme dosyası hazırlandı.
+- Menü kısmı güncellendi.
+- fillsurvey kısmındaki testler yapıldı.
+- Projenin güncel hali pull request edildi.[Detaylara buradan erişebilirsiniz](https://github.com/bimser-intern/surveysaurus-ui/pull/57)
+
