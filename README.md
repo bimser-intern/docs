@@ -20,8 +20,9 @@ Projenin başarılı ve güzel bir şekilde ilerlemesi için oluşturulmuş dok�
 10. [Backend Developer](docs/Backend.md)
 11. [Git Giriş Ve Kurulum](docs/Git-Giris-Kurulum.md)
 12. [GitHub](docs/GitHub.md)
-
 13. [Kotlin](docs/Kotlin.md)
+14. [Tester](docs/Tester.md)
+
 ## Projeye Katkıda Bulunmak
 
 Projeye katkıda bulunmak için gerekli kurallara uyulmalıdır. Kurallar;
@@ -78,3 +79,4 @@ https://discord.gg/TgdnJWfPJ8
 - [Berna Akdoğanlar](Interns/BernaAkdoganlar.md)
 
 - [Arif Rıza Gül](Interns/ArifR%C4%B1zaG%C3%BCl.md)
+
