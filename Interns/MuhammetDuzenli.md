@@ -163,3 +163,10 @@ Python dilini 6 Haziran-18 Temmuz 2022 tarihleri arasında Kocaeli Üniversitesi
 - Selenium otomasyon testleri [surveysaurus-qa](https://github.com/bimser-intern/surveysaurus-qa) reposuna taşındı.
 - QA reposunda bulunan testlerin UI kısmında yapılan değişiklerle birlikte tetiklenmesi sağlandı.
 - GitHub Actions workflow-call ve workflow-dispatch yapısı araştırılıp uygulandı.
+
+[**31.08.2022**](https://github.com/bimser-intern/docs/issues/540)
+
+- Yapılan Selenium test otomasyonunda bir hata tespit edildi.
+- Workflow dispatch ve reusable workflows konusu araştırıldı. 
+- Cross repository test yöntemleri denendi.
+- Yazılan workflow dosyaları farklı konfigürasyonlar ile test edildi.
