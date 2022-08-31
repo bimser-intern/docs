@@ -76,3 +76,5 @@ https://discord.gg/TgdnJWfPJ8
 - [Ömer Üçüncü](Interns/OmerUcuncu.md)
 
 - [Berna Akdoğanlar](Interns/BernaAkdoganlar.md)
+
+- [Arif Rıza Gül](Interns/ArifR%C4%B1zaG%C3%BCl.md)
