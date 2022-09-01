@@ -157,3 +157,12 @@ Eğitim süresince ilk stajımı  **Bimser**'de gönüllü stajyer olarak yapmak
 - Daily scrum yapıldı.
 - Sprint Planning toplantısına katılındı.
 - Haftasonu Appium araştırılmıştı, bugün ise Appium indirildi ve kuruldu. Kuruluş esnasında çok fazla hata aldığımız için ekip olarak görev dağılımı yaptık ve ben tüm sorunları teker teker derinlemesine araştırarak, deneyerek günün sonunda çözmüş oldum. Başarılı bir şekilde Android Studio üstündeki sanal Android cihazımızı Appium'a bağladık ve Appium Inspector sayesinde surveysaurus mobil uygulamasındaki elementleri xpath yoluyla çekebilmemize olanak sağladı. Yarından itibaren Python dilini kullanarak Pycharm editörü aracılığı ile Selenium'u kullanarak android için test otomasyonlarımızı hazırlamaya başlamış olacağız.
+
+[**31.08.2022**](https://github.com/bimser-intern/docs/issues/533)
+
+- Daily scrum yapıldı.
+- Surveysaurus web'in manuel testleri yapıldı ve bug olarak surveysaurus-pm'e issue olarak açıldı.
+- K6 aracılığı ile Comment Section kısmının load testi yapıldı ve sonuçları rapor şeklinde PDF haline getirildi. K6 raporlama sistemine göre yük testinden geçti damgası almıştır. Yük testinin JS scriptleri uygun bir zamanda surveysaurus-qa reposuna atılacak.
+- Surveysaurus mobil için otomasyon testleri yazıldı ve bu testlerin nasıl çalıştığını, gerekli ortam ve araçların neler olduğunu Android'e bakan DevOps arkadaşlara gösterildi ve anlatıldı.
+- Otomasyon testleri otomatize olduğu zaman, her otomasyon testi tetiklendiğinde yapılacak olan testlerin sign up kısmının başarılı olabilmesi için random e-mail üreticisi şeklinde bir algoritma yazıldı.
+- Stajyer & Mehmet Özgür Dürüster(Software Consultancy Team Leader) Buluşmasına katılındı.

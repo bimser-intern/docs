@@ -157,12 +157,34 @@ Bimser Çözüm şirketinde zorunlu staj yapmaktayım ve bu staj süresince yapa
 - Application gateway ile url rooting işlemini gerçekleştirebilmek için denemeler yapıldı.
 
 
-
 [**26.08.2022**](https://github.com/bimser-intern/docs/issues/506)
 
 - Daily Scrum'a katılım sağlandı.
-- Traffic manager nedir, niçin kullanılır başlığı altında araştırmalar yapıldı.[Kaynak için tıklayabilirsiniz.](https://docs.microsoft.com/tr-tr/azure/traffic-manager/traffic-manager-overview)
+- Traffic manager nedir, niçin kullanılır başlığı altında araştırmalar yapıldı. [Kaynak için tıklayabilirsiniz.](https://docs.microsoft.com/tr-tr/azure/traffic-manager/traffic-manager-overview)
 - DNS nedir araştırıldı. [Kaynak için tıklayabilirsiniz.](https://medium.com/@gokhansengun/dns-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r-98c61cf36f0b)
 - Traffic Manager yapısı oluşturuldu, url rooting işlemi için deneme yapıldı.
 - Sprint review toplantısında projenin ilerleme durumu, görevlerimiz gözden geçirildi.
 - Sprint retrospective toplantısına katılım sağlandı.
+
+
+[**29.08.2022**](https://github.com/bimser-intern/docs/issues/544)
+
+- Daily Scrum'a katılım sağlandı.
+- Url rooting işlemi başarılı bir şekilde gerçekleşti.
+- 502 Bad Gateway hatası üzerine araştırmalar yapıldı.
+- HTTP, HTTPS kavramları nedir başlığı altında araştırmalar yapıldı. [Kaynak için tıklayabilirsiniz.](https://medium.com/ltunes/servis-zafiyetleri-ve-riskler-4-http-https-345d561c0d68)
+- Azure load balancer componentleri detaylıca araştırıldı. [Belgeye buradan ulaşabilirsiniz.](https://docs.microsoft.com/en-us/azure/load-balancer/components?source=recommendations)
+
+
+[**30.08.2022**](https://github.com/bimser-intern/docs/issues/544)
+
+- RESMİ TATİL
+
+
+[**31.08.2022**](https://github.com/bimser-intern/docs/issues/544)
+
+- Daily Scrum'a katılım sağlandı.
+- Projenin test kısmında karşılaştığımız sorun için farklı repolar arası iletişim sağlanmaya çalışıldı.
+- SurveySaurus adlı projemizin production ortamı için araştırma yapıldı.
+- Development - Test - Production environments başlığı altında araştırmalar yapıldı. [Belgeye buradan ulaşabilirsiniz.](https://docs.microsoft.com/en-us/biztalk/technical-guides/planning-the-development-testing-staging-and-production-environments)
+- Stajyer & Mehmet Özgür Dürüster(Software Consultancy Team Leader) Buluşması'na katılım sağlandı.
