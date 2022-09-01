@@ -131,3 +131,9 @@ Ben Esra Yelmen. Bolu Abant İzzet Baysal Üniversitesi Bilgisayar Mühendisliğ
 - Appium hakkında araştırma yapıldı.
 - Signup test otomasyonu üzerinde çalışıldı.
 - Login test otomasyonuna komut satırı argümanları eklenerek Github QA reposuna eklendi.
+
+[**31.08.2022**](https://github.com/bimser-intern/docs/issues/546)
+
+- Web tarafının manuel testleri yapıldı.
+- Bulunan hatalar surveysaurus-qa reposuna bug issue olarak girildi.
+- Signup test otomasyonu üzerinde çalışıldı.
