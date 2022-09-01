@@ -164,3 +164,11 @@ Yazılım ile üniversitede tanıştım. Son yıllarda, C# dilinde ASP.Net MVC t
 - App Center üzerinden log kayıt konfigrasyonları sağlandı.
 - Github Action konfigrasyonları hakkında araştırma yapıldı.
 - Sprint planlama toplantısına katılım sağlandı. Projenin artıları, eksikleri ve projede nasıl bir yol izlememiz konusunda önemli yerlere değinildi.
+
+[**29.08.2022**](https://github.com/bimser-intern/docs/issues/525)
+
+- Daily Scrum'a katılım sağlandı.
+- App Center üzerinden monitör izlendi.
+- GitHub Action'da çeşitli güncellemeler yapıldı.[[Detaylara buradan ulaşabilirsiniz.](https://github.com/bimser-intern/surveysaurus-android/blob/master/.github/workflows/Android-CI-CD.yml).
+- Otomatik build ve release işlemleri sağlandı.
+- Android tarafında oluşan github action hataları giderildi.
