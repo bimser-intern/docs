@@ -154,3 +154,13 @@ Yazılım ile üniversitede tanıştım. Üniversite eğitimimde C, C#, C++, Pyt
 - Sprint Planning toplantısına katılım sağlandı.
 - Appium araştırıldı, indirildi ve kurulumu sağlandı.
 - İlk android otomasyonu yazıldı.
+
+[**31.08.2022**](https://github.com/bimser-intern/docs/issues/547)
+
+- Daily scrum yapıldı.
+- Surveysaurus web'in yorum yapma ve görüntüleme alanlarının manuel testleri yapıldı ve bulunan hatalar surveysaurus-pm'e issue açılarak bug olarak girildi.
+- K6 aracılığı ile Comment Section kısmının load testi yapıldı ve sonuçları rapor şeklinde PDF haline getirildi. K6 raporlama sistemine göre yük testinden geçti damgası almıştır.
+- Surveysaurus mobil için otomasyon testleri yazıldı ve bu testlerin nasıl çalıştığını, gerekli ortam ve araçların neler olduğunu Android'e bakan DevOps arkadaşlara gösterildi ve anlatıldı.
+- Otomasyon testleri otomatize olduğu zaman, her otomasyon testi tetiklendiğinde yapılacak olan testlerin sign up kısmının başarılı olabilmesi için random e-mail üreticisi şeklinde bir algoritma yazıldı ve android için sign up otomasyonu tamamlandı.
+- Software Consultancy Team Leader Buluşması'na katılım sağlandı.
+- Android için kayıt, user info ve anket doldurma sayfasının manuel testleri yapıldı ve bulunan hatalar surveysaurus-pm'e issue açılarak bug olarak girildi.
