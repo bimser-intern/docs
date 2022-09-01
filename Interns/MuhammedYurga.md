@@ -92,6 +92,37 @@ Bu benim ilk stajım. Kendimi en çok geliştirme imkanı bulabileceğim yerlerd
 - Diğer ekiplerden gelen hata bilgilerine göre gerekli düzenlemeri yaptım.
 - İşlerimizi tamamen bitirdik.
 
+[**26.08.2022**]
+- Bugün backend ekibi olarak tüm görevlerimizi tamamlamıştık.
+- Bugün sprint review ve sprint retrospective toplantılarını gerçekleştirdik. 
+- Sprint review toplantısı biraz gergin geçti maalesef. Diğer ekiplerin işlerinin aksaması sebebiyle sprint başarısız oldu. Bu sprinti ne yazık ki kötü kapattık. Bu sebeple önümüzdeki sprintte ilk odaklanacağımız alan eksiklerimiz olacak. Yeni işler girilmeyeceği belirtildi.
+- Backend ekibi olarak biz işlerimizi bitirdiğimiz için yeni hafta için yeni işler istedik. Sadece bizim için yeni işler tanımlanacak.
+
+[**29.08.2022**]
+- Bugün sprint planning toplantısını gerçekleştirdik. Diğer ekiplere eksikler ve hatalar üzerine işler verilirken biz backend ekibine yeni işler tanımlandı. Ayrıca geçen hafta bitiminde geri dönüş olarak aldığımız sorunları da düzelteceğiz.
+-Bugün bu sorunlar üzerine yoğunalştık. Bugün tamamladığımız işler şunlardı: Get survey bölümü kullanıcı giriş yaptıysa oy da görünecek, giriş yapmadıysa anket bilgileri görüntülenecek, Self report engellenecek, Upvoted ve reported comments, deletable comments döndürülecek(kullanıcı kendi yorumlarını silebiliyor olmalı), Country ve city alfabetik yollanacak.
+
+[**30.08.2022**]
+- Biliyorum, bugün Zafer Bayramı ve tatil. Ancak ilerleme takibimiz sprint bazlı olduğu ve ekip olarak bu sprintin işlerini erken bitirmek istediğimiz için bugün de çalıştık.
+- Bugün kullanıcı ikonu ve ödül sistemi üzerine yoğunlaştık.
+- Artık kullanıcılar kendilerine sunulmuş olan 9 ikondan birini seçebiliyor olacak. Ve yeni ödüllendirme sistemi ile kayıt için 30 puan, anket oluşturma için 20 puan, her anket yanıtında 5 puan, ve 100 anket yanıtında +50 puan kazanacak. Tüm bu puan kazanma işlemleri otomatik olarak backend tarafında yapılacak.
+
+[**31.08.2022**]  DÜZENLENECEK
+- Bugün üzerine çalıştığımız işler şu şekilde sıralanabilir: Örnek anketlerin sağ alt kısmında yazarın tıklanabilir bir şekilde ikonu bulunmalıdır. // TAMAMLANDI
+Bu sayfada site içinde tüm anketler listelenmelidir. -12'şer -En çok oy verilme sıralaması // TAMAMLANDI 
+Muhammed Yurga — dün 10:21
+CreatorsProfile  //TAMAMLANDI 
+KALANLAR 120-121-122 
+Muhammed Yurga — dün 12:36
+10 reportta otomatik yorum silme  //TAMAMLANDI 
+Muhammed Yurga — dün 13:11
+Yorumlar listesini beğeni sırasına göre aktarma işi  //TAMAMLANDI 
+Muhammed Yurga — dün 15:09
+My surveys sıralama karmaşası
+
+[**01.08.2022**]
+- Eksik kalan yoruma yorum yapılabilmesi ve buna bağlı çalışan yorumları çekme konusunda eksiklerimizi tamamladık
+
 
 
 
