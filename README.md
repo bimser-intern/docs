@@ -22,6 +22,7 @@ Projenin başarılı ve güzel bir şekilde ilerlemesi için oluşturulmuş dok�
 12. [GitHub](docs/GitHub.md)
 13. [Kotlin](docs/Kotlin.md)
 14. [Tester](docs/Tester.md)
+15. [Security Engineer ve DevOps Engineer](docs/Devops-Engineer-Security-Engineer.md)
 
 ## Projeye Katkıda Bulunmak
 
@@ -79,4 +80,5 @@ https://discord.gg/TgdnJWfPJ8
 - [Berna Akdoğanlar](Interns/BernaAkdoganlar.md)
 
 - [Arif Rıza Gül](Interns/ArifR%C4%B1zaG%C3%BCl.md)
+
 
