@@ -128,3 +128,6 @@ Ben Kerem Erkubilay, Düzce Üniversitesinde Bilgisayar Mühendisliği okuyorum.
 - Readme dosyası hazırlanmaya başlandı.
 - Stajyer & Mehmet Özgür Dürüster(Software Consultancy Team Leader) buluşmasına katılındı.
 
+[**01.09.2022**](https://github.com/bimser-intern/docs/issues/553)
+- Daily Scrum yapıldı.
+- Readme dosyası hazırlandı ve yüklendi.
