@@ -168,5 +168,14 @@ Yazılım ile üniversitede tanıştım. Başta Algoritma Temelleri olmakla bera
 - Surveysaurus-ui reposunun readme dosyası hazırlandı.
 - Menü kısmı güncellendi.
 - fillsurvey kısmındaki testler yapıldı.
+- Stajyer & Mehmet Özgür Dürüster(Software Consultancy Team Leader) buluşmasına katılım sağlandı.
 - Projenin güncel hali pull request edildi.[Detaylara buradan erişebilirsiniz](https://github.com/bimser-intern/surveysaurus-ui/pull/57)
+
+[**01.09.2022**](https://github.com/bimser-intern/docs/issues/558)
+- Sabah daily scrum toplantısı yapıldı.
+- Testten dönen eksikler giderildi.
+- Fillsurvey sayfasında testten dönen çoğu eksik giderildi.
+- Projenin güncel hali pull request edildi.[Detaylara buradan ulaşabilirsiniz](https://github.com/bimser-intern/surveysaurus-ui/pull/59)
+- Responsive tasarım ile ilgili araştırma yapıldı.
+
 
