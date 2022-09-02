@@ -167,7 +167,7 @@ Eğitim süresince ilk stajımı  **Bimser**'de gönüllü stajyer olarak yapmak
 - Otomasyon testleri otomatize olduğu zaman, her otomasyon testi tetiklendiğinde yapılacak olan testlerin sign up kısmının başarılı olabilmesi için random e-mail üreticisi şeklinde bir algoritma yazıldı.
 - Stajyer & Mehmet Özgür Dürüster(Software Consultancy Team Leader) Buluşmasına katılındı.
 
-[**01.08.2022**](https://github.com/bimser-intern/docs/issues/552)
+[**01.09.2022**](https://github.com/bimser-intern/docs/issues/552)
 
 - Daily scrum yapıldı.
 - Surveysaurus mobil sürümünün bug olarak girdiğimiz yerlerini düzeltip yeni sürümünü yayınlamışlar, bu yeni sürüme tekrar manuel testler yapıldıktan sonra bug olarak issuelar girilmiştir.
