@@ -230,3 +230,37 @@ Yazılım ile lisede tanıştım. 4 yıl boyunca web programlama dersleri aldım
 - Giriş yaptıktan sonra Signup ve login butonları kaldırıldı.
 
 - Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
+
+[**29.08.2022**](https://github.com/bimser-intern/docs/issues/535)
+
+
+
+- Sprint planlama toplantısına katılım sağlandı.
+
+- Homepage sayfasından fillsurvey sayfasına yönlendirmede scroll sorunu çözüldü sayfanın baştan başlaması sağlandı.
+
+- Homepage sayfasındaki açılır menüye userpage sayfasına yönlendiren mysurveys butonu eklendi.
+
+- Homepage sayfasında surveys kısmındaki slider'ın testten dönen sorunları halledildi.
+
+[**30.08.2022**](https://github.com/bimser-intern/docs/issues/535)
+
+
+
+- Resmi tatil.
+
+[**31.08.2022**](https://github.com/bimser-intern/docs/issues/535)
+
+
+
+- Stajyer & Mehmet Özgür Dürüster(Software Consultancy Team Leader) buluşması'na katılım sağlandı.
+
+- Anket yüzdelerinin güncel olarak getirilmesi sağlandı.
+
+- Tüm sayfalarda url değişimi yapıldı.
+
+- Menu guncellendi.
+
+- FillSurvey sayfasının testten dönen eksiklikleri giderildi.
+
+- Readme dosyası yazıldı.
