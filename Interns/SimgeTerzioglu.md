@@ -170,4 +170,4 @@ Yazılım ile üniversitede tanıştım. Üniversite eğitimimde C, C#, C++, Pyt
 - Daily scrum yapıldı.
 - Web için tamamlanan buglar test edilip yeniden kontrol edildi.
 - Web için kayıt olma, giriş yapmadan yorum yapabilme ve giriş yaparak yorum yapabilme işlemlerinin otomasyonu yazılıdı.
-- Otomasyonlarda class ve fonsiyonlar oluşturulup main dosyasından çağırdık. Böylelikle otomasyonların hepsini tek bir giriş noktası ve tek bir çıkış noktası olacak şekilde düzenledik.
+- Otomasyonlarda class ve fonsiyonlar oluşturulup main dosyasından çağırıldı. Böylelikle otomasyonların hepsi tek bir giriş noktası ve tek bir çıkış noktası olacak şekilde düzenlendi.
