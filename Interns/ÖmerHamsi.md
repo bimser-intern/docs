@@ -123,10 +123,33 @@ Ben Ömer Hamsi, Kocaeli Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.
 - Yorumlar kısmı recursive yapılmaya çalışıldı.
 - Yorumlara report edebilme özelliği eklendi. 
 
-[**30.08.2022**](https://github.com/bimser-intern/docs/issues/516)
+[**29.08.2022**](https://github.com/bimser-intern/docs/issues/516)
 - Sprint planlama toplantısına katılım sağlandı.
 - Sabah daily scrum toplantısına katılım sağlandı.
 - Yorumlar kısmı recursive yapıldı.
 - Doldurulan anketin cevabı görüntülendi ve verilen cevabın güncellenmesi sağlandı.
 - Kullanıcının giriş yapmadan doldurduğu anketin kayıt edilmesi sağlandı.
 - Yorumları upvote etme özelliği eklendi.
+
+[**31.08.2022**](https://github.com/bimser-intern/docs/issues/565)
+- Sabah daily scrum toplantısına katılım sağlandı.
+- Surveysaurus-ui reposunun readme dosyası hazırlandı.
+- Report tuşuna basıldığında çıkan balonun tasarımı düzenlendi.
+- Kullanıcın yapmış olduğu yorumların atılma zamanları yapıldı.
+- Uygulamada yer alan hatalı metinler düzenlendi.
+- Yorum ekleme bölümü sayfa içeriğinin en üstten başlaması sağlandı.
+
+[**01.09.2022**](https://github.com/bimser-intern/docs/issues/565)
+- Sabah daily scrum toplantısına katılım sağlandı.
+- Kullanıcın giriş yapmadan doldurduğu anketin giriş işleminden sonra kaydedilmesi sağlandı.
+- Anket oranlarının tasarımındaki hata düzeltildi.
+- Yanlış bilgi girişinde görünürlük ikonunun kayması önlendi.
+- Upvote edilen yorumların öne çıkması sağlandı.
+- Kullanıcın kendi yorumunu silmesi sağlandı.
+
+[**02.09.2022**](https://github.com/bimser-intern/docs/issues/565)
+- Sabah daily scrum toplantısına katılım sağlandı.
+- Yorumların zaman bilgilerindeki farkedilen hata düzeltildi.
+- Giriş yapmadan ankete verilen cevabın kaydedilip giriş yaptıktan sonra anketin detayına yönlendirilmesi sağlandı.
+- Yönlendirme işlevlerinde düzenlemeler yapıldı.
+- Sprint review toplantısına katılım sağlandı.
