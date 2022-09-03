@@ -171,7 +171,7 @@ Yazılım ile üniversitede tanıştım. Son yıllarda, C# dilinde ASP.Net MVC t
 - Daily Scrum'a katılım sağlandı.
 - Sprint Planning toplantısına katılım sağlandı.
 - App Center üzerinden monitör izlendi.
-- GitHub Action'da çeşitli güncellemeler yapıldı.[[Detaylara buradan ulaşabilirsiniz.](https://github.com/bimser-intern/surveysaurus-android/blob/master/.github/workflows/Android-CI-CD.yml).
+- GitHub Action'da çeşitli güncellemeler yapıldı. [Detaylara buradan ulaşabilirsiniz.](https://github.com/bimser-intern/surveysaurus-android/blob/master/.github/workflows/Android-CI-CD.yml).
 - Otomatik build ve release işlemleri sağlandı.
 - Android tarafında oluşan github action hataları giderildi.
 
