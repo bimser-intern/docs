@@ -140,7 +140,7 @@ Yazılım ile üniversitede tanıştım. Son yıllarda, C# dilinde ASP.Net MVC t
 - Selandroid ve CI/CD entegrasyonu araştırıldı.
 - Github Actions tarafından oluşan hatalar giderildi.
 - App Center üzerinden monitör izlendi.
-- Birden fazla cihaz üzerinden uygulama testinin sağlanması için gerekli araştırmalar yapıldı.[Detaylara buradan ulaşabilirsiniz.](https://console.momentumsuite.com/mlive/login)
+- Birden fazla cihaz üzerinden uygulama testinin sağlanması için gerekli araştırmalar yapıldı. [Detaylara buradan ulaşabilirsiniz.](https://console.momentumsuite.com/mlive/login)
 
 [**24.08.2022**](https://github.com/bimser-intern/docs/issues/443)
 
