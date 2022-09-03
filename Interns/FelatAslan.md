@@ -178,4 +178,14 @@ Yazılım ile üniversitede tanıştım. Başta Algoritma Temelleri olmakla bera
 - Projenin güncel hali pull request edildi.[Detaylara buradan ulaşabilirsiniz](https://github.com/bimser-intern/surveysaurus-ui/pull/59)
 - Responsive tasarım ile ilgili araştırma yapıldı.
 
+[**02.09.2022**](https://github.com/bimser-intern/docs/issues/568)
+- Sabah daily scrum toplantısı yapıldı.
+- Stajyer & Semih Ertekin(Software Support Team Leader) Buluşma toplantısına katıldım.
+- Menu de güncelleme yapıldı.
+- Sayfa yönlendirmeleri güncellendi.
+- Fillsurvey sayfasındaki saat hatası giderildi.
+- Projenin güncel hali pull request edildi.[Detaylara buradan erişebilirsiniz](https://github.com/bimser-intern/surveysaurus-ui/pull/61)
+- Haftanın son sprint toplantısı yapıldı.
+
+
 
