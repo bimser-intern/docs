@@ -162,7 +162,7 @@ Yazılım ile üniversitede tanıştım. Üniversite eğitimimde C, C#, C++, Pyt
 - K6 aracılığı ile Comment Section kısmının load testi yapıldı ve sonuçları rapor şeklinde PDF haline getirildi. K6 raporlama sistemine göre yük testinden geçti damgası almıştır.
 - Surveysaurus mobil için otomasyon testleri yazıldı ve bu testlerin nasıl çalıştığı, gerekli ortam ve araçların neler olduğu Android'e bakan DevOps ekibindeki arkadaşlara gösterildi ve anlatıldı.
 - Otomasyon testleri otomatize olduğu zaman, her otomasyon testi tetiklendiğinde yapılacak olan testlerin sign up kısmının başarılı olabilmesi için random e-mail üreticisi şeklinde bir algoritma yazıldı ve android için sign up otomasyonu tamamlandı.
-- Software Consultancy Team Leader Buluşması'na katılım sağlandı.
+- Software Consultancy Team Leader Buluşması etkinliğine katılım sağlandı.
 - Android için kayıt, user info ve anket doldurma sayfasının manuel testleri yapıldı ve bulunan hatalar surveysaurus-pm'e issue açılarak bug olarak girildi.
 
 [**01.09.2022**](https://github.com/bimser-intern/docs/issues/557)
@@ -170,4 +170,13 @@ Yazılım ile üniversitede tanıştım. Üniversite eğitimimde C, C#, C++, Pyt
 - Daily scrum yapıldı.
 - Web için tamamlanan buglar test edilip yeniden kontrol edildi.
 - Web için kayıt olma, giriş yapmadan yorum yapabilme ve giriş yaparak yorum yapabilme işlemlerinin otomasyonu yazıldı.
-- Otomasyonlarda class ve fonsiyonlar oluşturulup main dosyasından çağırıldı. Böylelikle otomasyonların hepsi tek bir giriş noktası ve tek bir çıkış noktası olacak şekilde düzenlendi.
+- Otomasyonlarda class ve fonksiyonlar oluşturulup main dosyasında çağırıldı. Böylelikle otomasyonların hepsi tek bir giriş noktası ve tek bir çıkış noktası olacak şekilde düzenlendi.
+
+[**02.09.2022**](https://github.com/bimser-intern/docs/issues/576)
+
+- Daily scrum yapıldı.
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
+- Web için Login otomasyonu oluşturuldu. 
+- Dün oluşturulmuş olan otomasyonlarda hata alındı. Alınan hata uzun süre çözülmeye çalışıldı. Hata çözüldükten sonra web otomasyonları surveysaurus-qa reposuna yüklendi.
+- Android için otomasyonlara devam edildi ancak önceki otomasyonlarda yeni sürümden kaynaklı hatalar oluştu. Bu konu hakkında android ekibi ile görüşüldü.  
+- Software Support Team Leader Buluşması etkinliğine katılım sağlandı.
