@@ -137,3 +137,15 @@ Yazılım ile üniversitede tanıştım. C eğitimi aldım. Okul haricinde kendi
 - Appium konusunda araştırma yapıldı. Doküman incelendi ve videolar izlendi. 
 - Python ve Selenium ile web test otomasyonu konusunda çalışmaya devam edildi. Create Survey sayfasının otomasyonu ilerletildi.
 - Login otomasyonu, komut satırı argümanları eklenerek Github QA reposuna eklendi. 
+
+[**01.09.2022**](https://github.com/bimser-intern/docs/issues/572)
+
+- Web kısmının manuel testleri yapıldı. Bulunan hatalar Github'a bug issue olarak girildi.
+- Mobil kısmının manuel testleri yapıldı. Bulunan hatalar Github'a bug issue olarak girildi.
+- Web otomasyonlarının optimizasyonu üzerine çalışmalar yapıldı.
+
+[**02.09.2022**](https://github.com/bimser-intern/docs/issues/572)
+
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
+- Software Support Team Leader Buluşması etkinliğine katılım sağlandı. 
+- Web otomasyonları modül kullanarak optimize edildi. Son hali QA reposuna eklendi.
