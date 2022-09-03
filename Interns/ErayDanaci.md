@@ -264,3 +264,30 @@ Yazılım ile lisede tanıştım. 4 yıl boyunca web programlama dersleri aldım
 - FillSurvey sayfasının testten dönen eksiklikleri giderildi.
 
 - Readme dosyası yazıldı.
+
+[**01.09.2022**](https://github.com/bimser-intern/docs/issues/567)
+
+
+
+- Upvote edilen yorumların öne çıkması sağlandı.
+
+- Kullanıcın kendi yorumunu silmesi sağlandı.
+
+- Login ekranında yanlış giriş sonrası göz kayma sorunu giderildi.
+
+- Kullanıcı giriş yapmadan doldurduğu anketin giriş işleminden sonra kaydedilmesi sağlandı.
+
+
+[**02.09.2022**](https://github.com/bimser-intern/docs/issues/567)
+
+
+
+- Stajyer & Semih Ertekin(Software Support Team Leader) buluşması'na katılım sağlandı.
+
+- Fill survey sayfasındaki yorumların saati kısmındaki hata giderildi.
+
+- Sayfa yönlendirmelerinde değişiklik yapıldı.
+
+- Testten dönen son eksiklikler giderildi.
+
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
