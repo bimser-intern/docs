@@ -42,7 +42,6 @@ Python dilini 6 Haziran-18 Temmuz 2022 tarihleri arasında Kocaeli Üniversitesi
 - GitFlow, GitHub Gitflow ve Trunk-Based Development konuları araştırıldı. [Makaleye buradan ulaşabilirsiniz.](https://www.toptal.com/software/trunk-based-development-git-flow)
 - DevOps stajyer ekibi ile birlikte detaylı DevOps sunumu yapıldı. [Sunumun video kaydına buradan ulaşabilirsiniz.](https://youtu.be/KSHBXY1gU8Q)
 
-
 [**08.08.2022**](https://github.com/bimser-intern/docs/issues/188)
 
 - Resmi Docker dokümantasyonu incelendi ve başlangıç seviyesindeki örnekler yapıldı. [Dokümantasyona buradan ulaşabilirsiniz.](https://docs.docker.com/get-started/)
@@ -66,7 +65,6 @@ Python dilini 6 Haziran-18 Temmuz 2022 tarihleri arasında Kocaeli Üniversitesi
 - Azure Container App ile 2 farklı uygulama ayağa kaldırıldı.
 - Software Development Unit Manager Buluşması etkinliğine katılım sağlandı.
   
-
 [**11.08.2022**](https://github.com/bimser-intern/docs/issues/275)
 
 - ACR üzerinde örnek uygulama ayağa kaldırıldı.
@@ -136,7 +134,6 @@ Python dilini 6 Haziran-18 Temmuz 2022 tarihleri arasında Kocaeli Üniversitesi
 - Azure Portal üzerinde routing işlemleri denendi. [Dokümantasyona buradan ulaşabilirsiniz.](https://docs.microsoft.com/en-us/azure/application-gateway/create-url-route-portal)
 - Frontend tarafında yapılan güncelleme incelendi ve build tarafında çıkan problem tespit edilmeye çalışıldı.
 
-
 [**24.08.2022**](https://github.com/bimser-intern/docs/issues/432)
 
 - Frontend tarafında yapılan dizin değişimlerinin yol açtığı problemler Dockerfile ve YAML file düzenlemeleri ile giderildi.
@@ -170,6 +167,7 @@ Python dilini 6 Haziran-18 Temmuz 2022 tarihleri arasında Kocaeli Üniversitesi
 - Workflow dispatch ve reusable workflows konusu araştırıldı. 
 - Cross repository test yöntemleri denendi.
 - Yazılan workflow dosyaları farklı konfigürasyonlar ile test edildi.
+- Software Consultancy Team Leader Buluşması etkinliğine katılım sağlandı.
 
 [**01.09.2022**](https://github.com/bimser-intern/docs/issues/555)
 
@@ -177,3 +175,10 @@ Python dilini 6 Haziran-18 Temmuz 2022 tarihleri arasında Kocaeli Üniversitesi
 - Farklı GitHub Actions yöntemleri denendi. 
 - Farklı git komutları ile dosya konumları güncellenmeye çalışıldı.
 - Yazılan workflow dosyaları farklı konfigürasyonlar ile test edildi.
+
+[**02.09.2022**](https://github.com/bimser-intern/docs/issues/577)
+
+- Temel git komutları ile GitHub Actions üzerindeki makine yönetilmeye çalışıldı.
+- Farklı GitHub Actions yöntemleri denendi. 
+- Repository dispatch konusu araştırıldı.
+- Software Support Team Leader Buluşması etkinliğine katılım sağlandı.
