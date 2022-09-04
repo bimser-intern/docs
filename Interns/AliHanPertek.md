@@ -79,11 +79,12 @@ Yazılım ile üniversitede tanıştım. Son yıllarda, C# dilinde ASP.Net MVC t
 - Stajyer & Gökhan Gerdan(Data Scientist) Buluşması'na katılım sağlandı.
 - Azure mobil servisler hakkında araştırma yapıldı. [Detaylara buradan ulaşabilirsiniz.](https://www.youtube.com/watch?v=EV6DPafCntA&list=PLU1n1ikWH9CIw5jpPSOH0sJwippkmek2C&index=5)
 - Azure servis planları hakkında araştırma yapıldı. [Detaylara buradan ulaşabilirsiniz.](https://www.youtube.com/watch?v=LyV_BmwLWY4)
-- Sprint planlama toplantısına katılım sağlandı. Projenin artıları, eksikleri ve projede nasıl bir yol izlememiz konusunda önemli yerlere değinildi.
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
 
 [**15.08.2022**](https://github.com/bimser-intern/docs/issues/333)
 
 - Daily Scrum'a katılım sağlandı.
+- Sprint planlama toplantısına katılım sağlandı.
 - Stajyer & Esra Moğultay(Business Analyst Team Lead) toplantısına katılım sağlandı.
 - Docker üzerinden Jenkins kurulumu tamamlandı.
 - Jenkins'le ilgili çeşitli dokümanlar okundu. [Detaylara buradan ulaşabilirsiniz.](https://celik-1907.medium.com/jenki%CC%87ns-nedi%CC%87r-85b5cc91e42d)
@@ -121,7 +122,7 @@ Yazılım ile üniversitede tanıştım. Son yıllarda, C# dilinde ASP.Net MVC t
 - java ortamının sağlanması için java kurulumu yapıldı.
 - Blue Stacks üzerinden uygulama sunumu yapıldı.
 - App Center'da oluşan hatalar üzerinde araştırma yapıldı. [Detaylara buradan ulaşabilirsiniz.](https://stackoverflow.com/questions/17315425/error-in-setting-java-home)
-- Sprint planlama toplantısına katılım sağlandı. Projenin artıları, eksikleri ve projede nasıl bir yol izlememiz konusunda önemli yerlere değinildi.
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
 
 [**22.08.2022**](https://github.com/bimser-intern/docs/issues/443)
 
@@ -139,7 +140,7 @@ Yazılım ile üniversitede tanıştım. Son yıllarda, C# dilinde ASP.Net MVC t
 - Selandroid ve CI/CD entegrasyonu araştırıldı.
 - Github Actions tarafından oluşan hatalar giderildi.
 - App Center üzerinden monitör izlendi.
-- Birden fazla cihaz üzerinden uygulama testinin sağlanması için gerekli araştırmalar yapıldı.[Detaylara buradan ulaşabilirsiniz.](https://console.momentumsuite.com/mlive/login)
+- Birden fazla cihaz üzerinden uygulama testinin sağlanması için gerekli araştırmalar yapıldı. [Detaylara buradan ulaşabilirsiniz.](https://console.momentumsuite.com/mlive/login)
 
 [**24.08.2022**](https://github.com/bimser-intern/docs/issues/443)
 
@@ -163,12 +164,40 @@ Yazılım ile üniversitede tanıştım. Son yıllarda, C# dilinde ASP.Net MVC t
 - App Center üzerinden monitör izlendi.
 - App Center üzerinden log kayıt konfigrasyonları sağlandı.
 - Github Action konfigrasyonları hakkında araştırma yapıldı.
-- Sprint planlama toplantısına katılım sağlandı. Projenin artıları, eksikleri ve projede nasıl bir yol izlememiz konusunda önemli yerlere değinildi.
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
 
 [**29.08.2022**](https://github.com/bimser-intern/docs/issues/525)
 
 - Daily Scrum'a katılım sağlandı.
+- Sprint Planning toplantısına katılım sağlandı.
 - App Center üzerinden monitör izlendi.
-- GitHub Action'da çeşitli güncellemeler yapıldı.[[Detaylara buradan ulaşabilirsiniz.](https://github.com/bimser-intern/surveysaurus-android/blob/master/.github/workflows/Android-CI-CD.yml).
+- GitHub Action'da çeşitli güncellemeler yapıldı. [Detaylara buradan ulaşabilirsiniz.](https://github.com/bimser-intern/surveysaurus-android/blob/master/.github/workflows/Android-CI-CD.yml)
 - Otomatik build ve release işlemleri sağlandı.
 - Android tarafında oluşan github action hataları giderildi.
+
+[**31.08.2022**](https://github.com/bimser-intern/docs/issues/580)
+
+- Daily Scrum'a katılım sağlandı.
+- Stajyer & Mehmet Özgür Dürüster(Software Consultancy Team Leader) buluşmasına katılım sağlandı.
+- App Center üzerinden monitör izlendi. Ortaya çıkan hatalar giderildi.
+- Appium konusunda araştırma yapıldı. Doküman incelendi ve videolar izlendi.
+- Farklı GitHub Actions yöntemleri denendi.
+- Github Action Appium ilişkilendirme işlemi hakkında araştırma yapıldı.
+- 
+[**01.08.2022**](https://github.com/bimser-intern/docs/issues/580)
+
+- Daily Scrum'a katılım sağlandı.
+- Android tarafında oluşan github action hataları giderildi.
+- Test otomasyonu'nu otomatize etme işlemi hakkında araştırma yapıldı.
+- Github Action yeni aksiyon dosyası oluşturuldu.
+- Farklı GitHub Actions yöntemleri denendi.
+- App Center üzerinden monitör izlendi.
+
+[**02.08.2022**](https://github.com/bimser-intern/docs/issues/580)
+
+- Daily Scrum'a katılım sağlandı.
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
+- Software Support Team Leader Buluşması etkinliğine katılım sağlandı.
+- Github Action'da appium python istemcisi kuruldu.
+- Github Action tarafında oluşan hatalar üzerinde çalışıldı.
+- App Center üzerinden monitör izlendi.
