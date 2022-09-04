@@ -173,3 +173,13 @@ Eğitim süresince ilk stajımı  **Bimser**'de gönüllü stajyer olarak yapmak
 - Surveysaurus mobil sürümünün bug olarak girdiğimiz yerlerini düzeltip yeni sürümünü yayınlamışlar, bu yeni sürüme tekrar manuel testler yapıldıktan sonra bug olarak issuelar girilmiştir.
 - Surveysaurus web için otomasyon konusunda eksiğimiz vardı çünkü sign up ekranı bir kaç gündür hata veriyordu, onu düzelttikleri için otomasyonu yapılmıştır.
 - Otomasyonların hepsini tek bir giriş noktası ve tek bir çıkış noktası olacak şekilde düzenledik.
+
+[**02.09.2022**](https://github.com/bimser-intern/docs/issues/561)
+
+- Daily scrum yapıldı.
+- Stajyer & Semih Ertekin(Software Support Team Leader) buluşmasına katılındı.
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
+- Web otomasyonları surveysaurus-qa reposuna atıldı ve kodlarımızda var olan istenmeyen bir hatayı uzun uğraşlar sonucu düzelttik.
+- Surveysaurus-qa reposu için Readme dosyası hazırlanmaya başlanıldı.
+- Surveysaurus mobil versiyonunun elimizde var olan otomasyonları çalışamaz hale geldi, bunun sebebi ise Android ekibi uygulamayı güncelledikçe aldığımız xPath'ler ne yazık ki değişmiş oluyor bundan dolayı elimizdeki otomasyonlar çalışamıyor. Bunun önüne geçebilmek için Android ekibi ile görüşme yapıldı ve netice olarak ID'si olmayan buton,boşluk, kutucuk ve buna benzer şeylere ID verilecek ve uygulama güncellense bile bu ID'ler değişmeyecek böylece bizim otomasyonlar ID üstünden olacak. Bu sorunu aştığımız anda mobil otomasyonlarımız surveysaurus-qa reposuna ekliyeceğiz.
+
