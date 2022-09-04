@@ -131,3 +131,9 @@ Ben Kerem Erkubilay, Düzce Üniversitesinde Bilgisayar Mühendisliği okuyorum.
 [**01.09.2022**](https://github.com/bimser-intern/docs/issues/553)
 - Daily Scrum yapıldı.
 - Readme dosyası hazırlandı ve yüklendi.
+
+[**02.09.2022**](https://github.com/bimser-intern/docs/issues/571)
+- Daily Scrum yapıldı.
+- Stajyer & Semih Ertekin(Software Support Team Leader) buluşmasına katılındı.
+- DevOps ekibi ile görüşüldü.
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
