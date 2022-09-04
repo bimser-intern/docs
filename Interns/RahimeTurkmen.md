@@ -188,3 +188,20 @@ Bimser Çözüm şirketinde zorunlu staj yapmaktayım ve bu staj süresince yapa
 - SurveySaurus adlı projemizin production ortamı için araştırma yapıldı.
 - Development - Test - Production environments başlığı altında araştırmalar yapıldı. [Belgeye buradan ulaşabilirsiniz.](https://docs.microsoft.com/en-us/biztalk/technical-guides/planning-the-development-testing-staging-and-production-environments)
 - Stajyer & Mehmet Özgür Dürüster(Software Consultancy Team Leader) Buluşması'na katılım sağlandı.
+
+
+[**01.08.2022**](https://github.com/bimser-intern/docs/issues/582)
+
+- Daily Scrum'a katılım sağlandı.
+- Github actions ile gerçekleştirdiğimiz test otomasyonu için workflow dispatch araştırması yapıldı.
+- Production ortamı için azure pipeline componentleri araştırıldı. 
+
+
+
+[**02.08.2022**](https://github.com/bimser-intern/docs/issues/582)
+
+- Daily Scrum'a katılım sağlandı.
+- Production ortamı için container app oluşturulmaya başlandı.
+- Stajyer & Semih Ertekin(Software Support Team Leader) Buluşması'na katılım sağlandı.
+- Sprint review toplantısında projenin ilerleme durumu, görevlerimiz gözden geçirildi.
+- Sprint retrospective toplantısına katılım sağlandı.
