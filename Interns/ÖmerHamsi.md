@@ -153,3 +153,9 @@ Ben Ömer Hamsi, Kocaeli Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.
 - Giriş yapmadan ankete verilen cevabın kaydedilip giriş yaptıktan sonra anketin detayına yönlendirilmesi sağlandı.
 - Yönlendirme işlevlerinde düzenlemeler yapıldı.
 - Sprint review toplantısına katılım sağlandı.
+
+[**05.09.2022**](https://github.com/bimser-intern/docs/issues/585)
+- Sprint planlama toplantısına katılım sağlandı.
+- Sabah daily scrum toplantısına katılım sağlandı.
+- Kullanıcı bilgilerini güncelleme ekranı tasarımı yapıldı.
+- Kullanıcı bilgilerini güncelleme işlemi gerçekleştirildi.
