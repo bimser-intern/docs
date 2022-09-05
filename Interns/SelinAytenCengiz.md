@@ -325,3 +325,44 @@ Ben Selin Ayten Cengiz, Kocaeli Üniversitesi, Bilgisayar Mühendisliği Bölüm
 - Fill Survey sayfası için işlesellik bugları düzeltildi.
 
 - User info sayfası için işlevsellik bugları düzeltildi.
+
+
+[**31.08.2022**](https://github.com/bimser-intern/docs/issues/563)
+
+- Daily Scrum yapıldı.
+
+- Code review yapıldı.
+
+- Sign up bugları düzeltildi.
+
+- Login şifre bug'ı düzeltildi.
+
+- Sayfalara scroll view eklendi.
+
+[**01.09.2022**](https://github.com/bimser-intern/docs/issues/563)
+
+- Daily Scrum yapıldı.
+
+- Code review yapıldı.
+
+- Tasarımsal buglar düzeltildi.
+
+- Sign up ve user info için şifre bugları düzeltildi.
+
+- Create Survey boş option kontrolü sağlandı.
+
+- Country, city ve gender kontrolü yapıldı.
+
+[**02.09.2022**](https://github.com/bimser-intern/docs/issues/563)
+
+- Daily Scrum yapıldı.
+
+- Code review yapıldı.
+
+- My survey ve Surveys kısımlarındaki anket çakışmaları düzeltildi.
+
+- Surveys kısmına allSurvey servisi ile kullanıcıların anketleri getirildi.
+
+- Survey için null rate değerleri düzeltildi.
+
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
