@@ -366,3 +366,21 @@ Ben Selin Ayten Cengiz, Kocaeli Üniversitesi, Bilgisayar Mühendisliği Bölüm
 - Survey için null rate değerleri düzeltildi.
 
 - Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
+
+
+[**05.09.2022**](https://github.com/bimser-intern/docs/issues/589)
+
+- Daily Scrum yapıldı.
+
+- Code review yapıldı.
+
+- Sprint planning toplantısına katılındı.
+
+- All surveys sayfası için buton koyuldu ve recycler view düzenlemesi yapıldı.
+
+- Comment sayfası için viewpager oluşturuldu.
+
+- Viewpager vertical olarak düzenlendi.
+
+- Yeni android ekibi için proje toplantısına katılındı.
+
