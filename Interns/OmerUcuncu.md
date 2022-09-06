@@ -183,3 +183,10 @@ Eğitim süresince ilk stajımı  **Bimser**'de gönüllü stajyer olarak yapmak
 - Surveysaurus-qa reposu için Readme dosyası hazırlanmaya başlanıldı.
 - Surveysaurus mobil versiyonunun elimizde var olan otomasyonları çalışamaz hale geldi, bunun sebebi ise Android ekibi uygulamayı güncelledikçe aldığımız xPath'ler ne yazık ki değişmiş oluyor bundan dolayı elimizdeki otomasyonlar çalışamıyor. Bunun önüne geçebilmek için Android ekibi ile görüşme yapıldı ve netice olarak ID'si olmayan buton,boşluk, kutucuk ve buna benzer şeylere ID verilecek ve uygulama güncellense bile bu ID'ler değişmeyecek böylece bizim otomasyonlar ID üstünden olacak. Bu sorunu aştığımız anda mobil otomasyonlarımız surveysaurus-qa reposuna ekliyeceğiz.
 
+[**06.09.2022**](https://github.com/bimser-intern/docs/issues/596)
+
+- Daily scrum yapıldı.
+- Product Owner ile görüşüldü ve tekrardan yeni tasarımlar eklenilmesi istenildi.
+- Ne yazık ki tüm gün boyunca Surveysaurus Web için tasarım yapıldı.
+- Tasarımlar çok fazla zaman alıyor çünkü tasarım yaparken eksik ve yeni fikirler için danışabileceğim kimse yok.
+- Yarın analizleri yapmaya başlayacağım. İşlerim erken biterse perşembe günü test yapmaya başlayacağım.
