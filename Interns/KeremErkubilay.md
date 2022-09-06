@@ -137,3 +137,10 @@ Ben Kerem Erkubilay, Düzce Üniversitesinde Bilgisayar Mühendisliği okuyorum.
 - Stajyer & Semih Ertekin(Software Support Team Leader) buluşmasına katılındı.
 - DevOps ekibi ile görüşüldü.
 - Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
+
+
+[**05.09.2022**](https://github.com/bimser-intern/docs/issues/587)
+- Sprint Planning yapıldı.
+- Daily Scrum yapıldı.
+- Yeni android ekibine Kotlin ve Android Studio tanıtıldı. Ayrıca uygulamanın içeriği gösterildi
+- Uygulamada bazı yerlere comment satırları eklendi.

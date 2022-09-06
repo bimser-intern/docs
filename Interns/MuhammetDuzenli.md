@@ -182,3 +182,9 @@ Python dilini 6 Haziran-18 Temmuz 2022 tarihleri arasında Kocaeli Üniversitesi
 - Farklı GitHub Actions yöntemleri denendi. 
 - Repository dispatch konusu araştırıldı.
 - Software Support Team Leader Buluşması etkinliğine katılım sağlandı.
+
+[**05.09.2022**](https://github.com/bimser-intern/docs/issues/591)
+
+- GitHub Actions üzerinden Selenium test senaryoları denendi.
+- DevOps takımına yeni geçen ekip arkadaşlarına şu ana kadar yapılan işlemler anlatıldı. 
+- Yeni ekibim olan Frontend ekibinden yapılan işler hakkında bilgiler alındı.
