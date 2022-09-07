@@ -187,5 +187,16 @@ Yazılım ile üniversitede tanıştım. Başta Algoritma Temelleri olmakla bera
 - Projenin güncel hali pull request edildi.[Detaylara buradan erişebilirsiniz](https://github.com/bimser-intern/surveysaurus-ui/pull/61)
 - Haftanın son sprint toplantısı yapıldı.
 
+[**05.09.2022**](https://github.com/bimser-intern/docs/issues/602)
+- Haftanın ilk sprint toplantısı yapıldı ve görevlendirmeler alındı.
+- Daily scrum toplantısı yapıldı.
+- UserInfo Sayfasının Tasarımına başlandı .
+
+[**06.09.2022**](https://github.com/bimser-intern/docs/issues/602)
+- Sabah daily scrum toplantısı yapıldı.
+- Takım arkadaşlarıyla toplantı yapıldı.
+- UserInfo sayfasının kodlama ve tasarım kısmı bitti.
+- Menü'de güncelleme yapıldı.
+- CreateSurvey sayfasındaki eksikler giderildi.
 
 
