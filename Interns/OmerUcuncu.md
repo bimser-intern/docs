@@ -191,3 +191,10 @@ Eğitim süresince ilk stajımı  **Bimser**'de gönüllü stajyer olarak yapmak
 - Eski Product Owner ile görüştüm ve bu haftanın planı ve tasarımı için konuştuk
 - Yeni Product Owner ile görüştüm ve önümüzdeki haftanın tasarımı ve planı için konuştuk.
 - Yeni tasarım ve analizler yapılmaya başlanıldı ve bir kısmı yapıldı. Düşünülenden daha fazla zaman alıyor.
+
+[**.07.09.2022**](https://github.com/bimser-intern/docs/issues/604)
+
+- Daily scrum yapıldı.
+- Tasarımlar sonunda hem Android hem Web için bitti.
+- Tasarımlar bittiği için analizleri yarın bitireceğim ve diğer ekiplere yardıma gideceğim.
+- Android ekibinin Figma'da yaşadıkları bir küçük sorunu çözdük.
