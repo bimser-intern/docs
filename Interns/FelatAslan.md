@@ -199,4 +199,10 @@ Yazılım ile üniversitede tanıştım. Başta Algoritma Temelleri olmakla bera
 - Menü'de güncelleme yapıldı.
 - CreateSurvey sayfasındaki eksikler giderildi.
 
+[**07.09.2022**](https://github.com/bimser-intern/docs/issues/607)
+- Sabah daily scrum toplantısı yapıldı.
+- Fillsurvey sayfasındaki  upvote ve report butonlarının yenilikleri üzerine çalışıldı.
+- Userpage sayfasının tasarımının eksikleri giderildi.
+
+
 
