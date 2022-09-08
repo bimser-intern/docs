@@ -134,6 +134,7 @@ Bimser Çözüm şirketinde zorunlu staj yapmaktayım ve bu staj süresince yapa
 - Selenium automated test with github actions başlığı altında araştırmalar yapıldı.
 
 [**23.08.2022**](https://github.com/bimser-intern/docs/issues/424)
+
 - Daily Scrum'a katılım sağlandı.
 - İzin alındı.
 
@@ -205,3 +206,28 @@ Bimser Çözüm şirketinde zorunlu staj yapmaktayım ve bu staj süresince yapa
 - Stajyer & Semih Ertekin(Software Support Team Leader) Buluşması'na katılım sağlandı.
 - Sprint review toplantısında projenin ilerleme durumu, görevlerimiz gözden geçirildi.
 - Sprint retrospective toplantısına katılım sağlandı.
+
+
+[**05.08.2022**](https://github.com/bimser-intern/docs/issues/605)
+
+- Daily Scrum'a katılım sağlandı.
+- Sprint planning toplantısına katılım sağlandı.
+- Developer - Test - Production ortamları hakkında detaylıca araştırma yapıldı. [Bilgi edinmek için tıklayınız.](https://medium.com/venture-garden-group-technology-blog/effective-development-environments-development-test-staging-pre-production-and-production-environmen-a3a85cd349b2)
+- Github actionsda bulunan test otomasyonları üzerindeki hata giderilmeye çalışıldı, testerların farklı test senaryosu konfigürasyonları incelendi.
+
+
+[**06.08.2022**](https://github.com/bimser-intern/docs/issues/605)
+
+- Daily Scrum'a katılım sağlandı.
+- Container app extension eklenmesi sırasında hata alındı. Birkaç deneme sonrası hata giderildi.
+- Birkaç container registery oluşturuldu, sistemde oluşturulacak prod ortamında herhangi bir sorun oluşma durumu 
+gözden geçirildi. 
+- Azure devops componentleri üzerinde detaylı bilgi edinildi.
+
+
+[**07.08.2022**](https://github.com/bimser-intern/docs/issues/605)
+
+- Daily Scrum'a katılım sağlandı.
+- Production ortamı yaratıldı, sitenin bilgileri eksik görüntüleme hatası alındı.
+- Azure componentleri (container registery, environment, resource group) hakkında detaylıca bilgi edinildi.
+- Devops keywordlerinden birkaç tanesi daha öğrenildi. 
