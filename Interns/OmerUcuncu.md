@@ -191,3 +191,12 @@ Eğitim süresince ilk stajımı  **Bimser**'de gönüllü stajyer olarak yapmak
 - Eski Product Owner ile görüştüm ve bu haftanın planı ve tasarımı için konuştuk
 - Yeni Product Owner ile görüştüm ve önümüzdeki haftanın tasarımı ve planı için konuştuk.
 - Yeni tasarım ve analizler yapılmaya başlanıldı ve bir kısmı yapıldı. Düşünülenden daha fazla zaman alıyor.
+
+[**06.09.2022**](https://github.com/bimser-intern/docs/issues/596)
+
+- Daily scrum yapıldı.
+- Product Owner ile görüşüldü ve tekrardan yeni tasarımlar eklenilmesi istenildi.
+- Ne yazık ki tüm gün boyunca Surveysaurus Web için tasarım yapıldı.
+- Tasarımlar çok fazla zaman alıyor çünkü tasarım yaparken eksik ve yeni fikirler için danışabileceğim kimse yok.
+- Yarın analizleri yapmaya başlayacağım. İşlerim erken biterse perşembe günü test yapmaya başlayacağım.
+
