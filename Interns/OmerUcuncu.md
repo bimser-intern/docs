@@ -200,3 +200,9 @@ Eğitim süresince ilk stajımı  **Bimser**'de gönüllü stajyer olarak yapmak
 - Tasarımlar çok fazla zaman alıyor çünkü tasarım yaparken eksik ve yeni fikirler için danışabileceğim kimse yok.
 - Yarın analizleri yapmaya başlayacağım. İşlerim erken biterse perşembe günü test yapmaya başlayacağım.
 
+[**09.09.2022**](https://github.com/bimser-intern/docs/issues/624)
+
+- Daily scrum yapıldı.
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
+- Analizde yer alan eksiklikler tamamlandı.
+- Figma üstünden Sprint Retrospective'de tasarımlar gösterildi.
