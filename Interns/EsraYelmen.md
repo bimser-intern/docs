@@ -137,3 +137,13 @@ Ben Esra Yelmen. Bolu Abant İzzet Baysal Üniversitesi Bilgisayar Mühendisliğ
 - Web tarafının manuel testleri yapıldı.
 - Bulunan hatalar surveysaurus-qa reposuna bug issue olarak girildi.
 - Signup test otomasyonu üzerinde çalışıldı.
+
+[**05.09.2022**](https://github.com/bimser-intern/docs/issues/598)
+
+- Sprint Planning toplantısına katılım sağlandı.
+- Web ve Android test senaryoları yazıldı.
+- DevOps tarafında otomasyon testlerinde çıkan problem üzerinde çalışıldı.
+
+[**06.09.2022**](https://github.com/bimser-intern/docs/issues/598)
+
+- Otomasyon testleri üzerinde çalışıldı.
