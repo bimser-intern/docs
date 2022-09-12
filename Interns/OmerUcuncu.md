@@ -200,3 +200,10 @@ Eğitim süresince ilk stajımı  **Bimser**'de gönüllü stajyer olarak yapmak
 - Tasarımlar çok fazla zaman alıyor çünkü tasarım yaparken eksik ve yeni fikirler için danışabileceğim kimse yok.
 - Yarın analizleri yapmaya başlayacağım. İşlerim erken biterse perşembe günü test yapmaya başlayacağım.
 
+[**.07.09.2022**](https://github.com/bimser-intern/docs/issues/604)
+
+- Daily scrum yapıldı.
+- Tasarımlar sonunda hem Android hem Web için bitti.
+- Tasarımlar bittiği için analizleri yarın bitireceğim ve diğer ekiplere yardıma gideceğim.
+- Android ekibinin Figma'da yaşadıkları bir küçük sorunu çözdük.
+
