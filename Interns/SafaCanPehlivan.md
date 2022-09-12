@@ -104,3 +104,80 @@ Mühendisliği 3. sınıf öğrencisiyim 23 yaşındayım yapı olarak meraklı 
 - Dailyscrum yapıldı insanlara dün ne yaptıklarını sordum bugün ne yapmayı planladıklarını ve sorunları olup olmadıgını sordum.
 - Bugün geomap üzerine araştırmalar yapıp uygun olanı bulup onun üzerine çalıştık.
 - Diğer görevlerden kalan ufak işleri hallettik.
+
+[**25.08.2022**](https://github.com/bimser-intern/docs/issues/809)
+
+- Dailyscrum yapıldı insanlara dün ne yaptıklarını sordum bugün ne yapmayı planladıklarını ve sorunları olup olmadıgını sordum.
+- Eksik kalan yoruma yorum yapılması yani reply özelliğini aktif hale getirip api kısmında gereken işlemleri yaptık.
+- Diğer ekiplerden gelen hata ve istekleri düzelttik ve yarinki sprint reviewe hazır hale geldik.
+
+[**26.08.2022**](https://github.com/bimser-intern/docs/issues/809)
+
+- Dailyscrum yapıldı insanlara dün ne yaptıklarını sordum ve bugün revieve hazır olup olmadıklarını sordum.
+- review öncesi sabah gelen son ufak tefek hata ve isteklerle ilgilendik.
+- review toplantısı yapıldı herkes elinden geleni yaptı fakat sprint tam anlamıyla başarılı olmadı biz api kısmında işlerimizi bitirmiştik fakat önyüz işlerinde çok bug biriktiği için işlerin tamamı yetişmedi.
+- sprint retrospective toplatısı yapıldı bu toplantıd haftaya önyüz işlerinin biriken işlerinin tamamlanması için haftaya yeni iş yerine sadece o işlerin halledilmesi kararı alındı sadece backend için yeni işler çıkarılma kararı alındı. ve ek olarak insanların hafta ile ilgili sorunlarını ve iyi dedikleri şeyi dinledim.
+
+[**29.08.2022**](https://github.com/bimser-intern/docs/issues/809)
+
+- Güne sprint planning toplantısı ile başladık product owner yeni görevleri tanıttı sadece biz yani backend ekibie yeni görevler vardı diğer takımlar kalan işleri bitirmek için uğraşacaktı bu sprintte.
+- işler dağıtıldı herkes aldığı işi yapmaya koyuldu ve sprint planningden hemen sonra daily scrumı yaptım insanlar bu hafta daha mutlu biriken işleri rahatça yapabilcekleri için.
+- bu haftaki görevlerimiz sisteme trophies yani ödül kupa sistemi eklemek, kullanıcıların puan kazanabilceği olayları düzenlemek kontrolünü yapmak, anket listelemede listeleme sıralamasının etkileşime göre olması, anasayfa ve anket sayfası güncellemeleri ve report işleminde güncelleme.
+- her zamanki gibi haftaya ilk gün görevlerin şemasını girdisini çıktısını belirleyerek readme dosyasını hazırlayıp dökümantasyonunu hallederek başladık.
+
+[**30.08.2022**](https://github.com/bimser-intern/docs/issues/809)
+
+- Dailyscrum yapıldı insanlara dün ne yaptıklarını sordum bugün ne yapmayı planladıklarını ve sorunları olup olmadıgını sordum. insanlar bu hafta daha rahatlar işleri hafif.
+- İşlerimizi yapmaya ilk olarak kullanıcılara puan parametresi atayarak başladık çünkü puan ödül sitemini kontrol eden şey puan kazanma koşullarını ayarlayarak sistemi oluşturduk kazanılcak kupa ve rozetler için sisteme özel ayarlamalar yaptık sınırları belirledik.
+- Kullanıcıların seçebilmesi için belli hayvan iconları ekledik. şimdilik sadece olanlar arasından seçebiliyolar dışarıdan yükleme yok belki ileride bu özellikte gelir.
+
+[**31.08.2022**](https://github.com/bimser-intern/docs/issues/809)
+
+- Dailyscrum yapıldı yine sorulması gereken sorular soruldu bu hafta geçen haftalara kıyasla çok az sorun geliyor.
+- Anket listelemesinde etkileşime göre sıralama için anketlerin doldurulma oranlarından yararlandık en çok doldurulan anketler en üstte gözüküyor böylece popüler anketler daha çok bakılmış oluyor.
+- Anket görüntülenme sayfasında bulunan yazar ismine tıklanınca yazar profiline götürülmesini sağlayan fonksiyonları yazdık.
+- Report işlemini düzenledik belli bir report sayısına ulaşınca yorumun otomatik silinmesini sağladık.
+
+[**01.09.2022**](https://github.com/bimser-intern/docs/issues/809)
+
+- Dailyscrum yapıldı yine sorulması gereken sorular soruldu.
+- İşlerimiz dün bittiği için bugün gelen hatalara baktık. Report işleminden biraz hatalar döndü birkaç arkadaşım bugün izinliydi bu yüzden az kişi olunca biraz zorlandım ama bu iyi oldu gelişmeme çok yardımcı oldu çünkü normalde gelene hataları iş bölümü yaparak çözüyorduk az kişi olunca daha çok iş bana kaldı ve bu sayede neo4j de query yazma konusunda kendimi geliştirmiş oldum normalde o kısımdan görevli arkadaşım izinli olması bana yaradı krizi fırsata çevirmiş oldum bu konuda mutluyum.
+
+[**02.09.2022**](https://github.com/bimser-intern/docs/issues/809)
+
+- Dailyscrum yapıldı yine sorulması gereken sorular soruldu.Herkes sprint review e hazır gözüzüküyordu bu haftaki sprint başarılı olucak.
+- Sprint review yapıldı herkes yaptığı işleri anlattı product owner ürünleri deneyip sundu başarılı buldu sprint başarılı sayıldı.
+- Daha sonra ben Sprint Retrospective toplantısını yaptım bu hafta gelen geri dönüşler gayet iyi herkes mutlu kötü yorum kısımları neredeyse boş kaldı kimsede olumsuz bir yorum gelmedi.
+- Tek endişemiz haftaya sayımız azalıcak stajı bitenler var yani bazı arkadaşların yeri değişicek aynı projenin farklı alanlarında çalışmaya başlayacaklar buradaki endişe büyümüş projenin içinde hiç bilmediğimiz bir alana düşme endişesi.
+
+[**05.09.2022**](https://github.com/bimser-intern/docs/issues/809)
+
+- Dailyscrum yapıldı yine sorulması gereken sorular soruldu.
+- Sprint planning toplantısı yapıldı yeni olduğumuz için az görev aldık takım olarak.
+- Sayımız azaldı yerler değişti android kısmı boş kaldı ve backend ekibide işleri çok ilerlettiği için 4 kişi olan backend 1 kişi bırakıldı 2 kişi androide buna bende dahilim, 1 kişi devopsa geçti.
+- Ve ilk gün olduğu için eski android ekibi bizim bir görevimiz yardım etti birlikte yaptık ama bilmediğimiz için aşırı anlamadık ve onlarda yaparken birkaç hata aldılar bu olay bizim kafamızı iyice karıştırdı.
+
+[**06.09.2022**](https://github.com/bimser-intern/docs/issues/809)
+
+- Dailyscrum yapıldı yine sorulması gereken sorular soruldu.
+- Androide geçmek beni çok zorladı çünkü şuan android ekibindeki kimse android ile ilgili bişey bilmiyor ve bu haldeyken 1 aydır ilerlemiş bir projenin içine düşmek çok stresli ve zorlayıcı bu yüzden bu günüm araştırma ve deneme ile geçti.
+- Verilen görevleri yapmaya çalısıyoruz fakat çok fazla hata alıyoruz.
+- Hatalıda olsa projeye Fragment Layout Model Ve api kısmını yazdık.
+
+[**07.09.2022**](https://github.com/bimser-intern/docs/issues/809)
+
+- Dailyscrum yapıldı yine sorulması gereken sorular soruldu.
+- Api kısmının hatalarını giderdik en azından veriler şuan sorunsuz gelebiliyor.
+- Layout tasarımlarını tamamladık bir ana layout birde recycler view içinde dönücek ara layoutu yazdık.
+- Recycler view için adapter yazdık hataları azalmaya çalıştık. çok az hata kaldı ama çözemiyoruz o hatalar.
+
+[**08.09.2022**](https://github.com/bimser-intern/docs/issues/809)
+
+- Dailyscrum yapıldı yine sorulması gereken sorular soruldu.
+- Yazdığımız kodlardaki hataları düzelttik uygulama çalıştı fakat istediğimiz yazdığımız sayfa gözükmedi onu çözmeye uğraşmaya devam ettik.
+
+[**09.09.2022**](https://github.com/bimser-intern/docs/issues/809)
+
+- Dailyscrum yapıldı yine sorulması gereken sorular soruldu.
+- Sprint review toplantısı yapıldı product owner yapılan iişleri sundu ve konrol etti yapılan işlerde eksik olmasına rağmen ortada hatasız bir ürün olduğu için haftayı başarılı ilan etti.
+- Daha sonra ben sprint retrospective toplantısını düzenledim insanları dinleyip notlar aldım. genel olarak takım geçen haftaya göre daha iyi fakat ayrılanlar olduğu için zorluklar yaşanıyor bu durum herkesi etkiliyor.
