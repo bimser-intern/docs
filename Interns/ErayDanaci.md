@@ -344,3 +344,13 @@ Yazılım ile lisede tanıştım. 4 yıl boyunca web programlama dersleri aldım
 - Report butonunun içi dolu iken ekrana are you sure? mesajının verilmesi engellendi.
 
 - Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
+
+[**12.09.2022**](https://github.com/bimser-intern/docs/issues/630)
+
+
+
+- Sprint planlama toplantısına katılım sağlandı.
+
+- UserInfo sayfasındaki country, city sorunu düzeltildi.
+
+- Map sayfa tasarımı yapıldı.
