@@ -277,7 +277,6 @@ Yazılım ile lisede tanıştım. 4 yıl boyunca web programlama dersleri aldım
 
 - Kullanıcı giriş yapmadan doldurduğu anketin giriş işleminden sonra kaydedilmesi sağlandı.
 
-
 [**02.09.2022**](https://github.com/bimser-intern/docs/issues/567)
 
 
@@ -289,5 +288,59 @@ Yazılım ile lisede tanıştım. 4 yıl boyunca web programlama dersleri aldım
 - Sayfa yönlendirmelerinde değişiklik yapıldı.
 
 - Testten dönen son eksiklikler giderildi.
+
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
+
+[**05.09.2022**](https://github.com/bimser-intern/docs/issues/618)
+
+
+
+- Sprint planlama toplantısına katılım sağlandı.
+
+- Kullanıcı bilgilerini güncelleme ekranı tasarımı yapıldı.
+
+- Kullanıcı bilgilerini güncelleme işlemi gerçekleştirildi.
+
+[**06.09.2022**](https://github.com/bimser-intern/docs/issues/618)
+
+
+
+- Menü'de güncelleme yapıldı.
+
+- CreateSurvey sayfasındaki eksikler giderildi.
+
+- Old password kontrolleri yapıldı.
+
+- Yeni şifre oluştururken büyük harf, noktalama işareti ve 8 karekter şartı yapıldı.
+
+[**07.09.2022**](https://github.com/bimser-intern/docs/issues/618)
+
+
+
+- Fillsurvey sayfasındaki upvote ve report butonlarının yenilikleri üzerine çalışıldı.
+
+- Userpage sayfasının tasarımının eksikleri giderildi.
+
+- UserInfo sayfasının alert mesajları düzenlendi.
+
+[**08.09.2022**](https://github.com/bimser-intern/docs/issues/618)
+
+
+
+- UserInfo sayfasının hataları giderildi.
+
+- Parent için upvote ve report butonlarının içlerini belli etme özelliği kazandırıldı.
+
+- Report sayısının yazması kaldırıldı.
+
+[**09.09.2022**](https://github.com/bimser-intern/docs/issues/618)
+
+
+
+- Child için upvote ve report butonlarının içlerini belli etme özelliği kazandırıldı.
+
+- Report butonunun içini belli ettikten sonra tekrar report edebilme özelliği kaldırıldı.
+
+- Report butonunun içi dolu iken ekrana are you sure? mesajının verilmesi engellendi.
 
 - Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
