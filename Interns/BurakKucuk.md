@@ -210,6 +210,76 @@ Ben Burak Küçük, Girne Üniversitesi Yazılım Mühendisliği  öğrencisiyim
 
 - App Center üzerinden monitör izlendi.
 
+[**01.09.2022**](https://github.com/bimser-intern/docs/issues/613)
+
+- Daily Scrum yapıldı.
+
+- Android tarafında oluşan github action hataları giderildi.
+
+- Farklı GitHub Actions yöntemleri denendi.
+
+- App Center üzerinden monitör izlendi.
+
+[**02.09.2022**](https://github.com/bimser-intern/docs/issues/613)
+
+- Daily Scrum yapıldı.
+
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
+
+- Stajyer & Semih Ertekin(Software Support Team Leader) Buluşması'na katılındı.
+
+- Github Action tarafında oluşan hatalar üzerinde çalışıldı.
+
+- App Center üzerinden monitör izlendi.
+
+[**05.09.2022**](https://github.com/bimser-intern/docs/issues/613)
+
+- Daily Scrum yapıldı.
+
+- Sprint Planning toplantısına katılım sağlandı.
+
+- Yeni ekibim olan Android ekibinden yapılan işler hakkında bilgiler alındı.
+
+- Android studio kurulumu ve kullanımı hakkında araştırmalar yapıldı.
+
+[**06.09.2022**](https://github.com/bimser-intern/docs/issues/613)
+
+- Daily Scrum yapıldı.
+
+- Android studio üzerinden projenin api kısmı yazıldı.
+
+- Android studio kullanımı hakkında araştırmalara devam edildi.
+
+[**07.09.2022**](https://github.com/bimser-intern/docs/issues/613)
+
+- Daily Scrum yapıldı.
+
+- Android kısmındaki karşılaştığımız hataları çözmeyi uğraştık.
+
+- Android studio üzerinden projenin Fragment Layout Model kısmı yazıldı.
+
+- Recycler view için adapter yazdık hataları azaltmaya çalıştık.
+
+[**08.09.2022**](https://github.com/bimser-intern/docs/issues/613)
+
+- Daily Scrum yapıldı.
+
+- Api kısmının hatalarını giderdik en azından veriler şuan sorunsuz gelebiliyor.
+
+- Android studio üzerinden tasarım eklemeyi denedik. Figmadan tasarımları aldık.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
