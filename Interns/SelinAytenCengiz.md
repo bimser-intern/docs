@@ -367,7 +367,6 @@ Ben Selin Ayten Cengiz, Kocaeli Üniversitesi, Bilgisayar Mühendisliği Bölüm
 
 - Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
 
-
 [**05.09.2022**](https://github.com/bimser-intern/docs/issues/589)
 
 - Daily Scrum yapıldı.

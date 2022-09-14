@@ -180,3 +180,35 @@ Yazılım ile üniversitede tanıştım. Üniversite eğitimimde C, C#, C++, Pyt
 - Dün oluşturulmuş olan otomasyonlarda hata alındı. Alınan hata uzun süre çözülmeye çalışıldı. Hata çözüldükten sonra web otomasyonları surveysaurus-qa reposuna yüklendi.
 - Android için otomasyonlara devam edildi ancak önceki otomasyonlarda yeni sürümden kaynaklı hatalar oluştu. Bu konu hakkında android ekibi ile görüşüldü.  
 - Software Support Team Leader Buluşması etkinliğine katılım sağlandı.
+
+[**05.09.2022**](https://github.com/bimser-intern/docs/issues/600)
+
+- Daily scrum yapıldı.
+- Sprint Planning toplantısına katılım sağlandı.
+- Product Owner olacağım için biraz araştırma yapıldı.
+- Gelecek haftanın tasarımı için analiz ekibiyle görüşüldü ve fikirler söylendi.
+
+[**06.09.2022**](https://github.com/bimser-intern/docs/issues/600)
+
+- Daily scrum toplantısına katılım sağlandı.
+- Analiz ekibiyle görüşüldü ve gelecek hafta için yeni tasarımlar hakkında konuşuldu.
+- Web için tasarım yapıldı.
+
+[**07.09.2022**](https://github.com/bimser-intern/docs/issues/626)
+
+- Daily scrum toplantısına katılım sağlandı.
+- Android için tasarıma yardım edildi.
+- Tester ekibiyle görüşüldü.
+
+[**08.09.2022**](https://github.com/bimser-intern/docs/issues/626)
+
+- Daily scrum toplantısına katılım sağlandı.
+- Android ekibiyle görüşüldü.
+- Tasarım yapıldı.
+
+[**09.09.2022**](https://github.com/bimser-intern/docs/issues/626)
+
+- Tester ekibiyle görüşüldü.
+- Sprint Review toplantısı gerçekleştirildi ve değerlendirmelerin ardından sprint başarılı kabul edildi.
+- Sprint Retrospective toplantısı yapıldı.
+- Gelecek hafta için yazılan analizler incelendi.

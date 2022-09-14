@@ -148,4 +148,37 @@ Yazılım ile üniversitede tanıştım. C eğitimi aldım. Okul haricinde kendi
 
 - Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
 - Software Support Team Leader Buluşması etkinliğine katılım sağlandı. 
-- Web otomasyonları modül kullanarak optimize edildi. Son hali QA reposuna eklendi.
+- Web otomasyonları modül kullanarak optimize edildi. Son hali QA reposuna eklendi.   
+
+[**05.09.2022**](https://github.com/bimser-intern/docs/issues/628)
+
+- Sprint Planning toplantısına katılım sağlandı.
+- Web ve android test senaryoları yazıldı.
+- DevOps tarafında otomasyon testlerinde çıkan problem üzerinde çalışıldı.
+
+[**06.09.2022**](https://github.com/bimser-intern/docs/issues/628)
+
+- Otomasyon testleri üzerinde çalışılmaya devam edildi.
+- Class yapısının anlaşılması için çalışıldı.
+
+[**07.09.2022**](https://github.com/bimser-intern/docs/issues/628)
+
+- DevOps tarafından dönen hata çözüldü.
+- Otomasyon testlerinin optimizasyonu üzerinde çalışıldı.
+- Web tarafında Account Info sayfası manuel olarak test edildi.
+- Front-end ekibiyle görüşüldü.
+
+[**08.09.2022**](https://github.com/bimser-intern/docs/issues/628)
+
+- Create Survey with Login test otomasyonu yazıldı.
+- Test otomasyonları üzerinde çalışıldı. 
+- Web tarafında güncenlenen Account Info sayfası tekrar test edildi ve buglar belirlendi.
+
+[**09.09.2022**](https://github.com/bimser-intern/docs/issues/628)
+
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
+- Andorid kısmının All Surveys sayfası manuel olarak test edildi.
+- Android ekibiyle görüşüldü.
+- Bulunan hatalar Github'a bug issue olarak girildi.
+- Web tarafında Comment Section kısmındaki güncellemeler test edildi.
+- Front-end ekibiyle görüşüldü. 

@@ -183,3 +183,33 @@ Eğitim süresince ilk stajımı  **Bimser**'de gönüllü stajyer olarak yapmak
 - Surveysaurus-qa reposu için Readme dosyası hazırlanmaya başlanıldı.
 - Surveysaurus mobil versiyonunun elimizde var olan otomasyonları çalışamaz hale geldi, bunun sebebi ise Android ekibi uygulamayı güncelledikçe aldığımız xPath'ler ne yazık ki değişmiş oluyor bundan dolayı elimizdeki otomasyonlar çalışamıyor. Bunun önüne geçebilmek için Android ekibi ile görüşme yapıldı ve netice olarak ID'si olmayan buton,boşluk, kutucuk ve buna benzer şeylere ID verilecek ve uygulama güncellense bile bu ID'ler değişmeyecek böylece bizim otomasyonlar ID üstünden olacak. Bu sorunu aştığımız anda mobil otomasyonlarımız surveysaurus-qa reposuna ekliyeceğiz.
 
+[**05.09.2022**](https://github.com/bimser-intern/docs/issues/584)
+
+- Daily scrum yapıldı.
+- Sprint Planning toplantısına katılındı.
+- Stajı biten arkadaşlar olduğu için analiz ekibinde sadece ben kaldım o yüzden analizler ile tasarımlar daha fazla vakit almaya başladı. Analizleri daha derinlemesine ve daha dikkatli bir şekilde yapmam gerekiyor çünkü analiz ekibi yok tek ben varım.
+- Eski Product Owner ile görüştüm ve bu haftanın planı ve tasarımı için konuştuk
+- Yeni Product Owner ile görüştüm ve önümüzdeki haftanın tasarımı ve planı için konuştuk.
+- Yeni tasarım ve analizler yapılmaya başlanıldı ve bir kısmı yapıldı. Düşünülenden daha fazla zaman alıyor.
+
+[**06.09.2022**](https://github.com/bimser-intern/docs/issues/596)
+
+- Daily scrum yapıldı.
+- Product Owner ile görüşüldü ve tekrardan yeni tasarımlar eklenilmesi istenildi.
+- Ne yazık ki tüm gün boyunca Surveysaurus Web için tasarım yapıldı.
+- Tasarımlar çok fazla zaman alıyor çünkü tasarım yaparken eksik ve yeni fikirler için danışabileceğim kimse yok.
+- Yarın analizleri yapmaya başlayacağım. İşlerim erken biterse perşembe günü test yapmaya başlayacağım.
+
+[**07.09.2022**](https://github.com/bimser-intern/docs/issues/604)
+
+- Daily scrum yapıldı.
+- Tasarımlar sonunda hem Android hem Web için bitti.
+- Tasarımlar bittiği için analizleri yarın bitireceğim ve diğer ekiplere yardıma gideceğim.
+- Android ekibinin Figma'da yaşadıkları bir küçük sorunu çözdük.
+
+[**08.09.2022**](https://github.com/bimser-intern/docs/issues/614)
+
+- Daily scrum yapıldı.
+- Tasarımda eksiklikler vardı onlar düzeltildi.
+- Analizler yazılmaya başlanıldı ve büyük bir kısmı tamamlandı. Analiz yazarken son derece dikkat etmem gerekiyor çünkü ufak bir hata veya eksiklikte bu hatayı veya eksikliği düzeltebilecek analiz ekibinde kimse yok, bundan dolayı derinlemesine ve eksiksiz bir analiz yazmaya çalışıyorum.
+

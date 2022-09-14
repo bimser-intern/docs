@@ -169,8 +169,53 @@ Ben Enise Arslan, Kocaeli Üniversitesi Bilgisayar Mühendisliği son sınıf ö
 
 - Anketler üzerinden kullanıcıların puan kazanması için bir puanlama sistemi plandı.
 
+[**26.08.2022**](https://github.com/bimser-intern/docs/issues/594)
 
+- Daily scrum yapıldı.
 
+- Android kısmı için "all survey page" , "creator profile" analize göre düzenlendi. Figmadaki tasarımı güncellendi.
+
+- Sprint Review ve Sprint Retrospective toplantılarına katılındı. 
+
+[**29.08.2022**](https://github.com/bimser-intern/docs/issues/594)
+
+- Android kısmı için tasarıma eklenmemiş güncellemeler eklendi. Sayfa yönlendirmeleri yapıldı.
+
+- Sprint planlama toplantısına katılındı.
+
+- Daily scrum yapıldı.
+
+- Bir sonraki sprintte issue olarak eklenmesi planlanan responsive tasarım, web kısmı için araştırılmaya başlandı. [Makaleye buradan erişebilirsiniz.](https://blog.openreplay.com/build-responsive-web-pages-with-react-responsive-and-typescript) 
+
+[**31.08.2022**](https://github.com/bimser-intern/docs/issues/594)
+
+- Daily scrum yapıldı.
+
+- Analiz için gerekli olan responsive tasarımın projeye nasıl uygulanabileceği, araştırılmaya başlandı. [Makaleye buradan erişebilirsiniz.](https://itnext.io/3-ways-to-implement-responsive-design-in-your-react-app-bcb6ee7eb424)   
+
+- Stajyer & Mehmet Özgür Dürüster(Software Consultancy Team Leader) Buluşması'na katılındı.
+
+[**01.09.2022**](https://github.com/bimser-intern/docs/issues/594)
+
+- Daily scrum yapıldı.
+
+- Başlangıç sayfasında zoom out yapılınca tekrar eden arka plan ve about us kısmındaki image için düzenleme yapıldı.
+
+- Başlangıç sayfasında zoom in\out yapılınca karışan sample surveys kısmı için araştırma yapıldı. [Makaleye buradan erişebilirsiniz.](https://www.positronx.io/react-responsive-carousel-tutorial/)    
+
+[**02.09.2022**](https://github.com/bimser-intern/docs/issues/594)
+
+- Daily scrum yapıldı.
+
+- Stajyer & Semih Ertekin(Software Support Team Leader) Buluşması'na katılındı. 
+
+[**05.09.2022**](https://github.com/bimser-intern/docs/issues/594)
+
+- Android kısmında kullanıcının ödül bilgisinin göründüğü sayfanın tasarımı yapıldı.
+
+- Sprint planlama toplantısına katılındı. Daily scrum yapıldı.
+
+- Bu haftaki sprint için analiz ve tasarımdaki eksikler tamamlandı.
 
 
 

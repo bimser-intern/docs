@@ -58,3 +58,67 @@ Ben Berna AKDOĞANLAR. Düzce Üniversitesi Bilgisayar Mühendisliği bölümü 
 - Daily Scrum toplantısına katıldım. Önceki gün neler yaptığımızı ve bugün neler yapacağımızı konuştuk.
 - Bugün tekrardan Geomap hakkında araştırmalar yapıp ve Özgür Bey ile de görüşüp hangisini kullanacağımıza karar verdik.
 - Geomap üzerine çalışmalar yaptık.
+
+[**25.08.2022**](https://github.com/bimser-intern/docs/issues/617)
+- Daily Scrum toplantısına katıldım. Önceki gün neler yaptığımızı ve bugün neler yapacağımızı konuştuk.
+- Reply yani yoruma yorum yapma özelliğini aktif hale getirdik ve api kısmının gereken işlemleri yaptık. Bu eksik kalan işi de tamamladık.
+- Bunların dışında işlerimiz bittiği için diğer ekiplerden gelen hataları düzelttik ve isteklerine göre değişiklikler yaptık.
+
+[**26.08.2022**](https://github.com/bimser-intern/docs/issues/617)
+- Daily Scrum toplantısına katıldım. Önceki gün neler yaptığımızı ve bugün neler yapacağımızı konuştuk.
+- Sprint Review toplantısı öncesi yine diğer ekiplerden gelen hatalara baktık.
+- Sprint Retrospective toplantısı yapıldı ve bu hafta nelerin iyi nelerin kötü gidildiğini konuştuk. Backend kısmı olarak da diğer ekiplerden önce gittiğimiz için sonraki haftanın işlerini alacağız artık.
+
+[**29.08.2022**](https://github.com/bimser-intern/docs/issues/617)
+- Sprint Planning toplantısına katıldım. Bu haftaki işler gösterildi ve planlaması yapıldı ekiplerle konuşularak. Diğer ekipler önceki haftalardan kalan işleri yapacağı için biz de önden ilerlediğimiz için sadece bize yeni işler verildi.
+- Görev dağılımı ekipçe konuşularak yapıldı ve Daily Scrum toplantısı yapıldı. Haftasonu neler yaptığımızı ve bugün neler yapacağımızı, aldığımız işleri konuştuk.
+- Backend olarak bu haftaki işimiz Trophies yani kullanıcılara ödül kupa sistemi eklemek. Kullanıcıların puan kazanabileceği olayları düzenlemek, kontrolünü yapmak, anket listelemede sıralamanın etkileşime göre olması, anasayfa ve anket sayfası güncellemeleri ve report işleminde güncelleme.
+- Yine ilk iş olarak görevlerin girdi çıktısına göre readme dosyasını yaptık.
+
+[**30.08.2022**](https://github.com/bimser-intern/docs/issues/617)
+- Daily Scrum toplantısına katıldım. Önceki gün neler yaptığımızı ve bugün neler yapacağımızı konuştuk.
+- Puanlar ödül sistemini kontrol ettiği için kullanıcılara puan parametresi atadık. Kazanılacak kupa ve rozetler için sisteme ayarlamalar yaptık, sınırları belirledik.
+- Kullanıcıların seçebilmesi için bir kaç tane hayvan iconları ekledik. Şuanlık onlar arasından seçim yapabiliyorlar. Dışarıdan herhangi bir seçim olmuyor.
+
+[**31.08.2022**](https://github.com/bimser-intern/docs/issues/617)
+- Daily Scrum toplantısına katıldım. Önceki gün neler yaptığımızı ve bugün neler yapacağımızı konuştuk.
+- Anket görüntülenme sayfasındaki yazar ismine tıklayınca yazar profiline götürülmesini sağlayan fonksiyonları yazdık.
+- Anket listelenmesinde etkileşime göre sıralama için anketlerin doldurulma oranlarından yararlandık yani en çok doldurulan anket en üstte olacak şekilde. Bu sayede en popüler anketler daha da çok bakılacak.
+- Report işlemini düzenledik, belli bir report sayısına ulaşınca yorum otomatik olarak siliniyor.
+
+[**01.09.2022**](https://github.com/bimser-intern/docs/issues/617)
+- Daily Scrum toplantısına katıldım. Önceki gün neler yaptığımızı ve bugün neler yapacağımızı konuştuk.
+- Dün işerimizi bitirdiğimiz için bugün sadece gelen hatalara baktık. Report kısmında düzenlemeler yaptık.
+
+[**02.09.2022**](https://github.com/bimser-intern/docs/issues/617)
+- Daily Scrum toplantısına katıldım. Önceki gün neler yaptığımızı ve bugün neler yapacağımızı konuştuk.
+- Sprint Review toplantısına katıldım. Ekipler yaptıkları işleri anlattı ve görevler tamamlandığı ve PO tarafından test edildiği için bu hafta başarılı sayıldı.
+- Sprint Retrospective toplantısına katıldım. Neler iyiydi neler kötüydü konuştuk. Haftaya stajı bitenler gideceği için ekip değişiklikleri olabilir.
+
+[**05.09.2022**](https://github.com/bimser-intern/docs/issues/617)
+- Sprint Planning toplantısına katıldım. Bu haftaki işler gösterildi ve planlaması yapıldı ekiplerle konuşularak. Android ekibi boş kaldığı için ben backendden androide geçtim.
+- Görev dağılımı ekipçe konuşularak yapıldı ve Daily Scrum toplantısı yapıldı. Haftasonu neler yaptığımızı ve bugün neler yapacağımızı, aldığımız işleri konuştuk.
+- Android de ilk gün olduğu için eski ekip arkadaşlarımız bize yardımcı oldular, daha önce yaptıklarını anlattılar. 
+- Bu hafta çok görev almadık ilk haftamız olduğu için. Araştırma ve öğrenmeyle geçecek.
+
+[**06.09.2022**](https://github.com/bimser-intern/docs/issues/617)
+- Daily Scrum toplantısına katıldım. Önceki gün neler yaptığımızı ve bugün neler yapacağımızı konuştuk.
+- Layout çeşitlerini özellikle constraint layoutu, fragment ve navigation, retrofit, view binding konularını araştırdım. Az çok anladım fakat bu yeterli değil.
+- Bu hafta comment işini aldık fakat hala yeterli bilgiye sahip değiliz.
+- Fragment Layout Model ve api kısmını yazdık fakat hata alıyoruz.
+
+[**07.09.2022**](https://github.com/bimser-intern/docs/issues/617)
+- Daily Scrum toplantısına katıldım. Önceki gün neler yaptığımızı ve bugün neler yapacağımızı konuştuk.
+- Api kısmındaki hata aldığımız yerleri düzelttik.
+- Layout tasarımlarını yaptık. Asıl layoutumuz ve recycler view içinde dönücek bir layoutumuz var.
+- Recycler view için adapter yazdık fakat yine hatalar aldık. Gün boyu bu hataları çözmekle geçti. Birazını çözebildik.
+
+[**08.09.2022**](https://github.com/bimser-intern/docs/issues/617)
+- Daily Scrum toplantısına katıldım. Önceki gün neler yaptığımızı ve bugün neler yapacağımızı konuştuk.
+- Bugün de yine hatalarımızı düzeltmeye uğraştık. Düzelttik hiç hata yok fakat bu sefer de uygulamayı çalıştırdığımızda hata çıktı. O hataların bir kısmını düzelttik fakat yine de yaptığımız comment kısmı gelmiyor.
+
+[**09.09.2022**](https://github.com/bimser-intern/docs/issues/617)
+- Daily Scrum toplantısına katıldım. Önceki gün neler yaptığımızı ve bugün neler yapacağımızı konuştuk.
+- Sprint Review toplantısına katıldım. Ekipler yaptıkları işleri anlattı ve görevler PO tarafından test edildi, bazı görevler tamamlanmasa bile bütünü etkilemediği için de bu hafta başarılı sayıldı.
+- Haftaya yani son haftamda frontend ekibine katılacağım.
+- Sprint Retrospective toplantısına katıldım. Neler iyiydi neler kötüydü konuştuk. Haftaya yine stajı bitenler gideceği için azalmalar olacak. O yüzden Android tarafı kapatıldı. 
