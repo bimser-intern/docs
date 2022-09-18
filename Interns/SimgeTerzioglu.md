@@ -212,3 +212,15 @@ Yazılım ile üniversitede tanıştım. Üniversite eğitimimde C, C#, C++, Pyt
 - Sprint Review toplantısı gerçekleştirildi ve değerlendirmelerin ardından sprint başarılı kabul edildi.
 - Sprint Retrospective toplantısı yapıldı.
 - Gelecek hafta için yazılan analizler incelendi.
+
+[**12.09.2022**](https://github.com/bimser-intern/docs/issues/635)
+
+- Sprint Planning toplantısı yapıldı ve ekiplere yeni işler anlatıldı.
+- Daily scrum toplantısına katılım sağlandı.
+- Analiz ekibiyle görüşüldü ve tasarımdaki bir eksiklik düzeltildi.
+
+[**13.09.2022**](https://github.com/bimser-intern/docs/issues/635)
+
+- Frontend ekibiyle görüşüldü. 
+- Tasarımda değişikliğe gidilmesi teklifi kabul edildi ve issue alanında düzenlemeler yapıldı.
+- Otomasyon testleri ile ilgili bir konu üzerinde detaylı araştırma yapıldı.
