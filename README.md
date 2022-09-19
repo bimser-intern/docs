@@ -24,7 +24,7 @@ Projenin başarılı ve güzel bir şekilde ilerlemesi için oluşturulmuş dok�
 14. [Tester](docs/Tester.md)
 15. [Security Engineer ve DevOps Engineer](docs/Devops-Engineer-Security-Engineer.md)
 16. [Frontend Developer](docs/Frontend.md)
-
+17. [Git Temelleri](docs/Git-Temelleri.md)
 ## Projeye Katkıda Bulunmak
 
 Projeye katkıda bulunmak için gerekli kurallara uyulmalıdır. Kurallar;
