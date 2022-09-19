@@ -213,3 +213,10 @@ Eğitim süresince ilk stajımı  **Bimser**'de gönüllü stajyer olarak yapmak
 - Tasarımda eksiklikler vardı onlar düzeltildi.
 - Analizler yazılmaya başlanıldı ve büyük bir kısmı tamamlandı. Analiz yazarken son derece dikkat etmem gerekiyor çünkü ufak bir hata veya eksiklikte bu hatayı veya eksikliği düzeltebilecek analiz ekibinde kimse yok, bundan dolayı derinlemesine ve eksiksiz bir analiz yazmaya çalışıyorum.
 
+[**09.09.2022**](https://github.com/bimser-intern/docs/issues/624)
+
+- Daily scrum yapıldı.
+- Sprint Review ve Sprint Retrospective toplantılarına katılım sağlandı.
+- Analizde yer alan eksiklikler tamamlandı.
+- Figma üstünden Sprint Retrospective'de tasarımlar gösterildi.
+
