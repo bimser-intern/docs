@@ -224,3 +224,56 @@ Yazılım ile üniversitede tanıştım. Üniversite eğitimimde C, C#, C++, Pyt
 - Frontend ekibiyle görüşüldü. 
 - Tasarımda değişikliğe gidilmesi teklifi kabul edildi ve issue alanında düzenlemeler yapıldı.
 - Otomasyon testleri ile ilgili bir konu üzerinde detaylı araştırma yapıldı.
+
+[**14.09.2022**](https://github.com/bimser-intern/docs/issues/639)
+
+- Daily scrum toplantısına katılım sağlandı.
+- Eklenen son tasarımın analizi yazıldı.
+
+[**15.09.2022**](https://github.com/bimser-intern/docs/issues/639)
+
+- Daily scrum toplantısına katılım sağlandı.
+- Devops ekibine yardım edildi ve Azure ortamında directory oluşturuldu.
+- Erişim sağlayabilmeleri için yetkilendirme yapıldı.
+- Sprint Review ve Sprint Retrospective toplantıları planlandı.
+
+[**16.09.2022**](https://github.com/bimser-intern/docs/issues/639)
+
+- Daily scrum toplantısına katılım sağlandı.
+- Devops ortamındaki sorunun çözümü izlendi.
+- Sprint Review toplantısı gerçekleştirildi ve değerlendirmelerin ardından sprint başarılı kabul edildi.
+- Sprint Retrospective toplantısı yapıldı.
+
+[**19.09.2022**](https://github.com/bimser-intern/docs/issues/639)
+
+- Daily scrum toplantısına katılım sağlandı.
+- Sprint Planning toplantısı yapıldı.
+- Girilen işler düzenlendi.
+- Test otomasyonu alanında alınan hatalar giderildi ve linkler düzeltildi.
+
+[**20.09.2022**](https://github.com/bimser-intern/docs/issues/639)
+
+- Daily scrum toplantısına katılım sağlandı.
+- Test senaryoları yazıldı.
+- Manuel testler yapıldı.
+- Bulunan hatalar bug olarak girildi.
+
+[**21.09.2022**](https://github.com/bimser-intern/docs/issues/639)
+
+- Daily scrum toplantısına katılım sağlandı.
+- Otomasyon testleri kontrol edildi.
+- Manuel testler yapıldı.
+
+[**22.09.2022**](https://github.com/bimser-intern/docs/issues/639)
+
+- Daily scrum toplantısına katılım sağlandı.
+- Site kontrol edildi ve manuel testler yapıldı.
+- Bulunan hatalar bug olarak girildi.
+- Sprint Review ve Sprint Retrospective toplantıları planlandı.
+
+[**23.09.2022**](https://github.com/bimser-intern/docs/issues/639)
+
+- Daily scrum toplantısına katılım sağlandı.
+- Site üzerinde son kez kontroller yapıldı.
+- Sprint Review toplantısı gerçekleştirildi ve değerlendirmelerin ardından sprint başarılı kabul edildi.
+- Sprint Retrospective toplantısı yapıldı.
