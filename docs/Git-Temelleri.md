@@ -13,7 +13,7 @@ Günümüzde ortak projeler geliştirmek, açık kaynaklı kişisel kod gelişti
 4. [Staging Taşıma](#staging-taşıma)
 5. [Local Dosyaları Değiştirmek](#local-kendi-çalışma-ortamınızdaki-dosyaları-değiştirmek)
 6. [Commit](#commit-save-to-local-repo)
-7. [Push](#Push-save-to-remote-repo)
+7. [Push](#push-save-to-remote-repo)
 
 ![image](https://miro.medium.com/max/875/1*OaiXIVZeRMDc4YFXb_wUfQ.png)
 
