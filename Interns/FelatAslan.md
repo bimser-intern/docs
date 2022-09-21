@@ -247,6 +247,23 @@ Yazılım ile üniversitede tanıştım. Başta Algoritma Temelleri olmakla bera
  - Devops kısmındaki hatadan dolayı çöken sistem tüm takım ile birlikte ayağı kaldırıldı.
  - Sprint toplantısı yapıldı.
  - Haftanın artıları ve eksileri belirlendi.
+ [**19.09.2022**](https://github.com/bimser-intern/docs/issues/641)
+ - Haftanın ilk sprint toplantısı yapıldı ve Görevlendirme yapıldı.
+ - Daily scrum yapıldı.
+ - UserInfo sayfasındaki bug üzerine çalışıldı.
+ - Devopstaki sorun çözüldü.
+ [**20.09.2022**](https://github.com/bimser-intern/docs/issues/641)
+ - Daily scrum yapıldı. 
+ - UserProfile sayfasının Prophies  dinamik hale getirildi.
+ - UserProfile sayfasının Survey kısmı  dinamik hale getirildi.
+ - Sayfanın son hali pull request edildi.
+ [**21.09.2022**](https://github.com/bimser-intern/docs/issues/641)
+ - Daily scrum yapıldı.
+ - UserProfile sayfasındaki icon güncelleme işlemi dinamik hale getirildi.
+ - UserProfile sayfasındaki background güncelleme işlemi dinamik hale getirildi.
+ - UserInfo sayfasındaki bug çözüldü.
+ - Sayfanın son hali pull request edildi.[Dokümana buradan erişebilirsiniz](https://github.com/bimser-intern/surveysaurus-ui/pull/79)
+
  
 
 
