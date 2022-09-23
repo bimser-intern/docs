@@ -263,6 +263,23 @@ Yazılım ile üniversitede tanıştım. Başta Algoritma Temelleri olmakla bera
  - UserProfile sayfasındaki background güncelleme işlemi dinamik hale getirildi.
  - UserInfo sayfasındaki bug çözüldü.
  - Sayfanın son hali pull request edildi.[Dokümana buradan erişebilirsiniz](https://github.com/bimser-intern/surveysaurus-ui/pull/79)
+ [**22.09.2022**](https://github.com/bimser-intern/docs/issues/645)
+ - Daily scrum yapıldı.
+ - UserProfile sayfasında icon güncellemenin tamamen çalışır  hale getirmek üzerine çalışıldı.
+ - UserProfile sayfasında background güncelleme tamamen çalışır hale getirmek üzerine çalışıldı.
+ [**23.09.2022**](https://github.com/bimser-intern/docs/issues/645)
+ - Daily scrum yapıldı.
+ - UserProfile sayfasındaki icon güncelleme tamamen çalışır hale getirildi.
+ - UserProfile sayfasındaki background güncellemenin frontend kısmı tamamlandı.
+ - Test ekibinden dönen buglar çözüldü.
+ - Projenin son hali pull request atıldı.[Dokümana buradan erişebilirsiniz](https://github.com/bimser-intern/surveysaurus-ui/pull/81)
+ - Haftanın ve stajın son sprint toplantısı yapıldı .
+ - Şuana kadar yapılan proje değerlendirildi eksileri artıları konuşuldu.
+ - Stajım bitti.
+ - [Projenin frontend kodlarına buradan erişebilirsiniz ](https://github.com/bimser-intern/surveysaurus-ui)
+ - [Projenin Url linkine buradan ulaşabilirsiniz](http://20.4.45.170/)
+
+
 
  
 
