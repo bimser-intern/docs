@@ -191,7 +191,7 @@ Bimser Çözüm şirketinde zorunlu staj yapmaktayım ve bu staj süresince yapa
 - Stajyer & Mehmet Özgür Dürüster(Software Consultancy Team Leader) Buluşması'na katılım sağlandı.
 
 
-[**01.08.2022**](https://github.com/bimser-intern/docs/issues/582)
+[**01.09.2022**](https://github.com/bimser-intern/docs/issues/582)
 
 - Daily Scrum'a katılım sağlandı.
 - Github actions ile gerçekleştirdiğimiz test otomasyonu için workflow dispatch araştırması yapıldı.
@@ -199,7 +199,7 @@ Bimser Çözüm şirketinde zorunlu staj yapmaktayım ve bu staj süresince yapa
 
 
 
-[**02.08.2022**](https://github.com/bimser-intern/docs/issues/582)
+[**02.09.2022**](https://github.com/bimser-intern/docs/issues/582)
 
 - Daily Scrum'a katılım sağlandı.
 - Production ortamı için container app oluşturulmaya başlandı.
@@ -208,7 +208,7 @@ Bimser Çözüm şirketinde zorunlu staj yapmaktayım ve bu staj süresince yapa
 - Sprint retrospective toplantısına katılım sağlandı.
 
 
-[**05.08.2022**](https://github.com/bimser-intern/docs/issues/605)
+[**05.09.2022**](https://github.com/bimser-intern/docs/issues/605)
 
 - Daily Scrum'a katılım sağlandı.
 - Sprint planning toplantısına katılım sağlandı.
@@ -216,7 +216,7 @@ Bimser Çözüm şirketinde zorunlu staj yapmaktayım ve bu staj süresince yapa
 - Github actionsda bulunan test otomasyonları üzerindeki hata giderilmeye çalışıldı, testerların farklı test senaryosu konfigürasyonları incelendi.
 
 
-[**06.08.2022**](https://github.com/bimser-intern/docs/issues/605)
+[**06.09.2022**](https://github.com/bimser-intern/docs/issues/605)
 
 - Daily Scrum'a katılım sağlandı.
 - Container app extension eklenmesi sırasında hata alındı. Birkaç deneme sonrası hata giderildi.
@@ -225,9 +225,65 @@ gözden geçirildi.
 - Azure devops componentleri üzerinde detaylı bilgi edinildi.
 
 
-[**07.08.2022**](https://github.com/bimser-intern/docs/issues/605)
+[**07.09.2022**](https://github.com/bimser-intern/docs/issues/605)
 
 - Daily Scrum'a katılım sağlandı.
 - Production ortamı yaratıldı, sitenin bilgileri eksik görüntüleme hatası alındı.
 - Azure componentleri (container registery, environment, resource group) hakkında detaylıca bilgi edinildi.
 - Devops keywordlerinden birkaç tanesi daha öğrenildi. 
+
+
+[**08.09.2022**](https://github.com/bimser-intern/docs/issues/647)
+
+- Daily Scrum'a katılım sağlandı.
+- Github actions test ortamları üzerine araştırmalar yapıldı. 
+- Workflow dosyası üzerinde nasıl değişiklik yapılabileceğimi bakınıldı.
+
+
+[**09.09.2022**](https://github.com/bimser-intern/docs/issues/647)
+
+- Daily Scrum'a katılım sağlandı.
+- Test senaryoları incelendi.
+- Frontend güncellemesinin geçilmesi durumunda alınan hata incelendi.
+- Sprint review toplantısında projenin ilerleme durumu, görevlerimiz gözden geçirildi.
+- Sprint retrospective toplantısına katılım sağlandı.
+ 
+
+[**12.09.2022**](https://github.com/bimser-intern/docs/issues/647)
+
+- Daily Scrum'a katılım sağlandı.
+- Sprint planning toplantısına katılım sağlandı.
+- Production ortamını test aşamasından sonra aktif etme üzerine çalışıldı.
+- Build - deploy - test aşaması iyileştirilmeye çalışıldı.
+- GitHub Actions üzerinden Selenium test senaryoları denendi.
+
+
+[**13.09.2022**](https://github.com/bimser-intern/docs/issues/647)
+
+- Daily Scrum'a katılım sağlandı.
+- Github actions ve CI/Cd üzerinde kurs izlendi.
+
+
+[**14.09.2022**](https://github.com/bimser-intern/docs/issues/647)
+
+- Daily Scrum'a katılım sağlandı.
+- Azure kredi tüketinimi dolayısıyla sistem çöküntüye uğradı. 
+- Başka bir azure subcription yaratıldı.
+- Yeni yarattığımız subscription üzerine surveysaurus projesi move edildi.
+
+
+[**15.09.2022**](https://github.com/bimser-intern/docs/issues/647)
+
+- Daily Scrum'a katılım sağlandı.
+- Gateway taşınımında sorun yaşadığımız için tekrar gateway oluşturuldu.
+- Gateway oluştururken health probes hatası alındı.
+- Alınan hata mentor tarafından çözüldü. 
+
+
+[**16.09.2022**](https://github.com/bimser-intern/docs/issues/647)
+
+- Daily Scrum'a katılım sağlandı.
+- Gateway oluşturulması sonrasında yeni alınan ip adresi test, frontend, backend kısmı tarafından kodlara entegre edildi.
+- Sprint review toplantısında projenin ilerleme durumu, görevlerimiz gözden geçirildi.
+- Sprint retrospective toplantısına katılım sağlandı.
+ 
