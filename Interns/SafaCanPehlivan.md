@@ -181,3 +181,76 @@ Mühendisliği 3. sınıf öğrencisiyim 23 yaşındayım yapı olarak meraklı 
 - Dailyscrum yapıldı yine sorulması gereken sorular soruldu.
 - Sprint review toplantısı yapıldı product owner yapılan iişleri sundu ve konrol etti yapılan işlerde eksik olmasına rağmen ortada hatasız bir ürün olduğu için haftayı başarılı ilan etti.
 - Daha sonra ben sprint retrospective toplantısını düzenledim insanları dinleyip notlar aldım. genel olarak takım geçen haftaya göre daha iyi fakat ayrılanlar olduğu için zorluklar yaşanıyor bu durum herkesi etkiliyor.
+
+[**12.09.2022**](https://github.com/bimser-intern/docs/issues/649)
+
+- Android ekibi sayı azlığından dolayı kapatıldı staj sonuna kadar frontend ekibine geçiş yaptım.
+- Sprint planning toplantısı yapıldı iş büyüklükleri hesaplandı ve alınacak işler alındı.
+- Dailyscrum yapıldı yine sorulması gereken sorular soruldu.
+- UserInfo sayfasındaki bug çözüldü.
+- Map Sayfasının tasarımı için araştırmaya başlandı.
+- Map için reactin kendi mapini kullanmaya karar verdik ve mapin tasarımına başladık
+
+[**13.09.2022**](https://github.com/bimser-intern/docs/issues/649)
+
+- Dailyscrum yapıldı yine sorulması gereken sorular soruldu.
+- User info sayfasına product owner ve test ekıbınden gelen ıstekler uzerıne guncelleme yapıldı.
+- Map tasarımı tamamlandı.
+- Eksik olan user profile sayfasının tasarımındaki eksiklik giderildi.
+
+[**14.09.2022**](https://github.com/bimser-intern/docs/issues/649)
+
+- Dailyscrum yapıldı yine sorulması gereken sorular soruldu.
+- Genel menü güncellendi.
+- Test ekibinden gelen geri dönüş üzerine user info sayfasına confirm password kısmı eklendi.
+- User profile sayfasına kullanıcıya ait surveylerin gözüktüğü kısım eklendi.
+ 
+[**15.09.2022**](https://github.com/bimser-intern/docs/issues/649)
+
+- Dailyscrum yapıldı yine sorulması gereken sorular soruldu.
+- Map sayfasına footer kısmı eklendi.
+- UserProfile sayfasının menüsü güncellendi.
+- Devops kısmındaki hata oluştu uygulamanın çevrimiçiliği bozuldugu için database bağlantısı kesildi bu yüzden sadece localde değişiklikler yapabildik
+ 
+[**16.09.2022**](https://github.com/bimser-intern/docs/issues/649)
+
+- Dailyscrum yapıldı yine sorulması gereken sorular soruldu.
+- Günümüz hep birlikte devops ile uğraşmakla geçti devops ekibindeki arkadaşa yardımcı olmaya çalıştık.
+- Sprint review toplantısına kadar zar zor da olsa devops sorununu düzelttik. ve sprint review de sunum gerçekleşti.
+- Daha sonra sprint retrospektif toplantısında haftanın artı ve eksileri tartışıldı.
+
+[**19.09.2022**](https://github.com/bimser-intern/docs/issues/649)
+
+- Sprint planning toplantısı yapıldı iş büyüklükleri hesaplandı ve alınacak işler alındı.
+- Dailyscrum yapıldı yine sorulması gereken sorular soruldu.
+- UserInfo sayfasında yeni bir bug oluşmuş o bug üzerine çalışıp onu çözdük.
+- Map'in işlevselliği ile ilgili çalışmalara başladık.
+
+[**20.09.2022**](https://github.com/bimser-intern/docs/issues/649)
+
+- Dailyscrum yapıldı yine sorulması gereken sorular soruldu.
+- User Profile sayfasında Trophies sayılarını gösteren kısım dinamik hale getirildi.
+- User Profile sayfasının Survey sayılarını gösteren kısmı dinamik hale getirildi.
+- User Profile sayfasında bazı ufak detaylar güncellendi.
+
+[**21.09.2022**](https://github.com/bimser-intern/docs/issues/649)
+
+- Dailyscrum yapıldı yine sorulması gereken sorular soruldu.
+- User Profile sayfasındaki icon güncelleme işlemi dinamik hale getirildi.
+- User Profile sayfasındaki background güncelleme işlemi dinamik hale getirildi.
+- Test ekibinden user info sayfasındaki bir işlev için daha bug kaydı girildi.
+- User Info sayfasındaki bug çözüldü.
+
+[**22.09.2022**](https://github.com/bimser-intern/docs/issues/649)
+
+- Dailyscrum yapıldı yine sorulması gereken sorular soruldu.
+- UserProfile sayfasında icon ve background güncellemesinin tamamen çalışır hale getirmesi için backend işlemleri yapıldı
+ve frontend üzerinde özel methodlar yazıldı denemeler yapıldı.
+
+[**23.09.2022**](https://github.com/bimser-intern/docs/issues/649)
+
+- Dailyscrum yapıldı yine sorulması gereken sorular soruldu.
+- UserProfile sayfasında icon ve background güncellemesinin tamamen çalışır hale getirildi sorunsuz çalışıyor.
+- Test ekibinden gelen son dakika bugları çözüldü.
+- Sprint Review toplantısında son sunumlar yapıldı stajımız bittiği için bu son toplantılar bu nedenle sprint retrospektif 
+toplantısında farklı olarak bu sefer herkes stajın geneli hakkında konuştu ve vedalaştı.
