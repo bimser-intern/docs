@@ -122,3 +122,36 @@ Ben Berna AKDOĞANLAR. Düzce Üniversitesi Bilgisayar Mühendisliği bölümü 
 - Sprint Review toplantısına katıldım. Ekipler yaptıkları işleri anlattı ve görevler PO tarafından test edildi, bazı görevler tamamlanmasa bile bütünü etkilemediği için de bu hafta başarılı sayıldı.
 - Haftaya yani son haftamda frontend ekibine katılacağım.
 - Sprint Retrospective toplantısına katıldım. Neler iyiydi neler kötüydü konuştuk. Haftaya yine stajı bitenler gideceği için azalmalar olacak. O yüzden Android tarafı kapatıldı. 
+
+[**12.09.2022**](https://github.com/bimser-intern/docs/issues/651)
+- Android kapandığı için bu son haftamda frontend ekibine geçiş yaptım.
+- Sprint Planning toplantısına katıldım. Bu haftaki işler gösterildi ve planlaması yapıldı ekiplerle konuşularak.
+- Görev dağılımı ekipçe konuşularak yapıldı ve Daily Scrum toplantısı yapıldı. Haftasonu neler yaptığımızı ve bugün neler yapacağımızı, aldığımız işleri konuştuk.
+- Önceki haftadan kalan UserInfo sayfasındaki bug çözüldü.
+- Map sayfasının tasarımı için araştırma yaptık. Map için reactin kendi mapini kullanmaya karar verdik ve tasarımına başladık.
+
+[**13.09.2022**](https://github.com/bimser-intern/docs/issues/651)
+- Daily Scrum toplantısına katıldım. Önceki gün neler yaptığımızı ve bugün neler yapacağımızı konuştuk.
+- Map tasarımını tamamladık. 
+- Test ekibinden gelen istekler için UserInfo sayfasında güncellemeler yaptık.
+- User Profile sayfasının tasarımındaki eksiklikler yapıldı.
+
+[**14.09.2022**](https://github.com/bimser-intern/docs/issues/651)
+- Daily Scrum toplantısına katıldım. Önceki gün neler yaptığımızı ve bugün neler yapacağımızı konuştuk.
+- Yine test ekibinden gelen istek üzerine UserInfo sayfasına confirm password ekledik.
+- Menüyü güncelledik.
+- Kullanıcıya ait surveylerin gözüktüğü yer  User profile sayfasına ekledik.
+ 
+[**15.09.2022**](https://github.com/bimser-intern/docs/issues/651)
+- Daily Scrum toplantısına katıldım. Önceki gün neler yaptığımızı ve bugün neler yapacağımızı konuştuk.
+- UserProfile sayfasındaki menüyü güncelledik.
+- Map sayfasına footer ekledik.
+- Devops kısmında hata oluştuğu ve uygulamanın çevrimiçiliği bozulduğu için database bağlantısı kesildi bu yüzden sadece localde değişiklikler yapabildik.
+ 
+[**16.09.2022**](https://github.com/bimser-intern/docs/issues/651)
+- Daily Scrum toplantısına katıldım. Önceki gün neler yaptığımızı ve bugün neler yapacağımızı konuştuk.
+- Tüm ekiplerle bugün devopsdaki sorun ile uğraştık, devopsdaki arkadaşımıza yardımcı olmaya çalıştık.
+- Sprint Review toplantısına katıldım. Devops sorunu çözüldü. Ekipler yaptıkları işleri anlattı ve görevler PO tarafından test edildi, bu hafta başarılı sayıldı.
+- Sprint Retrospective toplantısına katıldım. Neler iyiydi neler kötüydü konuştuk ve son haftam olduğu için veda konuşmamı yaptım.
+
+
